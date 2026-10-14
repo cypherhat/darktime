@@ -3,13 +3,6 @@
   "updated": "2026-10-14",
   "sources": [
     {
-      "id": "gemstone",
-      "title": "The Real Gemstone File \u00b7 Part One",
-      "url": "https://realgemstonefile.blogspot.com/",
-      "accessed": "2026-10-14",
-      "description": "Blog transcription of letters attributed to Bruce Porter Roberts. The supplied page ends mid-sentence on page 26 and marks missing or unreadable material. Initial extraction is selective, not exhaustive. No independent corroboration has yet been added."
-    },
-    {
       "id": "anglo",
       "title": "The Anglo-American Establishment",
       "author": "Carroll Quigley",
@@ -259,56 +252,17 @@
   ],
   "people": [
     {
-      "id": "roberts",
-      "name": "Bruce Porter Roberts",
-      "kind": "person",
-      "role": "Letter writer \u00b7 mineral experimenter",
-      "description": "Author of the letters transcribed on the blog. He frames personal disputes as the entry point to a much broader conspiracy. His causal allegations remain uncorroborated.",
-      "pages": [
-        1,
-        7,
-        10
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            1,
-            7,
-            10
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Author of the letters transcribed on the blog. He frames personal disputes as the entry point to a much broader conspiracy. His causal allegations remain uncorroborated.",
-          "role": "Letter writer \u00b7 mineral experimenter"
-        }
-      ]
-    },
-    {
       "id": "nixon",
       "name": "Richard Nixon",
       "kind": "person",
-      "role": "Presidential candidate \u00b7 president",
-      "description": "Roberts describes seeking legal help from Nixon before the 1968 election and later sending him demands for federal intervention.",
+      "role": "US president",
+      "description": "Scott discusses contacts with Khashoggi, Rebozo banking and alleged campaign money, with contradictory accounts in note 83.",
       "pages": [
-        1,
-        8,
-        15
+        10,
+        12,
+        13
       ],
       "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        },
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from scott; earlier descriptions and citations retained."
@@ -316,17 +270,13 @@
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+        },
+        {
+          "date": "2026-10-14",
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            1,
-            8,
-            15
-          ]
-        },
         {
           "sourceId": "scott",
           "pages": [
@@ -365,11 +315,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "Roberts describes seeking legal help from Nixon before the 1968 election and later sending him demands for federal intervention.",
-          "role": "Presidential candidate \u00b7 president"
-        },
-        {
           "sourceId": "scott",
           "description": "Scott discusses contacts with Khashoggi, Rebozo banking and alleged campaign money, with contradictory accounts in note 83.",
           "role": "US president"
@@ -386,30 +331,23 @@
       "id": "mitchell",
       "name": "John Mitchell",
       "kind": "person",
-      "role": "Attorney \u00b7 Nixon associate",
-      "description": "Appears alongside Nixon as an intended recipient of Roberts\u2019 requests for legal representation.",
+      "role": "Attorney general",
+      "description": "Oglesby describes the attorney general implicated in Liddy\u2019s reported explanation of the proposed Greenspun burglary.",
       "pages": [
-        1,
-        24
+        35,
+        190
       ],
       "history": [
         {
           "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
+          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
         },
         {
           "date": "2026-10-14",
-          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            1,
-            24
-          ]
-        },
         {
           "sourceId": "yankee",
           "pages": [
@@ -430,11 +368,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "Appears alongside Nixon as an intended recipient of Roberts\u2019 requests for legal representation.",
-          "role": "Attorney \u00b7 Nixon associate"
-        },
-        {
           "sourceId": "yankee",
           "description": "Oglesby describes the attorney general implicated in Liddy\u2019s reported explanation of the proposed Greenspun burglary.",
           "role": "Attorney general"
@@ -443,359 +376,17 @@
       "aliases": []
     },
     {
-      "id": "alioto",
-      "name": "Joseph Alioto",
-      "kind": "person",
-      "role": "San Francisco mayor",
-      "description": "Central to Roberts\u2019 account of a September 1968 collision and to his allegations concerning local political influence.",
-      "pages": [
-        3,
-        16
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            16
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Central to Roberts\u2019 account of a September 1968 collision and to his allegations concerning local political influence.",
-          "role": "San Francisco mayor"
-        }
-      ]
-    },
-    {
-      "id": "nader",
-      "name": "Ralph Nader",
-      "kind": "person",
-      "role": "Consumer advocate",
-      "description": "Recipient of letters connecting Roberts\u2019 claims to Nader\u2019s litigation against General Motors.",
-      "pages": [
-        2,
-        4,
-        7
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            4,
-            7
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Recipient of letters connecting Roberts\u2019 claims to Nader\u2019s litigation against General Motors.",
-          "role": "Consumer advocate"
-        }
-      ]
-    },
-    {
-      "id": "fellmeth",
-      "name": "Robert Fellmeth",
-      "kind": "person",
-      "role": "Nader associate",
-      "description": "Roberts recounts discussions with Fellmeth about his letters and consumer investigations.",
-      "pages": [
-        2,
-        19,
-        20
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            19,
-            20
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts recounts discussions with Fellmeth about his letters and consumer investigations.",
-          "role": "Nader associate"
-        }
-      ]
-    },
-    {
-      "id": "sorensen",
-      "name": "Ted Sorensen",
-      "kind": "person",
-      "role": "Attorney \u00b7 Kennedy adviser",
-      "description": "Spelled Sorenson in the transcription. Roberts links his legal work and Kennedy advisory role to the Nader settlement narrative.",
-      "pages": [
-        2,
-        4
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            4
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Spelled Sorenson in the transcription. Roberts links his legal work and Kennedy advisory role to the Nader settlement narrative.",
-          "role": "Attorney \u00b7 Kennedy adviser"
-        }
-      ]
-    },
-    {
-      "id": "rifkind",
-      "name": "Simon Rifkind",
-      "kind": "person",
-      "role": "Attorney",
-      "description": "Named as Sorensen\u2019s law partner and a participant in the settlement account.",
-      "pages": [
-        2
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Named as Sorensen\u2019s law partner and a participant in the settlement account.",
-          "role": "Attorney"
-        }
-      ]
-    },
-    {
-      "id": "goldberg",
-      "name": "Arthur Goldberg",
-      "kind": "person",
-      "role": "Attorney \u00b7 former justice",
-      "description": "Named in the same legal circle; the letters describe him employing Esther Newberg.",
-      "pages": [
-        2,
-        5
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            5
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Named in the same legal circle; the letters describe him employing Esther Newberg.",
-          "role": "Attorney \u00b7 former justice"
-        }
-      ]
-    },
-    {
-      "id": "ted-kennedy",
-      "name": "Edward Kennedy",
-      "kind": "person",
-      "role": "Senator",
-      "description": "Called Teddy throughout the letters. A central figure in Roberts\u2019 unverified interpretation of Chappaquiddick.",
-      "pages": [
-        2,
-        6,
-        19
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            6,
-            19
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Called Teddy throughout the letters. A central figure in Roberts\u2019 unverified interpretation of Chappaquiddick.",
-          "role": "Senator"
-        }
-      ]
-    },
-    {
-      "id": "kopechne",
-      "name": "Mary Jo Kopechne",
-      "kind": "person",
-      "role": "Chappaquiddick passenger",
-      "description": "Her death anchors several threads in Roberts\u2019 narrative. The letters\u2019 claims about motive and conduct are not independently established here.",
-      "pages": [
-        3,
-        6,
-        19
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            6,
-            19
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Her death anchors several threads in Roberts\u2019 narrative. The letters\u2019 claims about motive and conduct are not independently established here.",
-          "role": "Chappaquiddick passenger"
-        }
-      ]
-    },
-    {
-      "id": "tunney",
-      "name": "John Tunney",
-      "kind": "person",
-      "role": "Political figure",
-      "description": "Roberts alleges calls involving Tunney linked California politics to Chappaquiddick.",
-      "pages": [
-        3,
-        6
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            6
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts alleges calls involving Tunney linked California politics to Chappaquiddick.",
-          "role": "Political figure"
-        }
-      ]
-    },
-    {
-      "id": "onassis",
-      "name": "Aristotle Onassis",
-      "kind": "person",
-      "role": "Shipping businessman",
-      "description": "Placed at the center of the author\u2019s allegations concerning Hughes, money, and political influence.",
-      "pages": [
-        12,
-        17,
-        18
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            17,
-            18
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Placed at the center of the author\u2019s allegations concerning Hughes, money, and political influence.",
-          "role": "Shipping businessman"
-        }
-      ]
-    },
-    {
       "id": "hughes",
       "name": "Howard Hughes",
       "kind": "person",
       "role": "Businessman",
-      "description": "The letters allege his empire was taken over and contain conflicting alleged burial dates. Those claims are retained as source claims.",
+      "description": "Scott connects his defense-contract and casino milieu to Khashoggi investments and travel.",
       "pages": [
-        12,
-        17,
-        20
+        5,
+        13,
+        25
       ],
       "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        },
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from scott; earlier descriptions and citations retained."
@@ -803,17 +394,13 @@
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+        },
+        {
+          "date": "2026-10-14",
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            17,
-            20
-          ]
-        },
         {
           "sourceId": "scott",
           "pages": [
@@ -852,11 +439,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "The letters allege his empire was taken over and contain conflicting alleged burial dates. Those claims are retained as source claims.",
-          "role": "Businessman"
-        },
-        {
           "sourceId": "scott",
           "description": "Scott connects his defense-contract and casino milieu to Khashoggi investments and travel.",
           "role": "Businessman"
@@ -873,32 +455,24 @@
       "id": "maheu",
       "name": "Robert Maheu",
       "kind": "person",
-      "role": "Hughes associate",
-      "description": "The source calls him Iron Bob and IBM, and makes unsubstantiated allegations about intelligence operations and assassinations.",
+      "role": "Hughes aide and intermediary",
+      "description": "Oglesby describes a Hughes operative who acted between the CIA and John Roselli in a plot against Castro.",
       "pages": [
-        12,
-        16,
-        17
+        69,
+        95,
+        189
       ],
       "history": [
         {
           "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
+          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
         },
         {
           "date": "2026-10-14",
-          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            16,
-            17
-          ]
-        },
         {
           "sourceId": "yankee",
           "pages": [
@@ -924,11 +498,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "The source calls him Iron Bob and IBM, and makes unsubstantiated allegations about intelligence operations and assassinations.",
-          "role": "Hughes associate"
-        },
-        {
           "sourceId": "yankee",
           "description": "Oglesby describes a Hughes operative who acted between the CIA and John Roselli in a plot against Castro.",
           "role": "Hughes aide and intermediary"
@@ -937,136 +506,28 @@
       "aliases": []
     },
     {
-      "id": "carlson",
-      "name": "Richard Carlson",
-      "kind": "person",
-      "role": "Journalist",
-      "description": "Identified as a writer involved in the Alioto Mafia Web story and a target of Roberts\u2019 attempts to make contact.",
-      "pages": [
-        3,
-        16,
-        22
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            16,
-            22
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Identified as a writer involved in the Alioto Mafia Web story and a target of Roberts\u2019 attempts to make contact.",
-          "role": "Journalist"
-        }
-      ]
-    },
-    {
-      "id": "brisson",
-      "name": "Lance Brisson",
-      "kind": "person",
-      "role": "Carlson associate",
-      "description": "Named alongside Carlson in a public-interest investigation associated with Neilson-Green.",
-      "pages": [
-        22,
-        23
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            22,
-            23
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Named alongside Carlson in a public-interest investigation associated with Neilson-Green.",
-          "role": "Carlson associate"
-        }
-      ]
-    },
-    {
-      "id": "pongales",
-      "name": "Mary Pongales",
-      "kind": "person",
-      "role": "Neilson-Green secretary",
-      "description": "Roberts describes speaking with her while seeking Carlson in September 1971.",
-      "pages": [
-        22,
-        23
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            22,
-            23
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts describes speaking with her while seeking Carlson in September 1971.",
-          "role": "Neilson-Green secretary"
-        }
-      ]
-    },
-    {
       "id": "hoover",
       "name": "J. Edgar Hoover",
       "kind": "person",
-      "role": "FBI figure",
-      "description": "Named as a recipient of Roberts\u2019 materials and repeatedly associated with the author\u2019s allegations of concealment.",
+      "role": "FBI director",
+      "description": "Oglesby describes the director signing domestic counterintelligence instructions and providing the commission information about Oswald, ballistics and Ruby.",
       "pages": [
-        3,
-        8,
-        12
+        38,
+        104,
+        132,
+        183
       ],
       "history": [
         {
           "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
+          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
         },
         {
           "date": "2026-10-14",
-          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            8,
-            12
-          ]
-        },
         {
           "sourceId": "yankee",
           "pages": [
@@ -1097,11 +558,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "Named as a recipient of Roberts\u2019 materials and repeatedly associated with the author\u2019s allegations of concealment.",
-          "role": "FBI figure"
-        },
-        {
           "sourceId": "yankee",
           "description": "Oglesby describes the director signing domestic counterintelligence instructions and providing the commission information about Oswald, ballistics and Ruby.",
           "role": "FBI director"
@@ -1110,97 +566,28 @@
       "aliases": []
     },
     {
-      "id": "gayler",
-      "name": "Noel Gayler",
-      "kind": "person",
-      "role": "Admiral \u00b7 intelligence figure",
-      "description": "Roberts recounts a November 1970 visit and a discussion of minerals and possible travel.",
-      "pages": [
-        20
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            20
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts recounts a November 1970 visit and a discussion of minerals and possible travel.",
-          "role": "Admiral \u00b7 intelligence figure"
-        }
-      ]
-    },
-    {
-      "id": "mack",
-      "name": "John Mack",
-      "kind": "person",
-      "role": "Attorney",
-      "description": "Roberts describes approaching Mack for help and leaving experimental stones with him.",
-      "pages": [
-        24
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            24
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts describes approaching Mack for help and leaving experimental stones with him.",
-          "role": "Attorney"
-        }
-      ]
-    },
-    {
       "id": "jfk",
       "name": "John F. Kennedy",
       "kind": "person",
       "role": "President",
-      "description": "His assassination is woven into the letters\u2019 broader allegations; those alleged connections are unverified.",
+      "description": "Oglesby describes a president whose coalition faced internal disputes over Cuba, Vietnam, taxation and civil rights; the proposed connection to his murder is the author\u2019s theory.",
       "pages": [
-        6,
-        16,
-        18
+        43,
+        65,
+        88,
+        92
       ],
       "history": [
         {
           "date": "2026-10-14",
-          "note": "Initial profile from the blog transcription; independent verification pending."
+          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
         },
         {
           "date": "2026-10-14",
-          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            6,
-            16,
-            18
-          ]
-        },
         {
           "sourceId": "yankee",
           "pages": [
@@ -1230,11 +617,6 @@
         }
       ],
       "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "His assassination is woven into the letters\u2019 broader allegations; those alleged connections are unverified.",
-          "role": "President"
-        },
         {
           "sourceId": "yankee",
           "description": "Oglesby describes a president whose coalition faced internal disputes over Cuba, Vietnam, taxation and civil rights; the proposed connection to his murder is the author\u2019s theory.",
@@ -8993,14 +8375,6 @@
             7,
             23
           ]
-        },
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ],
-          "note": "Explicitly named in Roberts\u2019 retrospective 1932 allegations."
         }
       ],
       "history": [
@@ -9014,7 +8388,7 @@
         },
         {
           "date": "2026-10-14",
-          "note": "Added Roberts\u2019 separately attributed account; existing historical-study profile retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "aliases": [],
@@ -9029,10 +8403,6 @@
           "sourceId": "scott",
           "description": "Scott says his appeal for CIA intervention in Iran was declined by Truman.",
           "role": "British prime minister"
-        },
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts names Churchill and his son in an alleged 1932 arrangement involving Roosevelt, Joseph P. Kennedy and Onassis. That is a claim in Roberts\u2019 letters, distinct from Quigley\u2019s account of Churchill\u2019s later policy positions."
         }
       ]
     },
@@ -9789,14 +9159,6 @@
               "printed": 31
             }
           ]
-        },
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ],
-          "note": "Explicitly named in Roberts\u2019 retrospective 1932 allegations."
         }
       ],
       "history": [
@@ -9810,7 +9172,7 @@
         },
         {
           "date": "2026-10-14",
-          "note": "Added Roberts\u2019 separately attributed account; existing historical-study profile retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "accounts": [
@@ -9823,10 +9185,6 @@
           "sourceId": "yankee",
           "description": "Oglesby describes the wartime president whom Oglesby holds politically responsible for cooperation with organized crime.",
           "role": "President"
-        },
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts alleges Roosevelt and his family cooperated with Kennedy, Churchill and Onassis in a 1932 business and political arrangement. The letters offer this as part of Roberts\u2019 larger theory, not a demonstrated record of those transactions."
         }
       ],
       "evidence": "Attributed source account",
@@ -16776,85 +16134,16 @@
       ],
       "evidence": "Attributed source account",
       "aliases": []
-    },
-    {
-      "id": "joseph-kennedy",
-      "name": "Joseph P. Kennedy",
-      "kind": "person",
-      "role": "Historical figure named in Roberts\u2019 account",
-      "description": "Roberts places Joseph P. Kennedy in an alleged 1932 alliance with Onassis, Roosevelt and Churchill, connecting it to financial and political developments. The association and its asserted consequences remain attributed to Roberts.",
-      "pages": [
-        12,
-        18
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ],
-          "note": "Explicitly named in Roberts\u2019 retrospective 1932 allegations."
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts places Joseph P. Kennedy in an alleged 1932 alliance with Onassis, Roosevelt and Churchill, connecting it to financial and political developments. The association and its asserted consequences remain attributed to Roberts."
-        }
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added Roberts\u2019 separately attributed account; existing historical-study profile retained."
-        }
-      ],
-      "aliases": []
     }
   ],
   "organizations": [
     {
-      "id": "gm",
-      "name": "General Motors",
-      "kind": "organization",
-      "role": "Organization",
-      "description": "Automotive company; the letters discuss litigation brought by Nader.",
-      "founders": "Not established in the supplied transcription.",
-      "members": [],
-      "pages": [
-        2,
-        4
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            4
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Automotive company; the letters discuss litigation brought by Nader.",
-          "role": "Organization"
-        }
-      ]
-    },
-    {
       "id": "fbi",
       "name": "Federal Bureau of Investigation",
       "kind": "organization",
-      "role": "Organization",
-      "description": "Federal investigation; the source alleges misuse of investigative power.",
-      "founders": "Not established in the supplied transcription.",
+      "role": "Institution / network",
+      "description": "Scott cites its communications about Moss and allegations that authorities did not act on BCCI warnings.",
+      "founders": "Not established in the cited PDFs.",
       "members": [
         "hoover",
         "richard-danner",
@@ -16862,15 +16151,10 @@
         "bell-herndon"
       ],
       "pages": [
-        8,
-        9,
-        12
+        12,
+        18
       ],
       "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        },
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from scott; earlier descriptions and citations retained."
@@ -16878,17 +16162,13 @@
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+        },
+        {
+          "date": "2026-10-14",
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            8,
-            9,
-            12
-          ]
-        },
         {
           "sourceId": "scott",
           "pages": [
@@ -16926,11 +16206,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "Federal investigation; the source alleges misuse of investigative power.",
-          "role": "Organization"
-        },
-        {
           "sourceId": "scott",
           "description": "Scott cites its communications about Moss and allegations that authorities did not act on BCCI warnings.",
           "role": "Institution / network"
@@ -16948,9 +16223,9 @@
       "id": "cia",
       "name": "Central Intelligence Agency",
       "kind": "organization",
-      "role": "Organization",
-      "description": "Intelligence agency; repeatedly invoked in the source\u2019s conspiracy allegations.",
-      "founders": "Not established in the supplied transcription.",
+      "role": "Institution / network",
+      "description": "US intelligence agency central to Scott\u2019s examination of covert operations and private-sector connections.",
+      "founders": "Not established in the cited PDFs.",
       "members": [
         "allen-dulles",
         "frank-wisner",
@@ -16964,15 +16239,12 @@
         "howard-hunt"
       ],
       "pages": [
-        16,
-        20,
-        22
+        3,
+        4,
+        8,
+        18
       ],
       "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        },
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from scott; earlier descriptions and citations retained."
@@ -16980,17 +16252,13 @@
         {
           "date": "2026-10-14",
           "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+        },
+        {
+          "date": "2026-10-14",
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            16,
-            20,
-            22
-          ]
-        },
         {
           "sourceId": "scott",
           "pages": [
@@ -17035,11 +16303,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "Intelligence agency; repeatedly invoked in the source\u2019s conspiracy allegations.",
-          "role": "Organization"
-        },
-        {
           "sourceId": "scott",
           "description": "US intelligence agency central to Scott\u2019s examination of covert operations and private-sector connections.",
           "role": "Institution / network"
@@ -17054,192 +16317,32 @@
       "founderIds": []
     },
     {
-      "id": "neilson-green",
-      "name": "Neilson-Green",
-      "kind": "organization",
-      "role": "Organization",
-      "description": "Private investigation firm associated in the account with a public-interest dog-pound investigation.",
-      "founders": "Neilson and Green are named; founding details are not established.",
-      "members": [
-        "pongales"
-      ],
-      "pages": [
-        16,
-        22,
-        23
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            16,
-            22,
-            23
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Private investigation firm associated in the account with a public-interest dog-pound investigation.",
-          "role": "Organization"
-        }
-      ]
-    },
-    {
-      "id": "look",
-      "name": "Look magazine",
-      "kind": "organization",
-      "role": "Organization",
-      "description": "Publication associated with the Alioto Mafia Web article.",
-      "founders": "Not established in the supplied transcription.",
-      "members": [],
-      "pages": [
-        3,
-        16,
-        24
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            16,
-            24
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Publication associated with the Alioto Mafia Web article.",
-          "role": "Organization"
-        }
-      ]
-    },
-    {
-      "id": "un",
-      "name": "United Nations",
-      "kind": "organization",
-      "role": "Organization",
-      "description": "International forum where Roberts proposes an inquiry.",
-      "founders": "Not established in the supplied transcription.",
-      "members": [],
-      "pages": [
-        13,
-        14,
-        26
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            13,
-            14,
-            26
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "International forum where Roberts proposes an inquiry.",
-          "role": "Organization"
-        }
-      ]
-    },
-    {
-      "id": "legal-firm",
-      "name": "Sorensen\u2013Rifkind legal circle",
-      "kind": "organization",
-      "role": "Organization",
-      "description": "Law practice described in connection with General Motors and Nader. This label is editorial; the source gives no formal firm name.",
-      "founders": "Not established in the supplied transcription.",
-      "members": [
-        "sorensen",
-        "rifkind",
-        "goldberg"
-      ],
-      "pages": [
-        2,
-        4
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            4
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Law practice described in connection with General Motors and Nader. This label is editorial; the source gives no formal firm name.",
-          "role": "Organization"
-        }
-      ]
-    },
-    {
       "id": "hughes-empire",
       "name": "Hughes business interests",
       "kind": "organization",
-      "role": "Organization",
-      "description": "Editorial umbrella for the business holdings discussed in the letters, not a single legal entity.",
-      "founders": "Not established in the supplied transcription.",
+      "role": "Institution / network",
+      "description": "Oglesby describes the business network whose Watergate involvement Oglesby explores provisionally.",
+      "founders": "Not established in the cited PDFs.",
       "members": [
         "hughes",
         "maheu"
       ],
       "pages": [
-        12,
-        17,
-        20
+        21,
+        189,
+        190
       ],
       "history": [
         {
           "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
+          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
         },
         {
           "date": "2026-10-14",
-          "note": "Added an attributed account from yankee; earlier descriptions and citations retained."
+          "note": "Aligned this record to the retained PDF sources and citations."
         }
       ],
       "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            17,
-            20
-          ]
-        },
         {
           "sourceId": "yankee",
           "pages": [
@@ -17265,11 +16368,6 @@
       ],
       "accounts": [
         {
-          "sourceId": "gemstone",
-          "description": "Editorial umbrella for the business holdings discussed in the letters, not a single legal entity.",
-          "role": "Organization"
-        },
-        {
           "sourceId": "yankee",
           "description": "Oglesby describes the business network whose Watergate involvement Oglesby explores provisionally.",
           "role": "Institution / network"
@@ -17277,44 +16375,6 @@
       ],
       "aliases": [],
       "founderIds": []
-    },
-    {
-      "id": "nader-group",
-      "name": "Nader group",
-      "kind": "organization",
-      "role": "Organization",
-      "description": "Consumer and public-interest investigations described in the letters.",
-      "founders": "The source names Nader, Fellmeth and Cox as an original group.",
-      "members": [
-        "nader",
-        "fellmeth"
-      ],
-      "pages": [
-        2,
-        7
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Initial source-based directory entry."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            7
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Consumer and public-interest investigations described in the letters.",
-          "role": "Organization"
-        }
-      ]
     },
     {
       "id": "milner-group",
@@ -24475,1077 +23535,6 @@
     }
   ],
   "events": [
-    {
-      "id": "insurance",
-      "name": "Insurance dispute",
-      "kind": "event",
-      "role": "1967-04-01",
-      "description": "Roberts says an April 1967 insurance dispute first drew him into conflicts with local officials. He reports winning his case but later discovering that insurance companies had paid the claimant anyway. He interprets the handling of his complaint as part of the same system he later alleges around Alioto.",
-      "date": "1967-04-01",
-      "precision": "month",
-      "lanes": [
-        "personal"
-      ],
-      "people": [
-        "roberts"
-      ],
-      "organizations": [],
-      "pages": [
-        6
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            6
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts says an April 1967 insurance dispute first drew him into conflicts with local officials. He reports winning his case but later discovering that insurance companies had paid the claimant anyway. He interprets the handling of his complaint as part of the same system he later alleges around Alioto.",
-          "role": "1967-04-01"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts says an April 1967 insurance dispute first drew him into conflicts with local officials. He reports winning his case but later discovering that insurance companies had paid the claimant anyway. He interprets the handling of his complaint as part of the same system he later alleges around Alioto.",
-          "details": [
-            "In his letter to Nader, Roberts recalls a woman jumping in front of his car and characterizes the incident as an attempted insurance fraud. He says he defeated the case, then learned that a group of insurers had nevertheless paid her. The passage gives his account; it does not reproduce the judgment or payment records.",
-            "Roberts says he took the matter to Police Chief Cahill and that his material was buried. He connects this episode to what he describes as decades of cooperation among insurance companies, corporations and officials. Immediately afterward he contrasts this political involvement with his previous years of mineral experimentation and voluntary isolation."
-          ],
-          "context": "This is the earliest dated personal grievance in the extracted sequence. Roberts presents it as the background to his later collision, requests for lawyers and broad conspiracy allegations.",
-          "precisionNote": "The source specifies April 1967, not a day; the month is plotted from April 1."
-        }
-      ]
-    },
-    {
-      "id": "collision",
-      "name": "Roberts reports an Alioto-family collision",
-      "kind": "event",
-      "role": "1968-09-16",
-      "description": "Roberts reports that a member of the Alioto family hit his car at Franklin and Lombard Streets in San Francisco on September 16, 1968. He says the incident was covered up and a report filed under Kathryn Hollister\u2019s name. For him, that alleged concealment becomes the central link between local politics, Nixon\u2019s election and Chappaquiddick.",
-      "date": "1968-09-16",
-      "precision": "day",
-      "lanes": [
-        "personal",
-        "politics",
-        "chappaquiddick"
-      ],
-      "people": [
-        "roberts",
-        "alioto",
-        "carlson",
-        "nixon"
-      ],
-      "organizations": [],
-      "pages": [
-        3,
-        12,
-        15
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            12,
-            15
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts reports that a member of the Alioto family hit his car at Franklin and Lombard Streets in San Francisco on September 16, 1968. He says the incident was covered up and a report filed under Kathryn Hollister\u2019s name. For him, that alleged concealment becomes the central link between local politics, Nixon\u2019s election and Chappaquiddick.",
-          "role": "1968-09-16"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts reports that a member of the Alioto family hit his car at Franklin and Lombard Streets in San Francisco on September 16, 1968. He says the incident was covered up and a report filed under Kathryn Hollister\u2019s name. For him, that alleged concealment becomes the central link between local politics, Nixon\u2019s election and Chappaquiddick.",
-          "details": [
-            "On page 3, Roberts names the intersection, date and alleged Alioto-family involvement, then says the hit-and-run report was buried in City Hall under another name. He insists that his own identity was Bruce Porter Roberts. The transcription supplies his allegation but no underlying accident report.",
-            "He claims that Richard Carlson was subsequently ordered to write about Alioto\u2019s Mafia connections while omitting the collision. Roberts argues that pressure arising from his exposure of the incident helped secure Nixon\u2019s victory and later caused the confrontation he imagines at Chappaquiddick. The February 1972 insertion repeats the collision as the first of his three principal keys."
-          ],
-          "context": "The shared marker spans Roberts\u2019 personal, political and Chappaquiddick threads because he explicitly uses this one episode to connect those narratives.",
-          "precisionNote": "The date is consistent, but page 3 gives 10:47 p.m. and page 12 gives 10:45 p.m. The archive preserves the discrepancy."
-        }
-      ]
-    },
-    {
-      "id": "legal-help",
-      "name": "Roberts asks Nixon and Mitchell for legal help",
-      "kind": "event",
-      "role": "1968-10-01",
-      "description": "Before the 1968 election, Roberts says he approached Richard Nixon and John Mitchell for legal and federal help against Alioto. He claims he could provide evidence and help the campaign. His later letters describe the relationship as an exchange he expected Nixon to honor after winning office.",
-      "date": "1968-10-01",
-      "precision": "month",
-      "lanes": [
-        "personal",
-        "politics"
-      ],
-      "people": [
-        "roberts",
-        "nixon",
-        "mitchell"
-      ],
-      "organizations": [],
-      "pages": [
-        15,
-        18,
-        24
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            15,
-            18,
-            24
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Before the 1968 election, Roberts says he approached Richard Nixon and John Mitchell for legal and federal help against Alioto. He claims he could provide evidence and help the campaign. His later letters describe the relationship as an exchange he expected Nixon to honor after winning office.",
-          "role": "1968-10-01"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Before the 1968 election, Roberts says he approached Richard Nixon and John Mitchell for legal and federal help against Alioto. He claims he could provide evidence and help the campaign. His later letters describe the relationship as an exchange he expected Nixon to honor after winning office.",
-          "details": [
-            "Roberts says he took papers and evidence to candidate Nixon in October 1968 and offered lie-detector verification of his account. He identifies Nixon and Mitchell as the first legal firm to which he turned, describing Mitchell as Nixon\u2019s campaign manager.",
-            "In a later recollection of conversations with John Mack, Roberts says he had asked for four people to help him expose Alioto before election day and received silence. He subsequently offered experimental minerals and proposed funding public-interest lawsuits, repeatedly presenting these requests as a demand for help owed to him."
-          ],
-          "context": "The event connects a personal request for representation to Roberts\u2019 later assertion that he had helped elect Nixon and deserved federal intervention.",
-          "precisionNote": "October 1968 is specified; no exact day is supplied."
-        }
-      ]
-    },
-    {
-      "id": "election",
-      "name": "Nixon\u2019s election and Roberts\u2019 claimed leverage",
-      "kind": "event",
-      "role": "1968-11-05",
-      "description": "Roberts claims that exposing the alleged Alioto collision changed California politics and helped elect Nixon in 1968. He says Nixon\u2019s campaign associates welcomed his material before the vote but became evasive afterward. His account treats the election as the point when hoped-for legal help turned into what he regarded as concealment.",
-      "date": "1968-11-05",
-      "precision": "day",
-      "lanes": [
-        "politics",
-        "personal"
-      ],
-      "people": [
-        "nixon",
-        "roberts",
-        "carlson"
-      ],
-      "organizations": [
-        "look"
-      ],
-      "pages": [
-        3,
-        18
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            8,
-            18
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts claims that exposing the alleged Alioto collision changed California politics and helped elect Nixon in 1968. He says Nixon\u2019s campaign associates welcomed his material before the vote but became evasive afterward. His account treats the election as the point when hoped-for legal help turned into what he regarded as concealment.",
-          "role": "1968-11-05"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts claims that exposing the alleged Alioto collision changed California politics and helped elect Nixon in 1968. He says Nixon\u2019s campaign associates welcomed his material before the vote but became evasive afterward. His account treats the election as the point when hoped-for legal help turned into what he regarded as concealment.",
-          "details": [
-            "On page 3, Roberts claims Nixon ordered Richard Carlson to prepare the Alioto Mafia Web article on election day while suppressing the collision. Elsewhere he says his actions silenced Alioto, Unruh and Humphrey in San Francisco and suggests that a California vote shift otherwise could have elected Humphrey. These are Roberts\u2019 assertions about political leverage, not demonstrated electoral findings.",
-            "Page 18 names Nixon, Mitchell, Carlson, Greenagel, Best and Mack as initially enthusiastic participants or contacts. Roberts says their willingness to engage diminished after the election, and that the silence became complete after Chappaquiddick. He uses this sequence to explain why his later letters, mineral offers and proposed lawsuits sought to force action."
-          ],
-          "context": "This marker joins the political and personal threads. It summarizes Roberts\u2019 claimed role in the election and the change he describes in his contacts\u2019 behavior, rather than merely marking the election date.",
-          "precisionNote": "November 5 is calendar context for the 1968 election; the cited passages refer to election day rather than spelling out that date."
-        }
-      ]
-    },
-    {
-      "id": "chappaquiddick-event",
-      "name": "Chappaquiddick",
-      "kind": "event",
-      "role": "1969-07-18",
-      "description": "Roberts interprets Mary Jo Kopechne\u2019s death at Chappaquiddick through an alleged dispute over California politics and what she knew about the Kennedys. He claims phone calls involving Ted Kennedy and John Tunney precipitated a confrontation. The letters use the death as a bridge between the Alioto collision, political influence and older assassination allegations.",
-      "date": "1969-07-18",
-      "precision": "day",
-      "lanes": [
-        "chappaquiddick",
-        "politics",
-        "personal"
-      ],
-      "people": [
-        "kopechne",
-        "ted-kennedy",
-        "tunney",
-        "roberts"
-      ],
-      "organizations": [],
-      "pages": [
-        6,
-        19
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            6,
-            19
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts interprets Mary Jo Kopechne\u2019s death at Chappaquiddick through an alleged dispute over California politics and what she knew about the Kennedys. He claims phone calls involving Ted Kennedy and John Tunney precipitated a confrontation. The letters use the death as a bridge between the Alioto collision, political influence and older assassination allegations.",
-          "role": "1969-07-18"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts interprets Mary Jo Kopechne\u2019s death at Chappaquiddick through an alleged dispute over California politics and what she knew about the Kennedys. He claims phone calls involving Ted Kennedy and John Tunney precipitated a confrontation. The letters use the death as a bridge between the Alioto collision, political influence and older assassination allegations.",
-          "details": [
-            "In the first Nader letter, Roberts says publicity about an Alioto story disturbed plans for California races: he describes Alioto seeking the governorship and Ted Kennedy favoring Tunney for a Senate race. He alleges heated calls at the cottage, says Kopechne heard them, and portrays her as knowing matters from Robert Kennedy\u2019s papers.",
-            "Page 19 supplies Roberts\u2019 much more detailed reconstruction of the departure, car journey, bridge incident and Kennedy\u2019s behavior afterward. The passage alleges motive and deliberate concealment; it does not establish those accusations. Roberts also says the inquest hid the phone calls because they could expose the larger conspiracy he claimed to have documented."
-          ],
-          "context": "Several threads meet here because Roberts repeatedly returns to Chappaquiddick as the alleged consequence of his earlier disclosures and the subject of later letters to Nader.",
-          "precisionNote": "July 18, 1969 is supplied as calendar context; the letters\u2019 interpretation of motive and sequence remains attributed to Roberts."
-        }
-      ]
-    },
-    {
-      "id": "look-story",
-      "name": "Carlson\u2019s Alioto story omits Roberts\u2019 collision account",
-      "kind": "event",
-      "role": "1969-08-01",
-      "description": "Roberts says Carlson\u2019s Look article about Alioto appeared in August after Chappaquiddick. He portrays it as a selective exposure: it could criticize Alioto while leaving out the alleged collision on Roberts\u2019 car, which Roberts considered the key to the whole political network.",
-      "date": "1969-08-01",
-      "precision": "month",
-      "lanes": [
-        "politics",
-        "personal"
-      ],
-      "people": [
-        "alioto",
-        "carlson",
-        "roberts"
-      ],
-      "organizations": [
-        "look"
-      ],
-      "pages": [
-        24
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            24
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts says Carlson\u2019s Look article about Alioto appeared in August after Chappaquiddick. He portrays it as a selective exposure: it could criticize Alioto while leaving out the alleged collision on Roberts\u2019 car, which Roberts considered the key to the whole political network.",
-          "role": "1969-08-01"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts says Carlson\u2019s Look article about Alioto appeared in August after Chappaquiddick. He portrays it as a selective exposure: it could criticize Alioto while leaving out the alleged collision on Roberts\u2019 car, which Roberts considered the key to the whole political network.",
-          "details": [
-            "Roberts identifies Richard Carlson as the writer and repeatedly claims that the assignment was made on election day in 1968. In the later account on page 24, he places the article\u2019s appearance in August after Chappaquiddick and characterizes the story as a governmental effort to discipline Alioto without exposing the collision.",
-            "The alleged omission matters to Roberts because his narrative depends on the collision revealing how candidates and officials were controlled. His September 1971 search for Carlson, through Neilson-Green, is a later attempt to reopen that same grievance."
-          ],
-          "context": "The marker connects publishing and political criticism to the personal episode Roberts says was left out of the public narrative.",
-          "precisionNote": "The passage gives August in relation to Chappaquiddick; no publication day is established here."
-        }
-      ]
-    },
-    {
-      "id": "ultimatum",
-      "name": "Roberts\u2019 ultimatum",
-      "kind": "event",
-      "role": "1970-04-23",
-      "description": "Roberts says he sent Nixon an ultimatum on April 23, 1970, threatening to use a minor traffic proceeding to publicize his allegations. He demanded a positive response. He later claimed that the ultimatum influenced Nixon\u2019s Cambodia decision and the government\u2019s treatment of him.",
-      "date": "1970-04-23",
-      "precision": "day",
-      "lanes": [
-        "personal",
-        "politics"
-      ],
-      "people": [
-        "roberts",
-        "nixon",
-        "mitchell",
-        "hoover"
-      ],
-      "organizations": [],
-      "pages": [
-        15
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            15
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts says he sent Nixon an ultimatum on April 23, 1970, threatening to use a minor traffic proceeding to publicize his allegations. He demanded a positive response. He later claimed that the ultimatum influenced Nixon\u2019s Cambodia decision and the government\u2019s treatment of him.",
-          "role": "1970-04-23"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts says he sent Nixon an ultimatum on April 23, 1970, threatening to use a minor traffic proceeding to publicize his allegations. He demanded a positive response. He later claimed that the ultimatum influenced Nixon\u2019s Cambodia decision and the government\u2019s treatment of him.",
-          "details": [
-            "The first Nader letter describes Roberts changing tactics after prolonged inaction. He says he proposed to bring accusations about Kennedy, Alioto, Onassis and a much broader conspiracy into traffic court, where a judge was seeking election to a higher court. He considered the hearing an opportunity to force public attention.",
-            "A later passage explicitly dates the ultimatum to April 23 and says it led Nixon to risk invading Cambodia. That causal connection is Roberts\u2019 interpretation. The letters do not supply a reply from Nixon or documents demonstrating influence on the military decision."
-          ],
-          "context": "This starts the short April 1970 sequence of ultimatum, court appearance and claimed federal response. It shows how Roberts tried to convert a local proceeding into national leverage.",
-          "precisionNote": "April 23 appears in the later retrospective passage."
-        }
-      ]
-    },
-    {
-      "id": "court",
-      "name": "Traffic ticket dismissed; Roberts invokes Cambodia",
-      "kind": "event",
-      "role": "1970-04-28",
-      "description": "At an April 28, 1970 traffic-court hearing, Roberts says the judge urged a no-contest plea and dismissed his ticket. He contrasts this with his plan to use the hearing to expose a conspiracy. He then claims the timing coincided with Nixon\u2019s final Cambodia decision.",
-      "date": "1970-04-28",
-      "precision": "day",
-      "lanes": [
-        "personal",
-        "politics"
-      ],
-      "people": [
-        "roberts",
-        "nixon"
-      ],
-      "organizations": [],
-      "pages": [
-        8
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            8
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "At an April 28, 1970 traffic-court hearing, Roberts says the judge urged a no-contest plea and dismissed his ticket. He contrasts this with his plan to use the hearing to expose a conspiracy. He then claims the timing coincided with Nixon\u2019s final Cambodia decision.",
-          "role": "1970-04-28"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "At an April 28, 1970 traffic-court hearing, Roberts says the judge urged a no-contest plea and dismissed his ticket. He contrasts this with his plan to use the hearing to expose a conspiracy. He then claims the timing coincided with Nixon\u2019s final Cambodia decision.",
-          "details": [
-            "Roberts recounts appearing in court believing he was innocent but initially pleading guilty so that he could explain himself. In his version, the judge asked him instead to plead no contest, dismissed the matter and moved to the next case. He later says the judge lost her election.",
-            "The same passage asserts that Nixon made the Cambodia decision at that moment and had possessed Roberts\u2019 ultimatum for four days. Roberts interprets the proximity as proof that the administration understood his political knowledge. He then describes two federal agents visiting two days later, presenting that visit as another response to his tactics."
-          ],
-          "context": "The point marks the hearing itself, while showing Roberts\u2019 claimed connection between a local legal maneuver and foreign policy. Timing in the letter does not establish causation.",
-          "precisionNote": "The court date is stated explicitly in the letter."
-        }
-      ]
-    },
-    {
-      "id": "nader-letter",
-      "name": "Roberts sends Nader his Chappaquiddick account",
-      "kind": "event",
-      "role": "1970-08-10",
-      "description": "Roberts dates his first letter to Nader to August 10, 1970, the day after watching a television interview. He says he called two San Francisco newspapers to obtain Nader\u2019s address while deliberately mentioning the letter\u2019s subject. He believed those calls alerted people implicated in his Chappaquiddick allegations.",
-      "date": "1970-08-10",
-      "precision": "day",
-      "lanes": [
-        "nader",
-        "personal",
-        "chappaquiddick"
-      ],
-      "people": [
-        "roberts",
-        "nader",
-        "sorensen"
-      ],
-      "organizations": [
-        "gm"
-      ],
-      "pages": [
-        4
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            4
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts dates his first letter to Nader to August 10, 1970, the day after watching a television interview. He says he called two San Francisco newspapers to obtain Nader\u2019s address while deliberately mentioning the letter\u2019s subject. He believed those calls alerted people implicated in his Chappaquiddick allegations.",
-          "role": "1970-08-10"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts dates his first letter to Nader to August 10, 1970, the day after watching a television interview. He says he called two San Francisco newspapers to obtain Nader\u2019s address while deliberately mentioning the letter\u2019s subject. He believed those calls alerted people implicated in his Chappaquiddick allegations.",
-          "details": [
-            "Roberts presents the letter as an application for legal help and an offer of material for Nader\u2019s reform work. He says his personal files, affidavits and claims could support extensive public-interest lawsuits. He also contrasts Nader\u2019s experience of private investigators with the surveillance he says he had endured.",
-            "The dated explanation on page 4 stresses that the newspaper calls were made over a phone Roberts believed was tapped. He says he deliberately disclosed enough about the Chappaquiddick material and its intended recipient to make its existence known. He uses the ensuing General Motors settlement as what he calls a contemporary test of the letter\u2019s impact."
-          ],
-          "context": "This is the transmission point for the Nader thread: the later settlement, conversations with Fellmeth and renewed letters refer back to this communication.",
-          "precisionNote": "The letter date is stated as August 10, following the August 9 television interview."
-        }
-      ]
-    },
-    {
-      "id": "settlement",
-      "name": "Nader\u2013GM settlement: Roberts alleges a connection",
-      "kind": "event",
-      "role": "1970-08-14",
-      "description": "Roberts says Nader\u2019s General Motors privacy lawsuit was settled within days of his letter becoming known. He links the settlement to Ted Sorensen\u2019s legal role and to Sorensen\u2019s association with the Kennedy family. Roberts interprets the payment as an attempt to deter Nader from pursuing the material he had offered.",
-      "date": "1970-08-14",
-      "precision": "approximate",
-      "lanes": [
-        "nader",
-        "politics"
-      ],
-      "people": [
-        "nader",
-        "sorensen",
-        "rifkind",
-        "roberts"
-      ],
-      "organizations": [
-        "gm",
-        "legal-firm"
-      ],
-      "pages": [
-        2,
-        4,
-        20
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2,
-            4,
-            20
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts says Nader\u2019s General Motors privacy lawsuit was settled within days of his letter becoming known. He links the settlement to Ted Sorensen\u2019s legal role and to Sorensen\u2019s association with the Kennedy family. Roberts interprets the payment as an attempt to deter Nader from pursuing the material he had offered.",
-          "role": "1970-08-14"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts says Nader\u2019s General Motors privacy lawsuit was settled within days of his letter becoming known. He links the settlement to Ted Sorensen\u2019s legal role and to Sorensen\u2019s association with the Kennedy family. Roberts interprets the payment as an attempt to deter Nader from pursuing the material he had offered.",
-          "details": [
-            "The December note names Sorensen, Rifkind and Goldberg as lawyers involved in the General Motors dispute, and identifies Sorensen as both a former Kennedy adviser and a participant in the response to Chappaquiddick. Roberts argues that the same legal circle would have reason to prevent his wider allegations reaching a prominent consumer advocate.",
-            "Page 4 says newspaper issues dated August 15 reported a sudden settlement made around August 14, three or four days after his August 10 calls. Roberts\u2019 argument rests on that sequence and the overlapping lawyers; no settlement document or evidence establishing his proposed motive appears in these passages. Later letters repeat his disappointment with Nader\u2019s response."
-          ],
-          "context": "This event is shared between legal, political and letter-writing narratives because Roberts himself alleges the Nader litigation became a means of protecting the Kennedy-related account.",
-          "precisionNote": "The date is approximate. Page 2 gives $467,000 while later passages give $457,000; both amounts occur in the transcription."
-        }
-      ]
-    },
-    {
-      "id": "gayler-visit",
-      "name": "Reported visit from Gayler",
-      "kind": "event",
-      "role": "1970-11-01",
-      "description": "Roberts recounts a November 1970 visit from Admiral Noel Gayler, whom he identifies as an intelligence official. He says the discussion concerned minerals, travel and which country he might move to. Roberts interprets Gayler\u2019s reactions as concern about materials and information leaving the United States.",
-      "date": "1970-11-01",
-      "precision": "month",
-      "lanes": [
-        "personal",
-        "hughes"
-      ],
-      "people": [
-        "roberts",
-        "gayler"
-      ],
-      "organizations": [],
-      "pages": [
-        20
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            20
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts recounts a November 1970 visit from Admiral Noel Gayler, whom he identifies as an intelligence official. He says the discussion concerned minerals, travel and which country he might move to. Roberts interprets Gayler\u2019s reactions as concern about materials and information leaving the United States.",
-          "role": "1970-11-01"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts recounts a November 1970 visit from Admiral Noel Gayler, whom he identifies as an intelligence official. He says the discussion concerned minerals, travel and which country he might move to. Roberts interprets Gayler\u2019s reactions as concern about materials and information leaving the United States.",
-          "details": [
-            "The passage says Gayler asked which country Roberts would like to go to. Roberts describes otherwise polite conversation but says Gayler became angry when he mentioned smuggling and again after a woman joined them. He identifies that woman through connections to senators Proxmire and Nelson.",
-            "Roberts later connects the visit to an intelligence reorganization and to his own shipments of experimental stones accompanied by political information. The passage offers his recollection of the encounter, not a record of a formal intelligence mission or an independently confirmed explanation of Gayler\u2019s purpose."
-          ],
-          "context": "The point connects the mineral work underlying Roberts\u2019 personal account to his claims about intelligence interest and overseas information channels.",
-          "precisionNote": "Only November 1970 is specified."
-        }
-      ]
-    },
-    {
-      "id": "hughes-burial",
-      "name": "Alleged Hughes burial",
-      "kind": "event",
-      "role": "1971-04-16",
-      "description": "Roberts alleges that Hughes had been held on a Greek island and secretly buried at sea in April 1971, while others continued using his public identity and business interests. He places Onassis and Chester Davis at the center of that claimed substitution. The transcription itself gives two different burial dates.",
-      "date": "1971-04-16",
-      "precision": "disputed",
-      "lanes": [
-        "hughes",
-        "politics"
-      ],
-      "people": [
-        "hughes",
-        "onassis",
-        "maheu"
-      ],
-      "organizations": [
-        "hughes-empire"
-      ],
-      "pages": [
-        12,
-        17
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            17
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts alleges that Hughes had been held on a Greek island and secretly buried at sea in April 1971, while others continued using his public identity and business interests. He places Onassis and Chester Davis at the center of that claimed substitution. The transcription itself gives two different burial dates.",
-          "role": "1971-04-16"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts alleges that Hughes had been held on a Greek island and secretly buried at sea in April 1971, while others continued using his public identity and business interests. He places Onassis and Chester Davis at the center of that claimed substitution. The transcription itself gives two different burial dates.",
-          "details": [
-            "The February 1972 insertion calls the Hughes business empire a conduit for political money and alleges an earlier takeover by Onassis and his associates. Page 17 gives a more specific account, naming Tinos, describing Hughes as captive there, and assigning managerial roles to Davis and Maheu.",
-            "These passages are part of Roberts\u2019 theory that the publicly visible Hughes story concealed control by someone else. They do not present burial records, witnesses establishing a death, or documents proving the takeover. The alleged burial is retained as an event within his narrative, not as a verified event in Hughes\u2019s life."
-          ],
-          "context": "This is a source claim connecting the Hughes business thread with Roberts\u2019 theory of political financing and concealed control.",
-          "precisionNote": "Page 17 gives April 16, 1971, while page 12 gives April 18. The earlier date is only a plotting anchor for this disputed claim."
-        }
-      ]
-    },
-    {
-      "id": "neilson",
-      "name": "Contact with Neilson-Green",
-      "kind": "event",
-      "role": "1971-09-27",
-      "description": "On September 27, 1971, Roberts says he contacted Neilson-Green while looking for Carlson and offering financial support. He eventually spoke with secretary Mary Pongales and recounted his collision, election and Nader allegations. The conversation became material for his next letter to Nader.",
-      "date": "1971-09-27",
-      "precision": "day",
-      "lanes": [
-        "personal",
-        "nader",
-        "politics"
-      ],
-      "people": [
-        "roberts",
-        "carlson",
-        "brisson",
-        "pongales"
-      ],
-      "organizations": [
-        "neilson-green",
-        "cia"
-      ],
-      "pages": [
-        16,
-        22,
-        23
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            16,
-            22,
-            23
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "On September 27, 1971, Roberts says he contacted Neilson-Green while looking for Carlson and offering financial support. He eventually spoke with secretary Mary Pongales and recounted his collision, election and Nader allegations. The conversation became material for his next letter to Nader.",
-          "role": "1971-09-27"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "On September 27, 1971, Roberts says he contacted Neilson-Green while looking for Carlson and offering financial support. He eventually spoke with secretary Mary Pongales and recounted his collision, election and Nader allegations. The conversation became material for his next letter to Nader.",
-          "details": [
-            "Roberts describes Neilson-Green as a private-investigation firm associated with Carlson and Brisson\u2019s public-interest project about the San Francisco dog pound. He says he called, received other names to try, then returned to the secretary and arranged to visit. In his account, Green and Neilson were in another room while he spoke with Pongales.",
-            "Roberts says he offered to arrange a large payment to Carlson but insisted on handing it over personally so that he could question him. Pongales reportedly said Carlson was working for a Los Angeles television station and Brisson was in Washington. Roberts characterizes the firm as a CIA front, but the described contact does not establish that characterization."
-          ],
-          "context": "This contact ties the Carlson publishing dispute to Roberts\u2019 later Nader correspondence, and supplies named participants for a specific reported meeting.",
-          "precisionNote": "The contact date is repeated on pages 16 and 22."
-        }
-      ]
-    },
-    {
-      "id": "nov-letter",
-      "name": "November letter to Nader",
-      "kind": "event",
-      "role": "1971-11-25",
-      "description": "The letter headed November 25, 1971 renews Roberts\u2019 appeal to Nader through a long account of his September contact with Neilson-Green. It links Carlson\u2019s Alioto story to Chappaquiddick, Hughes and Roberts\u2019 alleged political influence. The document is a retrospective argument, not a new occurrence of all the events it recounts.",
-      "date": "1971-11-25",
-      "precision": "day",
-      "lanes": [
-        "nader",
-        "hughes",
-        "personal"
-      ],
-      "people": [
-        "roberts",
-        "nader"
-      ],
-      "organizations": [],
-      "pages": [
-        16
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            16
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "The letter headed November 25, 1971 renews Roberts\u2019 appeal to Nader through a long account of his September contact with Neilson-Green. It links Carlson\u2019s Alioto story to Chappaquiddick, Hughes and Roberts\u2019 alleged political influence. The document is a retrospective argument, not a new occurrence of all the events it recounts.",
-          "role": "1971-11-25"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "The letter headed November 25, 1971 renews Roberts\u2019 appeal to Nader through a long account of his September contact with Neilson-Green. It links Carlson\u2019s Alioto story to Chappaquiddick, Hughes and Roberts\u2019 alleged political influence. The document is a retrospective argument, not a new occurrence of all the events it recounts.",
-          "details": [
-            "The heading gives Nader an address in Winsted, Connecticut and opens with the September 27 calls. Roberts uses those conversations to repeat his claim that the September 1968 collision exposed how elections were controlled, then expands into claims about earlier assassinations and the Hughes business interests.",
-            "Later portions describe the conversation with Pongales, his disappointment over Nader\u2019s settlement, the mineral offers made through Mack and his overseas information purchases. These episodes are presented to convince Nader that the earlier letter was both important and mishandled."
-          ],
-          "context": "This marker dates the letter as a document. Its intersections reflect the several retrospective narratives that Roberts brings together in that communication.",
-          "precisionNote": "November 25, 1971 is the letter heading, not the date of the September conversations recounted inside it."
-        }
-      ]
-    },
-    {
-      "id": "un-proposal",
-      "name": "Proposal for an international inquiry",
-      "kind": "event",
-      "role": "1971-12-02",
-      "description": "Roberts proposes a public international inquiry modeled on the Knapp Commission, to be organized through the United Nations with lawyers from countries he considered outside the alleged network. He says exposure, international participation and a managed release of evidence could prevent further war and corruption.",
-      "date": "1971-12-02",
-      "precision": "day",
-      "lanes": [
-        "personal",
-        "politics"
-      ],
-      "people": [
-        "roberts"
-      ],
-      "organizations": [
-        "un"
-      ],
-      "pages": [
-        13,
-        14
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            13,
-            14
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts proposes a public international inquiry modeled on the Knapp Commission, to be organized through the United Nations with lawyers from countries he considered outside the alleged network. He says exposure, international participation and a managed release of evidence could prevent further war and corruption.",
-          "role": "1971-12-02"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts proposes a public international inquiry modeled on the Knapp Commission, to be organized through the United Nations with lawyers from countries he considered outside the alleged network. He says exposure, international participation and a managed release of evidence could prevent further war and corruption.",
-          "details": [
-            "The December 2 document proposes presentation of tapes, film, witnesses and volumes of material. Roberts suggests deliberately withholding some evidence initially, then releasing clues to stimulate a broad public investigation. He cites the Knapp Commission as a model of exposure rather than immediate criminal prosecution.",
-            "He also insists on complete openness between participating legal representatives, despite accepting confidentiality while a case was being prepared. The passage records Roberts\u2019 proposal and the conditions he wanted; it does not establish that the United Nations adopted it or that any such commission was convened."
-          ],
-          "context": "The event extends Roberts\u2019 search for legal help from Nixon and Nader to an international forum. It is plotted as a proposal, not an actual UN inquiry.",
-          "precisionNote": "The text dates this proposal to December 2, 1971."
-        }
-      ]
-    },
-    {
-      "id": "dec-note",
-      "name": "December note",
-      "kind": "event",
-      "role": "1971-12-10",
-      "description": "The December 10, 1971 note revisits Nader\u2019s General Motors settlement and names a legal circle connecting Sorensen, Rifkind and Goldberg. Roberts uses their roles, Kennedy associations and Nader\u2019s subsequent public prominence to argue that his August letter had wider political effects.",
-      "date": "1971-12-10",
-      "precision": "day",
-      "lanes": [
-        "nader",
-        "politics"
-      ],
-      "people": [
-        "roberts",
-        "nader",
-        "sorensen",
-        "rifkind",
-        "goldberg"
-      ],
-      "organizations": [
-        "gm",
-        "legal-firm"
-      ],
-      "pages": [
-        2
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "The December 10, 1971 note revisits Nader\u2019s General Motors settlement and names a legal circle connecting Sorensen, Rifkind and Goldberg. Roberts uses their roles, Kennedy associations and Nader\u2019s subsequent public prominence to argue that his August letter had wider political effects.",
-          "role": "1971-12-10"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "The December 10, 1971 note revisits Nader\u2019s General Motors settlement and names a legal circle connecting Sorensen, Rifkind and Goldberg. Roberts uses their roles, Kennedy associations and Nader\u2019s subsequent public prominence to argue that his August letter had wider political effects.",
-          "details": [
-            "Roberts summarizes the privacy dispute, identifies Sorensen as the original General Motors attorney, and says Rifkind delivered the settlement. He adds Kennedy-related roles for the lawyers, including Sorensen\u2019s connection to Ted Kennedy\u2019s Chappaquiddick statement and Goldberg\u2019s employment of a woman he associates with that episode.",
-            "The note then broadens into assertions that the letter reached Nixon, Mitchell, Alioto, Onassis and Hoover and influenced international developments. These extensions are Roberts\u2019 theory of the letter\u2019s significance; the date marks the note in which he assembles the argument."
-          ],
-          "context": "This document revisits the same settlement from a later vantage point. It shows how Roberts used overlapping professional relationships to expand the Nader thread into his political account.",
-          "precisionNote": "December 10, 1971 appears as the note\u2019s date."
-        }
-      ]
-    },
-    {
-      "id": "insert",
-      "name": "Roberts joins three claims in a later summary",
-      "kind": "event",
-      "role": "1972-02-14",
-      "description": "An insertion dated approximately February 14, 1972 condenses Roberts\u2019 argument into three alleged keys: the Alioto collision, Chappaquiddick and control of the Hughes interests. He portrays these as connected routes into a much larger system of money, political influence and concealment.",
-      "date": "1972-02-14",
-      "precision": "approximate",
-      "lanes": [
-        "personal",
-        "chappaquiddick",
-        "hughes"
-      ],
-      "people": [
-        "roberts",
-        "alioto",
-        "hughes",
-        "onassis",
-        "maheu"
-      ],
-      "organizations": [],
-      "pages": [
-        12
-      ],
-      "status": "Source account \u00b7 unverified",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added from dated passages in the supplied transcription."
-        },
-        {
-          "date": "2026-10-14",
-          "note": "Expanded source narrative and timeline context."
-        }
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12
-          ]
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "An insertion dated approximately February 14, 1972 condenses Roberts\u2019 argument into three alleged keys: the Alioto collision, Chappaquiddick and control of the Hughes interests. He portrays these as connected routes into a much larger system of money, political influence and concealment.",
-          "role": "1972-02-14"
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "An insertion dated approximately February 14, 1972 condenses Roberts\u2019 argument into three alleged keys: the Alioto collision, Chappaquiddick and control of the Hughes interests. He portrays these as connected routes into a much larger system of money, political influence and concealment.",
-          "details": [
-            "The first key repeats the September 16, 1968 collision and Roberts\u2019 claim that attempts to cover it up exposed how elections were controlled. The second alleges that calls about those political consequences caused the events at Chappaquiddick and that the inquest concealed the calls.",
-            "The third presents the Hughes empire as an Onassis-controlled channel for money from gambling and other alleged activities, used to purchase political influence. The insertion also connects earlier assassinations and international affairs. It functions as a summary of Roberts\u2019 thesis, with each causal and criminal allegation still belonging to his account."
-          ],
-          "context": "This is the later synthesis connecting three existing timeline threads. Its date is the date of the insertion, not the dates of the earlier events summarized.",
-          "precisionNote": "The transcription says about February 14, 1972."
-        }
-      ]
-    },
     {
       "id": "anglo-confession",
       "name": "Rhodes\u2019s imperial program",
@@ -39491,108 +37480,9 @@
           "precisionNote": "The source supports year precision; placement at the start of that period is a display convention, not an exact day."
         }
       ]
-    },
-    {
-      "id": "gemstone-1932-alliance",
-      "name": "Roberts alleges a 1932 Onassis\u2013Kennedy alliance",
-      "kind": "event",
-      "role": "1932",
-      "description": "Roberts alleges that Onassis, Joseph P. Kennedy, Roosevelt and Churchill cooperated in a 1932 arrangement involving liquor and narcotics shipments. He uses this supposed alliance as the older origin of the political system he claims was exposed by the Alioto collision and Chappaquiddick.",
-      "date": "1932-01-01",
-      "precision": "year",
-      "lanes": [
-        "politics",
-        "hughes"
-      ],
-      "people": [
-        "onassis",
-        "joseph-kennedy",
-        "franklin-roosevelt",
-        "winston-churchill"
-      ],
-      "organizations": [],
-      "pages": [
-        12,
-        18
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ]
-        }
-      ],
-      "history": [
-        {
-          "date": "2026-10-14",
-          "note": "Added a retrospective claim with an explicit cross-source shared identity."
-        }
-      ],
-      "accounts": [
-        {
-          "sourceId": "gemstone",
-          "description": "Roberts alleges that Onassis, Joseph P. Kennedy, Roosevelt and Churchill cooperated in a 1932 arrangement involving liquor and narcotics shipments. He uses this supposed alliance as the older origin of the political system he claims was exposed by the Alioto collision and Chappaquiddick."
-        }
-      ],
-      "sourceSummaries": [
-        {
-          "sourceId": "gemstone",
-          "summary": "Roberts alleges that Onassis, Joseph P. Kennedy, Roosevelt and Churchill cooperated in a 1932 arrangement involving liquor and narcotics shipments. He uses this supposed alliance as the older origin of the political system he claims was exposed by the Alioto collision and Chappaquiddick.",
-          "details": [
-            "The February 1972 insertion names Kennedy, Onassis, Roosevelt and Churchill together and says a 1932 importation scheme provided leverage over the White House and Downing Street. Page 18 expands the claim, alleging shipments to Boston and New Orleans and naming sons of Roosevelt and Churchill. These passages do not provide shipping records or independently establish the alleged alliance.",
-            "Roberts says information came from an Onassis diary he purchased and portrays the arrangement as a route into securities manipulation, later wars and political control. The text therefore makes this a retrospective explanation of later events. Its relevance to a Quigley overlay is that Churchill also appears in Quigley\u2019s historical account\u2014not that Quigley endorses Roberts\u2019 story."
-          ],
-          "context": "This creates a source-attributed intersection through Churchill. Dashed cross-source links identify the shared person; they do not establish that the alleged 1932 arrangement influenced the events described by Quigley.",
-          "precisionNote": "Only the year 1932 is given. January 1 is a plotting anchor, not an asserted transaction date."
-        }
-      ],
-      "evidence": "Roberts\u2019 allegation \u00b7 not independently established",
-      "status": "Roberts\u2019 allegation"
     }
   ],
   "lanes": [
-    {
-      "id": "personal",
-      "name": "Roberts\u2019 personal account",
-      "color": "#c9aa76",
-      "sourceIds": [
-        "gemstone"
-      ]
-    },
-    {
-      "id": "politics",
-      "name": "Politics & influence",
-      "color": "#9fabc8",
-      "sourceIds": [
-        "gemstone"
-      ]
-    },
-    {
-      "id": "chappaquiddick",
-      "name": "Chappaquiddick narrative",
-      "color": "#a9bfa8",
-      "sourceIds": [
-        "gemstone"
-      ]
-    },
-    {
-      "id": "nader",
-      "name": "Nader & the letters",
-      "color": "#cd9390",
-      "sourceIds": [
-        "gemstone"
-      ]
-    },
-    {
-      "id": "hughes",
-      "name": "Hughes business narrative",
-      "color": "#b3a0bf",
-      "sourceIds": [
-        "gemstone"
-      ]
-    },
     {
       "id": "anglo-origins",
       "name": "Rhodes & network origins",
@@ -39763,278 +37653,6 @@
     }
   ],
   "relationships": [
-    {
-      "id": "r0",
-      "fromId": "roberts",
-      "toId": "nader",
-      "label": "Letter addressed to",
-      "pages": [
-        1
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r1",
-      "fromId": "nixon",
-      "toId": "mitchell",
-      "label": "Legal / campaign association described",
-      "pages": [
-        1
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r2",
-      "fromId": "ted-kennedy",
-      "toId": "kopechne",
-      "label": "Chappaquiddick participants",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r3",
-      "fromId": "ted-kennedy",
-      "toId": "tunney",
-      "label": "Political association described",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r4",
-      "fromId": "onassis",
-      "toId": "hughes",
-      "label": "Alleged takeover \u2014 unverified",
-      "pages": [
-        12
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r5",
-      "fromId": "maheu",
-      "toId": "hughes-empire",
-      "label": "Business association described",
-      "pages": [
-        12
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r6",
-      "fromId": "carlson",
-      "toId": "look",
-      "label": "Article writer described",
-      "pages": [
-        3
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r7",
-      "fromId": "carlson",
-      "toId": "brisson",
-      "label": "Public-interest project described",
-      "pages": [
-        3
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r8",
-      "fromId": "pongales",
-      "toId": "neilson-green",
-      "label": "Secretary described",
-      "pages": [
-        22
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            22
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r9",
-      "fromId": "hoover",
-      "toId": "fbi",
-      "label": "Agency leadership described",
-      "pages": [
-        3
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r10",
-      "fromId": "nader",
-      "toId": "nader-group",
-      "label": "Consumer advocacy",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r11",
-      "fromId": "fellmeth",
-      "toId": "nader-group",
-      "label": "Associate described",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r12",
-      "fromId": "sorensen",
-      "toId": "legal-firm",
-      "label": "Partner described",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r13",
-      "fromId": "rifkind",
-      "toId": "legal-firm",
-      "label": "Partner described",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r14",
-      "fromId": "goldberg",
-      "toId": "legal-firm",
-      "label": "Partner described",
-      "pages": [
-        2
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "r15",
-      "fromId": "roberts",
-      "toId": "mack",
-      "label": "Request for assistance",
-      "pages": [
-        1
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            1
-          ]
-        }
-      ]
-    },
     {
       "id": "anglo-rel-rhodes-milner-group-quigley-s-roster-society-of-the-elect",
       "fromId": "rhodes",
@@ -56012,118 +53630,9 @@
         }
       ],
       "evidence": "Attributed institutional association"
-    },
-    {
-      "id": "gemstone-alleged-alliance-winston-churchill",
-      "fromId": "winston-churchill",
-      "toId": "onassis",
-      "label": "Alleged 1932 alliance in Roberts\u2019 account",
-      "pages": [
-        12,
-        18
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ]
-        }
-      ],
-      "evidence": "Source allegation"
-    },
-    {
-      "id": "gemstone-alleged-alliance-franklin-roosevelt",
-      "fromId": "franklin-roosevelt",
-      "toId": "onassis",
-      "label": "Alleged 1932 alliance in Roberts\u2019 account",
-      "pages": [
-        12,
-        18
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ]
-        }
-      ],
-      "evidence": "Source allegation"
-    },
-    {
-      "id": "gemstone-alleged-alliance-joseph-kennedy",
-      "fromId": "joseph-kennedy",
-      "toId": "onassis",
-      "label": "Alleged 1932 alliance in Roberts\u2019 account",
-      "pages": [
-        12,
-        18
-      ],
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            12,
-            18
-          ]
-        }
-      ],
-      "evidence": "Source allegation"
     }
   ],
   "eventLinks": [
-    {
-      "id": "gemstone-collision-election",
-      "fromId": "collision",
-      "toId": "election",
-      "label": "Roberts claims collision disclosure affected Nixon\u2019s election",
-      "kind": "claimed influence",
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            8,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gemstone-collision-chappaquiddick",
-      "fromId": "collision",
-      "toId": "chappaquiddick-event",
-      "label": "Roberts claims the collision disclosure led to the Chappaquiddick confrontation",
-      "kind": "claimed influence",
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            3,
-            6,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gemstone-letter-settlement",
-      "fromId": "nader-letter",
-      "toId": "settlement",
-      "label": "Roberts claims his letter caused the GM settlement",
-      "kind": "claimed influence",
-      "citations": [
-        {
-          "sourceId": "gemstone",
-          "pages": [
-            4
-          ]
-        }
-      ]
-    },
     {
       "id": "anglo-kindergarten-roundtable",
       "fromId": "anglo-south-african-union",

@@ -552,7 +552,7 @@ export default function Timeline({
               .map(
                 (c) =>
                   catalog.sources.find((s) => s.id === c.sourceId)?.author ||
-                  "Gemstone letters",
+                  "Source",
               )
               .filter((s, i, a) => a.indexOf(s) === i)
               .join(" · ")}

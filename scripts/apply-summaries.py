@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 p=Path('src/data/archive.json');d=json.loads(p.read_text());updated=0
-for source in ['gemstone','anglo','scott','yankee']:
+for source in [s['id'] for s in d['sources']]:
  f=Path(f'scripts/data/{source}-event-summaries.json')
  if not f.exists():continue
  summaries=json.loads(f.read_text())
@@ -18,11 +18,4 @@ for source in ['gemstone','anglo','scott','yankee']:
   for a in e.get('accounts',[]):
    if a['sourceId']==source:a['description']=summary['summary']
   updated+=1
-# More descriptive names for the original collection, while keeping stable deep-link IDs.
-names={'election':'Nixon’s election and Roberts’ claimed leverage','court':'Traffic ticket dismissed; Roberts invokes Cambodia','collision':'Roberts reports an Alioto-family collision','legal-help':'Roberts asks Nixon and Mitchell for legal help','settlement':'Nader–GM settlement: Roberts alleges a connection','look-story':'Carlson’s Alioto story omits Roberts’ collision account','nader-letter':'Roberts sends Nader his Chappaquiddick account','insert':'Roberts joins three claims in a later summary'}
-for e in d['events']:
- if e['id'] in names:e['name']=names[e['id']]
- if e['id']=='election':
-  for c in e['citations']:
-   if c['sourceId']=='gemstone':c['pages']=sorted(set(c['pages']+[8]))
 p.write_text(json.dumps(d,indent=2)+'\n');print('Expanded narratives:',updated)

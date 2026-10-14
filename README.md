@@ -6,9 +6,8 @@ Live: https://cypherhat.github.io/darktime/
 
 ## Collections
 
-The archive contains **357 people, 158 organizations, 221 events, 694 relationships and 26 timeline threads**, plus five explicitly cited links between events. Shared identities are counted once; collection counts overlap.
+The archive contains **340 people, 152 organizations, 203 events, 675 relationships and 21 timeline threads**, plus two explicitly cited links between events. Shared identities are counted once; collection counts overlap.
 
-- **Gemstone letters**: 25 people, 9 organizations, 18 events. Selective extraction of the transcription attributed to Bruce Porter Roberts, including retrospective claims. The transcription has missing material, conflicting dates and amounts, and a truncated ending.
 - **Carroll Quigley, The Anglo-American Establishment**: 170 people, 70 organizations, 90 events. Selected passages from all thirteen chapters and the tentative appendix roster. Quigley’s reported institutional roles are distinguished from inferred network membership and bracketed conjectures.
 - **Peter Dale Scott, The State, the Deep State, and the Wall Street Overworld**: 72 people, 40 organizations, 37 events. Article and notes reviewed; important denials, memoir qualifications and publication-date discrepancies are preserved.
 - **Carl Oglesby, The Yankee and Cowboy War**: 111 people, 49 organizations, 76 events. Selected records across the narrative, revised preface and appendix. His faction model, alternative accounts, official findings and denials retain their attribution. OCR uncertainty is noted.
@@ -19,11 +18,11 @@ These are substantive attributed digests, not exhaustive indexes of every passin
 
 React, TypeScript and D3, built by Vite and served by GitHub Pages. No backend, database, secrets or visitor accounts. Source bundles load only when selected; long event narratives load when a record is opened. Timeline and graph code also load on demand. Directories and relationship inventories are paginated. The graph defaults to a core overview or a selected entity’s neighborhood.
 
-Select arbitrary source combinations with the **Choose sources to overlay** checkboxes. Vertical connectors identify a single event shared across threads. Dashed arcs join chronological events through a shared cited participant across sources; solid arrows represent source-claimed influence or organizational continuation. A shared person does not establish causal influence. Source attribution remains visible in event narratives and relationship records. The Quigley–Gemstone overlay has an explicit shared Churchill identity; Roberts’ 1932 alliance story remains a separately identified allegation.
+Select arbitrary source combinations with the **Choose sources to overlay** checkboxes. Vertical connectors identify a single event shared across threads. Dashed arcs join chronological events through a shared cited participant across sources; solid arrows represent source-claimed influence or organizational continuation. A shared person does not establish causal influence. Source attribution remains visible in event narratives and relationship records. The PDF-based collections share cited identities; each source’s interpretation remains separately attributed.
 
 Timelines provide UTC dates, year-bearing tick labels, smooth pan/zoom, period and participant filters, precision/duration bars, readable full-title labels, staggered numbered markers, hover/focus previews, and a matching event list. Source checkboxes stay pinned above the timeline. Thread controls, collections and the matching event list fold away; the diagram uses the document’s vertical scrolling instead of a nested scroll area. Click a marker to highlight its cross-thread connectors and open a persistent event panel alongside the diagram. Browse Connections and Source account tabs, follow clickable people, organizations and events, and use Back to retrace your path. The prominent Show details button reopens the panel. On mobile the panel docks below the diagram. Highlights persist through zoom and scrolling. Use the zoom buttons or Ctrl/Command + scroll to zoom; ordinary scrolling moves the page.
 
-Stable IDs support shareable URLs, e.g. `?collection=gemstone,anglo#election`. Previous `#nader` links still resolve. Export downloads the complete archive, including detailed narratives.
+Stable IDs support shareable URLs, e.g. `?collection=anglo,scott#allen-dulles`. Retired source IDs in overlay URLs are ignored; a retired-only selection falls back to Quigley. Export downloads the complete archive, including detailed narratives.
 
 ## Develop and validate
 
@@ -56,4 +55,4 @@ Use distinct identities for people with similar names. Merge only when the text 
 
 For a new collection, register source metadata, associate its lane definitions with the source ID and add its records/citations. The build discovers generated source/narrative bundles automatically. Run the validator, build and browser checks before committing.
 
-The ingestion scripts and `scripts/data/` research artifacts document this initial extraction. `scripts/seed.py` regenerates the first Gemstone seed only and must **not** be run over an expanded collection. `ingest-anglo.py`, `merge-research.py`, `apply-summaries.py` and `add-overlay-evidence.py` record the staged additions; the canonical archive remains authoritative for subsequent manual revisions.
+The ingestion scripts and `scripts/data/` research artifacts document the PDF extraction. `ingest-anglo.py`, `merge-research.py` and `apply-summaries.py` record the staged additions; the canonical archive remains authoritative for subsequent manual revisions. Only PDF sources listed in the canonical archive are selectable or exported.

@@ -34,7 +34,7 @@ export default function EventNarrative({ entry }: { entry: Entry }) {
         <article key={account.sourceId}>
           <span className="tiny-label">
             {catalog.sources.find((s) => s.id === account.sourceId)?.author ||
-              "Bruce Porter Roberts"}{" "}
+              "Source author"}{" "}
             · {catalog.sources.find((s) => s.id === account.sourceId)?.title}
           </span>
           {account.details.map((paragraph, i) => (

@@ -42,12 +42,11 @@ const PAGE_SIZE = 24;
 function initialScope() {
   const url = new URL(location.href);
   const scope = url.searchParams.get("collection");
-  if (
-    scope &&
-    (scope === "all" ||
-      scope.split(",").every((id) => catalog.sources.some((s) => s.id === id)))
-  )
-    return scope;
+  if (scope === "all") return scope;
+  const valid = scope
+    ?.split(",")
+    .filter((id) => catalog.sources.some((source) => source.id === id));
+  if (valid?.length) return valid.join(",");
   const record = decodeURIComponent(location.hash.slice(1));
   return catalog.recordSources[record]?.[0] || "anglo";
 }
@@ -517,7 +516,7 @@ function App() {
                 key={s.id}
                 onClick={() => changeScope(s.id)}
               >
-                {s.id === "gemstone" ? "The Gemstone File" : s.title}
+                {s.title}
                 <span>{catalog.counts[s.id].events}</span>
               </button>
             ))}
@@ -688,7 +687,7 @@ function App() {
                         1939–1949 · War & reconstruction
                       </option>
                       <option value="1967-1972">
-                        1967–1972 · Gemstone letters
+                        1967–1972 · Political upheaval
                       </option>
                       <option value="1950-1979">1950–1979 · Cold War</option>
                       <option value="1980-2014">
@@ -777,21 +776,17 @@ function App() {
                             onChange={() => toggleSource(s.id)}
                           />
                           <span>
-                            {s.id === "gemstone"
-                              ? "Gemstone letters"
-                              : s.author === "Carroll Quigley"
-                                ? "Quigley"
-                                : s.author === "Peter Dale Scott"
-                                  ? "Peter Dale Scott"
-                                  : "Carl Oglesby"}
+                            {s.author === "Carroll Quigley"
+                              ? "Quigley"
+                              : s.author === "Peter Dale Scott"
+                                ? "Peter Dale Scott"
+                                : "Carl Oglesby"}
                             <small>
-                              {s.id === "gemstone"
-                                ? "Personal allegations"
-                                : s.id === "anglo"
-                                  ? "Historical study"
-                                  : s.id === "scott"
-                                    ? "Political analysis"
-                                    : "Interpretive account"}
+                              {s.id === "anglo"
+                                ? "Historical study"
+                                : s.id === "scott"
+                                  ? "Political analysis"
+                                  : "Interpretive account"}
                             </small>
                           </span>
                         </label>
@@ -871,7 +866,7 @@ function App() {
                                     catalog.sources
                                       .find((source) => source.id === id)
                                       ?.author?.split(" ")
-                                      .at(-1) || "Gemstone",
+                                      .at(-1) || "Source",
                                 )
                                 .join(" / ")}{" "}
                               ·{" "}
@@ -1107,8 +1102,7 @@ function App() {
                   .map((s, i) => (
                     <article className="source-card" key={s.id}>
                       <span className="tiny-label">
-                        SOURCE {String(i + 1).padStart(3, "0")} ·{" "}
-                        {s.pageCount ? "PDF DOCUMENT" : "BLOG TRANSCRIPTION"}
+                        SOURCE {String(i + 1).padStart(3, "0")} · PDF DOCUMENT
                       </span>
                       <h2>{s.title}</h2>
                       {s.author && (
@@ -1127,7 +1121,7 @@ function App() {
                       <p>{s.coverage}</p>
                       <p>
                         {s.pageConvention ||
-                          "Page numbers refer to the transcription’s headings."}{" "}
+                          "Page numbers refer to 1-based PDF file pages."}{" "}
                         Accessed {s.accessed}.
                       </p>
                       <div className="source-counts">
@@ -1406,7 +1400,7 @@ function App() {
                               {l.citations
                                 .map(
                                   (c) =>
-                                    `${catalog.sources.find((s) => s.id === c.sourceId)?.author || "Roberts"}, pp. ${c.pages.join(", ")}`,
+                                    `${catalog.sources.find((s) => s.id === c.sourceId)?.author || "Source"}, pp. ${c.pages.join(", ")}`,
                                 )
                                 .join(" · ")}
                             </small>

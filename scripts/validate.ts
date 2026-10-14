@@ -84,16 +84,19 @@ assert(
   "Distinct Toynbees must survive",
 );
 assert(
-  entries
-    .find((e) => e.id === "winston-churchill")
-    ?.citations.some((c) => c.sourceId === "gemstone"),
-  "Quigley/Gemstone shared identity is cited",
+  !sources.has("gemstone"),
+  "Only retained PDF sources belong in the archive",
 );
+for (const source of data.sources)
+  assert(
+    source.localPath?.endsWith(".pdf"),
+    `${source.id}: source must be a local PDF`,
+  );
 assert(
   data.events.some((e) => e.lanes!.length > 1),
   "Expected intersections",
 );
-assert.equal(data.sources.length, 4, "Expected four sources");
+assert.equal(data.sources.length, 3, "Expected three PDF sources");
 console.log(
   `Archive valid: ${data.people.length} people, ${data.organizations.length} organizations, ${data.events.length} substantive event narratives, ${data.relationships.length} cited relationships, ${data.eventLinks?.length} attributed event links.`,
 );

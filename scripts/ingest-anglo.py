@@ -298,7 +298,7 @@ new_lanes=[('anglo-origins','Rhodes & network origins','#c9aa76'),('anglo-oxford
 for id,name,color in new_lanes:
  if not any(l['id']==id for l in data['lanes']):data['lanes'].append(dict(id=id,name=name,color=color,sourceIds=[SOURCE]))
 for l in data['lanes']:
- if not l.get('sourceIds'):l['sourceIds']=['gemstone']
+ if not l.get('sourceIds'):l['sourceIds']=['anglo']
 A='anglo-origins';O='anglo-oxford';S='anglo-south-africa';P='anglo-press';C='anglo-commonwealth';I='anglo-institutes';D='anglo-india';F='anglo-foreign';W='anglo-wartime'
 event('confession','1875-01-01','Rhodes’s imperial program','describes Rhodes’s Confession of Faith as an early statement of the aims later embedded in his wills and society plans.',[36,37],[A],['rhodes'])
 event('first-will','1877-01-01','Rhodes’s first will','describes a bequest for an association devoted to expanding British rule and links it to Rhodes’s earlier program. The year is given; January 1 is a plotting anchor.',[36,37],[A,O],['rhodes'],['society-elect'])
