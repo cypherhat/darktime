@@ -6,6 +6,8 @@ Live: https://cypherhat.github.io/darktime/
 
 ## Collections
 
+Tragedy and Hope is the default collection. Explicit source selections and record deep links retain their selected collection.
+
 The archive contains **477 people, 247 organizations, 450 events, 920 relationships and 29 timeline threads**, plus 72 explicitly cited links between events. Shared identities are counted once; collection counts overlap.
 
 - **Carroll Quigley, The Anglo-American Establishment**: 170 people, 70 organizations, 90 events. Selected passages from all thirteen chapters and the tentative appendix roster. Quigley’s reported institutional roles are distinguished from inferred network membership and bracketed conjectures.
@@ -26,7 +28,7 @@ Timelines provide UTC dates, year-bearing tick labels, smooth pan/zoom, period a
 
 Choose **People & organization timelines** to build one or several aligned tracks from any records in the selected sources, or use **View timeline** in a record’s details. Shared events connect the tracks. Comparisons can be shared through `tracks=person-id,organization-id` in the URL. Explicitly cited birth/death, career and institutional-change milestones supplement the event inventory; missing lifespan endpoints are labeled, never inferred from first/last appearances. The initial lifecycle data includes 16 cited lifespan pairs and nine career or institutional milestones. These are embedded on their parent records rather than expanding the global event inventory with every birthday.
 
-Stable IDs support shareable URLs, e.g. `?collection=tragedy,scott#allen-dulles`. Retired source IDs in overlay URLs are ignored; a retired-only selection falls back to Quigley. Export downloads the complete archive, including detailed narratives.
+Stable IDs support shareable URLs, e.g. `?collection=tragedy,scott#allen-dulles`. Retired source IDs in overlay URLs are ignored; a retired-only selection falls back to Tragedy and Hope. Export downloads the complete archive, including detailed narratives.
 
 ## Develop and validate
 

@@ -49,7 +49,7 @@ function initialScope() {
     .filter((id) => catalog.sources.some((source) => source.id === id));
   if (valid?.length) return valid.join(",");
   const record = decodeURIComponent(location.hash.slice(1));
-  return catalog.recordSources[record]?.[0] || "anglo";
+  return catalog.recordSources[record]?.[0] || "tragedy";
 }
 function selectedSourcesForScope(scope: string) {
   return scope === "all" ? catalog.sources.map((s) => s.id) : scope.split(",");

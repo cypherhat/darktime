@@ -330,7 +330,7 @@ test("removed source is absent from controls, exports and lazy bundles", async (
   const requests: string[] = [];
   page.on("request", (request) => requests.push(request.url()));
   await page.goto("/?collection=gemstone");
-  await expect(page.getByLabel("Select collection")).toHaveValue("anglo");
+  await expect(page.getByLabel("Select collection")).toHaveValue("tragedy");
   await expect(page.locator(".source-selection input")).toHaveCount(4);
   await expect(page.getByRole("checkbox", { name: /Gemstone/ })).toHaveCount(0);
   await page.getByRole("button", { name: /^Sources/ }).click();
@@ -482,4 +482,12 @@ test("record details open a lifecycle timeline with cited birth and death", asyn
   await expect(
     page.getByRole("button", { name: "Show details", exact: true }),
   ).toBeVisible();
+});
+
+test("homepage defaults to Tragedy and Hope while explicit selections remain intact", async ({page}) => {
+  await page.goto("/");
+  await expect(page.getByLabel("Select collection")).toHaveValue("tragedy");
+  await expect(page.locator(".result-count")).toHaveText("247 matching events");
+  await page.goto("/?collection=anglo");
+  await expect(page.getByLabel("Select collection")).toHaveValue("anglo");
 });
