@@ -56,6 +56,12 @@ export default function Timeline({
   const ref = useRef<SVGSVGElement>(null);
   const [width, setWidth] = useState(800);
   const [windowLabel, setWindowLabel] = useState("");
+  const zoomMemory = useRef<{
+    data: Archive;
+    range: string;
+    transform: d3.ZoomTransform;
+    width: number;
+  } | null>(null);
   const controls = useRef<(a: string) => void>(() => {});
   const lanes = data.lanes.filter((l) => active.includes(l.id));
   const height = Math.max(280, 150 + lanes.length * 130);
@@ -305,7 +311,10 @@ export default function Timeline({
             .attr("data-base-width", 1)
             .attr("data-base-opacity", 0.3)
             .style("cursor", "pointer")
-            .on("click", () => onSelect(e.id))
+            .on("click", () => {
+              setHover(null);
+              onSelect(e.id);
+            })
             .attr("x1", px)
             .attr("x2", px)
             .attr("y1", pointY(e, belongs[0]))
@@ -329,10 +338,14 @@ export default function Timeline({
             .on("mouseleave", () => setHover(null))
             .on("focus", (event: FocusEvent) => showPreview(event, e))
             .on("blur", () => setHover(null))
-            .on("click", () => onSelect(e.id))
+            .on("click", () => {
+              setHover(null);
+              onSelect(e.id);
+            })
             .on("keydown", (ev: KeyboardEvent) => {
               if (ev.key === "Enter" || ev.key === " ") {
                 ev.preventDefault();
+                setHover(null);
                 onSelect(e.id);
               }
             });
@@ -400,7 +413,10 @@ export default function Timeline({
               .style("cursor", "pointer")
               .on("mouseenter", (event: MouseEvent) => showPreview(event, e))
               .on("mouseleave", () => setHover(null))
-              .on("click", () => onSelect(e.id));
+              .on("click", () => {
+                setHover(null);
+                onSelect(e.id);
+              });
             lines.forEach((line, i) =>
               label
                 .append("tspan")
@@ -429,10 +445,24 @@ export default function Timeline({
       ])
       .on("zoom", (ev) => {
         setHover(null);
+        zoomMemory.current = {
+          data,
+          range: JSON.stringify(range),
+          transform: ev.transform,
+          width,
+        };
         draw(ev.transform);
       });
     svg.call(behavior);
-    draw(d3.zoomIdentity);
+    const saved = zoomMemory.current;
+    svg.call(
+      behavior.transform,
+      saved?.data === data && saved.range === JSON.stringify(range)
+        ? d3.zoomIdentity
+            .translate((saved.transform.x * width) / saved.width, 0)
+            .scale(saved.transform.k)
+        : d3.zoomIdentity,
+    );
     controls.current = (action) => {
       const transition = svg
         .transition()
@@ -532,8 +562,8 @@ export default function Timeline({
               hover.entry.description}
           </p>
           <small>
-            Click or press Enter to highlight connections. Use Read event
-            account for details.
+            Click or press Enter to highlight connections and explore details in
+            the side panel.
           </small>
         </div>
       )}

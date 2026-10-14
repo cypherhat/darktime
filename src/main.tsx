@@ -35,6 +35,7 @@ import {
 } from "./archive";
 import "./style.css";
 const EventNarrative = lazy(() => import("./EventNarrative"));
+const TimelineInspector = lazy(() => import("./TimelineInspector"));
 const Timeline = lazy(() => import("./Timeline"));
 const Connections = lazy(() => import("./Connections"));
 const PAGE_SIZE = 24;
@@ -159,7 +160,11 @@ function App() {
     decodeURIComponent(location.hash.slice(1)) || null,
   );
   const [highlighted, setHighlighted] = useState<string | null>(null);
-  const highlight = useCallback((id: string) => setHighlighted(id), []);
+  const [inspected, setInspected] = useState<string | null>(null);
+  const highlight = useCallback((id: string) => {
+    setHighlighted(id);
+    setInspected(id);
+  }, []);
   const [menu, setMenu] = useState(false);
   const [page, setPage] = useState(0);
   const [timelinePage, setTimelinePage] = useState(0);
@@ -273,6 +278,8 @@ function App() {
   };
   const changeScope = (id: string) => {
     close();
+    setInspected(null);
+    setHighlighted(null);
     setScope(id);
     const url = new URL(location.href);
     url.searchParams.set("collection", id);
@@ -442,7 +449,9 @@ function App() {
     setQuery("");
   };
   return (
-    <div className="shell">
+    <div
+      className={`shell ${inspected && view === "Timelines" ? "inspector-open" : ""}`}
+    >
       <aside className={menu ? "sidebar open" : "sidebar"}>
         <a
           className="brand"
@@ -796,8 +805,11 @@ function App() {
                           {data.events.find((e) => e.id === highlighted)!.name}
                         </strong>
                         <span>Highlighted across threads</span>
-                        <button onClick={() => select(highlighted)}>
-                          Read event account
+                        <button
+                          className="show-event-details"
+                          onClick={() => setInspected(highlighted)}
+                        >
+                          <BookOpen size={16} /> Show details
                         </button>
                         <button onClick={() => setHighlighted(null)}>
                           Clear highlight
@@ -926,8 +938,8 @@ function App() {
                   <p className="view-note">
                     Numbered markers match this list. Hover or focus a marker
                     for its full title, date and source summary; click to
-                    highlight its connections and read the complete account
-                    using Read event account.
+                    highlight its connections and read the complete account in
+                    the details panel.
                   </p>
                   <Pager
                     page={timelinePage}
@@ -1288,6 +1300,23 @@ function App() {
           DARK TIME <span>A living archive. An open investigation.</span>
         </div>
       </main>
+      {inspected && data && view === "Timelines" && byId.get(inspected) && (
+        <Suspense
+          fallback={
+            <div className="timeline-inspector">Loading event details…</div>
+          }
+        >
+          <TimelineInspector
+            data={data}
+            entry={byId.get(inspected)!}
+            onClose={() => setInspected(null)}
+            onExplore={(id) => {
+              setInspected(id);
+              if (byId.get(id)?.kind === "event") setHighlighted(id);
+            }}
+          />
+        </Suspense>
+      )}
       {selected && data && (
         <div className="overlay" onClick={close}>
           <section

@@ -163,8 +163,11 @@ test("Gemstone markers explain source narrative, all date ticks show years, sour
   await expect(marker.first()).toHaveAttribute("aria-pressed", "true");
   await page.getByRole("button", { name: "Zoom in", exact: true }).click();
   await expect(page.locator(".highlighted-connection")).toHaveCount(1);
-  await page.getByRole("button", { name: "Read event account" }).click();
-  const dialog = page.getByRole("dialog");
+  await page.getByRole("button", { name: "Show details", exact: true }).click();
+  const dialog = page.getByRole("complementary", {
+    name: "Timeline event details",
+  });
+  await dialog.getByRole("tab", { name: "Source account" }).click();
   await expect(dialog).toContainText("What the source says");
   await expect(dialog).toContainText("Richard Carlson");
   await expect(dialog).toContainText("California vote shift");
@@ -174,7 +177,7 @@ test("Gemstone markers explain source narrative, all date ticks show years, sour
     path: "tmp/pdfs/dark-time-source-summary.png",
     fullPage: false,
   });
-  await page.getByRole("button", { name: "Close details" }).click();
+  await page.getByRole("button", { name: "Close timeline details" }).click();
   await page.locator(".timeline-layout").scrollIntoViewIfNeeded();
   await page.screenshot({
     path: "tmp/pdfs/dark-time-timeline.png",
@@ -281,4 +284,52 @@ test("timeline uses document scrolling and keeps source controls in view", async
   await expect(
     page.getByRole("checkbox", { name: /Include The Real Gemstone File/ }),
   ).toBeVisible();
+});
+
+test("event panel explores connections alongside the highlighted timeline", async ({
+  page,
+}) => {
+  await page.goto("/?collection=gemstone");
+  await page.getByLabel("Timeline period").selectOption("1967-1972");
+  await page.getByRole("button", { name: "Zoom in", exact: true }).click();
+  await page.waitForTimeout(400);
+  const marker = page.getByRole("button", {
+    name: "Nixon’s election and Roberts’ claimed leverage, 1968-11-05, day precision",
+    exact: true,
+  });
+  await marker.first().click();
+  const panel = page.getByRole("complementary", {
+    name: "Timeline event details",
+  });
+  await expect(panel).toBeVisible();
+  await expect(
+    panel.getByRole("heading", {
+      name: "Nixon’s election and Roberts’ claimed leverage",
+    }),
+  ).toBeVisible();
+  await expect(page.locator(".highlighted-connection")).toHaveCount(1);
+  const zoomed = await page.locator(".chart-footer [aria-live]").innerText();
+  await panel.getByRole("button", { name: /Richard Carlson/ }).click();
+  await expect(
+    panel.getByRole("heading", { name: "Richard Carlson", exact: true }),
+  ).toBeVisible();
+  await expect(panel.getByText("Events involving this record")).toBeVisible();
+  await expect(page.locator(".highlighted-connection")).toHaveCount(1);
+  await panel.getByRole("button", { name: "Back in event details" }).click();
+  await panel.getByRole("tab", { name: "Source account" }).click();
+  await expect(panel).toContainText("California vote shift");
+  await expect(panel).toContainText("Why this point connects the threads");
+  await page.evaluate(() => window.scrollBy(0, 300));
+  await expect(panel).toBeVisible();
+  await expect(page.locator(".chart-footer [aria-live]")).toHaveText(zoomed);
+  await expect(page.getByRole("dialog")).not.toBeVisible();
+  await page.screenshot({ path: "/tmp/darktime-inspector.png" });
+  await panel.getByRole("button", { name: "Close timeline details" }).click();
+  await expect(panel).not.toBeVisible();
+  await page.setViewportSize({ width: 390, height: 844 });
+  await marker.first().click();
+  await expect(panel).toBeVisible();
+  const bounds = await panel.boundingBox();
+  expect(bounds!.width).toBe(390);
+  expect(bounds!.height).toBeLessThan(440);
 });
