@@ -1,0 +1,1867 @@
+{
+  "version": 1,
+  "updated": "2026-10-14",
+  "sources": [
+    {
+      "id": "gemstone",
+      "title": "The Real Gemstone File \u00b7 Part One",
+      "url": "https://realgemstonefile.blogspot.com/",
+      "accessed": "2026-10-14",
+      "description": "Blog transcription of letters attributed to Bruce Porter Roberts. The supplied page ends mid-sentence on page 26 and marks missing or unreadable material. Initial extraction is selective, not exhaustive. No independent corroboration has yet been added."
+    }
+  ],
+  "people": [
+    {
+      "id": "roberts",
+      "name": "Bruce Porter Roberts",
+      "kind": "person",
+      "role": "Letter writer \u00b7 mineral experimenter",
+      "description": "Author of the letters transcribed on the blog. He frames personal disputes as the entry point to a much broader conspiracy. His causal allegations remain uncorroborated.",
+      "pages": [
+        1,
+        7,
+        10
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            1,
+            7,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nixon",
+      "name": "Richard Nixon",
+      "kind": "person",
+      "role": "Presidential candidate \u00b7 president",
+      "description": "Roberts describes seeking legal help from Nixon before the 1968 election and later sending him demands for federal intervention.",
+      "pages": [
+        1,
+        8,
+        15
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            1,
+            8,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mitchell",
+      "name": "John Mitchell",
+      "kind": "person",
+      "role": "Attorney \u00b7 Nixon associate",
+      "description": "Appears alongside Nixon as an intended recipient of Roberts\u2019 requests for legal representation.",
+      "pages": [
+        1,
+        24
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            1,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alioto",
+      "name": "Joseph Alioto",
+      "kind": "person",
+      "role": "San Francisco mayor",
+      "description": "Central to Roberts\u2019 account of a September 1968 collision and to his allegations concerning local political influence.",
+      "pages": [
+        3,
+        16
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nader",
+      "name": "Ralph Nader",
+      "kind": "person",
+      "role": "Consumer advocate",
+      "description": "Recipient of letters connecting Roberts\u2019 claims to Nader\u2019s litigation against General Motors.",
+      "pages": [
+        2,
+        4,
+        7
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            4,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fellmeth",
+      "name": "Robert Fellmeth",
+      "kind": "person",
+      "role": "Nader associate",
+      "description": "Roberts recounts discussions with Fellmeth about his letters and consumer investigations.",
+      "pages": [
+        2,
+        19,
+        20
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sorensen",
+      "name": "Ted Sorensen",
+      "kind": "person",
+      "role": "Attorney \u00b7 Kennedy adviser",
+      "description": "Spelled Sorenson in the transcription. Roberts links his legal work and Kennedy advisory role to the Nader settlement narrative.",
+      "pages": [
+        2,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rifkind",
+      "name": "Simon Rifkind",
+      "kind": "person",
+      "role": "Attorney",
+      "description": "Named as Sorensen\u2019s law partner and a participant in the settlement account.",
+      "pages": [
+        2
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goldberg",
+      "name": "Arthur Goldberg",
+      "kind": "person",
+      "role": "Attorney \u00b7 former justice",
+      "description": "Named in the same legal circle; the letters describe him employing Esther Newberg.",
+      "pages": [
+        2,
+        5
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ted-kennedy",
+      "name": "Edward Kennedy",
+      "kind": "person",
+      "role": "Senator",
+      "description": "Called Teddy throughout the letters. A central figure in Roberts\u2019 unverified interpretation of Chappaquiddick.",
+      "pages": [
+        2,
+        6,
+        19
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            6,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kopechne",
+      "name": "Mary Jo Kopechne",
+      "kind": "person",
+      "role": "Chappaquiddick passenger",
+      "description": "Her death anchors several threads in Roberts\u2019 narrative. The letters\u2019 claims about motive and conduct are not independently established here.",
+      "pages": [
+        3,
+        6,
+        19
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            6,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tunney",
+      "name": "John Tunney",
+      "kind": "person",
+      "role": "Political figure",
+      "description": "Roberts alleges calls involving Tunney linked California politics to Chappaquiddick.",
+      "pages": [
+        3,
+        6
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onassis",
+      "name": "Aristotle Onassis",
+      "kind": "person",
+      "role": "Shipping businessman",
+      "description": "Placed at the center of the author\u2019s allegations concerning Hughes, money, and political influence.",
+      "pages": [
+        12,
+        17,
+        18
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hughes",
+      "name": "Howard Hughes",
+      "kind": "person",
+      "role": "Businessman",
+      "description": "The letters allege his empire was taken over and contain conflicting alleged burial dates. Those claims are retained as source claims.",
+      "pages": [
+        12,
+        17,
+        20
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12,
+            17,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maheu",
+      "name": "Robert Maheu",
+      "kind": "person",
+      "role": "Hughes associate",
+      "description": "The source calls him Iron Bob and IBM, and makes unsubstantiated allegations about intelligence operations and assassinations.",
+      "pages": [
+        12,
+        16,
+        17
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carlson",
+      "name": "Richard Carlson",
+      "kind": "person",
+      "role": "Journalist",
+      "description": "Identified as a writer involved in the Alioto Mafia Web story and a target of Roberts\u2019 attempts to make contact.",
+      "pages": [
+        3,
+        16,
+        22
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            16,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brisson",
+      "name": "Lance Brisson",
+      "kind": "person",
+      "role": "Carlson associate",
+      "description": "Named alongside Carlson in a public-interest investigation associated with Neilson-Green.",
+      "pages": [
+        22,
+        23
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pongales",
+      "name": "Mary Pongales",
+      "kind": "person",
+      "role": "Neilson-Green secretary",
+      "description": "Roberts describes speaking with her while seeking Carlson in September 1971.",
+      "pages": [
+        22,
+        23
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoover",
+      "name": "J. Edgar Hoover",
+      "kind": "person",
+      "role": "FBI figure",
+      "description": "Named as a recipient of Roberts\u2019 materials and repeatedly associated with the author\u2019s allegations of concealment.",
+      "pages": [
+        3,
+        8,
+        12
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            8,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gayler",
+      "name": "Noel Gayler",
+      "kind": "person",
+      "role": "Admiral \u00b7 intelligence figure",
+      "description": "Roberts recounts a November 1970 visit and a discussion of minerals and possible travel.",
+      "pages": [
+        20
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mack",
+      "name": "John Mack",
+      "kind": "person",
+      "role": "Attorney",
+      "description": "Roberts describes approaching Mack for help and leaving experimental stones with him.",
+      "pages": [
+        24
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jfk",
+      "name": "John F. Kennedy",
+      "kind": "person",
+      "role": "President",
+      "description": "His assassination is woven into the letters\u2019 broader allegations; those alleged connections are unverified.",
+      "pages": [
+        6,
+        16,
+        18
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial profile from the blog transcription; independent verification pending."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            6,
+            16,
+            18
+          ]
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "gm",
+      "name": "General Motors",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Automotive company; the letters discuss litigation brought by Nader.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [],
+      "pages": [
+        2,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbi",
+      "name": "Federal Bureau of Investigation",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Federal investigation; the source alleges misuse of investigative power.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [
+        "hoover"
+      ],
+      "pages": [
+        8,
+        9,
+        12
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            8,
+            9,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cia",
+      "name": "Central Intelligence Agency",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Intelligence agency; repeatedly invoked in the source\u2019s conspiracy allegations.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [],
+      "pages": [
+        16,
+        20,
+        22
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            16,
+            20,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neilson-green",
+      "name": "Neilson-Green",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Private investigation firm associated in the account with a public-interest dog-pound investigation.",
+      "founders": "Neilson and Green are named; founding details are not established.",
+      "members": [
+        "pongales"
+      ],
+      "pages": [
+        16,
+        22,
+        23
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            16,
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "look",
+      "name": "Look magazine",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Publication associated with the Alioto Mafia Web article.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [],
+      "pages": [
+        3,
+        16,
+        24
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            16,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "un",
+      "name": "United Nations",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "International forum where Roberts proposes an inquiry.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [],
+      "pages": [
+        13,
+        14,
+        26
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            13,
+            14,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legal-firm",
+      "name": "Sorensen\u2013Rifkind legal circle",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Law practice described in connection with General Motors and Nader. This label is editorial; the source gives no formal firm name.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [
+        "sorensen",
+        "rifkind",
+        "goldberg"
+      ],
+      "pages": [
+        2,
+        4
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hughes-empire",
+      "name": "Hughes business interests",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Editorial umbrella for the business holdings discussed in the letters, not a single legal entity.",
+      "founders": "Not established in the supplied transcription.",
+      "members": [
+        "hughes",
+        "maheu"
+      ],
+      "pages": [
+        12,
+        17,
+        20
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12,
+            17,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nader-group",
+      "name": "Nader group",
+      "kind": "organization",
+      "role": "Organization",
+      "description": "Consumer and public-interest investigations described in the letters.",
+      "founders": "The source names Nader, Fellmeth and Cox as an original group.",
+      "members": [
+        "nader",
+        "fellmeth"
+      ],
+      "pages": [
+        2,
+        7
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Initial source-based directory entry."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            7
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "insurance",
+      "name": "Insurance dispute",
+      "kind": "event",
+      "role": "1967-04-01",
+      "description": "Roberts reports an insurance dispute after a woman entered the path of his car. He later alleges payment despite his winning the case.",
+      "date": "1967-04-01",
+      "precision": "month",
+      "lanes": [
+        "personal"
+      ],
+      "people": [
+        "roberts"
+      ],
+      "organizations": [],
+      "pages": [
+        6
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "collision",
+      "name": "The Franklin & Lombard collision",
+      "kind": "event",
+      "role": "1968-09-16",
+      "description": "Roberts alleges an Alioto-family hit-and-run on his car in San Francisco. Pages 3 and 12 give different times: 10:47 and 10:45 p.m. His claims about electoral consequences are uncorroborated.",
+      "date": "1968-09-16",
+      "precision": "day",
+      "lanes": [
+        "personal",
+        "politics",
+        "chappaquiddick"
+      ],
+      "people": [
+        "roberts",
+        "alioto",
+        "carlson",
+        "nixon"
+      ],
+      "organizations": [],
+      "pages": [
+        3,
+        12,
+        15
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            12,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legal-help",
+      "name": "Seeking help from Nixon",
+      "kind": "event",
+      "role": "1968-10-01",
+      "description": "Roberts recalls approaching candidate Nixon and Mitchell with papers and evidence. The month is given; no exact day is supplied.",
+      "date": "1968-10-01",
+      "precision": "month",
+      "lanes": [
+        "personal",
+        "politics"
+      ],
+      "people": [
+        "roberts",
+        "nixon",
+        "mitchell"
+      ],
+      "organizations": [],
+      "pages": [
+        15,
+        18,
+        24
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            15,
+            18,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "election",
+      "name": "1968 election referenced",
+      "kind": "event",
+      "role": "1968-11-05",
+      "description": "The letters make the election a turning point in Roberts\u2019 account. The date is a normalized calendar date; his claim to have caused the outcome is unverified.",
+      "date": "1968-11-05",
+      "precision": "day",
+      "lanes": [
+        "politics",
+        "personal"
+      ],
+      "people": [
+        "nixon",
+        "roberts",
+        "carlson"
+      ],
+      "organizations": [
+        "look"
+      ],
+      "pages": [
+        3,
+        18
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chappaquiddick-event",
+      "name": "Chappaquiddick",
+      "kind": "event",
+      "role": "1969-07-18",
+      "description": "The letters revisit Kopechne\u2019s death and allege a connection to California political disputes. The calendar date is editorial context; the source\u2019s motive and conspiracy claims are unverified.",
+      "date": "1969-07-18",
+      "precision": "day",
+      "lanes": [
+        "chappaquiddick",
+        "politics",
+        "personal"
+      ],
+      "people": [
+        "kopechne",
+        "ted-kennedy",
+        "tunney",
+        "roberts"
+      ],
+      "organizations": [],
+      "pages": [
+        6,
+        19
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            6,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "id": "look-story",
+      "name": "Alioto article appears",
+      "kind": "event",
+      "role": "1969-08-01",
+      "description": "Roberts places Carlson\u2019s Look article in August after Chappaquiddick, alleging it concealed his collision account. Exact publication day is not established here.",
+      "date": "1969-08-01",
+      "precision": "month",
+      "lanes": [
+        "politics",
+        "personal"
+      ],
+      "people": [
+        "alioto",
+        "carlson",
+        "roberts"
+      ],
+      "organizations": [
+        "look"
+      ],
+      "pages": [
+        24
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ultimatum",
+      "name": "Roberts\u2019 ultimatum",
+      "kind": "event",
+      "role": "1970-04-23",
+      "description": "Roberts says he submitted an ultimatum to Nixon seeking action on his allegations.",
+      "date": "1970-04-23",
+      "precision": "day",
+      "lanes": [
+        "personal",
+        "politics"
+      ],
+      "people": [
+        "roberts",
+        "nixon",
+        "mitchell",
+        "hoover"
+      ],
+      "organizations": [],
+      "pages": [
+        15
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "court",
+      "name": "Traffic-court appearance",
+      "kind": "event",
+      "role": "1970-04-28",
+      "description": "Roberts describes dismissal of a traffic ticket and alleges a causal connection to Nixon\u2019s Cambodia decision. This archive does not establish that causal link.",
+      "date": "1970-04-28",
+      "precision": "day",
+      "lanes": [
+        "personal",
+        "politics"
+      ],
+      "people": [
+        "roberts",
+        "nixon"
+      ],
+      "organizations": [],
+      "pages": [
+        8
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nader-letter",
+      "name": "First letter to Nader",
+      "kind": "event",
+      "role": "1970-08-10",
+      "description": "Roberts dates a letter to Nader to the day after a televised interview, and describes calls to two newspapers.",
+      "date": "1970-08-10",
+      "precision": "day",
+      "lanes": [
+        "nader",
+        "personal",
+        "chappaquiddick"
+      ],
+      "people": [
+        "roberts",
+        "nader",
+        "sorensen"
+      ],
+      "organizations": [
+        "gm"
+      ],
+      "pages": [
+        4
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "settlement",
+      "name": "Nader settlement account",
+      "kind": "event",
+      "role": "1970-08-14",
+      "description": "Roberts places a General Motors settlement around August 14 and alleges his letter caused it. The transcription gives both $467,000 and $457,000 in different passages.",
+      "date": "1970-08-14",
+      "precision": "approximate",
+      "lanes": [
+        "nader",
+        "politics"
+      ],
+      "people": [
+        "nader",
+        "sorensen",
+        "rifkind",
+        "roberts"
+      ],
+      "organizations": [
+        "gm",
+        "legal-firm"
+      ],
+      "pages": [
+        2,
+        4,
+        20
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2,
+            4,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gayler-visit",
+      "name": "Reported visit from Gayler",
+      "kind": "event",
+      "role": "1970-11-01",
+      "description": "Roberts recounts a visit from Gayler concerning minerals and travel. No exact day is given.",
+      "date": "1970-11-01",
+      "precision": "month",
+      "lanes": [
+        "personal",
+        "hughes"
+      ],
+      "people": [
+        "roberts",
+        "gayler"
+      ],
+      "organizations": [],
+      "pages": [
+        20
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hughes-burial",
+      "name": "Alleged Hughes burial",
+      "kind": "event",
+      "role": "1971-04-16",
+      "description": "The source alleges burial at sea near Greece, but gives April 16 on page 17 and April 18 on page 12. Neither the death claim nor either date is verified here.",
+      "date": "1971-04-16",
+      "precision": "disputed",
+      "lanes": [
+        "hughes",
+        "politics"
+      ],
+      "people": [
+        "hughes",
+        "onassis",
+        "maheu"
+      ],
+      "organizations": [
+        "hughes-empire"
+      ],
+      "pages": [
+        12,
+        17
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neilson",
+      "name": "Contact with Neilson-Green",
+      "kind": "event",
+      "role": "1971-09-27",
+      "description": "Roberts recounts contacting the investigation firm in search of Carlson, then speaking with Pongales. His characterization of the firm as a CIA front is unverified.",
+      "date": "1971-09-27",
+      "precision": "day",
+      "lanes": [
+        "personal",
+        "nader",
+        "politics"
+      ],
+      "people": [
+        "roberts",
+        "carlson",
+        "brisson",
+        "pongales"
+      ],
+      "organizations": [
+        "neilson-green",
+        "cia"
+      ],
+      "pages": [
+        16,
+        22,
+        23
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            16,
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nov-letter",
+      "name": "November letter to Nader",
+      "kind": "event",
+      "role": "1971-11-25",
+      "description": "A letter heading dates a renewed account addressed to Nader, revisiting the September contact and earlier allegations.",
+      "date": "1971-11-25",
+      "precision": "day",
+      "lanes": [
+        "nader",
+        "hughes",
+        "personal"
+      ],
+      "people": [
+        "roberts",
+        "nader"
+      ],
+      "organizations": [],
+      "pages": [
+        16
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "un-proposal",
+      "name": "Proposal for an international inquiry",
+      "kind": "event",
+      "role": "1971-12-02",
+      "description": "Roberts proposes an open, United Nations-based inquiry modeled on the Knapp Commission. This is a proposal, not an established UN proceeding.",
+      "date": "1971-12-02",
+      "precision": "day",
+      "lanes": [
+        "personal",
+        "politics"
+      ],
+      "people": [
+        "roberts"
+      ],
+      "organizations": [
+        "un"
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dec-note",
+      "name": "December note",
+      "kind": "event",
+      "role": "1971-12-10",
+      "description": "A dated note revisits the Nader settlement, legal relationships and the author\u2019s political allegations.",
+      "date": "1971-12-10",
+      "precision": "day",
+      "lanes": [
+        "nader",
+        "politics"
+      ],
+      "people": [
+        "roberts",
+        "nader",
+        "sorensen",
+        "rifkind",
+        "goldberg"
+      ],
+      "organizations": [
+        "gm",
+        "legal-firm"
+      ],
+      "pages": [
+        2
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insert",
+      "name": "Three-key summary inserted",
+      "kind": "event",
+      "role": "1972-02-14",
+      "description": "An insertion dated approximately February 14, 1972 summarizes the author\u2019s collision, Chappaquiddick and Hughes allegations.",
+      "date": "1972-02-14",
+      "precision": "approximate",
+      "lanes": [
+        "personal",
+        "chappaquiddick",
+        "hughes"
+      ],
+      "people": [
+        "roberts",
+        "alioto",
+        "hughes",
+        "onassis",
+        "maheu"
+      ],
+      "organizations": [],
+      "pages": [
+        12
+      ],
+      "status": "Source account \u00b7 unverified",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from dated passages in the supplied transcription."
+        }
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12
+          ]
+        }
+      ]
+    }
+  ],
+  "lanes": [
+    {
+      "id": "personal",
+      "name": "Roberts\u2019 personal account",
+      "color": "#c9aa76"
+    },
+    {
+      "id": "politics",
+      "name": "Politics & influence",
+      "color": "#9fabc8"
+    },
+    {
+      "id": "chappaquiddick",
+      "name": "Chappaquiddick narrative",
+      "color": "#a9bfa8"
+    },
+    {
+      "id": "nader",
+      "name": "Nader & the letters",
+      "color": "#cd9390"
+    },
+    {
+      "id": "hughes",
+      "name": "Hughes business narrative",
+      "color": "#b3a0bf"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r0",
+      "fromId": "roberts",
+      "toId": "nader",
+      "label": "Letter addressed to",
+      "pages": [
+        1
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r1",
+      "fromId": "nixon",
+      "toId": "mitchell",
+      "label": "Legal / campaign association described",
+      "pages": [
+        1
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "fromId": "ted-kennedy",
+      "toId": "kopechne",
+      "label": "Chappaquiddick participants",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "fromId": "ted-kennedy",
+      "toId": "tunney",
+      "label": "Political association described",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "fromId": "onassis",
+      "toId": "hughes",
+      "label": "Alleged takeover \u2014 unverified",
+      "pages": [
+        12
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "fromId": "maheu",
+      "toId": "hughes-empire",
+      "label": "Business association described",
+      "pages": [
+        12
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "fromId": "carlson",
+      "toId": "look",
+      "label": "Article writer described",
+      "pages": [
+        3
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "fromId": "carlson",
+      "toId": "brisson",
+      "label": "Public-interest project described",
+      "pages": [
+        3
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "fromId": "pongales",
+      "toId": "neilson-green",
+      "label": "Secretary described",
+      "pages": [
+        22
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r9",
+      "fromId": "hoover",
+      "toId": "fbi",
+      "label": "Agency leadership described",
+      "pages": [
+        3
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "fromId": "nader",
+      "toId": "nader-group",
+      "label": "Consumer advocacy",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "fromId": "fellmeth",
+      "toId": "nader-group",
+      "label": "Associate described",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "fromId": "sorensen",
+      "toId": "legal-firm",
+      "label": "Partner described",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "fromId": "rifkind",
+      "toId": "legal-firm",
+      "label": "Partner described",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "fromId": "goldberg",
+      "toId": "legal-firm",
+      "label": "Partner described",
+      "pages": [
+        2
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "fromId": "roberts",
+      "toId": "mack",
+      "label": "Request for assistance",
+      "pages": [
+        1
+      ],
+      "citations": [
+        {
+          "sourceId": "gemstone",
+          "pages": [
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}
