@@ -39,6 +39,7 @@ test("collection loading, timeline zoom, precision filters and linked records", 
   await expect(page.locator(".result-count")).not.toHaveText(
     "90 matching events",
   );
+  await page.locator(".thread-controls > summary").click();
   await page.getByRole("button", { name: "Hide all", exact: true }).click();
   await expect(
     page.getByText("Select a timeline thread to start exploring."),
@@ -157,6 +158,12 @@ test("Gemstone markers explain source narrative, all date ticks show years, sour
     "became evasive afterward",
   );
   await marker.first().click();
+  await expect(page.getByRole("dialog")).not.toBeVisible();
+  await expect(page.locator(".highlighted-connection")).toHaveCount(1);
+  await expect(marker.first()).toHaveAttribute("aria-pressed", "true");
+  await page.getByRole("button", { name: "Zoom in", exact: true }).click();
+  await expect(page.locator(".highlighted-connection")).toHaveCount(1);
+  await page.getByRole("button", { name: "Read event account" }).click();
   const dialog = page.getByRole("dialog");
   await expect(dialog).toContainText("What the source says");
   await expect(dialog).toContainText("Richard Carlson");
@@ -207,6 +214,7 @@ test("arbitrary source overlays expose cited shared actors and attributed influe
   await expect(page.getByLabel("Timeline participant")).toHaveValue(
     "winston-churchill",
   );
+  await page.locator(".event-list-fold > summary").click();
   await expect(page.locator(".timeline-event-list")).toContainText(
     "Roberts alleges a 1932",
   );
@@ -252,4 +260,25 @@ test("complete export includes all sources and on-demand event narratives", asyn
       e.sourceSummaries?.some((s) => s.details.length >= 2),
     ),
   ).toBeTruthy();
+});
+
+test("timeline uses document scrolling and keeps source controls in view", async ({
+  page,
+}) => {
+  await page.goto("/?collection=gemstone,anglo");
+  await expect(page.locator(".timeline svg")).toBeVisible();
+  await page.locator(".timeline-layout").scrollIntoViewIfNeeded();
+  const nestedScroll = await page
+    .locator(".timeline-layout, .chart-scroll, .sidebar")
+    .evaluateAll((elements) =>
+      elements.some((el) => /auto|scroll/.test(getComputedStyle(el).overflowY)),
+    );
+  expect(nestedScroll).toBe(false);
+  await page.evaluate(() => window.scrollBy(0, 700));
+  const bounds = await page.locator(".timeline-selection-bar").boundingBox();
+  expect(bounds!.y).toBeGreaterThanOrEqual(0);
+  expect(bounds!.y).toBeLessThan(50);
+  await expect(
+    page.getByRole("checkbox", { name: /Include The Real Gemstone File/ }),
+  ).toBeVisible();
 });

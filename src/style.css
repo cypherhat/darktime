@@ -1618,3 +1618,120 @@ select {
   margin: 0 0 12px;
   color: #c4b085;
 }
+
+/* One document scroll; timeline navigation uses the diagram's pan/zoom. */
+.sidebar {
+  overflow: visible;
+}
+.sidebar-note summary,
+.thread-controls > summary,
+.event-list-fold > summary,
+.source-picker > summary {
+  cursor: pointer;
+  color: #d3b889;
+  padding: 12px 0;
+  font-size: 12px;
+}
+.sidebar-note {
+  margin-top: 20px;
+  padding: 12px 8px;
+}
+.sidebar-note[open] .collection-nav {
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  background: #20261e;
+  padding: 12px;
+  border: 1px solid #59604c;
+  z-index: 20;
+}
+.sidebar-note p {
+  display: none;
+}
+.timeline-layout {
+  max-height: none;
+  overflow: visible;
+}
+.chart-scroll {
+  overflow: visible;
+}
+.chart-scroll > svg {
+  min-width: 0;
+  touch-action: pan-y;
+}
+.detail .links {
+  max-height: none;
+  overflow: visible;
+}
+.timeline-selection-bar {
+  position: sticky;
+  top: 0;
+  z-index: 8;
+  background: #171d17;
+  border: 1px solid #414936;
+  padding: 0 16px;
+  box-shadow: 0 5px 15px #10141088;
+}
+.timeline-selection-bar .source-selection {
+  margin: 0 0 10px;
+  border: 0;
+  padding: 0;
+}
+.timeline-selection-bar .source-selection legend {
+  display: none;
+}
+.selected-event-strip {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 12px 0;
+  border-top: 1px solid #414936;
+}
+.selected-event-strip strong {
+  flex: 1;
+  min-width: 180px;
+  font-size: 13px;
+  color: #e3d1a9;
+}
+.selected-event-strip span {
+  font-size: 10px;
+  color: #a9b39a;
+}
+.selected-event-strip button {
+  border: 1px solid #786d50;
+  padding: 8px;
+  font-size: 11px;
+}
+.thread-controls,
+.event-list-fold {
+  margin: 16px 0;
+  border-bottom: 1px solid #414936;
+}
+.highlighted-event circle:not([fill="transparent"]) {
+  stroke: #fff3cf;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 4px #d3b889);
+}
+.chart-toolbar {
+  position: static;
+}
+@media (max-height: 750px) and (min-width: 801px) {
+  .sidebar {
+    padding-top: 20px;
+  }
+  .sidebar nav {
+    margin-top: 25px;
+  }
+  .sidebar footer {
+    display: none;
+  }
+}
+@media (max-width: 800px) {
+  .timeline-layout {
+    max-height: none;
+  }
+  .timeline-selection-bar {
+    padding: 0 8px;
+  }
+}

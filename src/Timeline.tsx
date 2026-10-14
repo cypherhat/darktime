@@ -10,6 +10,7 @@ interface Props {
   range: [number, number] | null;
   overlayLinks: boolean;
   sourceIds: string[];
+  highlightedId: string | null;
 }
 export default function Timeline({
   data,
@@ -19,12 +20,39 @@ export default function Timeline({
   range,
   overlayLinks,
   sourceIds,
+  highlightedId,
 }: Props) {
   const [hover, setHover] = useState<{
     entry: Entry;
     x: number;
     y: number;
   } | null>(null);
+  const highlightedRef = useRef(highlightedId);
+  highlightedRef.current = highlightedId;
+  const applyHighlight = () => {
+    const svg = d3.select(ref.current);
+    const selected = highlightedRef.current;
+    svg.selectAll<SVGElement, unknown>("[data-from]").each(function () {
+      const related =
+        this.dataset.from === selected || this.dataset.to === selected;
+      d3.select(this)
+        .attr("stroke-width", related ? 4 : this.dataset.baseWidth || 1)
+        .attr(
+          "stroke-opacity",
+          selected ? (related ? 1 : 0.12) : this.dataset.baseOpacity || 0.3,
+        )
+        .classed("highlighted-connection", !!selected && related);
+    });
+    svg
+      .selectAll<SVGElement, unknown>("[data-event-id]")
+      .classed("highlighted-event", function () {
+        return this.dataset.eventId === selected;
+      })
+      .attr("aria-pressed", function () {
+        return this.dataset.eventId === selected ? "true" : "false";
+      });
+  };
+  useEffect(applyHighlight, [highlightedId]);
   const ref = useRef<SVGSVGElement>(null);
   const [width, setWidth] = useState(800);
   const [windowLabel, setWindowLabel] = useState("");
@@ -35,7 +63,7 @@ export default function Timeline({
     const el = ref.current;
     if (!el) return;
     const observer = new ResizeObserver(([box]) =>
-      setWidth(Math.max(650, box.contentRect.width)),
+      setWidth(Math.max(220, box.contentRect.width)),
     );
     observer.observe(el.parentElement!);
     return () => observer.disconnect();
@@ -201,6 +229,10 @@ export default function Timeline({
           if (Math.max(ax, bx) < 0 || Math.min(ax, bx) > width) return;
           const curve = connectionLayer
             .append("path")
+            .attr("data-from", a.id)
+            .attr("data-to", b.id)
+            .attr("data-base-width", solid ? 1.4 : 1)
+            .attr("data-base-opacity", solid ? 0.7 : 0.4)
             .attr(
               "d",
               `M${ax},${ay} C${ax + (bx - ax) * 0.33},${ay - 35} ${ax + (bx - ax) * 0.67},${by - 35} ${bx},${by}`,
@@ -268,6 +300,12 @@ export default function Timeline({
         if (belongs.length > 1)
           connectionLayer
             .append("line")
+            .attr("data-from", e.id)
+            .attr("data-to", e.id)
+            .attr("data-base-width", 1)
+            .attr("data-base-opacity", 0.3)
+            .style("cursor", "pointer")
+            .on("click", () => onSelect(e.id))
             .attr("x1", px)
             .attr("x2", px)
             .attr("y1", pointY(e, belongs[0]))
@@ -279,6 +317,7 @@ export default function Timeline({
           const l = visibleLanes.find((l) => l.id === id)!;
           const g = markLayer
             .append("g")
+            .attr("data-event-id", e.id)
             .attr("tabindex", 0)
             .attr("role", "button")
             .attr(
@@ -372,9 +411,13 @@ export default function Timeline({
             ends[row] = px + labelWidth;
           });
       });
+      applyHighlight();
     }
     const behavior = d3
       .zoom<SVGSVGElement, unknown>()
+      .filter((event) =>
+        event.type === "wheel" ? event.ctrlKey || event.metaKey : !event.button,
+      )
       .scaleExtent([1, 2000])
       .extent([
         [0, 0],
@@ -424,7 +467,7 @@ export default function Timeline({
   return (
     <>
       <div className="chart-toolbar">
-        <span>SCROLL TO ZOOM · DRAG TO EXPLORE</span>
+        <span>CTRL + SCROLL TO ZOOM · DRAG TO EXPLORE</span>
         <div>
           {[
             ["left", "←"],
@@ -488,7 +531,10 @@ export default function Timeline({
             {hover.entry.sourceSummaries?.[0]?.summary ||
               hover.entry.description}
           </p>
-          <small>Click or press Enter to read the source account.</small>
+          <small>
+            Click or press Enter to highlight connections. Use Read event
+            account for details.
+          </small>
         </div>
       )}
     </>

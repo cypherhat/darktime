@@ -158,6 +158,8 @@ function App() {
   const [selected, setSelected] = useState<string | null>(
     decodeURIComponent(location.hash.slice(1)) || null,
   );
+  const [highlighted, setHighlighted] = useState<string | null>(null);
+  const highlight = useCallback((id: string) => setHighlighted(id), []);
   const [menu, setMenu] = useState(false);
   const [page, setPage] = useState(0);
   const [timelinePage, setTimelinePage] = useState(0);
@@ -488,7 +490,8 @@ function App() {
             </button>
           ))}
         </nav>
-        <div className="sidebar-note">
+        <details className="sidebar-note">
+          <summary>Collections</summary>
           <span className="tiny-label">
             COLLECTIONS / {catalog.sources.length}
           </span>
@@ -514,7 +517,7 @@ function App() {
             Each collection keeps its own provenance. Connections require a
             cited relationship.
           </p>
-        </div>
+        </details>
         <footer>
           <span className="live-dot" /> An evolving record
           <small>LAST UPDATED · OCT 14, 2026</small>
@@ -597,40 +600,6 @@ function App() {
             ))}
           </select>
         </div>
-        <fieldset className="source-selection">
-          <legend>Choose sources to overlay</legend>
-          {catalog.sources.map((s) => (
-            <label key={s.id}>
-              <input
-                type="checkbox"
-                aria-label={`Include ${s.title}`}
-                checked={selectedSources.includes(s.id)}
-                disabled={
-                  selectedSources.length === 1 && selectedSources.includes(s.id)
-                }
-                onChange={() => toggleSource(s.id)}
-              />
-              <span>
-                {s.id === "gemstone"
-                  ? "Gemstone letters"
-                  : s.author === "Carroll Quigley"
-                    ? "Quigley"
-                    : s.author === "Peter Dale Scott"
-                      ? "Peter Dale Scott"
-                      : "Carl Oglesby"}
-                <small>
-                  {s.id === "gemstone"
-                    ? "Personal allegations"
-                    : s.id === "anglo"
-                      ? "Historical study"
-                      : s.id === "scott"
-                        ? "Political analysis"
-                        : "Interpretive account"}
-                </small>
-              </span>
-            </label>
-          ))}
-        </fieldset>
         <div className="stats">
           {[
             [counts.people, "CHARACTERS"],
@@ -779,38 +748,98 @@ function App() {
                     )}
                   </div>
                 )}
-                <div className="thread-heading">
-                  <span className="tiny-label">
-                    {active.length} / {data.lanes.length} THREADS VISIBLE
-                  </span>
-                  <div>
-                    <button
-                      onClick={() => setActive(data.lanes.map((l) => l.id))}
-                    >
-                      Show all
-                    </button>
-                    <button onClick={() => setActive([])}>Hide all</button>
+                <div className="timeline-selection-bar">
+                  <details className="source-picker" open>
+                    <summary>
+                      Sources to overlay · {selectedSources.length} selected
+                    </summary>
+                    <fieldset className="source-selection">
+                      <legend>Choose sources to overlay</legend>
+                      {catalog.sources.map((s) => (
+                        <label key={s.id}>
+                          <input
+                            type="checkbox"
+                            aria-label={`Include ${s.title}`}
+                            checked={selectedSources.includes(s.id)}
+                            disabled={
+                              selectedSources.length === 1 &&
+                              selectedSources.includes(s.id)
+                            }
+                            onChange={() => toggleSource(s.id)}
+                          />
+                          <span>
+                            {s.id === "gemstone"
+                              ? "Gemstone letters"
+                              : s.author === "Carroll Quigley"
+                                ? "Quigley"
+                                : s.author === "Peter Dale Scott"
+                                  ? "Peter Dale Scott"
+                                  : "Carl Oglesby"}
+                            <small>
+                              {s.id === "gemstone"
+                                ? "Personal allegations"
+                                : s.id === "anglo"
+                                  ? "Historical study"
+                                  : s.id === "scott"
+                                    ? "Political analysis"
+                                    : "Interpretive account"}
+                            </small>
+                          </span>
+                        </label>
+                      ))}
+                    </fieldset>
+                  </details>
+                  {highlighted &&
+                    data.events.find((e) => e.id === highlighted) && (
+                      <div className="selected-event-strip" aria-live="polite">
+                        <strong>
+                          {data.events.find((e) => e.id === highlighted)!.name}
+                        </strong>
+                        <span>Highlighted across threads</span>
+                        <button onClick={() => select(highlighted)}>
+                          Read event account
+                        </button>
+                        <button onClick={() => setHighlighted(null)}>
+                          Clear highlight
+                        </button>
+                      </div>
+                    )}
+                </div>
+                <details className="thread-controls">
+                  <summary>Timeline threads · {active.length} visible</summary>
+                  <div className="thread-heading">
+                    <span className="tiny-label">
+                      {active.length} / {data.lanes.length} THREADS VISIBLE
+                    </span>
+                    <div>
+                      <button
+                        onClick={() => setActive(data.lanes.map((l) => l.id))}
+                      >
+                        Show all
+                      </button>
+                      <button onClick={() => setActive([])}>Hide all</button>
+                    </div>
                   </div>
-                </div>
-                <div className="thread-filters">
-                  {data.lanes.map((l) => (
-                    <button
-                      key={l.id}
-                      aria-pressed={active.includes(l.id)}
-                      className={active.includes(l.id) ? "selected" : ""}
-                      onClick={() =>
-                        setActive(
-                          active.includes(l.id)
-                            ? active.filter((i) => i !== l.id)
-                            : [...active, l.id],
-                        )
-                      }
-                    >
-                      <span style={{ background: l.color }} />
-                      {l.name}
-                    </button>
-                  ))}
-                </div>
+                  <div className="thread-filters">
+                    {data.lanes.map((l) => (
+                      <button
+                        key={l.id}
+                        aria-pressed={active.includes(l.id)}
+                        className={active.includes(l.id) ? "selected" : ""}
+                        onClick={() =>
+                          setActive(
+                            active.includes(l.id)
+                              ? active.filter((i) => i !== l.id)
+                              : [...active, l.id],
+                          )
+                        }
+                      >
+                        <span style={{ background: l.color }} />
+                        {l.name}
+                      </button>
+                    ))}
+                  </div>
+                </details>
                 {!active.length ? (
                   <div className="empty">
                     Select a timeline thread to start exploring.
@@ -853,7 +882,8 @@ function App() {
                           data={data}
                           events={events}
                           active={active}
-                          onSelect={select}
+                          onSelect={highlight}
+                          highlightedId={highlighted}
                           range={range}
                           overlayLinks={overlayLinks}
                           sourceIds={selectedSources}
@@ -882,65 +912,69 @@ function App() {
                     participant.
                   </p>
                 )}
-                <div className="section-heading recent-heading">
-                  <h2>Events on these threads</h2>
-                  <button
-                    className="text-button"
-                    onClick={() => setView("Events")}
-                  >
-                    Open event inventory <ArrowUpRight size={14} />
-                  </button>
-                </div>
-                <p className="view-note">
-                  Numbered markers match this list. Hover or focus a marker for
-                  its full title, date and source summary; click to read the
-                  complete account.
-                </p>
-                <Pager
-                  page={timelinePage}
-                  total={plottedEvents.length}
-                  onChange={setTimelinePage}
-                />
-                <div className="timeline-event-list">
-                  {plottedEvents
-                    .slice(
-                      timelinePage * PAGE_SIZE,
-                      (timelinePage + 1) * PAGE_SIZE,
-                    )
-                    .map((e, i) => (
-                      <button
-                        className="timeline-event-row"
-                        key={e.id}
-                        onClick={() => select(e.id)}
-                      >
-                        <span className="event-number">
-                          {timelinePage * PAGE_SIZE + i + 1}
-                        </span>
-                        <div>
-                          <span className="tiny-label">
-                            {dateLabel(e)} · {e.precision}
+                <details className="event-list-fold">
+                  <summary>Event list · {plottedEvents.length} events</summary>
+                  <div className="section-heading recent-heading">
+                    <h2>Events on these threads</h2>
+                    <button
+                      className="text-button"
+                      onClick={() => setView("Events")}
+                    >
+                      Open event inventory <ArrowUpRight size={14} />
+                    </button>
+                  </div>
+                  <p className="view-note">
+                    Numbered markers match this list. Hover or focus a marker
+                    for its full title, date and source summary; click to
+                    highlight its connections and read the complete account
+                    using Read event account.
+                  </p>
+                  <Pager
+                    page={timelinePage}
+                    total={plottedEvents.length}
+                    onChange={setTimelinePage}
+                  />
+                  <div className="timeline-event-list">
+                    {plottedEvents
+                      .slice(
+                        timelinePage * PAGE_SIZE,
+                        (timelinePage + 1) * PAGE_SIZE,
+                      )
+                      .map((e, i) => (
+                        <button
+                          className="timeline-event-row"
+                          key={e.id}
+                          onClick={() => select(e.id)}
+                        >
+                          <span className="event-number">
+                            {timelinePage * PAGE_SIZE + i + 1}
                           </span>
-                          <h3>{e.name}</h3>
-                          <p>{labelFor(e, scope)}</p>
-                          <span className="event-thread-names">
-                            {e
-                              .lanes!.filter((id) => active.includes(id))
-                              .map(
-                                (id) =>
-                                  data.lanes.find((l) => l.id === id)?.name,
-                              )
-                              .join(" · ")}
-                          </span>
-                        </div>
-                        <ArrowUpRight size={16} />
-                      </button>
-                    ))}
-                </div>
-                <Pager
-                  page={timelinePage}
-                  total={plottedEvents.length}
-                  onChange={setTimelinePage}
-                />
+                          <div>
+                            <span className="tiny-label">
+                              {dateLabel(e)} · {e.precision}
+                            </span>
+                            <h3>{e.name}</h3>
+                            <p>{labelFor(e, scope)}</p>
+                            <span className="event-thread-names">
+                              {e
+                                .lanes!.filter((id) => active.includes(id))
+                                .map(
+                                  (id) =>
+                                    data.lanes.find((l) => l.id === id)?.name,
+                                )
+                                .join(" · ")}
+                            </span>
+                          </div>
+                          <ArrowUpRight size={16} />
+                        </button>
+                      ))}
+                  </div>
+                  <Pager
+                    page={timelinePage}
+                    total={plottedEvents.length}
+                    onChange={setTimelinePage}
+                  />
+                </details>
               </>
             ) : view === "Connections" ? (
               <>
