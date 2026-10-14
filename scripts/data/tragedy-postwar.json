@@ -1,0 +1,3586 @@
+{
+  "coverage": "Substantive reading of PDF pages 793\u2013994, covering nuclear strategy, Korea, Eisenhower institutions, Soviet succession, Iran, Suez, Cuba, and Asian/African decolonization; selected late-book analysis pp 1011,1031\u20131034 and concluding 1963\u20131964 developments pp 1088\u20131090. Summaries exclude recognizable bracketed editorial interpolations. Citations use PDF page numbers, not printed-page labels.",
+  "people": [
+    {
+      "id": "lewis-strauss",
+      "name": "Lewis L. Strauss",
+      "role": "Investment banker and Atomic Energy Commission chairman",
+      "description": "Quigley connects Strauss\u2019s investment-banking background with his leadership of the AEC and his opposition to Oppenheimer. The book portrays him as a central advocate of secrecy and nuclear strategy associated with the Eisenhower administration.",
+      "pages": [
+        793,
+        799,
+        824
+      ]
+    },
+    {
+      "id": "robert-oppenheimer",
+      "name": "J. Robert Oppenheimer",
+      "role": "Physicist and nuclear policy adviser",
+      "description": "Quigley emphasizes Oppenheimer\u2019s advocacy of diversified nuclear weapons, tactical defense and air defense, and treats the loss of his security clearance as an institutional struggle over strategy rather than proof of espionage.",
+      "pages": [
+        796,
+        802,
+        824,
+        826,
+        903
+      ]
+    },
+    {
+      "id": "edward-teller",
+      "name": "Edward Teller",
+      "role": "Physicist and hydrogen-bomb advocate",
+      "description": "Quigley describes Teller\u2019s lobbying for thermonuclear development and a second weapons laboratory, but distinguishes that campaign from the work at Los Alamos that produced the tested devices.",
+      "pages": [
+        794,
+        798,
+        800
+      ]
+    },
+    {
+      "id": "stanislaw-ulam",
+      "name": "Stanislaw Ulam",
+      "role": "Mathematician",
+      "description": "Quigley credits Ulam\u2019s February 1951 suggestion with opening the successful route to thermonuclear development, alongside Teller\u2019s subsequent presentation of the idea.",
+      "pages": [
+        798
+      ]
+    },
+    {
+      "id": "paul-nitze",
+      "name": "Paul H. Nitze",
+      "role": "State Department policy-planning official",
+      "description": "Quigley identifies Nitze\u2019s policy-planning staff as the sponsor of NSC 68, a balanced defense strategy that conflicted with reliance on strategic bombing alone.",
+      "pages": [
+        802,
+        803
+      ]
+    },
+    {
+      "id": "dean-acheson",
+      "name": "Dean Acheson",
+      "role": "United States secretary of state",
+      "description": "Quigley discusses Acheson\u2019s 1950 Pacific defense-perimeter speech as a distinction between unilateral guarantees and collective defense, and later concessions to domestic anti-Communist pressure.",
+      "pages": [
+        803,
+        812
+      ]
+    },
+    {
+      "id": "douglas-macarthur",
+      "name": "Douglas MacArthur",
+      "role": "General and occupation commander",
+      "description": "Quigley connects MacArthur\u2019s Pacific defense perimeter, Korean command and dismissal with American strategic disagreements; he also discusses occupation policy in Japan.",
+      "pages": [
+        803,
+        805,
+        808,
+        957
+      ]
+    },
+    {
+      "id": "joseph-stalin",
+      "name": "Joseph Stalin",
+      "role": "Soviet leader",
+      "description": "Quigley portrays Stalin\u2019s rule through rival hierarchies of party, state, army and police, and treats his death as the opening of a five-year succession struggle.",
+      "pages": [
+        833,
+        836,
+        837
+      ]
+    },
+    {
+      "id": "nikita-khrushchev",
+      "name": "Nikita Khrushchev",
+      "role": "Soviet party leader and premier",
+      "description": "Quigley follows Khrushchev\u2019s use of the party hierarchy, economic decentralization, de-Stalinization and support from the army to defeat rival leaders and acquire the premiership.",
+      "pages": [
+        836,
+        842,
+        855,
+        856,
+        857
+      ]
+    },
+    {
+      "id": "georgi-malenkov",
+      "name": "Georgi Malenkov",
+      "role": "Soviet premier and party official",
+      "description": "Quigley presents Malenkov as an early successor to Stalin whose retention of the premiership and surrender of party control helped Khrushchev outmaneuver him.",
+      "pages": [
+        836,
+        837,
+        856
+      ]
+    },
+    {
+      "id": "lavrenti-beria",
+      "name": "Lavrenti Beria",
+      "role": "Soviet security-police leader",
+      "description": "Quigley describes Beria\u2019s security apparatus, initial post-Stalin relaxation and elimination by rival leaders aided by the regular army; the account acknowledges uncertainty about the execution date.",
+      "pages": [
+        836,
+        837
+      ]
+    },
+    {
+      "id": "vyacheslav-molotov",
+      "name": "Vyacheslav Molotov",
+      "role": "Soviet foreign minister and senior leader",
+      "description": "Quigley depicts Molotov as a defender of Stalinist policies whose positions and authority were progressively removed by Khrushchev.",
+      "pages": [
+        837,
+        839,
+        848,
+        856
+      ]
+    },
+    {
+      "id": "nikolai-bulganin",
+      "name": "Nikolai Bulganin",
+      "role": "Soviet premier",
+      "description": "Quigley describes Bulganin\u2019s cooperation with Khrushchev in diplomatic visits and internal power struggles, followed by his replacement as premier in 1958.",
+      "pages": [
+        839,
+        840,
+        857
+      ]
+    },
+    {
+      "id": "georgi-zhukov",
+      "name": "Georgi Zhukov",
+      "role": "Soviet marshal and defense minister",
+      "description": "Quigley gives the army and Zhukov a major role in Khrushchev\u2019s survival during the 1957 leadership challenge, before Khrushchev removed him from defense and party posts.",
+      "pages": [
+        836,
+        856,
+        857
+      ]
+    },
+    {
+      "id": "josip-tito",
+      "name": "Josip Broz Tito",
+      "role": "Yugoslav leader",
+      "description": "Quigley treats Tito\u2019s independent path to socialism as a challenge to Soviet control and connects the 1955 reconciliation with later upheaval among the East European satellites.",
+      "pages": [
+        839,
+        849,
+        853
+      ]
+    },
+    {
+      "id": "imre-nagy",
+      "name": "Imre Nagy",
+      "role": "Hungarian premier",
+      "description": "Quigley describes Nagy\u2019s government during the 1956 Hungarian uprising, its declaration of neutrality, and the collapse under Soviet intervention.",
+      "pages": [
+        852,
+        853
+      ]
+    },
+    {
+      "id": "janos-kadar",
+      "name": "J\u00e1nos K\u00e1d\u00e1r",
+      "role": "Hungarian Communist leader",
+      "description": "Quigley describes K\u00e1d\u00e1r\u2019s shift from Nagy\u2019s circle to a Soviet-backed government during the Hungarian uprising.",
+      "pages": [
+        853
+      ]
+    },
+    {
+      "id": "william-l-borden",
+      "name": "William Liscum Borden",
+      "role": "Congressional atomic-policy staff official",
+      "description": "Quigley describes Borden\u2019s support for accelerated thermonuclear development and his 1953 letter to Hoover accusing Oppenheimer of being a Soviet agent. The book rejects the accusation\u2019s framing.",
+      "pages": [
+        797,
+        824
+      ]
+    },
+    {
+      "id": "thomas-watson-sr",
+      "name": "Thomas J. Watson",
+      "role": "IBM leader and Columbia trustee",
+      "description": "Quigley recounts Watson\u2019s role in the Columbia presidential search following Lamont\u2019s death and presents the resulting Eisenhower appointment as an illustration of declining Morgan influence.",
+      "pages": [
+        812
+      ]
+    },
+    {
+      "id": "nicholas-murray-butler",
+      "name": "Nicholas Murray Butler",
+      "role": "Columbia University president",
+      "description": "Quigley calls Butler an academic spokesman for Morgan interests and presents the prolonged difficulty of replacing him as evidence of changing power on Columbia\u2019s trustees.",
+      "pages": [
+        812
+      ]
+    },
+    {
+      "id": "frank-tiarks",
+      "name": "Frank C. Tiarks",
+      "role": "Banker and company director",
+      "description": "Quigley identifies Tiarks as a Schroeder London partner and director of the Bank of England, Lazard Brothers and the Anglo-Iranian Oil Company, connecting him with Allen Dulles\u2019s banking associations.",
+      "pages": [
+        880
+      ]
+    },
+    {
+      "id": "h-norman-schwarzkopf",
+      "name": "H. Norman Schwarzkopf Sr.",
+      "role": "Police official and Iranian gendarmerie adviser",
+      "description": "Quigley places Schwarzkopf in training the Imperial Iranian Gendarmerie and in the financing and preparation of the 1953 anti-Mossadeq operation. This is the father of the later Gulf War commander.",
+      "pages": [
+        880
+      ]
+    },
+    {
+      "id": "loy-henderson",
+      "name": "Loy W. Henderson",
+      "role": "United States ambassador to Iran",
+      "description": "Quigley names Henderson among visitors to Allen Dulles in Switzerland during the August 1953 operation against Mossadeq.",
+      "pages": [
+        880
+      ]
+    },
+    {
+      "id": "mohammad-reza-shah",
+      "name": "Mohammad Reza Pahlavi",
+      "role": "Shah of Iran",
+      "description": "Quigley links the shah, the army and the conservative elite with Mossadeq\u2019s overthrow, subsequent Western alignment and a later shift toward agrarian reform.",
+      "pages": [
+        880,
+        881
+      ]
+    },
+    {
+      "id": "david-ben-gurion",
+      "name": "David Ben-Gurion",
+      "role": "Israeli political leader",
+      "description": "Quigley discusses Ben-Gurion\u2019s role in the Zionist movement and his proclamation of the state of Israel in May 1948.",
+      "pages": [
+        885,
+        887
+      ]
+    },
+    {
+      "id": "muhammad-naguib",
+      "name": "Muhammad Naguib",
+      "role": "Egyptian general and revolutionary leader",
+      "description": "Quigley describes Naguib as the nominal head of the 1952 officers\u2019 revolution and follows his displacement by Nasser during the consolidation of the new regime.",
+      "pages": [
+        891,
+        892
+      ]
+    },
+    {
+      "id": "king-farouk",
+      "name": "Farouk of Egypt",
+      "role": "King of Egypt",
+      "description": "Quigley places Farouk\u2019s monarchy amid land concentration, political discontent, British interference and army alienation, culminating in his 1952 deposition.",
+      "pages": [
+        889,
+        890,
+        891,
+        892
+      ]
+    },
+    {
+      "id": "king-hussein",
+      "name": "Hussein of Jordan",
+      "role": "King of Jordan",
+      "description": "Quigley connects Hussein\u2019s dismissal of Glubb, regional rivalries, and American and British assistance with the fragility of Jordan\u2019s monarchy after Suez.",
+      "pages": [
+        894,
+        900
+      ]
+    },
+    {
+      "id": "john-glubb",
+      "name": "John Bagot Glubb",
+      "role": "Arab Legion commander",
+      "description": "Quigley describes Glubb as the British officer who trained and commanded Jordan\u2019s Arab Legion; his dismissal in 1956 weakened a chief connection between Britain and the Jordanian monarchy.",
+      "pages": [
+        894
+      ]
+    },
+    {
+      "id": "dag-hammarskjold",
+      "name": "Dag Hammarskj\u00f6ld",
+      "role": "United Nations secretary-general",
+      "description": "Quigley credits Hammarskj\u00f6ld\u2019s 1958 Near Eastern mission with helping evacuate American and British troops from Lebanon and Jordan.",
+      "pages": [
+        900
+      ]
+    },
+    {
+      "id": "jacobo-arbenz",
+      "name": "Jacobo \u00c1rbenz Guzm\u00e1n",
+      "role": "Guatemalan president",
+      "description": "Quigley relates \u00c1rbenz\u2019s land reform to conflict with United Fruit and the CIA-supported 1954 overthrow. The author distinguishes the exile attack from the Guatemalan army\u2019s decisive role.",
+      "pages": [
+        937,
+        938,
+        941
+      ]
+    },
+    {
+      "id": "carlos-castillo-armas",
+      "name": "Carlos Castillo Armas",
+      "role": "Guatemalan military leader",
+      "description": "Quigley describes Castillo Armas as American-trained and financed, leading exiles from Honduras and Nicaragua in the CIA-directed 1954 assault.",
+      "pages": [
+        938
+      ]
+    },
+    {
+      "id": "anastas-mikoyan",
+      "name": "Anastas Mikoyan",
+      "role": "Soviet senior official",
+      "description": "Quigley follows Mikoyan through the Soviet succession struggle and identifies his 1960 Cuban visit with a sugar-for-petroleum-and-arms agreement.",
+      "pages": [
+        834,
+        839,
+        940
+      ]
+    },
+    {
+      "id": "charles-de-gaulle",
+      "name": "Charles de Gaulle",
+      "role": "French president",
+      "description": "Quigley links de Gaulle\u2019s return with the Algerian crisis and follows his efforts to reduce France\u2019s dependence on NATO and retain cooperation with former African colonies.",
+      "pages": [
+        911,
+        980,
+        991
+      ]
+    },
+    {
+      "id": "mao-zedong",
+      "name": "Mao Zedong",
+      "role": "Chinese Communist leader",
+      "description": "Quigley connects Mao\u2019s nuclear requests and the Great Leap Forward with China\u2019s resource constraints and deteriorating relations with the Soviet Union.",
+      "pages": [
+        960,
+        961,
+        962,
+        963
+      ]
+    },
+    {
+      "id": "kwame-nkrumah",
+      "name": "Kwame Nkrumah",
+      "role": "Ghanaian leader",
+      "description": "Quigley discusses Nkrumah\u2019s educational connections, party-building, Ghana\u2019s independence and Pan-African initiatives, while criticizing his subsequent concentration of power.",
+      "pages": [
+        989,
+        990,
+        992,
+        993
+      ]
+    },
+    {
+      "id": "sekou-toure",
+      "name": "Ahmed S\u00e9kou Tour\u00e9",
+      "role": "Guinean leader",
+      "description": "Quigley describes Tour\u00e9\u2019s rejection of the French Community constitution, French retaliation and Guinea\u2019s search for alternative support.",
+      "pages": [
+        991,
+        992
+      ]
+    },
+    {
+      "id": "george-padmore",
+      "name": "George Padmore",
+      "role": "Pan-African organizer",
+      "description": "Quigley credits Padmore with organizing an independent-African-states initiative for Nkrumah, linking Pan-African ideas with the Accra meeting of 1958.",
+      "pages": [
+        992
+      ]
+    },
+    {
+      "id": "felix-houphouet-boigny",
+      "name": "F\u00e9lix Houphou\u00ebt-Boigny",
+      "role": "Ivorian leader",
+      "description": "Quigley identifies Houphou\u00ebt-Boigny as an organizer of the French-centered African grouping called the Brazzaville Twelve.",
+      "pages": [
+        993
+      ]
+    },
+    {
+      "id": "david-ormsby-gore",
+      "name": "David Ormsby-Gore, fifth Baron Harlech",
+      "role": "British ambassador and Kennedy associate",
+      "description": "Quigley uses the Kennedy family\u2019s connection with the British Embassy as an illustration of Atlantic Establishment ties. He identifies David as the son of William Ormsby-Gore, an associate of Milner and Amery; the two are distinct people.",
+      "pages": [
+        1033,
+        1034
+      ]
+    },
+    {
+      "id": "dwight-eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "role": "United States president and former Columbia president",
+      "pages": [
+        812,
+        818,
+        830,
+        840,
+        841
+      ],
+      "description": "Quigley connects Eisenhower\u2019s Columbia appointment with the declining influence of Morgan interests on its trustees. As president, Eisenhower appears in the New Look\u2019s budget and nuclear-strategy changes, the Geneva summit and open-skies proposal; the book distinguishes his outlook from that of Dulles and the Republican congressional right."
+    },
+    {
+      "id": "mohammad-mossadeq",
+      "name": "Mohammad Mossadeq",
+      "role": "Iranian prime minister",
+      "pages": [
+        879,
+        880,
+        881
+      ],
+      "description": "Quigley describes Mossadeq carrying out oil nationalization after his appointment in 1951 and facing British company resistance, changing American policy and the international petroleum cartel. The book attributes his 1953 overthrow to a combination of CIA action, the shah, army elements and conservative interests, while discussing his unsuccessful reliance on street support against military opponents."
+    },
+    {
+      "id": "fulgencio-batista",
+      "name": "Fulgencio Batista",
+      "role": "Cuban military ruler",
+      "pages": [
+        939,
+        940
+      ],
+      "description": "Quigley follows Batista from his overthrow of Grau San Mart\u00edn through rule by civilian intermediaries and a later return to power in March 1952. The book connects the regime\u2019s violence and corruption with declining military and middle-class support and the rise of Castro\u2019s guerrilla movement."
+    },
+    {
+      "id": "jfk",
+      "name": "John F. Kennedy",
+      "role": "United States president",
+      "pages": [
+        942,
+        916,
+        917,
+        918,
+        919,
+        1033,
+        1034
+      ],
+      "description": "Quigley describes Kennedy accepting CIA assurances before the Bay of Pigs invasion, then managing the 1962 missile crisis as a direct Soviet-American confrontation. In the late-book social analysis, the author also places Kennedy within an informal Atlantic Establishment through support for Britain and connections with the British Embassy and the Ormsby-Gore family; this is an interpretation of influence, not formal membership."
+    },
+    {
+      "id": "allen-dulles",
+      "name": "Allen W. Dulles",
+      "role": "CIA director and former banking director",
+      "pages": [
+        880,
+        938,
+        942
+      ],
+      "description": "Quigley identifies Allen Dulles as CIA director during the Iranian and Guatemalan interventions and the agency\u2019s Cuba invasion planning. His discussion of Iran connects Dulles\u2019s former Schroeder Bank directorship in New York with Frank Tiarks\u2019s London banking and Anglo-Iranian Oil Company positions, while retaining these associations as contextual evidence in the author\u2019s account."
+    },
+    {
+      "id": "fidel-castro",
+      "name": "Fidel Castro",
+      "role": "Cuban revolutionary leader",
+      "pages": [
+        939,
+        940,
+        941,
+        943,
+        919
+      ],
+      "description": "Quigley traces Castro\u2019s movement from the failed 1953 revolt through guerrilla warfare, the 1959 regime transition and an early reform program. He then follows expanding Soviet economic and military ties, the consequences of the Bay of Pigs defeat and Castro\u2019s resentment at being bypassed in the missile-crisis settlement."
+    },
+    {
+      "id": "gamal-nasser",
+      "name": "Gamal Abdel Nasser",
+      "role": "Egyptian military and political leader",
+      "pages": [
+        890,
+        891,
+        892,
+        894,
+        895,
+        900,
+        901
+      ],
+      "description": "Quigley describes Nasser as the effective leader of the officers\u2019 conspiracy behind Egypt\u2019s 1952 revolution and follows his displacement of Naguib and consolidation of authority. The book links agrarian reform, cotton-for-arms commitments, Aswan Dam financing, Suez nationalization and the Egyptian-Syrian union, while criticizing Nasser\u2019s regional ambitions and authoritarian methods."
+    },
+    {
+      "id": "hoover",
+      "name": "J. Edgar Hoover",
+      "role": "FBI director",
+      "pages": [
+        824
+      ],
+      "description": "Quigley names Hoover as recipient of William Liscum Borden\u2019s November 1953 letter accusing Oppenheimer of probable Soviet agency. The book criticizes the accusation and connects it with the subsequent security-clearance action; this passage does not establish that Hoover originated the accusation or independently proved it."
+    }
+  ],
+  "organizations": [
+    {
+      "id": "atomic-energy-commission",
+      "name": "United States Atomic Energy Commission",
+      "description": "Civilian nuclear commission financing detection and weapons development, with advisory scientists and commissioners in conflict over thermonuclear, tactical and defensive priorities in Quigley\u2019s account.",
+      "pages": [
+        793,
+        796,
+        797,
+        824
+      ],
+      "members": [
+        "lewis-strauss"
+      ]
+    },
+    {
+      "id": "aec-general-advisory-committee",
+      "name": "AEC General Advisory Committee",
+      "description": "Scientific advisory committee to the Atomic Energy Commission; Quigley describes its 1949 opposition to a crash hydrogen-bomb program and its support for a broader defense response.",
+      "pages": [
+        796,
+        797
+      ],
+      "members": [
+        "robert-oppenheimer"
+      ]
+    },
+    {
+      "id": "national-security-council",
+      "name": "United States National Security Council",
+      "description": "Federal strategic policy body that reviewed defense planning and accepted directives NSC 68 and NSC 162 in Quigley\u2019s account.",
+      "pages": [
+        797,
+        803,
+        830
+      ]
+    },
+    {
+      "id": "us-air-force",
+      "name": "United States Air Force",
+      "description": "American armed service whose strategic-bombing interests Quigley contrasts with ground-force needs, tactical nuclear development and continental air defense.",
+      "pages": [
+        795,
+        800,
+        815,
+        816
+      ]
+    },
+    {
+      "id": "strategic-air-command",
+      "name": "Strategic Air Command",
+      "description": "Air Force command associated with strategic nuclear bombing. Quigley presents its institutional interests as a major force in disputes over weapons diversification and air-defense spending.",
+      "pages": [
+        800,
+        815,
+        816,
+        830
+      ]
+    },
+    {
+      "id": "los-alamos",
+      "name": "Los Alamos weapons laboratory",
+      "description": "Nuclear weapons laboratory whose postwar work under Norris Bradbury produced tested thermonuclear devices; Quigley distinguishes its achievements from Teller\u2019s advocacy.",
+      "pages": [
+        794,
+        795,
+        798,
+        800
+      ]
+    },
+    {
+      "id": "livermore-laboratory",
+      "name": "Livermore weapons laboratory",
+      "description": "Second weapons laboratory associated with Lawrence\u2019s Berkeley Radiation Laboratory, established in July 1952 after Teller sought Air Force support.",
+      "pages": [
+        800
+      ],
+      "members": [
+        "edward-teller"
+      ]
+    },
+    {
+      "id": "lincoln-laboratory",
+      "name": "MIT Lincoln Laboratory",
+      "description": "Air-defense research laboratory established in September 1951, associated with radar warning and integrated interception proposals.",
+      "pages": [
+        815,
+        816
+      ]
+    },
+    {
+      "id": "united-nations",
+      "name": "United Nations",
+      "description": "International organization whose collective-security machinery, mediation and emergency forces appear throughout Quigley\u2019s postwar account; the Korean intervention relied on the Soviet absence from the Security Council.",
+      "pages": [
+        804,
+        805,
+        886,
+        897,
+        900
+      ]
+    },
+    {
+      "id": "nato",
+      "name": "North Atlantic Treaty Organization",
+      "description": "Atlantic defense alliance. Quigley places NATO in both the balanced-defense strategy of NSC 68 and Dulles\u2019s later network of regional treaty barriers.",
+      "pages": [
+        802,
+        822,
+        902,
+        911
+      ]
+    },
+    {
+      "id": "seato",
+      "name": "Southeast Asia Treaty Organization",
+      "description": "Regional defense arrangement signed in 1954 by eight states, treated by Quigley as a portion of Dulles\u2019s perimeter around the Soviet bloc.",
+      "pages": [
+        822,
+        902
+      ]
+    },
+    {
+      "id": "cento",
+      "name": "Baghdad Pact / Central Treaty Organization",
+      "description": "Regional treaty arrangement formed in 1955 by Britain, Turkey, Iran, Iraq and Pakistan; Quigley describes the 1959 renaming after Iraq withdrew.",
+      "pages": [
+        822,
+        881,
+        902
+      ]
+    },
+    {
+      "id": "warsaw-pact",
+      "name": "Warsaw Pact",
+      "description": "Soviet-bloc military alliance whose authority was challenged by Hungary\u2019s 1956 declaration of withdrawal and neutrality.",
+      "pages": [
+        848,
+        853,
+        960
+      ]
+    },
+    {
+      "id": "soviet-communist-party",
+      "name": "Communist Party of the Soviet Union",
+      "description": "Party hierarchy which Quigley regards as the decisive instrument of Khrushchev\u2019s rise, contrasting it with the state ministries and the security apparatus.",
+      "pages": [
+        833,
+        836,
+        842,
+        855,
+        856
+      ],
+      "members": [
+        "joseph-stalin",
+        "nikita-khrushchev",
+        "georgi-malenkov",
+        "vyacheslav-molotov",
+        "nikolai-bulganin",
+        "anastas-mikoyan"
+      ]
+    },
+    {
+      "id": "columbia-university",
+      "name": "Columbia University",
+      "description": "University whose trustees and presidential succession Quigley uses to illustrate Morgan influence and its postwar weakening.",
+      "pages": [
+        812
+      ],
+      "members": [
+        "nicholas-murray-butler",
+        "dwight-eisenhower",
+        "thomas-watson-sr"
+      ]
+    },
+    {
+      "id": "ibm",
+      "name": "International Business Machines",
+      "description": "Corporation led by Thomas Watson, whom Quigley names as chairman of Columbia\u2019s presidential search committee after Lamont\u2019s death.",
+      "pages": [
+        812
+      ],
+      "members": [
+        "thomas-watson-sr"
+      ]
+    },
+    {
+      "id": "schroeder-bank-new-york",
+      "name": "Schroeder Bank, New York",
+      "description": "Bank of which Quigley identifies Allen Dulles as a former director; this is a distinct institution from the London and Cologne banking connections named nearby.",
+      "pages": [
+        880
+      ],
+      "members": [
+        "allen-dulles"
+      ]
+    },
+    {
+      "id": "schroeder-bank-london",
+      "name": "Schroeder Bank, London",
+      "description": "Banking partnership with which Quigley associates Frank Tiarks from 1902; the book connects Tiarks with AIOC and other British financial institutions.",
+      "pages": [
+        880
+      ],
+      "members": [
+        "frank-tiarks"
+      ]
+    },
+    {
+      "id": "imperial-iranian-gendarmerie",
+      "name": "Imperial Iranian Gendarmerie",
+      "description": "Iranian policing force trained by H. Norman Schwarzkopf in Quigley\u2019s account of the 1953 operation against Mossadeq.",
+      "pages": [
+        880
+      ],
+      "members": [
+        "h-norman-schwarzkopf"
+      ]
+    },
+    {
+      "id": "suez-canal-company",
+      "name": "Suez Canal Company",
+      "description": "Canal operating company nationalized by Nasser in 1956; Quigley discusses its ownership, profits, pilots and the dispute over Egyptian versus international control.",
+      "pages": [
+        895,
+        896
+      ]
+    },
+    {
+      "id": "egypt-free-officers",
+      "name": "Egyptian Free Officers",
+      "description": "Officers\u2019 conspiratorial group behind the 1952 revolution, described by Quigley as centered on Nasser and drawn from the military academy generation of 1938.",
+      "pages": [
+        890,
+        891,
+        892
+      ],
+      "members": [
+        "gamal-nasser",
+        "muhammad-naguib"
+      ]
+    },
+    {
+      "id": "arab-legion",
+      "name": "Arab Legion",
+      "description": "Jordanian armed force trained and commanded by British officers including Glubb; Quigley treats it as a major support of the monarchy.",
+      "pages": [
+        886,
+        894
+      ],
+      "members": [
+        "john-glubb"
+      ]
+    },
+    {
+      "id": "un-emergency-force",
+      "name": "United Nations Emergency Force",
+      "description": "Force sent to supervise evacuation of Egyptian territory and Gaza following the Suez crisis in Quigley\u2019s account.",
+      "pages": [
+        899
+      ]
+    },
+    {
+      "id": "united-arab-republic",
+      "name": "United Arab Republic",
+      "description": "Egyptian-Syrian political union established in February 1958 and broken by Syria after a 1961 coup.",
+      "pages": [
+        900,
+        901
+      ],
+      "members": [
+        "gamal-nasser"
+      ]
+    },
+    {
+      "id": "united-fruit",
+      "name": "United Fruit Company",
+      "description": "American enterprise whose uncultivated Guatemalan land was affected by \u00c1rbenz\u2019s reform. Quigley connects this dispute with American intervention.",
+      "pages": [
+        937,
+        938
+      ]
+    },
+    {
+      "id": "oas",
+      "name": "Organization of American States",
+      "description": "Hemispheric organization through which Dulles obtained a declaration against Guatemala and which supported the American quarantine of Cuba in 1962.",
+      "pages": [
+        938,
+        918
+      ]
+    },
+    {
+      "id": "july-26-movement",
+      "name": "July 26 Movement",
+      "description": "Castro\u2019s revolutionary movement, whose initial middle-class leadership and early reform program Quigley distinguishes from later Communist administrative control.",
+      "pages": [
+        939,
+        940
+      ],
+      "members": [
+        "fidel-castro"
+      ]
+    },
+    {
+      "id": "chinese-communist-party",
+      "name": "Chinese Communist Party",
+      "description": "Party ruling mainland China, whose role in agricultural communes, economic management and the Sino-Soviet dispute Quigley discusses.",
+      "pages": [
+        962,
+        963,
+        964
+      ],
+      "members": [
+        "mao-zedong"
+      ]
+    },
+    {
+      "id": "convention-peoples-party",
+      "name": "Convention People\u2019s Party",
+      "description": "Ghanaian political party founded and controlled by Nkrumah; its 1951 electoral victory led to his release from prison and assumption of government.",
+      "pages": [
+        989
+      ],
+      "founderIds": [
+        "kwame-nkrumah"
+      ],
+      "members": [
+        "kwame-nkrumah"
+      ]
+    },
+    {
+      "id": "african-malagasy-union",
+      "name": "Union of African and Malagasy States / Brazzaville Twelve",
+      "description": "French-centered African grouping which Quigley contrasts with Nkrumah\u2019s Pan-African initiatives; it coordinated diplomacy and technical cooperation.",
+      "pages": [
+        993,
+        994
+      ],
+      "members": [
+        "felix-houphouet-boigny"
+      ]
+    },
+    {
+      "id": "union-african-states",
+      "name": "Union of African States",
+      "description": "Association of Ghana, Guinea and Mali in Quigley\u2019s account, reflecting Nkrumah\u2019s efforts at Pan-African union and competition with other African groupings.",
+      "pages": [
+        992,
+        993
+      ],
+      "members": [
+        "kwame-nkrumah",
+        "sekou-toure"
+      ]
+    },
+    {
+      "id": "eastern-establishment-quigley",
+      "name": "Eastern Establishment \u2014 Quigley\u2019s analytical grouping",
+      "description": "Quigley\u2019s description of an informal Atlantic elite associated with older Wall Street wealth, Ivy League institutions, foundations and Anglophile internationalism. This is an analytical grouping, not a formal membership organization.",
+      "pages": [
+        819,
+        1033,
+        1034
+      ]
+    },
+    {
+      "id": "anglo-iranian",
+      "name": "Anglo-Iranian Oil Company / BP",
+      "pages": [
+        879,
+        880,
+        881
+      ],
+      "description": "Quigley describes AIOC\u2019s resistance to Iranian oil nationalization, withdrawal of technical staff and connection with the international petroleum cartel. He lists Frank Tiarks among its directors and describes the post-coup consortium settlement retaining a 40 percent AIOC interest."
+    },
+    {
+      "id": "cia",
+      "name": "Central Intelligence Agency",
+      "pages": [
+        880,
+        938,
+        941,
+        942,
+        943
+      ],
+      "description": "Quigley attributes major roles in the Iranian and Guatemalan interventions and the Bay of Pigs operation to the CIA under Allen Dulles. He argues that the agency misread its Guatemala experience and mishandled Cuban planning, local opposition relationships, air power and logistics."
+    },
+    {
+      "id": "seven-sisters",
+      "name": "Seven Sisters oil cartel",
+      "pages": [
+        879,
+        881
+      ],
+      "description": "Quigley describes a world oil cartel developing from a 1928 agreement among Royal Dutch-Shell, Anglo-Iranian and Standard Oil and encompassing seven major companies by 1949. He connects its pricing and marketing interests with resistance to Iranian nationalization and the later consortium settlement; the cartel is an intercompany arrangement rather than a conventional membership society."
+    },
+    {
+      "id": "state-department",
+      "name": "United States Department of State",
+      "pages": [
+        802,
+        803,
+        812,
+        813,
+        821,
+        822,
+        938
+      ],
+      "description": "Quigley places State Department policy planning under Paul Nitze behind NSC 68 and describes Acheson\u2019s Pacific defense speech. Under John Foster Dulles, the department appears in massive retaliation, regional treaties, Japan\u2019s peace settlement and the diplomatic confrontation with Guatemala, illustrating competing postwar policy directions."
+    },
+    {
+      "id": "defense-department",
+      "name": "United States Department of Defense",
+      "pages": [
+        805,
+        815,
+        816,
+        830,
+        917
+      ],
+      "description": "Quigley discusses the defense establishment\u2019s competing requirements for ground troops, tactical air support, nuclear weapons and continental protection. The Korean War, scientific defense projects and Eisenhower\u2019s New Look connect departmental resources and strategic plans with rival armed-service interests and fiscal limits."
+    },
+    {
+      "id": "joint-chiefs",
+      "name": "Joint Chiefs of Staff",
+      "pages": [
+        797,
+        803,
+        830,
+        942
+      ],
+      "description": "Quigley describes the Joint Chiefs pressing for accelerated hydrogen-bomb work, participating in Pacific strategic assessments and developing proposals incorporated in the New Look. The book also records their approval of the Bay of Pigs plan before Kennedy accepted the invasion."
+    },
+    {
+      "id": "cuban-exile-executive-committee",
+      "name": "Cuban exile executive committee \u00b7 unnamed in supplied PDF",
+      "pages": [
+        942
+      ],
+      "description": "Quigley describes an executive committee of Cuban refugees in the United States, contrasts it with reform-minded anti-Castro groups inside Cuba and says the CIA excluded it from planning and detained its leaders during the invasion. The PDF does not give a formal institutional name, so it is not equated with a named council in another source."
+    },
+    {
+      "id": "fbi",
+      "name": "Federal Bureau of Investigation",
+      "pages": [
+        824
+      ],
+      "description": "Quigley identifies the FBI through Borden\u2019s November 1953 letter to Hoover accusing Oppenheimer of being a Soviet agent. The source uses this communication in tracing the clearance controversy, without establishing the agency\u2019s independent validation of the allegation."
+    }
+  ],
+  "events": [
+    {
+      "id": "tragedy-columbia-eisenhower",
+      "name": "Eisenhower chosen as Columbia president in Quigley\u2019s Morgan-succession account",
+      "date": "1948-01-01",
+      "precision": "year",
+      "people": [
+        "dwight-eisenhower",
+        "thomas-watson-sr",
+        "nicholas-murray-butler",
+        "thomas-lamont"
+      ],
+      "organizations": [
+        "columbia-university",
+        "ibm",
+        "jp-morgan"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "pages": [
+        812
+      ],
+      "summary": "Quigley recounts the selection of Dwight Eisenhower as Columbia president after Thomas Lamont\u2019s death. Thomas Watson chaired the search, following a long struggle over replacing Nicholas Murray Butler. The episode is presented as evidence that Morgan interests could obstruct a succession without still controlling its outcome.",
+      "details": [
+        "Quigley recounts the selection of Dwight Eisenhower as Columbia president after Thomas Lamont\u2019s death. Thomas Watson chaired the search, following a long struggle over replacing Nicholas Murray Butler. The episode is presented as evidence that Morgan interests could obstruct a succession without still controlling its outcome.",
+        "The story connects corporate leadership, university trustees and national politics rather than treating Columbia as an isolated academic institution. Quigley attributes the appointment partly to Watson\u2019s misunderstanding of a suggestion referring to Milton Eisenhower; that anecdote is preserved as the author\u2019s account, rather than asserted as an independently established explanation."
+      ],
+      "context": "The story connects corporate leadership, university trustees and national politics rather than treating Columbia as an isolated academic institution."
+    },
+    {
+      "id": "tragedy-soviet-atomic-announcement",
+      "name": "Truman announces a Soviet atomic explosion",
+      "date": "1949-09-23",
+      "precision": "day",
+      "people": [
+        "harry-truman"
+      ],
+      "organizations": [
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        793
+      ],
+      "summary": "Quigley describes airborne monitoring detecting radioactive material from a Soviet explosion in August 1949. Truman publicly announced the finding on September 23. The event ended assumptions of an enduring American atomic monopoly and brought existing arguments over thermonuclear development and armed-service strategy to a crisis.",
+      "details": [
+        "Quigley describes airborne monitoring detecting radioactive material from a Soviet explosion in August 1949. Truman publicly announced the finding on September 23. The event ended assumptions of an enduring American atomic monopoly and brought existing arguments over thermonuclear development and armed-service strategy to a crisis.",
+        "The commission had sponsored a continuous atmospheric-monitoring program following a suggestion from Lewis Strauss. Detection therefore linked scientific surveillance with strategic policy: the explosion\u2019s importance lay not only in Soviet technical achievement but in the American institutional decisions it forced into the open."
+      ],
+      "context": "The commission had sponsored a continuous atmospheric-monitoring program following a suggestion from Lewis Strauss."
+    },
+    {
+      "id": "tragedy-gac-super-vote",
+      "name": "AEC advisers oppose a crash hydrogen-bomb program",
+      "date": "1949-10-01",
+      "precision": "month",
+      "people": [
+        "robert-oppenheimer",
+        "edward-teller"
+      ],
+      "organizations": [
+        "aec-general-advisory-committee",
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        796,
+        797
+      ],
+      "summary": "The AEC General Advisory Committee unanimously opposed a crash hydrogen-bomb program in October 1949, according to Quigley. The advisers preferred diversified atomic weapons, stronger ground forces and reorganized European defense. Their opposition concerned scientific feasibility, allocation of reactors and trained personnel, and the strategic usefulness of larger weapons.",
+      "details": [
+        "The AEC General Advisory Committee unanimously opposed a crash hydrogen-bomb program in October 1949, according to Quigley. The advisers preferred diversified atomic weapons, stronger ground forces and reorganized European defense. Their opposition concerned scientific feasibility, allocation of reactors and trained personnel, and the strategic usefulness of larger weapons.",
+        "Quigley contrasts the committee\u2019s position with Teller, congressional supporters and the Air Force. The disagreement is an argument over competing defense systems and resource allocation. The author does not present scientific opposition to the hydrogen bomb as evidence of disloyalty or Soviet allegiance."
+      ],
+      "context": "Quigley contrasts the committee\u2019s position with Teller, congressional supporters and the Air Force. The disagreement is an argument over competing defense systems and resource allocation."
+    },
+    {
+      "id": "tragedy-acheson-perimeter",
+      "name": "Acheson defines unilateral and collective Pacific defense",
+      "date": "1950-01-12",
+      "precision": "day",
+      "people": [
+        "dean-acheson",
+        "douglas-macarthur"
+      ],
+      "organizations": [
+        "state-department",
+        "united-nations"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        803
+      ],
+      "summary": "Acheson\u2019s January 12 speech accepted a Pacific defense perimeter associated with MacArthur, excluding Korea and Formosa from an explicit unilateral American guarantee. Quigley stresses that Acheson still envisaged collective defense through the United Nations west of that line, rather than declaring those areas categorically undefended.",
+      "details": [
+        "Acheson\u2019s January 12 speech accepted a Pacific defense perimeter associated with MacArthur, excluding Korea and Formosa from an explicit unilateral American guarantee. Quigley stresses that Acheson still envisaged collective defense through the United Nations west of that line, rather than declaring those areas categorically undefended.",
+        "The distinction matters to the author\u2019s later discussion of partisan accusations over Korea. Quigley places the speech in a broader expectation that Chinese Nationalist power would disappear and that diplomacy might exploit eventual friction between Communist China and the Soviet Union."
+      ],
+      "context": "The distinction matters to the author\u2019s later discussion of partisan accusations over Korea. Quigley places the speech in a broader expectation that Chinese Nationalist power would disappear and that diplomacy might exploit eventual friction between Communist China and the Soviet Union."
+    },
+    {
+      "id": "tragedy-truman-h-bomb-order",
+      "name": "Truman orders thermonuclear work and a strategic review",
+      "date": "1950-01-31",
+      "precision": "day",
+      "people": [
+        "harry-truman",
+        "robert-oppenheimer",
+        "edward-teller"
+      ],
+      "organizations": [
+        "atomic-energy-commission",
+        "national-security-council"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        797
+      ],
+      "summary": "Quigley describes Truman\u2019s decision as a triple order: continue work toward a hydrogen bomb, continue developing varied atomic weapons, and undertake a National Security Council review of strategic plans. He argues that later accounts misleadingly reduced the decision to an isolated crash hydrogen-bomb instruction.",
+      "details": [
+        "Quigley describes Truman\u2019s decision as a triple order: continue work toward a hydrogen bomb, continue developing varied atomic weapons, and undertake a National Security Council review of strategic plans. He argues that later accounts misleadingly reduced the decision to an isolated crash hydrogen-bomb instruction.",
+        "The order connected weapons laboratories, reactor construction and broader defense strategy. Quigley follows it with pressure from the Joint Chiefs for acceleration and expansion of production facilities, placing thermonuclear work within the contest between strategic bombing and a diversified military response."
+      ],
+      "context": "The order connected weapons laboratories, reactor construction and broader defense strategy. Quigley follows it with pressure from the Joint Chiefs for acceleration and expansion of production facilities, placing thermonuclear work within the contest between strategic bombing and a diversified military response."
+    },
+    {
+      "id": "tragedy-nsc68",
+      "name": "National Security Council accepts NSC 68",
+      "date": "1950-04-01",
+      "precision": "month",
+      "people": [
+        "paul-nitze",
+        "harry-truman"
+      ],
+      "organizations": [
+        "national-security-council",
+        "state-department",
+        "nato"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        802,
+        803
+      ],
+      "summary": "Quigley identifies Paul Nitze\u2019s State Department policy-planning staff as the sponsor of NSC 68, accepted in April 1950. It anticipated a strategic nuclear stalemate and advocated strengthened ground forces, allied defense and tactical nuclear weapons rather than exclusive reliance on strategic bombing.",
+      "details": [
+        "Quigley identifies Paul Nitze\u2019s State Department policy-planning staff as the sponsor of NSC 68, accepted in April 1950. It anticipated a strategic nuclear stalemate and advocated strengthened ground forces, allied defense and tactical nuclear weapons rather than exclusive reliance on strategic bombing.",
+        "The author places the directive in direct tension with Air Force interests and its eventual replacement by the Eisenhower administration\u2019s New Look. This is a policy connection between NATO\u2019s defense needs, American budget decisions and the weapons diversification favored by Oppenheimer\u2019s advisers."
+      ],
+      "context": "The author places the directive in direct tension with Air Force interests and its eventual replacement by the Eisenhower administration\u2019s New Look."
+    },
+    {
+      "id": "tragedy-korean-war",
+      "name": "North Korean attack opens the Korean War",
+      "date": "1950-06-25",
+      "precision": "day",
+      "people": [
+        "harry-truman"
+      ],
+      "organizations": [
+        "united-nations",
+        "defense-department"
+      ],
+      "lanes": [
+        "war",
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        804,
+        805
+      ],
+      "summary": "Quigley describes North Korean troops crossing the 38th parallel on June 25, rapidly driving the lightly equipped South Korean forces toward Pusan. Truman\u2019s response committed air and naval power and sought United Nations condemnation, transforming a regional invasion into a test of collective security.",
+      "details": [
+        "Quigley describes North Korean troops crossing the 38th parallel on June 25, rapidly driving the lightly equipped South Korean forces toward Pusan. Truman\u2019s response committed air and naval power and sought United Nations condemnation, transforming a regional invasion into a test of collective security.",
+        "The Soviet delegation was absent from the Security Council in protest over Nationalist China\u2019s representation. Quigley treats that absence as critical because it removed the Soviet veto from the decisions authorizing assistance to South Korea. The event intersects military operations and international institutions."
+      ],
+      "context": "The Soviet delegation was absent from the Security Council in protest over Nationalist China\u2019s representation.",
+      "endDate": "1953-07-27"
+    },
+    {
+      "id": "tragedy-un-korea-response",
+      "name": "United Nations calls for assistance to South Korea",
+      "date": "1950-06-27",
+      "precision": "day",
+      "people": [
+        "harry-truman"
+      ],
+      "organizations": [
+        "united-nations",
+        "defense-department"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        805
+      ],
+      "summary": "Quigley dates the Security Council\u2019s condemnation and request for assistance to South Korea to June 27,1950. On the same day Truman ordered American forces into action and sent the Seventh Fleet into the Formosa Strait, broadening the policy consequences beyond the Korean peninsula.",
+      "details": [
+        "Quigley dates the Security Council\u2019s condemnation and request for assistance to South Korea to June 27,1950. On the same day Truman ordered American forces into action and sent the Seventh Fleet into the Formosa Strait, broadening the policy consequences beyond the Korean peninsula.",
+        "The author describes the vote as an unprecedented use of a world organization\u2019s collective force against aggression. Soviet absence enabled it, while the American naval move also changed relations between Washington, mainland China and Chiang Kai-shek\u2019s regime."
+      ],
+      "context": "The author describes the vote as an unprecedented use of a world organization\u2019s collective force against aggression."
+    },
+    {
+      "id": "tragedy-ulam-suggestion",
+      "name": "Ulam\u2019s suggestion opens the successful thermonuclear route",
+      "date": "1951-02-01",
+      "precision": "month",
+      "people": [
+        "stanislaw-ulam",
+        "edward-teller",
+        "robert-oppenheimer"
+      ],
+      "organizations": [
+        "los-alamos",
+        "aec-general-advisory-committee"
+      ],
+      "lanes": [
+        "security"
+      ],
+      "pages": [
+        798
+      ],
+      "summary": "Quigley credits a suggestion made by Stanislaw Ulam to Teller in February 1951 with opening the successful thermonuclear approach. Teller presented the developed idea to the General Advisory Committee in June, where the scientists recognized that a workable route had emerged.",
+      "details": [
+        "Quigley credits a suggestion made by Stanislaw Ulam to Teller in February 1951 with opening the successful thermonuclear approach. Teller presented the developed idea to the General Advisory Committee in June, where the scientists recognized that a workable route had emerged.",
+        "The account distinguishes the eventual solution from Teller\u2019s earlier 1946\u20131951 program. This distinction underlies Quigley\u2019s criticism of the public narrative assigning Teller sole credit and portraying scientific or administration opposition as having simply delayed an already viable weapon."
+      ],
+      "context": "The account distinguishes the eventual solution from Teller\u2019s earlier 1946\u20131951 program. This distinction underlies Quigley\u2019s criticism of the public narrative assigning Teller sole credit and portraying scientific or administration opposition as having simply delayed an already viable weapon."
+    },
+    {
+      "id": "tragedy-japan-peace",
+      "name": "Dulles obtains a peace treaty for Japan",
+      "date": "1951-09-08",
+      "precision": "day",
+      "people": [
+        "john-foster-dulles",
+        "harry-truman"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        812,
+        813
+      ],
+      "summary": "Quigley credits Dulles with obtaining the Japanese peace treaty of September 8,1951, after he was brought into State Department work under Truman. The appointment occurred amid domestic pressure over China and the Korean War, which had prompted concessions to anti-Communist critics.",
+      "details": [
+        "Quigley credits Dulles with obtaining the Japanese peace treaty of September 8,1951, after he was brought into State Department work under Truman. The appointment occurred amid domestic pressure over China and the Korean War, which had prompted concessions to anti-Communist critics.",
+        "The author connects Dulles\u2019s diplomatic career with his earlier Wall Street and Sullivan and Cromwell associations, then describes a shift toward unilateralism and neo-isolationist rhetoric. The treaty belongs to that transition between establishment connections and the policies Dulles pursued under Eisenhower."
+      ],
+      "context": "The author connects Dulles\u2019s diplomatic career with his earlier Wall Street and Sullivan and Cromwell associations, then describes a shift toward unilateralism and neo-isolationist rhetoric."
+    },
+    {
+      "id": "tragedy-lincoln-lab",
+      "name": "MIT establishes Lincoln Laboratory for air-defense research",
+      "date": "1951-09-01",
+      "precision": "month",
+      "people": [],
+      "organizations": [
+        "lincoln-laboratory",
+        "us-air-force",
+        "defense-department"
+      ],
+      "lanes": [
+        "security"
+      ],
+      "pages": [
+        815,
+        816
+      ],
+      "summary": "Quigley describes Lincoln Laboratory\u2019s establishment at MIT in September 1951 following Project Charles. Related studies examined radar warning, interception and automatic communications because existing defenses could not reliably stop enough attacking aircraft to be acceptable in nuclear warfare.",
+      "details": [
+        "Quigley describes Lincoln Laboratory\u2019s establishment at MIT in September 1951 following Project Charles. Related studies examined radar warning, interception and automatic communications because existing defenses could not reliably stop enough attacking aircraft to be acceptable in nuclear warfare.",
+        "The laboratory illustrates a conflict inside the defense establishment: the Air Force instigated research but resisted expensive defensive recommendations that competed with strategic-bomber spending. Quigley relates these disputes to the later attack on Oppenheimer and other advocates of diversified defense."
+      ],
+      "context": "The laboratory illustrates a conflict inside the defense establishment: the Air Force instigated research but resisted expensive defensive recommendations that competed with strategic-bomber spending."
+    },
+    {
+      "id": "tragedy-cairo-riots",
+      "name": "Cairo fires deepen the Egyptian political crisis",
+      "date": "1952-01-26",
+      "precision": "day",
+      "people": [
+        "king-farouk",
+        "gamal-nasser",
+        "muhammad-naguib"
+      ],
+      "organizations": [
+        "egypt-free-officers"
+      ],
+      "lanes": [
+        "revolution",
+        "domestic",
+        "empire"
+      ],
+      "pages": [
+        891
+      ],
+      "summary": "Quigley links the Cairo fires of January 26,1952, with a preceding clash over British attempts to disarm Egyptian police in the Canal Zone. Police and army refused to suppress the incendiaries, while Farouk dismissed Nahas and failed to find a government capable of restoring confidence.",
+      "details": [
+        "Quigley links the Cairo fires of January 26,1952, with a preceding clash over British attempts to disarm Egyptian police in the Canal Zone. Police and army refused to suppress the incendiaries, while Farouk dismissed Nahas and failed to find a government capable of restoring confidence.",
+        "The author presents the riots as destructive to the political system even though they were not the officers\u2019 planned revolution. They widened the opening for a small military conspiracy already shaped by British interference, the monarchy\u2019s conduct and humiliation in the 1948 war."
+      ],
+      "context": "The author presents the riots as destructive to the political system even though they were not the officers\u2019 planned revolution."
+    },
+    {
+      "id": "tragedy-livermore-founded",
+      "name": "Second weapons laboratory established at Livermore",
+      "date": "1952-07-01",
+      "precision": "month",
+      "people": [
+        "edward-teller"
+      ],
+      "organizations": [
+        "livermore-laboratory",
+        "us-air-force",
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security"
+      ],
+      "pages": [
+        800
+      ],
+      "summary": "Quigley dates Livermore Laboratory\u2019s establishment to July 1952, following Teller\u2019s departure from Los Alamos and lobbying for a second weapons laboratory. After initial AEC resistance, Teller obtained Air Force support for the new institution attached to Lawrence\u2019s Radiation Laboratory.",
+      "details": [
+        "Quigley dates Livermore Laboratory\u2019s establishment to July 1952, following Teller\u2019s departure from Los Alamos and lobbying for a second weapons laboratory. After initial AEC resistance, Teller obtained Air Force support for the new institution attached to Lawrence\u2019s Radiation Laboratory.",
+        "The author distinguishes institutional creation from credit for the thermonuclear tests already being developed at Los Alamos. In his account, the laboratory\u2019s formation shows how scientists could ally with a military service in disputes over control of weapons development and competing strategic priorities."
+      ],
+      "context": "The author distinguishes institutional creation from credit for the thermonuclear tests already being developed at Los Alamos."
+    },
+    {
+      "id": "tragedy-egypt-revolution",
+      "name": "Egyptian officers seize state and army institutions",
+      "date": "1952-07-22",
+      "precision": "day",
+      "people": [
+        "gamal-nasser",
+        "muhammad-naguib",
+        "king-farouk"
+      ],
+      "organizations": [
+        "egypt-free-officers"
+      ],
+      "lanes": [
+        "revolution",
+        "decolonization",
+        "domestic"
+      ],
+      "pages": [
+        890,
+        891,
+        892
+      ],
+      "summary": "Quigley describes eight young officers seizing army headquarters, radio stations and government on the night of July 22. Farouk was compelled to appoint Naguib head of the army and abdicated four days later. Nasser was the conspiracy\u2019s effective leader behind the initially prominent general.",
+      "details": [
+        "Quigley describes eight young officers seizing army headquarters, radio stations and government on the night of July 22. Farouk was compelled to appoint Naguib head of the army and abdicated four days later. Nasser was the conspiracy\u2019s effective leader behind the initially prominent general.",
+        "The book traces the officers to military academy opportunities opened after the 1936 Anglo-Egyptian treaty, and to anger over British coercion and defeat by Israel. It treats the subsequent regime as improvisational, consolidating authority through coercion while pursuing agrarian reform."
+      ],
+      "context": "The book traces the officers to military academy opportunities opened after the 1936 Anglo-Egyptian treaty, and to anger over British coercion and defeat by Israel.",
+      "precisionNote": "The source dates the overnight seizure to July 22; the event preserves that stated starting date rather than normalizing to July 23."
+    },
+    {
+      "id": "tragedy-egypt-land-reform",
+      "name": "Egyptian junta adopts an agrarian law",
+      "date": "1952-09-01",
+      "precision": "month",
+      "people": [
+        "gamal-nasser",
+        "muhammad-naguib"
+      ],
+      "organizations": [
+        "egypt-free-officers"
+      ],
+      "lanes": [
+        "revolution",
+        "domestic",
+        "finance"
+      ],
+      "pages": [
+        892,
+        893
+      ],
+      "summary": "Quigley describes the September 1952 agrarian law as an attempt to limit large estates, transfer surplus land to working peasants and redirect landlord wealth into industry and commerce. Compensation used long-term bonds, while compulsory cooperatives took over regulatory and purchasing functions.",
+      "details": [
+        "Quigley describes the September 1952 agrarian law as an attempt to limit large estates, transfer surplus land to working peasants and redirect landlord wealth into industry and commerce. Compensation used long-term bonds, while compulsory cooperatives took over regulatory and purchasing functions.",
+        "The author distinguishes benefits to new owners and tenants from the unchanged problems of landless laborers and rapid population growth. He argues that the compensation mechanism and distrust of the regime limited the hoped-for industrial investment, forcing increasing government intervention in enterprise creation."
+      ],
+      "context": "The author distinguishes benefits to new owners and tenants from the unchanged problems of landless laborers and rapid population growth."
+    },
+    {
+      "id": "tragedy-ivy-mike",
+      "name": "Operation Ivy tests a thermonuclear device at Eniwetok",
+      "date": "1952-11-01",
+      "precision": "day",
+      "people": [
+        "edward-teller",
+        "stanislaw-ulam"
+      ],
+      "organizations": [
+        "los-alamos",
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security"
+      ],
+      "pages": [
+        798
+      ],
+      "summary": "Quigley dates the Mike test at Eniwetok to November 1,1952, and describes a roughly ten-megaton explosion that destroyed its test islet. He emphasizes that the enormous refrigerated apparatus demonstrated thermonuclear feasibility but was not yet a practical aircraft-delivered bomb.",
+      "details": [
+        "Quigley dates the Mike test at Eniwetok to November 1,1952, and describes a roughly ten-megaton explosion that destroyed its test islet. He emphasizes that the enormous refrigerated apparatus demonstrated thermonuclear feasibility but was not yet a practical aircraft-delivered bomb.",
+        "The distinction between an experimental device and a usable weapon is central to the book\u2019s account of the hydrogen-bomb race. Quigley contrasts this success with earlier unsuccessful approaches and with later public claims about who developed the working system."
+      ],
+      "context": "The distinction between an experimental device and a usable weapon is central to the book\u2019s account of the hydrogen-bomb race."
+    },
+    {
+      "id": "tragedy-stalin-death",
+      "name": "Stalin\u2019s death opens a Soviet succession struggle",
+      "date": "1953-03-05",
+      "precision": "day",
+      "people": [
+        "joseph-stalin",
+        "nikita-khrushchev",
+        "georgi-malenkov",
+        "lavrenti-beria",
+        "vyacheslav-molotov"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "pages": [
+        836,
+        837
+      ],
+      "summary": "Quigley describes Stalin\u2019s death on March 5,1953, as interrupting preparations for another purge. Senior figures quickly restored ministries and positions from which Stalin had displaced them, while Malenkov initially took both the premiership and party secretaryship before surrendering the latter to Khrushchev.",
+      "details": [
+        "Quigley describes Stalin\u2019s death on March 5,1953, as interrupting preparations for another purge. Senior figures quickly restored ministries and positions from which Stalin had displaced them, while Malenkov initially took both the premiership and party secretaryship before surrendering the latter to Khrushchev.",
+        "The author treats the division of state and party offices as decisive to the next five years. Khrushchev\u2019s control of party appointments became a stronger route to power than his rivals expected, while the regular army emerged as a participant in leadership struggles that Stalin had previously suppressed."
+      ],
+      "context": "The author treats the division of state and party offices as decisive to the next five years. Khrushchev\u2019s control of party appointments became a stronger route to power than his rivals expected, while the regular army emerged as a participant in leadership struggles that Stalin had previously suppressed."
+    },
+    {
+      "id": "tragedy-east-berlin-uprising",
+      "name": "East Berlin workers rise against the satellite regime",
+      "date": "1953-06-16",
+      "precision": "day",
+      "people": [
+        "lavrenti-beria",
+        "nikita-khrushchev"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "revolution",
+        "security"
+      ],
+      "pages": [
+        837
+      ],
+      "summary": "Quigley dates the workers\u2019 rising in East Berlin to June 16,1953, after rumors and limited relaxation raised hopes in East Germany. Soviet occupation armored forces crushed the revolt after initial hesitation, and the Kremlin subsequently used the episode as a pretext against Beria.",
+      "details": [
+        "Quigley dates the workers\u2019 rising in East Berlin to June 16,1953, after rumors and limited relaxation raised hopes in East Germany. Soviet occupation armored forces crushed the revolt after initial hesitation, and the Kremlin subsequently used the episode as a pretext against Beria.",
+        "The author connects unrest in a satellite state with succession politics inside Moscow. The account makes neither local protest nor the Soviet response independent of the struggle among leaders over relaxation, security-police authority and the army\u2019s role."
+      ],
+      "context": "The author connects unrest in a satellite state with succession politics inside Moscow. The account makes neither local protest nor the Soviet response independent of the struggle among leaders over relaxation, security-police authority and the army\u2019s role.",
+      "precisionNote": "Starting date follows the source\u2019s June 16 account; the larger uprising continued afterward."
+    },
+    {
+      "id": "tragedy-korean-armistice",
+      "name": "Korean armistice ends 37 months of war",
+      "date": "1953-07-27",
+      "precision": "day",
+      "people": [
+        "harry-truman",
+        "dwight-eisenhower",
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "united-nations",
+        "defense-department"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        814
+      ],
+      "summary": "Quigley dates the Korean truce to July 27,1953, after Stalin\u2019s death and the arrival of the Eisenhower administration helped break a prolonged stalemate. He gives the conflict\u2019s heavy human and financial cost as evidence of the inadequacy of exclusive reliance on strategic nuclear retaliation.",
+      "details": [
+        "Quigley dates the Korean truce to July 27,1953, after Stalin\u2019s death and the arrival of the Eisenhower administration helped break a prolonged stalemate. He gives the conflict\u2019s heavy human and financial cost as evidence of the inadequacy of exclusive reliance on strategic nuclear retaliation.",
+        "The author follows the war into scientific defense studies seeking tactical air support, nuclear weapons suitable for ground warfare and air defense. In this interpretation the armistice is connected to competing American military institutions and the strategic lessons the New Look later set aside."
+      ],
+      "context": "The author follows the war into scientific defense studies seeking tactical air support, nuclear weapons suitable for ground warfare and air defense."
+    },
+    {
+      "id": "tragedy-iran-coup",
+      "name": "CIA-backed operation overthrows Mossadeq in Iran",
+      "date": "1953-08-01",
+      "precision": "month",
+      "people": [
+        "allen-dulles",
+        "mohammad-mossadeq",
+        "mohammad-reza-shah",
+        "h-norman-schwarzkopf",
+        "loy-henderson",
+        "frank-tiarks"
+      ],
+      "organizations": [
+        "cia",
+        "anglo-iranian",
+        "seven-sisters",
+        "imperial-iranian-gendarmerie",
+        "schroeder-bank-new-york",
+        "schroeder-bank-london"
+      ],
+      "lanes": [
+        "security",
+        "finance",
+        "decolonization"
+      ],
+      "pages": [
+        879,
+        880,
+        881
+      ],
+      "summary": "Quigley describes British oil interests, the international petroleum cartel, the American government and the shah\u2019s supporters combining against Mossadeq in August 1953. He attributes the central effort to Allen Dulles and CIA funds, with Schwarzkopf, Henderson and messages from the shah involved in preparation.",
+      "details": [
+        "Quigley describes British oil interests, the international petroleum cartel, the American government and the shah\u2019s supporters combining against Mossadeq in August 1953. He attributes the central effort to Allen Dulles and CIA funds, with Schwarzkopf, Henderson and messages from the shah involved in preparation.",
+        "The narrative links the operation to Dulles\u2019s Schroeder banking background and Tiarks\u2019s directorships at British financial institutions and AIOC. These associations are presented as contextual connections in Quigley\u2019s explanation; the book\u2019s operational claims remain source-attributed rather than independently verified evidence of every participant\u2019s actions."
+      ],
+      "context": "The narrative links the operation to Dulles\u2019s Schroeder banking background and Tiarks\u2019s directorships at British financial institutions and AIOC."
+    },
+    {
+      "id": "tragedy-nsc162",
+      "name": "Eisenhower accepts NSC 162 and the New Look",
+      "date": "1953-10-30",
+      "precision": "day",
+      "people": [
+        "dwight-eisenhower",
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "national-security-council",
+        "joint-chiefs",
+        "strategic-air-command"
+      ],
+      "lanes": [
+        "security",
+        "finance"
+      ],
+      "pages": [
+        830
+      ],
+      "summary": "Quigley describes NSC 162 as incorporating Joint Chiefs recommendations for increased strategic retaliation, fewer overseas American troops, greater reliance on local forces and improved continental air defense. Eisenhower accepted it on October 30,1953, alongside pressure to keep military expenditure on a lower long-term basis.",
+      "details": [
+        "Quigley describes NSC 162 as incorporating Joint Chiefs recommendations for increased strategic retaliation, fewer overseas American troops, greater reliance on local forces and improved continental air defense. Eisenhower accepted it on October 30,1953, alongside pressure to keep military expenditure on a lower long-term basis.",
+        "The author sees this as a reversal of the balanced-defense direction associated with NSC 68 and the Korean War\u2019s lessons. Nuclear reliance and budget control intersect here: a larger role for retaliation was expected to substitute for more expensive manpower and overseas commitments."
+      ],
+      "context": "The author sees this as a reversal of the balanced-defense direction associated with NSC 68 and the Korean War\u2019s lessons."
+    },
+    {
+      "id": "tragedy-borden-letter",
+      "name": "Borden accuses Oppenheimer in a letter to Hoover",
+      "date": "1953-11-07",
+      "precision": "day",
+      "people": [
+        "william-l-borden",
+        "hoover",
+        "robert-oppenheimer",
+        "lewis-strauss"
+      ],
+      "organizations": [
+        "fbi",
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        824
+      ],
+      "summary": "Quigley describes Borden\u2019s November 7 letter to Hoover alleging that Oppenheimer was probably a Soviet agent. The author characterizes the letter as a biased recycling of old accusations and uses it to explain the next step in Strauss\u2019s campaign against Oppenheimer\u2019s access to classified work.",
+      "details": [
+        "Quigley describes Borden\u2019s November 7 letter to Hoover alleging that Oppenheimer was probably a Soviet agent. The author characterizes the letter as a biased recycling of old accusations and uses it to explain the next step in Strauss\u2019s campaign against Oppenheimer\u2019s access to classified work.",
+        "This event records an accusation and the source\u2019s criticism of it, not a finding that Oppenheimer committed espionage. Quigley connects the letter with institutional and strategic hostility to Oppenheimer\u2019s advocacy of diversified nuclear weapons, tactical defense and spending outside strategic bombing."
+      ],
+      "context": "This event records an accusation and the source\u2019s criticism of it, not a finding that Oppenheimer committed espionage."
+    },
+    {
+      "id": "tragedy-oppenheimer-suspension",
+      "name": "Strauss informs Oppenheimer of suspended clearance",
+      "date": "1953-12-21",
+      "precision": "day",
+      "people": [
+        "lewis-strauss",
+        "robert-oppenheimer",
+        "dwight-eisenhower"
+      ],
+      "organizations": [
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        824
+      ],
+      "summary": "Quigley describes Strauss informing Oppenheimer on December 21,1953, that his security clearance had been suspended under a presidential direction. Without access to classified material, the physicist could no longer perform the same defense-advisory work and appealed through the AEC hearing process.",
+      "details": [
+        "Quigley describes Strauss informing Oppenheimer on December 21,1953, that his security clearance had been suspended under a presidential direction. Without access to classified material, the physicist could no longer perform the same defense-advisory work and appealed through the AEC hearing process.",
+        "The author treats the action as a culmination of an attack begun when Strauss became AEC chairman. It connects personal accusation with a struggle over nuclear policy, while the appeal exposes changing standards under which government employees could be excluded on security doubts rather than proof of disloyalty."
+      ],
+      "context": "The author treats the action as a culmination of an attack begun when Strauss became AEC chairman. It connects personal accusation with a struggle over nuclear policy, while the appeal exposes changing standards under which government employees could be excluded on security doubts rather than proof of disloyalty."
+    },
+    {
+      "id": "tragedy-massive-retaliation",
+      "name": "Dulles announces massive retaliation before the CFR",
+      "date": "1954-01-12",
+      "precision": "day",
+      "people": [
+        "john-foster-dulles",
+        "dwight-eisenhower"
+      ],
+      "organizations": [
+        "cfr",
+        "state-department",
+        "strategic-air-command"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        821,
+        822
+      ],
+      "summary": "Quigley dates Dulles\u2019s public statement of massive retaliation to January 12,1954, before the Council on Foreign Relations. The doctrine made strategic nuclear reprisal an alternative to fighting limited wars, leaving uncertain the location and degree of aggression that would trigger American action.",
+      "details": [
+        "Quigley dates Dulles\u2019s public statement of massive retaliation to January 12,1954, before the Council on Foreign Relations. The doctrine made strategic nuclear reprisal an alternative to fighting limited wars, leaving uncertain the location and degree of aggression that would trigger American action.",
+        "The author criticizes the gap between the threat and its usability against an opponent capable of nuclear response. Regional alliances became tripwires within this approach, linking the CFR speech with NATO, SEATO and the Baghdad Pact rather than representing a separate diplomatic episode."
+      ],
+      "context": "The author criticizes the gap between the threat and its usability against an opponent capable of nuclear response."
+    },
+    {
+      "id": "tragedy-nasser-premier",
+      "name": "Nasser replaces Naguib as Egyptian prime minister",
+      "date": "1954-02-25",
+      "precision": "day",
+      "people": [
+        "gamal-nasser",
+        "muhammad-naguib"
+      ],
+      "organizations": [
+        "egypt-free-officers"
+      ],
+      "lanes": [
+        "domestic",
+        "revolution"
+      ],
+      "pages": [
+        892
+      ],
+      "summary": "Quigley dates Nasser\u2019s replacement of Naguib as prime minister to February 25,1954, during the officers\u2019 consolidation of power. He describes their split over autocracy and the outlawing of the Muslim Brotherhood, with Nasser prepared to shift alliances to strengthen control.",
+      "details": [
+        "Quigley dates Nasser\u2019s replacement of Naguib as prime minister to February 25,1954, during the officers\u2019 consolidation of power. He describes their split over autocracy and the outlawing of the Muslim Brotherhood, with Nasser prepared to shift alliances to strengthen control.",
+        "The author distinguishes Naguib\u2019s formal prominence from Nasser\u2019s earlier command of the real power mechanisms. Political parties, Communist groups, religious opponents and labor activity all faced repression in the regime\u2019s effort to stabilize a military-led state."
+      ],
+      "context": "The author distinguishes Naguib\u2019s formal prominence from Nasser\u2019s earlier command of the real power mechanisms."
+    },
+    {
+      "id": "tragedy-bravo",
+      "name": "Bravo test exposes the reach of radioactive fallout",
+      "date": "1954-03-01",
+      "precision": "day",
+      "people": [
+        "lewis-strauss",
+        "edward-teller",
+        "robert-oppenheimer"
+      ],
+      "organizations": [
+        "atomic-energy-commission"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        799,
+        800,
+        801
+      ],
+      "summary": "Quigley describes the Bravo test at Bikini on March 1,1954, as a fission-fusion-fission weapon producing extensive radioactive contamination. He criticizes the AEC\u2019s subsequent explanation and secrecy, arguing that the public was misled about the device\u2019s nature and the history of its development.",
+      "details": [
+        "Quigley describes the Bravo test at Bikini on March 1,1954, as a fission-fusion-fission weapon producing extensive radioactive contamination. He criticizes the AEC\u2019s subsequent explanation and secrecy, arguing that the public was misled about the device\u2019s nature and the history of its development.",
+        "The test connects scientific development with public legitimacy for massive retaliation. In Quigley\u2019s account, information about fallout and weapons design mattered politically because opposition to indiscriminate nuclear destruction could undermine the strategy promoted by Dulles, Strauss and Air Force supporters."
+      ],
+      "context": "The test connects scientific development with public legitimacy for massive retaliation. In Quigley\u2019s account, information about fallout and weapons design mattered politically because opposition to indiscriminate nuclear destruction could undermine the strategy promoted by Dulles, Strauss and Air Force supporters."
+    },
+    {
+      "id": "tragedy-oppenheimer-hearings",
+      "name": "AEC holds Oppenheimer\u2019s security hearings",
+      "date": "1954-04-12",
+      "precision": "day",
+      "people": [
+        "robert-oppenheimer",
+        "lewis-strauss",
+        "edward-teller"
+      ],
+      "organizations": [
+        "atomic-energy-commission",
+        "aec-general-advisory-committee"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        824,
+        825,
+        826
+      ],
+      "summary": "Quigley dates Oppenheimer\u2019s hearings from April 12 to May 6,1954. Although counsel could cross-examine witnesses, the author criticizes the process and the changing security standards that placed the burden of dispelling broadly defined doubts on the employee rather than proving misconduct.",
+      "details": [
+        "Quigley dates Oppenheimer\u2019s hearings from April 12 to May 6,1954. Although counsel could cross-examine witnesses, the author criticizes the process and the changing security standards that placed the burden of dispelling broadly defined doubts on the employee rather than proving misconduct.",
+        "The book discusses objections to Oppenheimer\u2019s weapons-policy advice alongside the personal security case. Its concluding passage gives an inconsistent year for the final clearance denial, so this timeline anchors the clearly stated hearing period rather than silently resolving that discrepancy."
+      ],
+      "context": "The book discusses objections to Oppenheimer\u2019s weapons-policy advice alongside the personal security case.",
+      "endDate": "1954-05-06",
+      "precisionNote": "Hearing dates are explicit on PDF p 824; p 826 gives an inconsistent 1955 date for the subsequent denial, which is not used here."
+    },
+    {
+      "id": "tragedy-guatemala-coup",
+      "name": "CIA-supported exiles overthrow \u00c1rbenz\u2019s Guatemala government",
+      "date": "1954-01-01",
+      "precision": "year",
+      "people": [
+        "jacobo-arbenz",
+        "carlos-castillo-armas",
+        "allen-dulles",
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "cia",
+        "united-fruit",
+        "oas"
+      ],
+      "lanes": [
+        "security",
+        "revolution",
+        "finance"
+      ],
+      "pages": [
+        937,
+        938,
+        941
+      ],
+      "summary": "Quigley connects the 1954 overthrow of \u00c1rbenz with land reform affecting United Fruit, a Dulles-sponsored OAS condemnation and CIA support for Castillo Armas\u2019s exile force. Honduras and Nicaragua provided bases, while American financing, equipment and aviation assistance supported the attack.",
+      "details": [
+        "Quigley connects the 1954 overthrow of \u00c1rbenz with land reform affecting United Fruit, a Dulles-sponsored OAS condemnation and CIA support for Castillo Armas\u2019s exile force. Honduras and Nicaragua provided bases, while American financing, equipment and aviation assistance supported the attack.",
+        "The author later stresses that the Guatemalan army\u2019s decision was more decisive than the exiles themselves. He argues that CIA planners misunderstood their apparent success and applied the wrong lesson to Cuba, making this an explicit source-described influence on the Bay of Pigs operation."
+      ],
+      "context": "The author later stresses that the Guatemalan army\u2019s decision was more decisive than the exiles themselves."
+    },
+    {
+      "id": "tragedy-seato-founded",
+      "name": "SEATO forms part of Dulles\u2019s treaty perimeter",
+      "date": "1954-01-01",
+      "precision": "year",
+      "people": [
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "seato",
+        "nato",
+        "cento"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        822,
+        902
+      ],
+      "summary": "Quigley describes SEATO as signed in 1954 by the United States, Britain, France, New Zealand, Australia, the Philippines, Thailand and Pakistan. Pakistan linked it to the Baghdad Pact region, while Turkey connected that region with NATO.",
+      "details": [
+        "Quigley describes SEATO as signed in 1954 by the United States, Britain, France, New Zealand, Australia, the Philippines, Thailand and Pakistan. Pakistan linked it to the Baghdad Pact region, while Turkey connected that region with NATO.",
+        "The author interprets these agreements as a largely paper perimeter intended to trigger American nuclear retaliation rather than a coherent local defense system. Selection of a year-only point preserves the precision actually given in the cited account; no month or day is inferred."
+      ],
+      "context": "The author interprets these agreements as a largely paper perimeter intended to trigger American nuclear retaliation rather than a coherent local defense system."
+    },
+    {
+      "id": "tragedy-iran-oil-consortium",
+      "name": "Iranian oil dispute settles into an international consortium",
+      "date": "1954-10-01",
+      "precision": "month",
+      "people": [
+        "mohammad-reza-shah"
+      ],
+      "organizations": [
+        "anglo-iranian",
+        "seven-sisters"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "pages": [
+        881
+      ],
+      "summary": "Quigley dates the compromise over Iranian oil to October 1954. Existing international cartel companies and some American independents took over exploitation and marketing, with AIOC holding 40 percent. Iran\u2019s income increased while the managed-price structure of the international oil market survived.",
+      "details": [
+        "Quigley dates the compromise over Iranian oil to October 1954. Existing international cartel companies and some American independents took over exploitation and marketing, with AIOC holding 40 percent. Iran\u2019s income increased while the managed-price structure of the international oil market survived.",
+        "The author presents the agreement as a post-coup settlement around shared interests in substantial revenues and stable prices. It links national sovereignty, company ownership and global cartel arrangements without suggesting that the earlier nationalization conflict simply restored the identical pre-crisis conditions."
+      ],
+      "context": "The author presents the agreement as a post-coup settlement around shared interests in substantial revenues and stable prices."
+    },
+    {
+      "id": "tragedy-baghdad-pact",
+      "name": "Baghdad Pact links Britain and four regional states",
+      "date": "1955-01-01",
+      "precision": "year",
+      "people": [
+        "john-foster-dulles",
+        "mohammad-reza-shah"
+      ],
+      "organizations": [
+        "cento",
+        "nato",
+        "seato"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        822,
+        881
+      ],
+      "summary": "Quigley describes the 1955 Baghdad Pact as comprising Britain, Turkey, Iran, Iraq and Pakistan, with the United States outside its formal membership. He places it in Dulles\u2019s linked system of regional treaties and in Iran\u2019s firm Western alignment after Mossadeq\u2019s overthrow.",
+      "details": [
+        "Quigley describes the 1955 Baghdad Pact as comprising Britain, Turkey, Iran, Iraq and Pakistan, with the United States outside its formal membership. He places it in Dulles\u2019s linked system of regional treaties and in Iran\u2019s firm Western alignment after Mossadeq\u2019s overthrow.",
+        "The book notes that Iraq\u2019s later withdrawal led to the Central Treaty Organization name in 1959 and American bilateral agreements. The source gives only the founding year here, so the timeline does not invent a precise signing date."
+      ],
+      "context": "The book notes that Iraq\u2019s later withdrawal led to the Central Treaty Organization name in 1959 and American bilateral agreements."
+    },
+    {
+      "id": "tragedy-austrian-treaty",
+      "name": "Austrian peace treaty establishes withdrawal and neutrality",
+      "date": "1955-05-15",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "nikolai-bulganin",
+        "anthony-eden",
+        "john-foster-dulles"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        840
+      ],
+      "summary": "Quigley identifies the Austrian treaty of May 15,1955, and Soviet withdrawal as a surprising opening in the Cold War thaw. Austria\u2019s 1938 frontiers were restored, union with Germany was prohibited, and neutrality was required. The result encouraged wider discussion of European disengagement.",
+      "details": [
+        "Quigley identifies the Austrian treaty of May 15,1955, and Soviet withdrawal as a surprising opening in the Cold War thaw. Austria\u2019s 1938 frontiers were restored, union with Germany was prohibited, and neutrality was required. The result encouraged wider discussion of European disengagement.",
+        "The author contrasts the apparent promise of the Austrian settlement with unresolved disagreements over Germany, elections and troop withdrawal. What could be agreed for Austria did not automatically establish a formula for German reunion or for a balanced retreat of Soviet and American power from Europe."
+      ],
+      "context": "The author contrasts the apparent promise of the Austrian settlement with unresolved disagreements over Germany, elections and troop withdrawal."
+    },
+    {
+      "id": "tragedy-belgrade-reconciliation",
+      "name": "Soviet leaders reconcile with Tito at Belgrade",
+      "date": "1955-05-01",
+      "precision": "month",
+      "people": [
+        "nikita-khrushchev",
+        "nikolai-bulganin",
+        "josip-tito",
+        "vyacheslav-molotov"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "diplomacy",
+        "revolution"
+      ],
+      "pages": [
+        839
+      ],
+      "summary": "Quigley describes a six-day Soviet visit to Tito in May 1955 and the Belgrade Declaration\u2019s recognition that countries could follow different roads to socialism. Bulganin signed while Khrushchev avoided direct responsibility for the potentially disruptive principle.",
+      "details": [
+        "Quigley describes a six-day Soviet visit to Tito in May 1955 and the Belgrade Declaration\u2019s recognition that countries could follow different roads to socialism. Bulganin signed while Khrushchev avoided direct responsibility for the potentially disruptive principle.",
+        "The author sees the declaration as a challenge both to Molotov\u2019s earlier policies and to Stalin\u2019s demand for uniform Kremlin leadership. He connects this admission of national diversity with later instability in Soviet satellite states, where local nationalism and opposition to imposed Stalinist systems were already strong."
+      ],
+      "context": "The author sees the declaration as a challenge both to Molotov\u2019s earlier policies and to Stalin\u2019s demand for uniform Kremlin leadership."
+    },
+    {
+      "id": "tragedy-geneva-summit",
+      "name": "Geneva summit opens a period of Cold War contact",
+      "date": "1955-07-18",
+      "precision": "day",
+      "people": [
+        "dwight-eisenhower",
+        "john-foster-dulles",
+        "anthony-eden",
+        "nikita-khrushchev",
+        "nikolai-bulganin"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        840,
+        841
+      ],
+      "summary": "Quigley describes the July 18\u201324 Geneva summit as an Eden initiative reluctantly accepted by Dulles. It did not settle Germany or disarmament, but Eisenhower\u2019s open-skies proposal gave the United States a public advantage and the conference established a more cooperative atmosphere.",
+      "details": [
+        "Quigley describes the July 18\u201324 Geneva summit as an Eden initiative reluctantly accepted by Dulles. It did not settle Germany or disarmament, but Eisenhower\u2019s open-skies proposal gave the United States a public advantage and the conference established a more cooperative atmosphere.",
+        "The author argues that the Geneva spirit survived later crises in the form of continuing scientific, athletic and social contacts. He connects this opening with the International Geophysical Year and later Soviet-American exchanges rather than judging the conference solely by the absence of an immediate treaty."
+      ],
+      "context": "The author argues that the Geneva spirit survived later crises in the form of continuing scientific, athletic and social contacts.",
+      "endDate": "1955-07-24"
+    },
+    {
+      "id": "tragedy-secret-speech",
+      "name": "Khrushchev denounces Stalin at the Twentieth Party Congress",
+      "date": "1956-02-24",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "joseph-stalin",
+        "georgi-zhukov"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "revolution",
+        "diplomacy"
+      ],
+      "pages": [
+        842,
+        843,
+        844,
+        845,
+        846,
+        847
+      ],
+      "summary": "Quigley describes Khrushchev\u2019s secret anti-Stalin speech during the February 1956 party congress as a major shock to international Communism. The speech catalogued fabricated accusations, torture, military purges and distortions of Stalin\u2019s wartime leadership and cult of personality.",
+      "details": [
+        "Quigley describes Khrushchev\u2019s secret anti-Stalin speech during the February 1956 party congress as a major shock to international Communism. The speech catalogued fabricated accusations, torture, military purges and distortions of Stalin\u2019s wartime leadership and cult of personality.",
+        "The author connects de-Stalinization with Khrushchev\u2019s struggle against rivals and the army\u2019s desire to remove blame for earlier disasters. He also follows its consequences beyond Moscow: the admission weakened ideological authority and helped produce divisions among satellite states and Communist movements."
+      ],
+      "context": "The author connects de-Stalinization with Khrushchev\u2019s struggle against rivals and the army\u2019s desire to remove blame for earlier disasters.",
+      "endDate": "1956-02-25",
+      "precisionNote": "PDF p843 describes an all-night secret session on February24\u201325; starting date is the24th."
+    },
+    {
+      "id": "tragedy-glubb-dismissal",
+      "name": "Hussein dismisses Glubb from the Arab Legion",
+      "date": "1956-03-01",
+      "precision": "month",
+      "people": [
+        "king-hussein",
+        "john-glubb",
+        "gamal-nasser"
+      ],
+      "organizations": [
+        "arab-legion"
+      ],
+      "lanes": [
+        "decolonization",
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        894,
+        895
+      ],
+      "summary": "Quigley describes King Hussein\u2019s dismissal of Glubb in March 1956 as a major setback to Britain\u2019s influence in Jordan. The Arab Legion had been a central support of the dynasty, so removing its long-standing British commander occurred within a precarious regional balance.",
+      "details": [
+        "Quigley describes King Hussein\u2019s dismissal of Glubb in March 1956 as a major setback to Britain\u2019s influence in Jordan. The Arab Legion had been a central support of the dynasty, so removing its long-standing British commander occurred within a precarious regional balance.",
+        "The author connects the dismissal with Nasser\u2019s pressure on Western-linked Arab dynasties to display greater independence. British efforts to reinforce Jordan from Iraq and Israel\u2019s concern about coordinated Arab military action then became part of the developing background to Suez."
+      ],
+      "context": "The author connects the dismissal with Nasser\u2019s pressure on Western-linked Arab dynasties to display greater independence."
+    },
+    {
+      "id": "tragedy-aswan-aid-withdrawn",
+      "name": "Dulles withdraws the American Aswan Dam offer",
+      "date": "1956-07-19",
+      "precision": "day",
+      "people": [
+        "john-foster-dulles",
+        "gamal-nasser"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy",
+        "decolonization"
+      ],
+      "pages": [
+        894,
+        895
+      ],
+      "summary": "Quigley dates the withdrawal of the American financial offer for the Aswan High Dam to July 19,1956. It followed disputes over financing conditions and Nasser\u2019s efforts to play potential Western and Soviet assistance against each other while seeking heavy armaments.",
+      "details": [
+        "Quigley dates the withdrawal of the American financial offer for the Aswan High Dam to July 19,1956. It followed disputes over financing conditions and Nasser\u2019s efforts to play potential Western and Soviet assistance against each other while seeking heavy armaments.",
+        "The author treats the withdrawal as the immediate provocation for Nasser\u2019s nationalization of the Suez Canal Company a week later. Dam finance, Egyptian cotton revenues, arms purchases and canal profits intersect in this explanation of how development policy became a geopolitical crisis."
+      ],
+      "context": "The author treats the withdrawal as the immediate provocation for Nasser\u2019s nationalization of the Suez Canal Company a week later."
+    },
+    {
+      "id": "tragedy-suez-nationalization",
+      "name": "Nasser nationalizes the Suez Canal Company",
+      "date": "1956-07-26",
+      "precision": "day",
+      "people": [
+        "gamal-nasser",
+        "john-foster-dulles",
+        "anthony-eden"
+      ],
+      "organizations": [
+        "suez-canal-company"
+      ],
+      "lanes": [
+        "finance",
+        "decolonization",
+        "diplomacy"
+      ],
+      "pages": [
+        895,
+        896
+      ],
+      "summary": "Quigley describes Nasser nationalizing the Suez Canal Company on July 26,1956, to redirect profits toward the High Dam after the American aid withdrawal. Britain challenged Egyptian control, France sought to punish support for Algerian rebels, and Israel pursued its own security objectives.",
+      "details": [
+        "Quigley describes Nasser nationalizing the Suez Canal Company on July 26,1956, to redirect profits toward the High Dam after the American aid withdrawal. Britain challenged Egyptian control, France sought to punish support for Algerian rebels, and Israel pursued its own security objectives.",
+        "The author argues that compensation and efficient operation were the legitimate international concerns. He notes that Egyptian-operated transit continued after British-controlled pilots withdrew, separating the practical problem of running the canal from the political determination to humiliate Nasser and restore outside control."
+      ],
+      "context": "The author argues that compensation and efficient operation were the legitimate international concerns."
+    },
+    {
+      "id": "tragedy-hungary-neutrality",
+      "name": "Nagy declares Hungary neutral and withdraws from Warsaw Pact",
+      "date": "1956-11-01",
+      "precision": "day",
+      "people": [
+        "imre-nagy",
+        "janos-kadar",
+        "nikita-khrushchev",
+        "josip-tito"
+      ],
+      "organizations": [
+        "warsaw-pact",
+        "united-nations"
+      ],
+      "lanes": [
+        "revolution",
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        852,
+        853
+      ],
+      "summary": "Quigley describes Nagy appealing to the United Nations on November 1 and announcing Hungary\u2019s withdrawal from the Warsaw Pact and return to neutrality. K\u00e1d\u00e1r had moved to Soviet headquarters and established a rival government while large Soviet forces entered the country.",
+      "details": [
+        "Quigley describes Nagy appealing to the United Nations on November 1 and announcing Hungary\u2019s withdrawal from the Warsaw Pact and return to neutrality. K\u00e1d\u00e1r had moved to Soviet headquarters and established a rival government while large Soviet forces entered the country.",
+        "The author places this turning point within the upheaval encouraged by de-Stalinization and subsequent Soviet reversals. Hungary\u2019s attempt to move from reform inside the Communist system to neutral independence brought military power directly against the promise of national paths to socialism."
+      ],
+      "context": "The author places this turning point within the upheaval encouraged by de-Stalinization and subsequent Soviet reversals."
+    },
+    {
+      "id": "tragedy-hungary-invasion",
+      "name": "Soviet forces crush the Budapest uprising",
+      "date": "1956-11-04",
+      "precision": "day",
+      "people": [
+        "imre-nagy",
+        "janos-kadar",
+        "nikita-khrushchev",
+        "josip-tito"
+      ],
+      "organizations": [
+        "warsaw-pact"
+      ],
+      "lanes": [
+        "war",
+        "revolution",
+        "security"
+      ],
+      "pages": [
+        853,
+        854
+      ],
+      "summary": "Quigley describes Soviet forces attacking Budapest before dawn on November 4, overwhelming most resistance that day. Nagy\u2019s government sought refuge in the Yugoslav Embassy, but its members were seized after leaving under an offered safe conduct later in the month.",
+      "details": [
+        "Quigley describes Soviet forces attacking Budapest before dawn on November 4, overwhelming most resistance that day. Nagy\u2019s government sought refuge in the Yugoslav Embassy, but its members were seized after leaving under an offered safe conduct later in the month.",
+        "The author emphasizes casualties, destruction and flight into exile, and argues that the invasion further shattered Communism\u2019s appeal among Western leftists and Soviet intellectuals. The action also damaged Khrushchev in Moscow\u2019s leadership contest and helped reverse the earlier de-Stalinization opening."
+      ],
+      "context": "The author emphasizes casualties, destruction and flight into exile, and argues that the invasion further shattered Communism\u2019s appeal among Western leftists and Soviet intellectuals."
+    },
+    {
+      "id": "tragedy-suez-invasion",
+      "name": "Anglo-French forces invade Egypt during the Suez war",
+      "date": "1956-11-06",
+      "precision": "day",
+      "people": [
+        "gamal-nasser",
+        "anthony-eden",
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "suez-canal-company",
+        "united-nations"
+      ],
+      "lanes": [
+        "war",
+        "empire",
+        "decolonization"
+      ],
+      "pages": [
+        896,
+        897
+      ],
+      "summary": "Quigley describes Israel\u2019s Sinai attack on October 29, an Anglo-French ultimatum on October 30, British air attacks after its expiry, and a seaborne invasion on November 6. The United States opposed the operation through the United Nations, while Egypt and Israel accepted a cease-fire on November 5.",
+      "details": [
+        "Quigley describes Israel\u2019s Sinai attack on October 29, an Anglo-French ultimatum on October 30, British air attacks after its expiry, and a seaborne invasion on November 6. The United States opposed the operation through the United Nations, while Egypt and Israel accepted a cease-fire on November 5.",
+        "The author connects the crisis with interruptions of oil routes, financial pressure on Britain and fractures inside Western alliances. Its coincidence with Soviet action in Hungary exposed contradictions in the superpowers\u2019 selective responses and strengthened the impetus toward an independent nonaligned grouping."
+      ],
+      "context": "The author connects the crisis with interruptions of oil routes, financial pressure on Britain and fractures inside Western alliances."
+    },
+    {
+      "id": "tragedy-eisenhower-doctrine",
+      "name": "Eisenhower Doctrine frames Near Eastern aid around anti-Communism",
+      "date": "1957-01-01",
+      "precision": "month",
+      "people": [
+        "dwight-eisenhower",
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        899,
+        900
+      ],
+      "summary": "Quigley describes the January 1957 Eisenhower Doctrine as a promise of American force for states requesting help against overt aggression from international Communism. He criticizes this formulation for treating the region\u2019s problems as a military extension of the Cold War rather than poverty, independence and Arab-Israeli conflict.",
+      "details": [
+        "Quigley describes the January 1957 Eisenhower Doctrine as a promise of American force for states requesting help against overt aggression from international Communism. He criticizes this formulation for treating the region\u2019s problems as a military extension of the Cold War rather than poverty, independence and Arab-Israeli conflict.",
+        "The author contrasts the doctrine with a subsequent Soviet proposal for noninterference, removal of bases, restrained arms deliveries and economic development. He follows the American framework into aid for Hussein and intervention around Lebanon, preserving his assessment as interpretation rather than a neutral description of every government\u2019s intentions."
+      ],
+      "context": "The author contrasts the doctrine with a subsequent Soviet proposal for noninterference, removal of bases, restrained arms deliveries and economic development."
+    },
+    {
+      "id": "tragedy-ghana-independence",
+      "name": "Ghana gains independence under Nkrumah",
+      "date": "1957-03-01",
+      "precision": "month",
+      "people": [
+        "kwame-nkrumah"
+      ],
+      "organizations": [
+        "convention-peoples-party",
+        "lse"
+      ],
+      "lanes": [
+        "decolonization",
+        "domestic"
+      ],
+      "pages": [
+        989,
+        990
+      ],
+      "summary": "Quigley describes Ghana\u2019s independence in March 1957 as the culmination of Nkrumah\u2019s organization and a six-year transition after his party\u2019s 1951 electoral victory. Nkrumah\u2019s education in Pennsylvania and at the London School of Economics connected him with international intellectual and political networks.",
+      "details": [
+        "Quigley describes Ghana\u2019s independence in March 1957 as the culmination of Nkrumah\u2019s organization and a six-year transition after his party\u2019s 1951 electoral victory. Nkrumah\u2019s education in Pennsylvania and at the London School of Economics connected him with international intellectual and political networks.",
+        "The author places Ghana at the start of a post-Suez African decolonization chain reaction. He then distinguishes independence from the later difficulties of cocoa dependence, internal regional divisions and authoritarian consolidation, showing that political sovereignty did not resolve the structural economic problems he identified."
+      ],
+      "context": "The author places Ghana at the start of a post-Suez African decolonization chain reaction. He then distinguishes independence from the later difficulties of cocoa dependence, internal regional divisions and authoritarian consolidation, showing that political sovereignty did not resolve the structural economic problems he identified."
+    },
+    {
+      "id": "tragedy-soviet-economic-regions",
+      "name": "Khrushchev devolves economic ministries to regional councils",
+      "date": "1957-05-10",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "vyacheslav-molotov"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "pages": [
+        854,
+        855
+      ],
+      "summary": "Quigley dates the Soviet economic reorganization law to May 10,1957. It abolished 25 economic ministries, devolved functions to regional councils and eliminated additional central economic controls. The author recognizes practical reasons for decentralization, including hoarding and inefficient cross-hauling by separate ministries.",
+      "details": [
+        "Quigley dates the Soviet economic reorganization law to May 10,1957. It abolished 25 economic ministries, devolved functions to regional councils and eliminated additional central economic controls. The author recognizes practical reasons for decentralization, including hoarding and inefficient cross-hauling by separate ministries.",
+        "The reform also shifted power from central state officials toward local party structures controlled by Khrushchev. Quigley therefore interprets an administrative change as both a response to industrial complexity and a strategic move in the leadership struggle, tying economic organization directly to political succession."
+      ],
+      "context": "The reform also shifted power from central state officials toward local party structures controlled by Khrushchev."
+    },
+    {
+      "id": "tragedy-khrushchev-challenge",
+      "name": "Khrushchev defeats an attempt to remove him through party control",
+      "date": "1957-06-18",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "georgi-malenkov",
+        "vyacheslav-molotov",
+        "georgi-zhukov"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "pages": [
+        856
+      ],
+      "summary": "Quigley describes a Presidium attempt beginning June 18 to remove Khrushchev as party first secretary. Although the initial balance was against him, he appealed to the Central Committee, while army planes brought distant supporters to Moscow and Zhukov threatened to expose rivals\u2019 participation in earlier purges.",
+      "details": [
+        "Quigley describes a Presidium attempt beginning June 18 to remove Khrushchev as party first secretary. Although the initial balance was against him, he appealed to the Central Committee, while army planes brought distant supporters to Moscow and Zhukov threatened to expose rivals\u2019 participation in earlier purges.",
+        "The author presents the reversal and subsequent purge of opposing leaders as confirmation that the party hierarchy could overrule senior state figures. The event connects appointment networks, military assistance and ideological accusations with the consolidation of personal authority, rather than describing a simple orderly succession."
+      ],
+      "context": "The author presents the reversal and subsequent purge of opposing leaders as confirmation that the party hierarchy could overrule senior state figures."
+    },
+    {
+      "id": "tragedy-sputnik",
+      "name": "Sputnik launches the Soviet-American space contest into public view",
+      "date": "1957-10-04",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev"
+      ],
+      "organizations": [],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        907,
+        908,
+        909
+      ],
+      "summary": "Quigley dates SputnikI\u2019s launch to October 4,1957, and describes the intense public contrast between Soviet successes and early American failures. He argues that booster size and selective publicity created an exaggerated impression of Soviet superiority across science and missile capability.",
+      "details": [
+        "Quigley dates SputnikI\u2019s launch to October 4,1957, and describes the intense public contrast between Soviet successes and early American failures. He argues that booster size and selective publicity created an exaggerated impression of Soviet superiority across science and missile capability.",
+        "The author traces consequences beyond prestige: American government spending shifted immense resources toward research, technology and education. These changes connected weapons rivalry with economic development and social mobility, while strengthening the impression of a missile gap later used in domestic political campaigning."
+      ],
+      "context": "The author traces consequences beyond prestige: American government spending shifted immense resources toward research, technology and education."
+    },
+    {
+      "id": "tragedy-zhukov-removed",
+      "name": "Khrushchev removes Zhukov from defense and party positions",
+      "date": "1957-10-27",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "georgi-zhukov"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "pages": [
+        857
+      ],
+      "summary": "Quigley dates Zhukov\u2019s removal from the Ministry of Defense and Central Committee to October 27,1957, while the marshal was in Albania. The official issue concerned cooperation with party political work in the army, after Zhukov had helped Khrushchev survive the leadership challenge.",
+      "details": [
+        "Quigley dates Zhukov\u2019s removal from the Ministry of Defense and Central Committee to October 27,1957, while the marshal was in Albania. The official issue concerned cooperation with party political work in the army, after Zhukov had helped Khrushchev survive the leadership challenge.",
+        "The author treats the dismissal as part of Khrushchev\u2019s effort to limit military autonomy after using army assistance against rivals. It marks the shift from dependence on a coalition of party, army and local interests toward stronger party control over the remaining independent center of force."
+      ],
+      "context": "The author treats the dismissal as part of Khrushchev\u2019s effort to limit military autonomy after using army assistance against rivals."
+    },
+    {
+      "id": "tragedy-uar-formed",
+      "name": "Egypt and Syria establish the United Arab Republic",
+      "date": "1958-02-01",
+      "precision": "month",
+      "people": [
+        "gamal-nasser"
+      ],
+      "organizations": [
+        "united-arab-republic"
+      ],
+      "lanes": [
+        "diplomacy",
+        "domestic"
+      ],
+      "pages": [
+        900,
+        901
+      ],
+      "summary": "Quigley describes Egypt and Syria uniting as the United Arab Republic in February 1958, after an economic-union agreement and Soviet-bloc lending to Syria. Iraq and Jordan responded with a short-lived federation, while rival Arab states remained deeply divided despite language of common nationalism.",
+      "details": [
+        "Quigley describes Egypt and Syria uniting as the United Arab Republic in February 1958, after an economic-union agreement and Soviet-bloc lending to Syria. Iraq and Jordan responded with a short-lived federation, while rival Arab states remained deeply divided despite language of common nationalism.",
+        "The author follows the union into Syria\u2019s 1961 withdrawal after a military coup, using its brief existence to question assumptions that the Arab world constituted a durable unified power bloc. The timeline retains the source\u2019s month-level precision rather than inferring an exact proclamation date."
+      ],
+      "context": "The author follows the union into Syria\u2019s 1961 withdrawal after a military coup, using its brief existence to question assumptions that the Arab world constituted a durable unified power bloc."
+    },
+    {
+      "id": "tragedy-khrushchev-premier",
+      "name": "Khrushchev adds the Soviet premiership to party leadership",
+      "date": "1958-03-28",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "nikolai-bulganin"
+      ],
+      "organizations": [
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "pages": [
+        857
+      ],
+      "summary": "Quigley connects the new Supreme Soviet\u2019s assembly on March 28,1958, with Bulganin\u2019s resignation and Khrushchev\u2019s replacement of him as premier. Khrushchev now held leadership of both state and party, completing the consolidation begun after Stalin\u2019s death.",
+      "details": [
+        "Quigley connects the new Supreme Soviet\u2019s assembly on March 28,1958, with Bulganin\u2019s resignation and Khrushchev\u2019s replacement of him as premier. Khrushchev now held leadership of both state and party, completing the consolidation begun after Stalin\u2019s death.",
+        "The author emphasizes that Khrushchev\u2019s power rested more heavily on the party hierarchy than Stalin\u2019s later rule had. Bulganin\u2019s eventual expulsion illustrates how cooperation during the rise did not preserve a subordinate\u2019s influence once the remaining offices were absorbed."
+      ],
+      "context": "The author emphasizes that Khrushchev\u2019s power rested more heavily on the party hierarchy than Stalin\u2019s later rule had.",
+      "precisionNote": "Date anchors the source\u2019s March 28 assembly; the passage associates the premiership change with that proceeding."
+    },
+    {
+      "id": "tragedy-accra-independent-states",
+      "name": "Accra meeting advances Padmore and Nkrumah\u2019s Pan-African initiative",
+      "date": "1958-04-01",
+      "precision": "month",
+      "people": [
+        "kwame-nkrumah",
+        "george-padmore"
+      ],
+      "organizations": [],
+      "lanes": [
+        "decolonization",
+        "diplomacy"
+      ],
+      "pages": [
+        992
+      ],
+      "summary": "Quigley describes the first Accra meeting of independent African states in April 1958 as organized by George Padmore for Nkrumah. Representatives of eight independent states demanded an end to French military operations in Algeria and independence for remaining African territories.",
+      "details": [
+        "Quigley describes the first Accra meeting of independent African states in April 1958 as organized by George Padmore for Nkrumah. Representatives of eight independent states demanded an end to French military operations in Algeria and independence for remaining African territories.",
+        "The author connects the initiative with subsequent meetings and anti-apartheid activity, but notes resistance to an immediate United States of Africa. It was one strand in a developing competition among Pan-African schemes rather than a single organization encompassing all future independent African governments."
+      ],
+      "context": "The author connects the initiative with subsequent meetings and anti-apartheid activity, but notes resistance to an immediate United States of Africa."
+    },
+    {
+      "id": "tragedy-lebanon-intervention",
+      "name": "American forces land in Lebanon after the Iraqi coup",
+      "date": "1958-07-15",
+      "precision": "day",
+      "people": [
+        "dwight-eisenhower",
+        "john-foster-dulles",
+        "gamal-nasser",
+        "dag-hammarskjold"
+      ],
+      "organizations": [
+        "united-nations",
+        "state-department",
+        "defense-department"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        900
+      ],
+      "summary": "Quigley describes American landings in Lebanon during July 15\u201317,1958, following the overthrow of Iraq\u2019s monarchy and fears for Lebanon\u2019s government. Britain also sent a parachute brigade to Jordan at Hussein\u2019s request. A United Nations mission later helped evacuate both deployments.",
+      "details": [
+        "Quigley describes American landings in Lebanon during July 15\u201317,1958, following the overthrow of Iraq\u2019s monarchy and fears for Lebanon\u2019s government. Britain also sent a parachute brigade to Jordan at Hussein\u2019s request. A United Nations mission later helped evacuate both deployments.",
+        "The author emphasizes that a UN commission found no evidence of outside forces subverting Lebanon during the same week. He uses the episode to criticize policies that interpreted regional instability as Communist penetration and to connect the post-Suez power vacuum with Cold War intervention."
+      ],
+      "context": "The author emphasizes that a UN commission found no evidence of outside forces subverting Lebanon during the same week.",
+      "endDate": "1958-07-17"
+    },
+    {
+      "id": "tragedy-great-leap",
+      "name": "China\u2019s Great Leap Forward reorganizes communes and economic control",
+      "date": "1958-01-01",
+      "precision": "year",
+      "people": [
+        "mao-zedong"
+      ],
+      "organizations": [
+        "chinese-communist-party"
+      ],
+      "lanes": [
+        "domestic",
+        "revolution",
+        "finance"
+      ],
+      "pages": [
+        961,
+        962,
+        963,
+        964
+      ],
+      "summary": "Quigley describes the 1958 Great Leap Forward as merging hundreds of thousands of collective farms into large communes that controlled work, education, child care and social life. The goal was to extract greater agricultural surpluses and release labor for industry through drastic changes in rural organization.",
+      "details": [
+        "Quigley describes the 1958 Great Leap Forward as merging hundreds of thousands of collective farms into large communes that controlled work, education, child care and social life. The goal was to extract greater agricultural surpluses and release labor for industry through drastic changes in rural organization.",
+        "The author relates the program to subsequent food shortages, industrial contraction and foreign-exchange pressure. His account connects domestic economic strategy with more aggressive Chinese foreign policy and the weakening Sino-Soviet relationship, while estimates and judgments remain attributed to the book."
+      ],
+      "context": "The author relates the program to subsequent food shortages, industrial contraction and foreign-exchange pressure."
+    },
+    {
+      "id": "tragedy-guinea-community",
+      "name": "Guinea rejects the French Community and seeks alternative aid",
+      "date": "1958-01-01",
+      "precision": "year",
+      "people": [
+        "sekou-toure",
+        "charles-de-gaulle",
+        "kwame-nkrumah"
+      ],
+      "organizations": [],
+      "lanes": [
+        "decolonization",
+        "finance",
+        "diplomacy"
+      ],
+      "pages": [
+        991,
+        992
+      ],
+      "summary": "Quigley describes Guinea rejecting the 1958 French Community constitution under S\u00e9kou Tour\u00e9. De Gaulle withdrew political and financial support, and Guinea sought Soviet assistance, accepted a loan through union with Ghana and tried to establish alternatives to the French economic connection.",
+      "details": [
+        "Quigley describes Guinea rejecting the 1958 French Community constitution under S\u00e9kou Tour\u00e9. De Gaulle withdrew political and financial support, and Guinea sought Soviet assistance, accepted a loan through union with Ghana and tried to establish alternatives to the French economic connection.",
+        "The author follows Guinea\u2019s mixture of nationalization, foreign recognition and aid-seeking before its later effort to work back toward French Africa. This trajectory links anti-colonial sovereignty to continuing dependence on outside development resources and competition between the superpowers."
+      ],
+      "context": "The author follows Guinea\u2019s mixture of nationalization, foreign recognition and aid-seeking before its later effort to work back toward French Africa."
+    },
+    {
+      "id": "tragedy-berlin-ultimatum",
+      "name": "Khrushchev threatens transfer of Berlin access rights",
+      "date": "1958-11-27",
+      "precision": "day",
+      "people": [
+        "nikita-khrushchev",
+        "dwight-eisenhower"
+      ],
+      "organizations": [
+        "nato"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        910
+      ],
+      "summary": "Quigley describes Khrushchev\u2019s November 27 note demanding a Berlin settlement within six months. The Soviet Union threatened a separate treaty with East Germany and transfer of its rights, including Allied access routes, to a regime the Western powers did not recognize.",
+      "details": [
+        "Quigley describes Khrushchev\u2019s November 27 note demanding a Berlin settlement within six months. The Soviet Union threatened a separate treaty with East Germany and transfer of its rights, including Allied access routes, to a regime the Western powers did not recognize.",
+        "The author links the ultimatum with Soviet confidence in its missile image and with the practical problem of compelling Western recognition of East Germany. The crisis developed alongside fractures within both blocs, particularly French objections to American unilateral actions and Chinese dissatisfaction with Soviet assistance."
+      ],
+      "context": "The author links the ultimatum with Soviet confidence in its missile image and with the practical problem of compelling Western recognition of East Germany."
+    },
+    {
+      "id": "tragedy-castro-victory",
+      "name": "Castro\u2019s victory replaces Batista\u2019s government",
+      "date": "1959-01-01",
+      "precision": "day",
+      "people": [
+        "fidel-castro",
+        "fulgencio-batista"
+      ],
+      "organizations": [
+        "july-26-movement"
+      ],
+      "lanes": [
+        "revolution",
+        "domestic"
+      ],
+      "pages": [
+        939,
+        940
+      ],
+      "summary": "Quigley places the revolutionary victory at New Year 1959, following guerrilla operations begun in late 1956 and erosion of Batista\u2019s military and middle-class support. He describes an initial program of schools, health centers, reduced rents, land reform and wider access to public amenities.",
+      "details": [
+        "Quigley places the revolutionary victory at New Year 1959, following guerrilla operations begun in late 1956 and erosion of Batista\u2019s military and middle-class support. He describes an initial program of schools, health centers, reduced rents, land reform and wider access to public amenities.",
+        "The author distinguishes those early reforms from subsequent executions, permanent-revolution claims and growing Communist administrative influence. The date anchors the transition of regimes; the book\u2019s statement about Castro personally entering Havana on New Year\u2019s Day is not reproduced as a precise movement record."
+      ],
+      "context": "The author distinguishes those early reforms from subsequent executions, permanent-revolution claims and growing Communist administrative influence.",
+      "precisionNote": "Date marks the source\u2019s New Year 1959 regime transition, not an independently verified date for Castro\u2019s personal arrival in Havana."
+    },
+    {
+      "id": "tragedy-mikoyan-cuba",
+      "name": "Mikoyan\u2019s visit binds Cuban sugar to Soviet supplies",
+      "date": "1960-02-01",
+      "precision": "month",
+      "people": [
+        "anastas-mikoyan",
+        "fidel-castro"
+      ],
+      "organizations": [],
+      "lanes": [
+        "finance",
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        940,
+        941
+      ],
+      "summary": "Quigley describes Mikoyan\u2019s February 1960 visit to Cuba and an agreement exchanging sugar for Soviet petroleum, arms and other supplies. It was followed by diplomatic relations, conflict over American-owned refineries processing Soviet crude and escalating sugar-quota and nationalization disputes.",
+      "details": [
+        "Quigley describes Mikoyan\u2019s February 1960 visit to Cuba and an agreement exchanging sugar for Soviet petroleum, arms and other supplies. It was followed by diplomatic relations, conflict over American-owned refineries processing Soviet crude and escalating sugar-quota and nationalization disputes.",
+        "The author interprets the commitment of the main export crop as an economic trap similar to Egypt\u2019s cotton-for-arms arrangement. He links Cuba\u2019s growing reliance on the Soviet bloc with the deterioration of American relations and the later decision to attempt Castro\u2019s removal by force."
+      ],
+      "context": "The author interprets the commitment of the main export crop as an economic trap similar to Egypt\u2019s cotton-for-arms arrangement."
+    },
+    {
+      "id": "tragedy-soviet-advisers-withdraw",
+      "name": "Soviet Union withdraws advisers from China",
+      "date": "1960-01-01",
+      "precision": "year",
+      "people": [
+        "mao-zedong",
+        "nikita-khrushchev"
+      ],
+      "organizations": [
+        "chinese-communist-party",
+        "soviet-communist-party"
+      ],
+      "lanes": [
+        "diplomacy",
+        "finance",
+        "security"
+      ],
+      "pages": [
+        965,
+        966,
+        967
+      ],
+      "summary": "Quigley describes the withdrawal of almost all Soviet technical and military advisers during summer 1960 as a major step in the Sino-Soviet deterioration. China\u2019s agricultural crisis and debt obligations already constrained its ability to import equipment and sustain development.",
+      "details": [
+        "Quigley describes the withdrawal of almost all Soviet technical and military advisers during summer 1960 as a major step in the Sino-Soviet deterioration. China\u2019s agricultural crisis and debt obligations already constrained its ability to import equipment and sustain development.",
+        "The author argues that the withdrawal could not be explained as routine business practice. He locates it within deeper disputes over resources, regional priorities, national development stages and Soviet accommodation with the United States, separating those structural causes from a single ideological quarrel."
+      ],
+      "context": "The author argues that the withdrawal could not be explained as routine business practice. He locates it within deeper disputes over resources, regional priorities, national development stages and Soviet accommodation with the United States, separating those structural causes from a single ideological quarrel.",
+      "precisionNote": "Source gives summer1960 only; year precision preserves the uncertainty and January1 is a display anchor, not a claimed day."
+    },
+    {
+      "id": "tragedy-bay-of-pigs",
+      "name": "Bay of Pigs invasion fails within seventy-two hours",
+      "date": "1961-04-17",
+      "precision": "day",
+      "people": [
+        "jfk",
+        "allen-dulles",
+        "fidel-castro",
+        "jacobo-arbenz"
+      ],
+      "organizations": [
+        "cia",
+        "joint-chiefs",
+        "cuban-exile-executive-committee"
+      ],
+      "lanes": [
+        "war",
+        "security",
+        "revolution"
+      ],
+      "pages": [
+        941,
+        942,
+        943
+      ],
+      "summary": "Quigley dates the landing of 1,500 men at the Bay of Pigs to April 17,1961. He describes CIA financing, training and control, Joint Chiefs approval and Kennedy\u2019s acceptance of assurances that a landing would trigger resistance to Castro before Soviet armaments became fully operational.",
+      "details": [
+        "Quigley dates the landing of 1,500 men at the Bay of Pigs to April 17,1961. He describes CIA financing, training and control, Joint Chiefs approval and Kennedy\u2019s acceptance of assurances that a landing would trigger resistance to Castro before Soviet armaments became fully operational.",
+        "The author argues that planners misread the Guatemala precedent, alienated reform-minded opponents inside Cuba, withheld information from the underground and mishandled air power and logistics. The defeat strengthened Castro\u2019s regional prestige and deepened Soviet commitment, forming an explicit bridge toward the missile crisis."
+      ],
+      "context": "The author argues that planners misread the Guatemala precedent, alienated reform-minded opponents inside Cuba, withheld information from the underground and mishandled air power and logistics.",
+      "precisionNote": "PDF p 942 explicitly gives April 17,1961; nearby p 938 incorrectly calls the invasion 1962. This entry follows the detailed event passage."
+    },
+    {
+      "id": "tragedy-algeria-settlement",
+      "name": "De Gaulle and Algerian rebels reach an independence settlement",
+      "date": "1962-03-18",
+      "precision": "day",
+      "people": [
+        "charles-de-gaulle"
+      ],
+      "organizations": [],
+      "lanes": [
+        "decolonization",
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        980
+      ],
+      "summary": "Quigley dates agreement between the Algerian rebels and de Gaulle\u2019s government to March 18,1962, after years of war and violence that continued beyond the settlement. He connects the crisis with European settler interests, Algeria\u2019s constitutional status and an army unwilling to accept another colonial defeat.",
+      "details": [
+        "Quigley dates agreement between the Algerian rebels and de Gaulle\u2019s government to March 18,1962, after years of war and violence that continued beyond the settlement. He connects the crisis with European settler interests, Algeria\u2019s constitutional status and an army unwilling to accept another colonial defeat.",
+        "The author treats the 1958 return of de Gaulle and replacement of the Fourth Republic as consequences of the same conflict. The settlement therefore intersects decolonization with domestic constitutional change and the competing claims of military and civilian authority."
+      ],
+      "context": "The author treats the 1958 return of de Gaulle and replacement of the Fourth Republic as consequences of the same conflict."
+    },
+    {
+      "id": "tragedy-cuban-missile-crisis",
+      "name": "Kennedy announces the quarantine during the Cuban missile crisis",
+      "date": "1962-10-22",
+      "precision": "day",
+      "people": [
+        "jfk",
+        "nikita-khrushchev",
+        "fidel-castro"
+      ],
+      "organizations": [
+        "united-nations",
+        "oas",
+        "defense-department"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        916,
+        917,
+        918,
+        919
+      ],
+      "summary": "Quigley describes Kennedy\u2019s October 22 announcement of a naval quarantine after discovery of Soviet missile construction in Cuba. The crisis combined military mobilization, appeals to international institutions and uncertainty over whether Soviet ships would challenge the interception line.",
+      "details": [
+        "Quigley describes Kennedy\u2019s October 22 announcement of a naval quarantine after discovery of Soviet missile construction in Cuba. The crisis combined military mobilization, appeals to international institutions and uncertainty over whether Soviet ships would challenge the interception line.",
+        "The author treats the subsequent settlement as exposing the rivalry\u2019s underlying power balance and both leaders\u2019 aversion to thermonuclear war. Castro resisted inspection and resented being bypassed, illustrating how a superpower agreement could also strain relations with the smaller state at its center."
+      ],
+      "context": "The author treats the subsequent settlement as exposing the rivalry\u2019s underlying power balance and both leaders\u2019 aversion to thermonuclear war.",
+      "endDate": "1962-10-28"
+    },
+    {
+      "id": "tragedy-test-ban",
+      "name": "Test Ban Treaty formalizes a superpower common interest",
+      "date": "1963-08-01",
+      "precision": "month",
+      "people": [
+        "jfk",
+        "nikita-khrushchev"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        906
+      ],
+      "summary": "Quigley identifies the August 1963 Test Ban Treaty as the first formal agreement expressing a shared interest made visible by the peaceful missile-crisis settlement. He interprets limits on testing as both preserving the superpower stalemate and obstructing the spread of nuclear weapons to additional powers.",
+      "details": [
+        "Quigley identifies the August 1963 Test Ban Treaty as the first formal agreement expressing a shared interest made visible by the peaceful missile-crisis settlement. He interprets limits on testing as both preserving the superpower stalemate and obstructing the spread of nuclear weapons to additional powers.",
+        "The author places the treaty within a movement away from Dulles\u2019s two-bloc picture toward multiple blocs and overlapping interests. In this interpretation the superpowers could cooperate in nuclear restraint even while disagreeing elsewhere, because uncontrolled proliferation threatened both of them."
+      ],
+      "context": "The author places the treaty within a movement away from Dulles\u2019s two-bloc picture toward multiple blocs and overlapping interests."
+    },
+    {
+      "id": "tragedy-brazzaville-twelve",
+      "name": "Brazzaville Twelve organize a French-centered African grouping",
+      "date": "1960-12-01",
+      "precision": "month",
+      "people": [
+        "felix-houphouet-boigny",
+        "kwame-nkrumah"
+      ],
+      "organizations": [
+        "african-malagasy-union"
+      ],
+      "lanes": [
+        "decolonization",
+        "diplomacy",
+        "finance"
+      ],
+      "pages": [
+        993,
+        994
+      ],
+      "summary": "Quigley describes the Brazzaville meeting of December 1960 as consolidating twelve former French African territories into a loose structure for cooperation and coordinated diplomacy. Houphou\u00ebt-Boigny played a leading role, while earlier UN voting coordination and technical organizations provided practical instruments.",
+      "details": [
+        "Quigley describes the Brazzaville meeting of December 1960 as consolidating twelve former French African territories into a loose structure for cooperation and coordinated diplomacy. Houphou\u00ebt-Boigny played a leading role, while earlier UN voting coordination and technical organizations provided practical instruments.",
+        "The author contrasts the group\u2019s cautious economic and social cooperation with Nkrumah\u2019s more ambitious and contentious Pan-African schemes. A subsequent charter, specialist organizations and a shared budget gave the grouping an institutional existence beyond occasional declarations of political solidarity."
+      ],
+      "context": "The author contrasts the group\u2019s cautious economic and social cooperation with Nkrumah\u2019s more ambitious and contentious Pan-African schemes."
+    },
+    {
+      "id": "tragedy-ghana-guinea-mali",
+      "name": "Mali joins Ghana and Guinea in the Union of African States",
+      "date": "1961-07-01",
+      "precision": "month",
+      "people": [
+        "kwame-nkrumah",
+        "sekou-toure"
+      ],
+      "organizations": [
+        "union-african-states",
+        "african-malagasy-union"
+      ],
+      "lanes": [
+        "decolonization",
+        "diplomacy"
+      ],
+      "pages": [
+        992,
+        993
+      ],
+      "summary": "Quigley describes Mali joining Ghana and Guinea in July 1961 to form the Union of African States. He places this union in a competing set of African groupings, including the Casablanca connections and the more French-centered Brazzaville and Monrovia alignments.",
+      "details": [
+        "Quigley describes Mali joining Ghana and Guinea in July 1961 to form the Union of African States. He places this union in a competing set of African groupings, including the Casablanca connections and the more French-centered Brazzaville and Monrovia alignments.",
+        "The author stresses rival national interests and divergent regional orientations rather than assuming that Pan-African rhetoric guaranteed durable integration. The union connects leaders\u2019 ambitions, postcolonial aid needs and attempts to avoid fragmentation, while its limits illuminate the competition over who would define African cooperation."
+      ],
+      "context": "The author stresses rival national interests and divergent regional orientations rather than assuming that Pan-African rhetoric guaranteed durable integration."
+    }
+  ],
+  "relationships": [
+    {
+      "fromId": "lewis-strauss",
+      "toId": "atomic-energy-commission",
+      "label": "Commissioner and later chairman",
+      "pages": [
+        793,
+        799,
+        824
+      ],
+      "description": "Quigley describes Strauss\u2019s participation in nuclear detection policy and later chairmanship of the AEC, including the clearance action against Oppenheimer."
+    },
+    {
+      "fromId": "robert-oppenheimer",
+      "toId": "aec-general-advisory-committee",
+      "label": "Scientific adviser",
+      "pages": [
+        796,
+        797
+      ],
+      "description": "Quigley places Oppenheimer among the committee\u2019s scientists opposing a crash hydrogen-bomb program and advocating a more diversified defense response."
+    },
+    {
+      "fromId": "aec-general-advisory-committee",
+      "toId": "atomic-energy-commission",
+      "label": "Advises nuclear policy",
+      "pages": [
+        796
+      ],
+      "description": "The GAC is the commission\u2019s scientific advisory committee, distinct from the commissioners who ultimately make administrative decisions."
+    },
+    {
+      "fromId": "edward-teller",
+      "toId": "livermore-laboratory",
+      "label": "Advocates a second weapons laboratory",
+      "pages": [
+        800
+      ],
+      "description": "Quigley attributes the campaign for a second laboratory to Teller, supported by the Air Force after resistance from the AEC."
+    },
+    {
+      "fromId": "edward-teller",
+      "toId": "us-air-force",
+      "label": "Strategic allies in thermonuclear advocacy",
+      "pages": [
+        795,
+        800,
+        801
+      ],
+      "description": "Quigley describes an alliance in defense-policy disputes, not a formal military membership: Teller\u2019s H-bomb advocacy converged with Air Force preferences for strategic nuclear weapons."
+    },
+    {
+      "fromId": "strategic-air-command",
+      "toId": "us-air-force",
+      "label": "Strategic-bombing command",
+      "pages": [
+        816,
+        830
+      ],
+      "description": "Quigley discusses SAC wings, its bomber-centered role and its institutional opposition to nuclear diversification and defensive spending."
+    },
+    {
+      "fromId": "los-alamos",
+      "toId": "atomic-energy-commission",
+      "label": "Weapons development institution",
+      "pages": [
+        795,
+        800
+      ],
+      "description": "Quigley describes Los Alamos as part of the AEC weapons-development system, returning to increased activity through postwar nuclear programs."
+    },
+    {
+      "fromId": "lincoln-laboratory",
+      "toId": "us-air-force",
+      "label": "Air-defense research funded through the Air Force",
+      "pages": [
+        815,
+        816
+      ],
+      "description": "The Air Force helped initiate the laboratory\u2019s research and controlled its budget, while Quigley describes resistance to expensive defensive recommendations."
+    },
+    {
+      "fromId": "paul-nitze",
+      "toId": "state-department",
+      "label": "Leads policy-planning work on NSC 68",
+      "pages": [
+        802
+      ],
+      "description": "Quigley identifies Nitze\u2019s policy-planning staff as the sponsor of the strategic review that produced NSC 68."
+    },
+    {
+      "fromId": "dean-acheson",
+      "toId": "state-department",
+      "label": "Secretary of state",
+      "pages": [
+        803,
+        812
+      ],
+      "description": "Acheson appears as secretary of state in the Pacific perimeter speech and concessions during the MacArthur hearings."
+    },
+    {
+      "fromId": "dwight-eisenhower",
+      "toId": "columbia-university",
+      "label": "Selected as president",
+      "pages": [
+        812
+      ],
+      "description": "Quigley recounts the Columbia appointment after the Morgan-aligned succession impasse and Lamont\u2019s death."
+    },
+    {
+      "fromId": "nicholas-murray-butler",
+      "toId": "columbia-university",
+      "label": "Long-serving president",
+      "pages": [
+        812
+      ],
+      "description": "Quigley describes Butler\u2019s presidency and the prolonged difficulty of replacing him."
+    },
+    {
+      "fromId": "nicholas-murray-butler",
+      "toId": "jp-morgan",
+      "label": "Academic spokesman in Quigley\u2019s account",
+      "pages": [
+        812
+      ],
+      "description": "Quigley presents Butler as Morgan\u2019s chief spokesman in university circles; this is the author\u2019s interpretation of influence rather than a formal banking office."
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "columbia-university",
+      "label": "Influence on presidential succession",
+      "pages": [
+        812
+      ],
+      "description": "Quigley describes Lamont and allies as able to preserve the status quo and block a successor without retaining the votes to choose a new president."
+    },
+    {
+      "fromId": "thomas-watson-sr",
+      "toId": "ibm",
+      "label": "Corporate leader",
+      "pages": [
+        812
+      ],
+      "description": "The book identifies Watson with International Business Machines in explaining the Columbia search committee."
+    },
+    {
+      "fromId": "thomas-watson-sr",
+      "toId": "columbia-university",
+      "label": "Chairs presidential search committee",
+      "pages": [
+        812
+      ],
+      "description": "Quigley places Watson at the head of the trustees\u2019 search after Lamont\u2019s death."
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "sullivan-cromwell",
+      "label": "Law-firm career before Senate appointment",
+      "pages": [
+        813
+      ],
+      "description": "Quigley describes Dulles\u2019s longstanding Sullivan and Cromwell associations and his resignation from the firm in July 1949."
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "jp-morgan",
+      "label": "Earlier sponsorship in diplomatic work",
+      "pages": [
+        813
+      ],
+      "description": "Quigley describes Dulles\u2019s 1945 introduction to Democratic foreign-policy work as occurring largely under Morgan sponsorship; this is not presented as employment by the bank."
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "cfr",
+      "label": "Venue for massive-retaliation announcement",
+      "pages": [
+        821
+      ],
+      "description": "Quigley dates the public doctrine speech at the Council on Foreign Relations to January 12,1954. The connection records the venue, not an invented directorship."
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "cia",
+      "label": "Director during 1953 Iran and 1954 Guatemala operations",
+      "pages": [
+        880,
+        938
+      ],
+      "description": "Quigley identifies Dulles as CIA director and attributes responsibility for the agency\u2019s role in these interventions to him."
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "schroeder-bank-new-york",
+      "label": "Former director",
+      "pages": [
+        880
+      ],
+      "description": "Quigley identifies Dulles as a former director of Schroeder Bank in New York while discussing the Iranian operation."
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "frank-tiarks",
+      "label": "Banking associate in Quigley\u2019s account",
+      "pages": [
+        880
+      ],
+      "description": "The source links Dulles\u2019s Schroeder background with his association with Tiarks, whose other directorships connected banking and AIOC."
+    },
+    {
+      "fromId": "frank-tiarks",
+      "toId": "schroeder-bank-london",
+      "label": "Partner from 1902",
+      "pages": [
+        880
+      ],
+      "description": "The source explicitly dates Tiarks\u2019s partnership in the London Schroeder bank from 1902."
+    },
+    {
+      "fromId": "frank-tiarks",
+      "toId": "bank-england",
+      "label": "Director 1912\u20131945",
+      "pages": [
+        880
+      ],
+      "description": "Quigley lists Tiarks\u2019s Bank of England directorship alongside his Schroeder, Lazard and AIOC positions."
+    },
+    {
+      "fromId": "frank-tiarks",
+      "toId": "lazard",
+      "label": "Director",
+      "pages": [
+        880
+      ],
+      "description": "The book identifies Tiarks with Lazard Brothers in its profile of overlapping British financial and oil directorships."
+    },
+    {
+      "fromId": "frank-tiarks",
+      "toId": "anglo-iranian",
+      "label": "Director",
+      "pages": [
+        880
+      ],
+      "description": "AIOC appears among Tiarks\u2019s directorships in the account linking oil interests with the 1953 coup context."
+    },
+    {
+      "fromId": "h-norman-schwarzkopf",
+      "toId": "imperial-iranian-gendarmerie",
+      "label": "Training adviser",
+      "pages": [
+        880
+      ],
+      "description": "Quigley places the former New Jersey police head in charge of training the Imperial Iranian Gendarmerie."
+    },
+    {
+      "fromId": "loy-henderson",
+      "toId": "state-department",
+      "label": "Ambassador to Tehran",
+      "pages": [
+        880
+      ],
+      "description": "The book identifies Henderson as American ambassador to Tehran and places him among visitors to Dulles during August 1953."
+    },
+    {
+      "fromId": "anglo-iranian",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member",
+      "pages": [
+        879,
+        881
+      ],
+      "description": "Quigley lists Anglo-Iranian among the seven major companies in the world cartel and connects the later Iranian consortium with that structure."
+    },
+    {
+      "fromId": "mohammad-reza-shah",
+      "toId": "cento",
+      "label": "Iranian alignment after Mossadeq\u2019s overthrow",
+      "pages": [
+        881
+      ],
+      "description": "Quigley connects the shah\u2019s consolidated rule and American assistance with Iran\u2019s 1955 entry into the Baghdad Pact; this is state alignment rather than personal treaty membership."
+    },
+    {
+      "fromId": "gamal-nasser",
+      "toId": "egypt-free-officers",
+      "label": "Effective leader of the officers\u2019 conspiracy",
+      "pages": [
+        891,
+        892
+      ],
+      "description": "Quigley distinguishes Nasser\u2019s effective leadership from Naguib\u2019s nominal prominence when the 1952 revolution began."
+    },
+    {
+      "fromId": "muhammad-naguib",
+      "toId": "egypt-free-officers",
+      "label": "Nominal leader and early head of government",
+      "pages": [
+        891,
+        892
+      ],
+      "description": "Quigley describes Naguib\u2019s public role, premiership and presidency before Nasser displaced him."
+    },
+    {
+      "fromId": "gamal-nasser",
+      "toId": "suez-canal-company",
+      "label": "Nationalizes the company",
+      "pages": [
+        895
+      ],
+      "description": "Quigley dates Nasser\u2019s nationalization of the canal company to July 26,1956, following the Aswan financing crisis."
+    },
+    {
+      "fromId": "john-glubb",
+      "toId": "arab-legion",
+      "label": "Trains and commands the force",
+      "pages": [
+        894
+      ],
+      "description": "Quigley identifies Glubb\u2019s long-standing British command of Jordan\u2019s Arab Legion and discusses his 1956 dismissal."
+    },
+    {
+      "fromId": "king-hussein",
+      "toId": "arab-legion",
+      "label": "Monarchy sustained by the army",
+      "pages": [
+        894,
+        900
+      ],
+      "description": "Quigley treats the Legion and external financial support as critical to Hussein\u2019s position; the connection is institutional support rather than an invented officer rank."
+    },
+    {
+      "fromId": "gamal-nasser",
+      "toId": "united-arab-republic",
+      "label": "Egyptian leader in the union",
+      "pages": [
+        900,
+        901
+      ],
+      "description": "The book connects Nasser\u2019s political influence with the Egyptian-Syrian union and its eventual breakdown."
+    },
+    {
+      "fromId": "un-emergency-force",
+      "toId": "united-nations",
+      "label": "Emergency peacekeeping force",
+      "pages": [
+        899
+      ],
+      "description": "Quigley describes the UN force sent to supervise the post-Suez evacuation of Egyptian territory and Gaza."
+    },
+    {
+      "fromId": "dag-hammarskjold",
+      "toId": "united-nations",
+      "label": "Secretary-general",
+      "pages": [
+        900
+      ],
+      "description": "Quigley describes Hammarskj\u00f6ld\u2019s mission helping end the 1958 troop deployments in Lebanon and Jordan."
+    },
+    {
+      "fromId": "jacobo-arbenz",
+      "toId": "united-fruit",
+      "label": "Land reform conflicts with company holdings",
+      "pages": [
+        937,
+        938
+      ],
+      "description": "This is an adversarial policy connection, not company membership: Quigley discusses redistribution of unused United Fruit acreage and the resulting confrontation."
+    },
+    {
+      "fromId": "carlos-castillo-armas",
+      "toId": "cia",
+      "label": "Supported exile assault in 1954",
+      "pages": [
+        938
+      ],
+      "description": "Quigley attributes training, financing, equipment and operational direction to the CIA in Castillo Armas\u2019s assault."
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "oas",
+      "label": "Obtains declaration against Guatemala",
+      "pages": [
+        938
+      ],
+      "description": "Quigley describes Dulles\u2019s pressure at the Caracas OAS meeting as a diplomatic precursor to the intervention."
+    },
+    {
+      "fromId": "fidel-castro",
+      "toId": "july-26-movement",
+      "label": "Revolutionary leader",
+      "pages": [
+        939,
+        940
+      ],
+      "description": "Quigley traces the movement\u2019s name to the failed 1953 revolt and distinguishes its initial reformist supporters from the later Communist administrative apparatus."
+    },
+    {
+      "fromId": "fidel-castro",
+      "toId": "anastas-mikoyan",
+      "label": "Trade negotiations in February 1960",
+      "pages": [
+        940
+      ],
+      "description": "The relationship records the visit and sugar-for-supplies agreement described by Quigley, not a claim that the two held the same organizational office."
+    },
+    {
+      "fromId": "nikita-khrushchev",
+      "toId": "soviet-communist-party",
+      "label": "Party leadership enables consolidation",
+      "pages": [
+        836,
+        842,
+        856
+      ],
+      "description": "Quigley argues that control of appointments and party hierarchy was decisive in Khrushchev\u2019s rise and defeat of the 1957 challenge."
+    },
+    {
+      "fromId": "joseph-stalin",
+      "toId": "soviet-communist-party",
+      "label": "Leader before 1953 succession struggle",
+      "pages": [
+        833,
+        836
+      ],
+      "description": "The account distinguishes Stalin\u2019s control of party, state, army and policing hierarchies before his death."
+    },
+    {
+      "fromId": "georgi-malenkov",
+      "toId": "soviet-communist-party",
+      "label": "Early successor and Khrushchev rival",
+      "pages": [
+        836,
+        856
+      ],
+      "description": "Quigley describes Malenkov briefly holding the secretaryship and premiership, then participating in the attempt to remove Khrushchev."
+    },
+    {
+      "fromId": "vyacheslav-molotov",
+      "toId": "soviet-communist-party",
+      "label": "Senior Stalinist and leadership rival",
+      "pages": [
+        837,
+        839,
+        856
+      ],
+      "description": "Quigley describes Molotov\u2019s opposition to Khrushchev\u2019s relaxation and his eventual exclusion for anti-party activity."
+    },
+    {
+      "fromId": "nikolai-bulganin",
+      "toId": "nikita-khrushchev",
+      "label": "Diplomatic partner later displaced as premier",
+      "pages": [
+        839,
+        840,
+        857
+      ],
+      "description": "The book follows their joint state visits and cooperation before Khrushchev absorbed Bulganin\u2019s premiership."
+    },
+    {
+      "fromId": "georgi-zhukov",
+      "toId": "nikita-khrushchev",
+      "label": "Military support followed by removal",
+      "pages": [
+        856,
+        857
+      ],
+      "description": "Quigley places Zhukov\u2019s army resources behind Khrushchev\u2019s survival in the 1957 challenge, then describes his removal from office later that year."
+    },
+    {
+      "fromId": "josip-tito",
+      "toId": "nikita-khrushchev",
+      "label": "Belgrade reconciliation recognizes national paths",
+      "pages": [
+        839
+      ],
+      "description": "Quigley links the 1955 reconciliation with recognition of different national routes to socialism and with subsequent satellite instability."
+    },
+    {
+      "fromId": "imre-nagy",
+      "toId": "warsaw-pact",
+      "label": "Declares Hungary\u2019s withdrawal",
+      "pages": [
+        853
+      ],
+      "description": "The book describes Nagy\u2019sNovember 1,1956 neutrality declaration and appeal to the UN; the relationship records attempted withdrawal, not lasting removal from Soviet military control."
+    },
+    {
+      "fromId": "mao-zedong",
+      "toId": "chinese-communist-party",
+      "label": "Leader associated with the Great Leap Forward",
+      "pages": [
+        960,
+        961,
+        962,
+        963
+      ],
+      "description": "Quigley discusses Mao\u2019s resource strategy, nuclear requests and large-scale reorganization of rural society."
+    },
+    {
+      "fromId": "kwame-nkrumah",
+      "toId": "convention-peoples-party",
+      "label": "Founder and leader",
+      "pages": [
+        989
+      ],
+      "description": "Quigley identifies Nkrumah\u2019s founding of the party and its 1951 electoral victory while he remained imprisoned."
+    },
+    {
+      "fromId": "kwame-nkrumah",
+      "toId": "lse",
+      "label": "Studies in London",
+      "pages": [
+        989
+      ],
+      "description": "Quigley names the London School of Economics as part of Nkrumah\u2019s educational path before his return to Accra."
+    },
+    {
+      "fromId": "kwame-nkrumah",
+      "toId": "george-padmore",
+      "label": "Pan-African organizing partnership",
+      "pages": [
+        992
+      ],
+      "description": "Quigley credits Padmore with organizing an independent-African-states initiative for Nkrumah."
+    },
+    {
+      "fromId": "kwame-nkrumah",
+      "toId": "union-african-states",
+      "label": "Promotes Ghana-Guinea-Mali union",
+      "pages": [
+        992,
+        993
+      ],
+      "description": "The book presents Nkrumah\u2019s Pan-African hopes through the Ghana-Guinea association and later inclusion of Mali."
+    },
+    {
+      "fromId": "sekou-toure",
+      "toId": "union-african-states",
+      "label": "Guinean participant",
+      "pages": [
+        991,
+        992,
+        993
+      ],
+      "description": "Quigley follows Guinea\u2019s rejection of the French Community into its association with Ghana and Mali."
+    },
+    {
+      "fromId": "felix-houphouet-boigny",
+      "toId": "african-malagasy-union",
+      "label": "Organizes the French-centered grouping",
+      "pages": [
+        993
+      ],
+      "description": "The source places Houphou\u00ebt-Boigny behind the late 1960 move toward the Brazzaville Twelve."
+    },
+    {
+      "fromId": "jfk",
+      "toId": "eastern-establishment-quigley",
+      "label": "Atlantic elite connection in Quigley\u2019s interpretation",
+      "pages": [
+        1033,
+        1034
+      ],
+      "description": "Quigley argues that Kennedy\u2019s support for Britain in 1938\u20131940 opened English and then American Establishment connections. This is the author\u2019s analysis of an informal elite, not a formally enrolled membership."
+    },
+    {
+      "fromId": "jfk",
+      "toId": "david-ormsby-gore",
+      "label": "British diplomatic and family connection",
+      "pages": [
+        1033,
+        1034
+      ],
+      "description": "Quigley cites Kennedy-family connections with the British Embassy and Harlech as an illustration of an Atlantic network."
+    },
+    {
+      "fromId": "david-ormsby-gore",
+      "toId": "ormsby-gore",
+      "label": "Son of William Ormsby-Gore",
+      "pages": [
+        1033,
+        1034
+      ],
+      "description": "The ambassador and fifth Baron Harlech is distinct from the older William Ormsby-Gore in the Anglo-American Establishment records; Quigley explicitly identifies the father-son relationship."
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "milner",
+      "label": "Older political association",
+      "pages": [
+        1034
+      ],
+      "description": "Quigley identifies Harlech\u2019s father as an old associate of Milner when discussing Kennedy\u2019s Atlantic connections."
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "amery",
+      "label": "Older political association",
+      "pages": [
+        1034
+      ],
+      "description": "The passage names Leo Amery alongside Milner in explaining the earlier generation of the British-American Establishment."
+    },
+    {
+      "fromId": "dwight-eisenhower",
+      "toId": "eastern-establishment-quigley",
+      "label": "Preferred presidential candidate in 1952",
+      "pages": [
+        1033
+      ],
+      "description": "Quigley describes older Wall Street, university and foundation circles preferring Eisenhower over Taft, distinguishing this from the outlook of Republican rank-and-file voters."
+    }
+  ],
+  "eventLinks": [
+    {
+      "fromId": "tragedy-soviet-atomic-announcement",
+      "toId": "tragedy-gac-super-vote",
+      "label": "Soviet atomic detection brings the thermonuclear dispute to crisis",
+      "kind": "influence",
+      "pages": [
+        793,
+        796
+      ]
+    },
+    {
+      "fromId": "tragedy-gac-super-vote",
+      "toId": "tragedy-truman-h-bomb-order",
+      "label": "Truman\u2019s order reverses the advisers\u2019 opposition to a crash approach",
+      "kind": "influence",
+      "pages": [
+        796,
+        797
+      ]
+    },
+    {
+      "fromId": "tragedy-truman-h-bomb-order",
+      "toId": "tragedy-nsc68",
+      "label": "Strategic review accompanies the weapons-development decision",
+      "kind": "influence",
+      "pages": [
+        797,
+        802,
+        803
+      ]
+    },
+    {
+      "fromId": "tragedy-ulam-suggestion",
+      "toId": "tragedy-ivy-mike",
+      "label": "Successful thermonuclear route leads to the Mike feasibility test",
+      "kind": "influence",
+      "pages": [
+        798
+      ]
+    },
+    {
+      "fromId": "tragedy-nsc68",
+      "toId": "tragedy-nsc162",
+      "label": "New Look replaces the earlier balanced-defense directive",
+      "kind": "influence",
+      "pages": [
+        803,
+        830
+      ]
+    },
+    {
+      "fromId": "tragedy-borden-letter",
+      "toId": "tragedy-oppenheimer-suspension",
+      "label": "Accusation precedes the suspension of clearance",
+      "kind": "influence",
+      "pages": [
+        824
+      ]
+    },
+    {
+      "fromId": "tragedy-oppenheimer-suspension",
+      "toId": "tragedy-oppenheimer-hearings",
+      "label": "Suspension prompts an appeal and security hearings",
+      "kind": "influence",
+      "pages": [
+        824
+      ]
+    },
+    {
+      "fromId": "tragedy-egypt-revolution",
+      "toId": "tragedy-egypt-land-reform",
+      "label": "Officers\u2019 regime adopts the agrarian law",
+      "kind": "influence",
+      "pages": [
+        891,
+        892
+      ]
+    },
+    {
+      "fromId": "tragedy-aswan-aid-withdrawn",
+      "toId": "tragedy-suez-nationalization",
+      "label": "Withdrawal of dam finance prompts canal nationalization",
+      "kind": "influence",
+      "pages": [
+        895
+      ]
+    },
+    {
+      "fromId": "tragedy-suez-nationalization",
+      "toId": "tragedy-suez-invasion",
+      "label": "Control dispute develops into the Anglo-French intervention",
+      "kind": "influence",
+      "pages": [
+        895,
+        896,
+        897
+      ]
+    },
+    {
+      "fromId": "tragedy-iran-coup",
+      "toId": "tragedy-iran-oil-consortium",
+      "label": "Post-coup order permits a consortium settlement",
+      "kind": "influence",
+      "pages": [
+        881
+      ]
+    },
+    {
+      "fromId": "tragedy-stalin-death",
+      "toId": "tragedy-belgrade-reconciliation",
+      "label": "Post-Stalin succession enables a reversal toward Tito",
+      "kind": "influence",
+      "pages": [
+        836,
+        837,
+        839
+      ]
+    },
+    {
+      "fromId": "tragedy-secret-speech",
+      "toId": "tragedy-hungary-neutrality",
+      "label": "De-Stalinization contributes to satellite upheaval",
+      "kind": "influence",
+      "pages": [
+        848,
+        852,
+        853
+      ]
+    },
+    {
+      "fromId": "tragedy-hungary-neutrality",
+      "toId": "tragedy-hungary-invasion",
+      "label": "Neutrality and withdrawal declaration confront Soviet intervention",
+      "kind": "influence",
+      "pages": [
+        853
+      ]
+    },
+    {
+      "fromId": "tragedy-soviet-economic-regions",
+      "toId": "tragedy-khrushchev-challenge",
+      "label": "Economic decentralization provokes rivals\u2019 attempt to remove Khrushchev",
+      "kind": "influence",
+      "pages": [
+        855,
+        856
+      ]
+    },
+    {
+      "fromId": "tragedy-khrushchev-challenge",
+      "toId": "tragedy-zhukov-removed",
+      "label": "After army assistance, Khrushchev curtails military autonomy",
+      "kind": "influence",
+      "pages": [
+        856,
+        857
+      ]
+    },
+    {
+      "fromId": "tragedy-guatemala-coup",
+      "toId": "tragedy-bay-of-pigs",
+      "label": "CIA misreads the Guatemala precedent when planning Cuba\u2019s invasion",
+      "kind": "influence",
+      "pages": [
+        941,
+        942
+      ]
+    },
+    {
+      "fromId": "tragedy-mikoyan-cuba",
+      "toId": "tragedy-bay-of-pigs",
+      "label": "Growing Soviet ties and armaments enter the rationale for an invasion",
+      "kind": "influence",
+      "pages": [
+        940,
+        941,
+        942
+      ]
+    },
+    {
+      "fromId": "tragedy-bay-of-pigs",
+      "toId": "tragedy-cuban-missile-crisis",
+      "label": "Failed invasion strengthens Soviet commitment to Castro and the buildup",
+      "kind": "influence",
+      "pages": [
+        943,
+        916
+      ]
+    },
+    {
+      "fromId": "tragedy-cuban-missile-crisis",
+      "toId": "tragedy-test-ban",
+      "label": "Crisis settlement exposes the common interest behind nuclear restraint",
+      "kind": "influence",
+      "pages": [
+        906,
+        919
+      ]
+    },
+    {
+      "fromId": "tragedy-great-leap",
+      "toId": "tragedy-soviet-advisers-withdraw",
+      "label": "Chinese economic crisis deepens the consequences of Soviet disengagement",
+      "kind": "influence",
+      "pages": [
+        964,
+        965
+      ]
+    },
+    {
+      "fromId": "tragedy-guinea-community",
+      "toId": "tragedy-ghana-guinea-mali",
+      "label": "Guinea\u2019s alternative alignment grows into the Ghana-Guinea-Mali union",
+      "kind": "influence",
+      "pages": [
+        991,
+        992,
+        993
+      ]
+    }
+  ]
+}

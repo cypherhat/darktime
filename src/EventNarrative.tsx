@@ -8,6 +8,10 @@ export default function EventNarrative({ entry }: { entry: Entry }) {
     let cancelled = false;
     setAccounts([]);
     setError(false);
+    if (entry.lifecycleFor) {
+      setAccounts(entry.sourceSummaries || []);
+      return;
+    }
     const sourceIds = [...new Set(entry.citations.map((c) => c.sourceId))];
     Promise.all(sourceIds.map(loadNarratives))
       .then(

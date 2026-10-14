@@ -1,0 +1,2329 @@
+{
+  "coverage": "Substantial reading of PDF pages 230–307, 399–417, and 449–454 within chapters 15–38, concentrating on the Versailles settlement, collective security, reparations, central-bank cooperation, stabilization and the 1931 crisis, British political institutions and labor, and the New Deal. This is a selective event-and-network digest, not an exhaustive transcription of every country chapter.",
+  "people": [
+    {
+      "id": "woodrow-wilson",
+      "name": "Woodrow Wilson",
+      "role": "US president",
+      "description": "Quigley portrays Wilson as prioritizing the League of Nations while yielding on treaty details to Lloyd George and Clemenceau. The US Senate’s rejection of associated guarantees undermined French security.",
+      "pages": [
+        231,
+        232,
+        233,
+        239
+      ]
+    },
+    {
+      "id": "georges-clemenceau",
+      "name": "Georges Clemenceau",
+      "role": "French premier",
+      "description": "French member of the Council of Four. Quigley describes his management of the public peace conference and acceptance of a Rhineland settlement in exchange for an Anglo-American guarantee.",
+      "pages": [
+        232,
+        233,
+        235,
+        239
+      ]
+    },
+    {
+      "id": "vittorio-orlando",
+      "name": "Vittorio Emanuele Orlando",
+      "role": "Italian premier",
+      "description": "Member of the Council of Four whose dispute with Wilson over Fiume led the Italian delegation to leave Paris during the distribution of German colonial territories.",
+      "pages": [
+        233,
+        234
+      ]
+    },
+    {
+      "id": "john-maynard-keynes",
+      "name": "John Maynard Keynes",
+      "role": "Economist and British peace delegate",
+      "description": "Leader of younger British financial delegates who recognized limits on Germany’s capacity to pay reparations, contrasted by Quigley with Cunliffe and Sumner’s much larger estimates.",
+      "pages": [
+        243
+      ]
+    },
+    {
+      "id": "charles-dawes",
+      "name": "Charles G. Dawes",
+      "role": "Banker and reparations committee chair",
+      "description": "Chaired the international financial-expert committee behind the Dawes Plan, which Quigley describes as largely a Morgan production.",
+      "pages": [
+        265
+      ]
+    },
+    {
+      "id": "owen-young",
+      "name": "Owen D. Young",
+      "role": "Industrialist and reparations committee chair",
+      "description": "Chaired the 1929 committee revising reparations. Quigley calls him a Morgan agent and links the resulting plan to commercialized reparations and the BIS.",
+      "pages": [
+        267
+      ]
+    },
+    {
+      "id": "montagu-norman",
+      "name": "Montagu Norman",
+      "role": "Governor of Bank of England",
+      "description": "Bank of England governor from 1920 to 1944. Quigley describes his close cooperation with Benjamin Strong, advocacy of independent central banks and gold, and influence over Britain’s 1931 political crisis.",
+      "pages": [
+        278,
+        279,
+        280,
+        414
+      ]
+    },
+    {
+      "id": "benjamin-strong",
+      "name": "Benjamin Strong",
+      "role": "Governor of New York Federal Reserve Bank",
+      "description": "Quigley traces Strong’s career through Bankers Trust and Morgan sponsorship to the New York Federal Reserve governorship in 1914, and dates his cooperation agreement with Norman to 1916.",
+      "pages": [
+        278,
+        280
+      ]
+    },
+    {
+      "id": "hjalmar-schacht",
+      "name": "Hjalmar Schacht",
+      "role": "Reichsbank leader",
+      "description": "Listed among central-bank leaders through whom Quigley describes the international system of credit, gold flows, and governmental financial dependence.",
+      "pages": [
+        278
+      ]
+    },
+    {
+      "id": "charles-rist",
+      "name": "Charles Rist",
+      "role": "Bank of France official",
+      "description": "Named by Quigley alongside Norman, Strong, and Schacht as a central-bank figure participating in international financial coordination.",
+      "pages": [
+        278
+      ]
+    },
+    {
+      "id": "herbert-hoover",
+      "name": "Herbert Hoover",
+      "role": "US president",
+      "description": "Proposed a one-year intergovernmental debt moratorium after Andrew Mellon warned of an imminent German financial collapse. Distinct from FBI director J. Edgar Hoover.",
+      "pages": [
+        268,
+        298
+      ]
+    },
+    {
+      "id": "andrew-mellon",
+      "name": "Andrew Mellon",
+      "role": "US Treasury secretary and financier",
+      "description": "Reported Germany’s financial danger to President Hoover. Quigley also describes a Pittsburgh-based Mellon group spanning banks, oil, aluminum and electrical industry.",
+      "pages": [
+        268,
+        450
+      ]
+    },
+    {
+      "id": "ramsay-macdonald",
+      "name": "Ramsay MacDonald",
+      "role": "Labour and National Government premier",
+      "description": "Led minority Labour administrations and formed a National Government in 1931. Quigley criticizes his secret negotiations with other parties and describes the expulsion of his small Labour following.",
+      "pages": [
+        411,
+        413,
+        414
+      ]
+    },
+    {
+      "id": "philip-snowden",
+      "name": "Philip Snowden",
+      "role": "Chancellor of the Exchequer",
+      "description": "Quigley describes his balanced-budget and orthodox monetary views as similar to Montagu Norman’s. He followed MacDonald into the National Government and attacked Labour during the 1931 election.",
+      "pages": [
+        413,
+        414
+      ]
+    },
+    {
+      "id": "stanley-baldwin",
+      "name": "Stanley Baldwin",
+      "role": "Conservative premier",
+      "description": "Led the Conservative government associated with Churchill’s stabilization policy, then replaced MacDonald in 1935 before the general election fought on collective security and rearmament.",
+      "pages": [
+        411,
+        416,
+        417
+      ]
+    },
+    {
+      "id": "aristide-briand",
+      "name": "Aristide Briand",
+      "role": "French foreign minister",
+      "description": "Advocated conciliation with Germany and proposed a bilateral renunciation of war to the United States that developed into the Kellogg-Briand Pact.",
+      "pages": [
+        248,
+        253
+      ]
+    },
+    {
+      "id": "gustav-stresemann",
+      "name": "Gustav Stresemann",
+      "role": "German foreign minister",
+      "description": "Pursued fulfillment of treaty duties to obtain revision of Versailles, according to Quigley. Sought to reassure Soviet Russia after Locarno with commercial and nonaggression arrangements.",
+      "pages": [
+        248,
+        253
+      ]
+    },
+    {
+      "id": "mustafa-kemal",
+      "name": "Mustafa Kemal",
+      "role": "Turkish nationalist leader",
+      "description": "Rejected Sèvres through an insurgent Ankara government; nationalist military success and diplomatic divisions among the Allies led to the negotiated Lausanne settlement.",
+      "pages": [
+        237,
+        238
+      ]
+    },
+    {
+      "id": "william-randolph-hearst",
+      "name": "William Randolph Hearst",
+      "role": "Newspaper proprietor",
+      "description": "Published leaked information about the secret Anglo-French disarmament agreement of July 1928. Quigley reports that France deported his reporter and later Hearst himself.",
+      "pages": [
+        258
+      ]
+    },
+    {
+      "id": "reginald-mckenna",
+      "name": "Reginald McKenna",
+      "role": "Midland Bank chairman",
+      "description": "Former British chancellor whose January 1924 statement to Midland stockholders is quoted by Quigley to illustrate bank credit creation and its influence on government.",
+      "pages": [
+        279
+      ]
+    },
+    {
+      "id": "henry-davison",
+      "name": "Henry P. Davison",
+      "role": "Morgan banker",
+      "description": "Quigley credits Davison with advancing Benjamin Strong at Bankers Trust and deploying him in Morgan banking rearrangements after the 1907 crash.",
+      "pages": [
+        280
+      ]
+    },
+    {
+      "id": "alfred-mond",
+      "name": "Alfred Mond, Lord Melchett",
+      "role": "Industrial leader",
+      "description": "Leader associated by Quigley with Imperial Chemical Industries and negotiations between organized industry and the Trades Union Congress.",
+      "pages": [
+        406,
+        412
+      ]
+    },
+    {
+      "id": "john-l-lewis",
+      "name": "John L. Lewis",
+      "role": "United Mine Workers leader",
+      "description": "Quigley describes Lewis as the leader of the Committee for Industrial Organization’s drive to organize workers in mass production industries.",
+      "pages": [
+        452
+      ]
+    },
+    {
+      "id": "frank-kellogg",
+      "name": "Frank B. Kellogg",
+      "role": "US secretary of state",
+      "description": "Expanded Briand’s proposed Franco-American renunciation of war into a multilateral pact, with reservations limiting its practical scope.",
+      "pages": [
+        253,
+        254
+      ]
+    },
+    {
+      "id": "cecil-hurst",
+      "name": "Sir Cecil Hurst",
+      "role": "British lawyer and League Covenant drafter",
+      "pages": [
+        250
+      ],
+      "description": "Quigley identifies Hurst as the lawyer who worded crucial League Covenant articles, particularly those governing disputes and sanctions. He argues that their wording preserved member states’ freedom of action and left the League without compulsory military enforcement; that assessment is Quigley’s interpretation of the legal structure."
+    },
+    {
+      "id": "robert-cecil",
+      "name": "Robert Cecil",
+      "role": "British naval-disarmament delegate",
+      "pages": [
+        257,
+        258
+      ],
+      "description": "Chief British delegate to the 1927 Geneva naval conference, where Britain and the United States disagreed over cruiser types and tonnage. Quigley says Cecil favored compromise but Churchill’s insistence forced his resignation from the Cabinet, illustrating a division within British policy rather than a uniformly pacifist position."
+    }
+  ],
+  "organizations": [
+    {
+      "id": "bis",
+      "name": "Bank for International Settlements",
+      "pages": [
+        267,
+        278,
+        293
+      ],
+      "description": "Basel institution created in connection with the Young Plan to settle central-bank payments through account transfers. Quigley treats it both as a proposed apex of coordinated financial control and as a response to London’s declining dominance.",
+      "members": []
+    },
+    {
+      "id": "federal-reserve-new-york",
+      "name": "Federal Reserve Bank of New York",
+      "pages": [
+        278,
+        280,
+        295,
+        302
+      ],
+      "description": "Central bank led by Benjamin Strong; a principal site of transatlantic monetary cooperation, gold-flow adjustment, and the American banking crisis.",
+      "members": [
+        "benjamin-strong"
+      ]
+    },
+    {
+      "id": "bank-france",
+      "name": "Bank of France",
+      "pages": [
+        278,
+        295,
+        302
+      ],
+      "description": "French central bank whose exchange holdings and conversion to gold figure in Quigley’s account of monetary imbalance and the interwar crisis.",
+      "members": [
+        "charles-rist"
+      ]
+    },
+    {
+      "id": "reichsbank",
+      "name": "Reichsbank",
+      "pages": [
+        264,
+        268,
+        269,
+        278
+      ],
+      "description": "German central bank involved in deficit financing, reserve losses, and international central-bank coordination.",
+      "members": [
+        "hjalmar-schacht"
+      ]
+    },
+    {
+      "id": "bankers-trust",
+      "name": "Bankers Trust Company",
+      "pages": [
+        280
+      ],
+      "description": "New York bank through which Quigley traces Benjamin Strong’s advancement under Morgan banker Henry P. Davison.",
+      "members": [
+        "benjamin-strong"
+      ]
+    },
+    {
+      "id": "kuhn-loeb",
+      "name": "Kuhn, Loeb and Company",
+      "pages": [
+        280,
+        450
+      ],
+      "description": "Investment-banking house named as a joint sponsor of Strong’s 1914 governorship and as a dominant financier of major American railroads.",
+      "members": []
+    },
+    {
+      "id": "credit-anstalt",
+      "name": "Credit-Anstalt",
+      "pages": [
+        268,
+        298
+      ],
+      "description": "Austria’s largest bank, described as a Rothschild institution with extensive industrial interests. Its disclosed losses precipitated runs that transmitted the 1931 crisis across Europe.",
+      "members": []
+    },
+    {
+      "id": "conservative-party",
+      "name": "Conservative Party",
+      "pages": [
+        405,
+        411,
+        414,
+        417
+      ],
+      "description": "British political party governing under Baldwin and participating in the National Government. Quigley associates its interwar program with entrenched wealth, tariff protection and cartelization.",
+      "members": [
+        "stanley-baldwin"
+      ]
+    },
+    {
+      "id": "liberal-party",
+      "name": "Liberal Party",
+      "pages": [
+        408,
+        413,
+        415
+      ],
+      "description": "British party responsible for prewar constitutional and welfare reforms and for parliamentary support of minority Labour governments; split over tariffs under the National Government.",
+      "members": []
+    },
+    {
+      "id": "trades-union-congress",
+      "name": "Trades Union Congress",
+      "pages": [
+        412,
+        413
+      ],
+      "description": "British union federation that called and ended the 1926 General Strike, opposed benefit cuts in 1931, and subsequently emphasized political action and negotiation with industry.",
+      "members": []
+    },
+    {
+      "id": "imperial-chemical-industries",
+      "name": "Imperial Chemical Industries",
+      "pages": [
+        412,
+        416
+      ],
+      "description": "Industrial firm associated with Lord Melchett’s labor-industry negotiations. Quigley estimates it benefited substantially from Chamberlain’s industrial tax derating.",
+      "members": [
+        "alfred-mond"
+      ]
+    },
+    {
+      "id": "federation-british-industries",
+      "name": "Federation of British Industries",
+      "pages": [
+        412,
+        413
+      ],
+      "description": "Employers’ body involved in the National Industrial Council and, in 1931, recommendations for large wage cuts.",
+      "members": []
+    },
+    {
+      "id": "national-industrial-council",
+      "name": "National Industrial Council",
+      "pages": [
+        412
+      ],
+      "description": "Cooperation forum joining the Trades Union Congress, Federation of British Industries and National Conference of Employers after the General Strike.",
+      "members": []
+    },
+    {
+      "id": "international-labour-office",
+      "name": "International Labour Office",
+      "pages": [
+        233,
+        251
+      ],
+      "description": "Labor organization whose draft was accepted at the Paris Peace Conference and which Quigley describes as semi-autonomous in relation to the League.",
+      "members": []
+    },
+    {
+      "id": "permanent-court-international-justice",
+      "name": "Permanent Court of International Justice",
+      "pages": [
+        251,
+        268
+      ],
+      "description": "Semi-autonomous court attached to the League; the Austro-German customs-union dispute was referred to the World Court in 1931.",
+      "members": []
+    },
+    {
+      "id": "little-entente",
+      "name": "Little Entente",
+      "pages": [
+        245
+      ],
+      "description": "Bilateral alliance system joining Romania, Czechoslovakia and Yugoslavia to enforce the Treaty of Trianon; extended through French arrangements with Poland and Czechoslovakia.",
+      "members": []
+    },
+    {
+      "id": "conference-ambassadors",
+      "name": "Conference of Ambassadors",
+      "pages": [
+        233,
+        239
+      ],
+      "description": "Paris-based committee of Great Power ambassadors and a French representative, supervising peace treaties and exercising political authority after the main peace conference.",
+      "members": []
+    },
+    {
+      "id": "reparations-commission",
+      "name": "Reparations Commission",
+      "pages": [
+        243,
+        265
+      ],
+      "description": "Allied body tasked with valuing reparations categories and determining German default, leading to the Ruhr occupation.",
+      "members": []
+    },
+    {
+      "id": "exchange-equalization-account",
+      "name": "Exchange Equalization Account",
+      "pages": [
+        301
+      ],
+      "description": "British government fund established in May 1932 with £175 million to manage exchange rates while domestic credit policy remained with the Bank of England.",
+      "members": []
+    },
+    {
+      "id": "reconstruction-finance-corporation",
+      "name": "Reconstruction Finance Corporation",
+      "pages": [
+        302
+      ],
+      "description": "US institution established early in 1932 to lend government funds to banks and other large corporations. Public disclosure of its loans intensified bank runs in Quigley’s account.",
+      "members": []
+    },
+    {
+      "id": "cio",
+      "name": "Committee for Industrial Organization",
+      "pages": [
+        452
+      ],
+      "description": "Organizing committee under John L. Lewis seeking to unionize workers in steel, automobiles, electrical production and other mass-employment industries.",
+      "members": [
+        "john-l-lewis"
+      ]
+    },
+    {
+      "id": "united-mine-workers",
+      "name": "United Mine Workers",
+      "pages": [
+        452
+      ],
+      "description": "Mass-employment union whose leader John L. Lewis headed the industrial organizing drive described by Quigley.",
+      "members": [
+        "john-l-lewis"
+      ]
+    },
+    {
+      "id": "midland-bank",
+      "name": "Midland Bank",
+      "pages": [
+        279
+      ],
+      "description": "Bank chaired by Reginald McKenna, whose 1924 remarks on the political power of credit creation are quoted by Quigley.",
+      "members": [
+        "reginald-mckenna"
+      ]
+    },
+    {
+      "id": "league-of-nations",
+      "name": "League of Nations",
+      "pages": [
+        233,
+        250,
+        251,
+        252
+      ],
+      "description": "International organization created by the postwar Covenant, with an Assembly, a Great-Power-influenced Council and a Geneva Secretariat. Quigley distinguishes the Secretariat’s constructive cooperation work from a security structure lacking its own military power and compulsory dispute settlement. He traces later attempts to close those enforcement gaps through the Draft Treaty of Mutual Assistance, Geneva Protocol and Locarno agreements.",
+      "members": []
+    },
+    {
+      "id": "labour-party",
+      "name": "Labour Party",
+      "pages": [
+        405,
+        411,
+        412,
+        413,
+        414,
+        417
+      ],
+      "description": "British party that displaced the Liberals as the main electoral challenger to the Conservatives and formed minority governments under Ramsay MacDonald. Quigley describes its dependence on trade unions, internal disagreements over fiscal and foreign policy, and the rupture when MacDonald formed the National Government in 1931. Its opposition was also divided over pacifism and collective-security rearmament during the 1935 campaign.",
+      "members": [
+        "ramsay-macdonald",
+        "philip-snowden"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "tragedy-council-four",
+      "name": "Council of Four concentrates Paris peace negotiations",
+      "date": "1919-03-27",
+      "precision": "day",
+      "pages": [
+        232,
+        233
+      ],
+      "people": [
+        "woodrow-wilson",
+        "lloyd-george",
+        "georges-clemenceau",
+        "vittorio-orlando"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "summary": "Quigley describes the smaller Council of Four replacing the unwieldy Council of Ten and conducting the decisive negotiations privately.",
+      "details": [
+        "The Council of Ten combined heads of government and foreign ministers of the five Great Powers. After a dispute over the German-Polish frontier leaked, negotiations contracted to Lloyd George, Wilson, Clemenceau and Orlando, with the Italian premier often absent.",
+        "Quigley contrasts over two hundred private meetings over thirteen weeks with the largely ceremonial public conference. His criticism concerns the gap between promised open, negotiated peace and the actual concentration of decisions among victorious powers."
+      ],
+      "context": "Quigley contrasts over two hundred private meetings over thirteen weeks with the largely ceremonial public conference."
+    },
+    {
+      "id": "tragedy-league-covenant",
+      "name": "Paris conference accepts League Covenant and labor-office draft",
+      "date": "1919-04-28",
+      "precision": "day",
+      "pages": [
+        233,
+        250,
+        251
+      ],
+      "people": [
+        "woodrow-wilson",
+        "cecil-hurst"
+      ],
+      "organizations": [
+        "league-of-nations",
+        "international-labour-office"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "The peace conference accepts the League Covenant and International Labour Office draft; Quigley argues that the Covenant leaves sovereignty and enforcement largely with member states.",
+      "details": [
+        "The Covenant draft had been presented on February 14 and the labor-office draft on April 11. Both were accepted on April 28, as substantive negotiations continued outside the plenary conference. Wilson saw the League as a means of correcting undesirable settlement details later.",
+        "Quigley describes Anglo-American rejection of the French proposal for a standing international army. He identifies Cecil Hurst’s wording as preserving national freedom of action, and treats the lack of compulsory settlement and effective military sanctions as fundamental weaknesses."
+      ],
+      "context": "Quigley describes Anglo-American rejection of the French proposal for a standing international army."
+    },
+    {
+      "id": "tragedy-versailles",
+      "name": "Treaty of Versailles imposes German peace settlement",
+      "date": "1919-06-28",
+      "precision": "day",
+      "pages": [
+        230,
+        233,
+        235,
+        236,
+        239,
+        243
+      ],
+      "people": [
+        "woodrow-wilson",
+        "lloyd-george",
+        "georges-clemenceau",
+        "kerr",
+        "smuts",
+        "john-foster-dulles",
+        "john-maynard-keynes"
+      ],
+      "organizations": [
+        "league-of-nations",
+        "reparations-commission"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security",
+        "finance"
+      ],
+      "summary": "Germany signs Versailles after an ultimatum; Quigley emphasizes the settlement’s unstable enforcement, reparations compromise and competing British and French interests.",
+      "details": [
+        "The German delegation protested the absence of negotiation and presented detailed counterproposals. Philip Kerr drafted the Allied reply, which made limited modifications while retaining war-guilt language. German military leaders urged signature to prevent occupation.",
+        "Quigley credits John Foster Dulles with a compromise separating theoretical responsibility from enumerated reparations liabilities and Smuts with inserting pensions. He argues that the limited Rhineland occupation could not enforce long-term reparations and permanent disarmament without sustained Allied unity."
+      ],
+      "context": "Quigley credits John Foster Dulles with a compromise separating theoretical responsibility from enumerated reparations liabilities and Smuts with inserting pensions."
+    },
+    {
+      "id": "tragedy-saint-germain",
+      "name": "Saint-Germain restricts Austrian union with Germany",
+      "date": "1919-09-10",
+      "precision": "day",
+      "pages": [
+        231,
+        236
+      ],
+      "people": [],
+      "organizations": [
+        "league-of-nations"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "summary": "Austria signs a settlement that prohibits union with Germany without League approval, an obligation later invoked against the 1931 customs-union proposal.",
+      "details": [
+        "Quigley describes the victors rejecting Austria’s claim to be a successor state rather than a defeated power and requiring the new state to abandon the name German Austria. The treaty formalized the breakup of the Habsburg political order.",
+        "The prohibition on union placed Austrian independence within the League framework. That clause matters in the later financial narrative because France used it to challenge the proposed economic union between Austria and Germany in 1931."
+      ],
+      "context": "The prohibition on union placed Austrian independence within the League framework."
+    },
+    {
+      "id": "tragedy-trianon",
+      "name": "Trianon settlement fixes Hungary’s postwar losses",
+      "date": "1920-06-04",
+      "precision": "day",
+      "pages": [
+        231,
+        236,
+        237,
+        245
+      ],
+      "people": [],
+      "organizations": [
+        "little-entente"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "summary": "Quigley calls Trianon the most severe and rigidly enforced peace treaty, connecting Hungarian revisionism to the regional alliance system.",
+      "details": [
+        "The treaty followed the collapse of the Habsburg dynasty and struggles between liberal, revolutionary and reactionary forces in Hungary. Quigley describes Hungary’s conservative leadership repudiating the settlement after signing.",
+        "Romania, Czechoslovakia and Yugoslavia formed the Little Entente to uphold Trianon. Quigley also describes a failed attempt to exchange Hungarian economic concessions to French industrial interests for eventual French political support; the record here does not adopt a precise date for that separate bargain."
+      ],
+      "context": "Romania, Czechoslovakia and Yugoslavia formed the Little Entente to uphold Trianon."
+    },
+    {
+      "id": "tragedy-sevres",
+      "name": "Sèvres treaty rejected by Turkish nationalists",
+      "date": "1920-08-20",
+      "precision": "day",
+      "pages": [
+        231,
+        237,
+        238
+      ],
+      "people": [
+        "mustafa-kemal",
+        "curzon"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "empire",
+        "war"
+      ],
+      "summary": "The sultan’s government signs Sèvres, but Mustafa Kemal’s nationalist movement rejects it and ultimately obtains a negotiated replacement.",
+      "details": [
+        "Quigley explains the treaty’s delay through uncertainty about American involvement, political instability in Turkey and exposure of secret Allied agreements. An insurgent Ankara government refused the settlement that the sultan’s delegates signed.",
+        "He connects the failure to divisions among Allied powers over economic concessions and to the nationalist defeat of the Greeks. The Dominions’ refusal to support a new Turkish war weakened Britain at Chanak, preparing the way for Lausanne."
+      ],
+      "context": "He connects the failure to divisions among Allied powers over economic concessions and to the nationalist defeat of the Greeks."
+    },
+    {
+      "id": "tragedy-london-reparations",
+      "name": "London schedule fixes German reparations obligation",
+      "date": "1921-05-01",
+      "precision": "month",
+      "pages": [
+        243,
+        244,
+        264
+      ],
+      "people": [
+        "smuts",
+        "john-foster-dulles"
+      ],
+      "organizations": [
+        "reparations-commission"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "summary": "Germany accepts a 132-billion-gold-mark reparations bill under threat of Ruhr occupation, while repayment mechanisms remain unresolved.",
+      "details": [
+        "Versailles had deferred valuation of ten damage categories to the Reparations Commission. Quigley gives the final bill as about $32.5 billion and describes a six-day ultimatum that compelled German acceptance.",
+        "He argues that genuine payment required both a German budget surplus and foreign acceptance of German exports. Creditors’ import restrictions and German fiscal choices obstructed both conditions, making the nominal schedule a continuing source of conflict."
+      ],
+      "context": "He argues that genuine payment required both a German budget surplus and foreign acceptance of German exports.",
+      "precisionNote": "The text dates presentation to May 1921 without specifying a day."
+    },
+    {
+      "id": "tragedy-little-entente",
+      "name": "Little Entente and French-Polish treaty build eastern security system",
+      "date": "1921-02-01",
+      "precision": "month",
+      "pages": [
+        245
+      ],
+      "people": [],
+      "organizations": [
+        "little-entente"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "France seeks allies east of Germany after failed efforts to obtain stronger Rhineland, League and Anglo-American guarantees.",
+      "details": [
+        "Quigley describes bilateral alliances among Romania, Czechoslovakia and Yugoslavia in 1920–1921 aimed at enforcing Trianon. A French-Polish treaty in February 1921 widened the alignment, followed by a French-Czechoslovak agreement in January 1924.",
+        "He judges these arrangements inadequate for French security because most allies were weak and Britain opposed French pressure along the Rhine. This made France increasingly dependent on British consent even when trying to protect its eastern partners."
+      ],
+      "context": "He judges these arrangements inadequate for French security because most allies were weak and Britain opposed French pressure along the Rhine."
+    },
+    {
+      "id": "tragedy-washington-naval",
+      "name": "Washington conference limits fleets and ends Anglo-Japanese alliance",
+      "date": "1921-11-01",
+      "precision": "month",
+      "pages": [
+        256,
+        257
+      ],
+      "people": [],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security",
+        "empire"
+      ],
+      "summary": "The Washington conference bargains naval ratios, Pacific bases and Chinese commitments into the most successful interwar disarmament agreement in Quigley’s account.",
+      "details": [
+        "Britain sought to avoid a costly American naval race and reduce Japanese pressure in the Pacific. The United States wanted protection for its communications and limits on Japanese fortifications; Japan sought limits on American bases near its waters.",
+        "Capital ships and carriers were limited by ratios giving Britain and America equality and Japan sixty percent of their allowance. Additional treaties addressed China and Pacific islands, and the Anglo-Japanese alliance ended. Quigley stresses that fleet supply constraints made the base agreements strategically meaningful."
+      ],
+      "context": "Capital ships and carriers were limited by ratios giving Britain and America equality and Japan sixty percent of their allowance.",
+      "endDate": "1922-02-28"
+    },
+    {
+      "id": "tragedy-rapallo",
+      "name": "Rapallo joins the two isolated European powers",
+      "date": "1922-04-01",
+      "precision": "month",
+      "pages": [
+        253
+      ],
+      "people": [],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "Germany and Soviet Russia sign at Rapallo; Quigley connects their rapprochement to postwar isolation and Western fear of a technology-and-manpower alliance.",
+      "details": [
+        "Both states were treated as outsiders after the war and revolution. Their April 1922 agreement emerged from overlapping diplomatic isolation rather than from the later Locarno arrangements.",
+        "Quigley describes Western alarm at the possibility of combining German technology and organization with Soviet manpower and resources. Stresemann appears in the later effort to preserve that relationship after Locarno, rather than being identified here as a signer."
+      ],
+      "context": "Quigley describes Western alarm at the possibility of combining German technology and organization with Soviet manpower and resources.",
+      "precisionNote": "Month precision follows the source; the account does not identify individual treaty signers."
+    },
+    {
+      "id": "tragedy-ruhr-occupation",
+      "name": "Reparations default leads to Ruhr occupation",
+      "date": "1923-01-11",
+      "precision": "day",
+      "pages": [
+        265,
+        248
+      ],
+      "people": [],
+      "organizations": [
+        "reparations-commission",
+        "reichsbank"
+      ],
+      "lanes": [
+        "finance",
+        "security",
+        "diplomacy"
+      ],
+      "summary": "Following a default finding, occupation of the Ruhr prompts German passive resistance and accelerating inflation; Quigley sees the failure as proof of France’s dependence on British support.",
+      "details": [
+        "On January 9 the Reparations Commission voted Germany in default, with Britain opposing the other creditors. Forces entered the Ruhr two days later. Germany ceased payments and supported a general strike by issuing additional paper money.",
+        "Quigley describes a struggle over coal, steel and railways that strained both the German economy and occupying powers without delivering the intended reparations. The eventual compromise was the Dawes Plan and evacuation of the Ruhr."
+      ],
+      "context": "Quigley describes a struggle over coal, steel and railways that strained both the German economy and occupying powers without delivering the intended reparations."
+    },
+    {
+      "id": "tragedy-lausanne-turkey",
+      "name": "Lausanne replaces Sèvres with negotiated Turkish peace",
+      "date": "1923-07-24",
+      "precision": "day",
+      "pages": [
+        238
+      ],
+      "people": [
+        "mustafa-kemal"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "empire",
+        "decolonization"
+      ],
+      "summary": "The Kemalist government signs Lausanne, removing capitulations and avoiding reparations while accepting territorial losses and a compulsory population exchange.",
+      "details": [
+        "Following nationalist military success and a conference opened in November 1922, the treaty recognized a substantially different settlement from Sèvres. Turkey surrendered non-Turkish territories other than Kurdistan, and the Straits remained demilitarized and open under treaty rules.",
+        "Quigley treats Lausanne as both the formal completion of the First World War settlement and a foundation for Turkish stability. He also records the displacement of more than a million Greeks and consequent pressures in Macedonia and Bulgaria, avoiding a purely diplomatic account of the treaty."
+      ],
+      "context": "Quigley treats Lausanne as both the formal completion of the First World War settlement and a foundation for Turkish stability."
+    },
+    {
+      "id": "tragedy-geneva-protocol",
+      "name": "Geneva Protocol attempts to close League enforcement gaps",
+      "date": "1924-01-01",
+      "precision": "year",
+      "pages": [
+        251,
+        252
+      ],
+      "people": [
+        "ramsay-macdonald"
+      ],
+      "organizations": [
+        "league-of-nations"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "League members develop the Geneva Protocol after Britain blocks the Draft Treaty of Mutual Assistance; a succeeding Conservative government also rejects the new arrangement.",
+      "details": [
+        "The 1923 draft sought to treat aggressive war as a crime and obligate military aid to designated victims. Quigley reports that MacDonald’s Labour government vetoed it in 1924 because of the burden on the British Empire.",
+        "The Geneva Protocol proposed compulsory peaceful procedures, sanctions and a reduction in the disputed parties’ veto power. Quigley attributes its failure to British objections, particularly Dominion fears of possible commitments against the United States, and connects that failure to the subsequent Locarno alternative."
+      ],
+      "context": "The Geneva Protocol proposed compulsory peaceful procedures, sanctions and a reduction in the disputed parties’ veto power."
+    },
+    {
+      "id": "tragedy-dawes",
+      "name": "Dawes Plan reorganizes reparations through foreign credit",
+      "date": "1924-01-01",
+      "precision": "year",
+      "pages": [
+        265,
+        266,
+        287,
+        288
+      ],
+      "people": [
+        "charles-dawes"
+      ],
+      "organizations": [
+        "jp-morgan",
+        "reichsbank"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "summary": "Dawes reorganizes German payments and protects foreign exchange, enabling a circular flow of American loans, reparations and Allied war-debt repayments.",
+      "details": [
+        "The committee chaired by Charles Dawes focused on Germany’s ability to pay and set a rising annual schedule after reconstruction. An agent-general accepted marks and converted them only when foreign exchange was available, shielding the currency from payment pressure.",
+        "Quigley argues that American lending rebuilt German industry and sustained apparent prosperity without a German fiscal surplus or favorable trade balance. Germany’s creditors used reparations to service war debts, but the system depended on continued lending and increased overall indebtedness rather than resolving it."
+      ],
+      "context": "Quigley argues that American lending rebuilt German industry and sustained apparent prosperity without a German fiscal surplus or favorable trade balance."
+    },
+    {
+      "id": "tragedy-mckenna-credit",
+      "name": "McKenna describes banks’ influence through credit creation",
+      "date": "1924-01-01",
+      "precision": "month",
+      "pages": [
+        279
+      ],
+      "people": [
+        "reginald-mckenna",
+        "montagu-norman"
+      ],
+      "organizations": [
+        "midland-bank",
+        "bank-england"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley cites McKenna’s January statement to Midland stockholders as evidence that credit creation gives bankers leverage over governments.",
+      "details": [
+        "McKenna, a former chancellor, explained that banks can create money and that control of national credit carries political consequences. Quigley places the statement alongside contemporary observations about Treasury bills and the Bank of England’s lending terms.",
+        "This is a dated statement illustrating the author’s theory of financial power, rather than proof that a particular later decision was dictated by bankers. Norman is the central-bank figure around whom Quigley organizes the wider discussion."
+      ],
+      "context": "This is a dated statement illustrating the author’s theory of financial power, rather than proof that a particular later decision was dictated by bankers."
+    },
+    {
+      "id": "tragedy-zinoviev-letter",
+      "name": "Zinoviev Letter strengthens British election red scare",
+      "date": "1924-01-01",
+      "precision": "year",
+      "pages": [
+        411
+      ],
+      "people": [
+        "ramsay-macdonald",
+        "stanley-baldwin"
+      ],
+      "organizations": [
+        "labour-party",
+        "conservative-party"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "summary": "Quigley describes Foreign Office publication of a forged revolutionary letter shortly before the election that produced Baldwin’s large Conservative majority.",
+      "details": [
+        "MacDonald’s recognition of Soviet Russia and attempted commercial treaty had already made Communism a heated political issue. The election followed his resignation over Parliament’s proposed investigation of a dropped prosecution of a Communist editor.",
+        "The purported Zinoviev Letter was issued four days before polling and called for revolutionary activity. Quigley identifies it as forged and says it helped the Conservatives, who won 412 of 615 seats; he does not quantify its separate effect."
+      ],
+      "context": "The purported Zinoviev Letter was issued four days before polling and called for revolutionary activity."
+    },
+    {
+      "id": "tragedy-sterling-gold",
+      "name": "Churchill restores sterling at prewar gold parity",
+      "date": "1925-01-01",
+      "precision": "year",
+      "pages": [
+        285,
+        286,
+        411
+      ],
+      "people": [
+        "winston-churchill",
+        "montagu-norman",
+        "stanley-baldwin"
+      ],
+      "organizations": [
+        "bank-england",
+        "conservative-party"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley argues that restoring sterling at $4.86 overvalued the pound, discouraged exports and required prolonged deflation.",
+      "details": [
+        "Churchill judged the restoration’s readiness from the foreign-exchange rate, but speculative buying of pounds had moved that rate faster than British prices had adjusted. Britain returned to gold while its prices remained above the world level.",
+        "The resulting pressure on reserves required high interest rates and efforts to lower production costs. Quigley links this policy to unemployment, the General Strike and Britain’s vulnerability to France’s stronger gold reserve position."
+      ],
+      "context": "The resulting pressure on reserves required high interest rates and efforts to lower production costs.",
+      "precisionNote": "The source associates the return with the 1925 stabilization period; no exact day is inferred."
+    },
+    {
+      "id": "tragedy-locarno",
+      "name": "Locarno guarantees western frontiers but leaves the east exposed",
+      "date": "1925-01-01",
+      "precision": "year",
+      "pages": [
+        252,
+        253
+      ],
+      "people": [
+        "smuts",
+        "aristide-briand",
+        "gustav-stresemann"
+      ],
+      "organizations": [
+        "league-of-nations"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "Quigley interprets Locarno as securing the Rhine while limiting French freedom to defend eastern allies, a distinction central to his later account of Munich.",
+      "details": [
+        "The nine-document package included arbitration treaties, French agreements with eastern allies, and a Rhine Pact guaranteed by Britain and Italy. Germany also gained a path into the League and an exemption from some sanctions obligations because of its disarmament.",
+        "Quigley emphasizes that Britain did not guarantee Germany’s Polish and Czechoslovak frontiers. He argues that France accepted the package chiefly for the Rhineland’s demilitarization, and that the loss of that condition in 1936 removed an essential restraint on German eastward pressure."
+      ],
+      "context": "Quigley emphasizes that Britain did not guarantee Germany’s Polish and Czechoslovak frontiers."
+    },
+    {
+      "id": "tragedy-general-strike",
+      "name": "British General Strike confronts deflation in coal industry",
+      "date": "1926-05-03",
+      "precision": "day",
+      "pages": [
+        286,
+        411,
+        412
+      ],
+      "people": [
+        "winston-churchill",
+        "stanley-baldwin"
+      ],
+      "organizations": [
+        "trades-union-congress",
+        "conservative-party"
+      ],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "summary": "The General Strike grows from miners’ resistance to wage cuts; Quigley ties the confrontation to overvalued sterling, obsolete mines and lost coal exports.",
+      "details": [
+        "The coal industry faced high costs and competition from revived Ruhr production. Owners proposed wage reductions while government and unions prepared a confrontation; the government invoked emergency powers and the Trades Union Congress called a general stoppage.",
+        "The TUC ended the strike after nine days, leaving miners to continue for months before starvation forced a return. Government publicity included Churchill’s British Gazette and broadcasting. Quigley argues that the result defeated labor without solving the economic contradiction of stabilization."
+      ],
+      "context": "The TUC ended the strike after nine days, leaving miners to continue for months before starvation forced a return.",
+      "endDate": "1926-05-12"
+    },
+    {
+      "id": "tragedy-germany-league",
+      "name": "Germany joins the League of Nations",
+      "date": "1926-01-01",
+      "precision": "year",
+      "pages": [
+        251,
+        253
+      ],
+      "people": [
+        "gustav-stresemann"
+      ],
+      "organizations": [
+        "league-of-nations"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "Germany’s League admission follows Locarno; Poland and the Soviet Union seek safeguards against the implications of Germany’s new status.",
+      "details": [
+        "Germany became a permanent Council member in 1926. Quigley describes Poland’s alarm at unguaranteed eastern frontiers and its resulting Council seat for the period 1926–1938.",
+        "To reassure Soviet Russia, Stresemann sought special provisions enabling Germany to resist League troop passage and signed a nonaggression agreement in April 1926. These diplomatic responses show that Western optimism about Locarno was not shared uniformly in eastern Europe."
+      ],
+      "context": "To reassure Soviet Russia, Stresemann sought special provisions enabling Germany to resist League troop passage and signed a nonaggression agreement in April 1926."
+    },
+    {
+      "id": "tragedy-franc-stabilization",
+      "name": "France stabilizes franc through devaluation",
+      "date": "1926-12-01",
+      "precision": "month",
+      "pages": [
+        287,
+        295
+      ],
+      "people": [],
+      "organizations": [
+        "bank-france"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "French de facto stabilization uses a lower exchange value; Quigley contrasts its relative prosperity and gold accumulation with British deflation.",
+      "details": [
+        "France stabilized at 124.21 francs to the pound at the end of 1926, with legal confirmation deferred to June 1928. Quigley places France alongside Belgium and Italy as countries that used devaluation rather than Britain’s route of price and wage deflation.",
+        "He argues that an undervalued currency improved export competitiveness and helped replenish gold stocks. Growing demand for francs and the Bank of France’s foreign-exchange holdings subsequently became important in the international movement of reserves."
+      ],
+      "context": "He argues that an undervalued currency improved export competitiveness and helped replenish gold stocks."
+    },
+    {
+      "id": "tragedy-geneva-naval",
+      "name": "Geneva naval conference fails over cruisers",
+      "date": "1927-01-01",
+      "precision": "year",
+      "pages": [
+        257,
+        258
+      ],
+      "people": [
+        "winston-churchill",
+        "robert-cecil"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "British and American cruiser requirements clash at Geneva; Quigley also describes shipbuilding lobbying and Cecil’s resignation after Churchill blocks compromise.",
+      "details": [
+        "The United States wanted heavy cruisers suited to long routes with few offshore bases. Britain sought numerous light cruisers and limited heavy vessels, arguing its shipping routes imposed absolute requirements independent of the American fleet.",
+        "Quigley reports Churchill’s insistence forcing Robert Cecil, who favored compromise, out of the Cabinet. He also discusses American shipbuilders’ financial interests and lobbyist William Shearer’s subsequent lawsuit as evidence of private pressures on the negotiations."
+      ],
+      "context": "Quigley reports Churchill’s insistence forcing Robert Cecil, who favored compromise, out of the Cabinet."
+    },
+    {
+      "id": "tragedy-central-bank-july",
+      "name": "Central bankers divert gold demand from London to New York",
+      "date": "1927-07-01",
+      "precision": "month",
+      "pages": [
+        295
+      ],
+      "people": [
+        "montagu-norman",
+        "benjamin-strong",
+        "charles-rist"
+      ],
+      "organizations": [
+        "bank-england",
+        "federal-reserve-new-york",
+        "bank-france"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "A New York central-bank meeting shifts French and German gold buying toward America; Quigley connects compensating credit policy to the later speculative boom.",
+      "details": [
+        "Britain’s inadequate gold reserve made purchases in London dangerous. Quigley describes agreement to divert purchases to New York and a reduction in the New York Federal Reserve discount rate from four to three and a half percent to prevent deflationary damage.",
+        "When French purchases grew in 1928, open-market buying counterbalanced the outflow. Quigley argues that the maintained credit supply increasingly financed stock speculation rather than real production; the event records this interpretation without treating the meeting as the sole cause of the crash."
+      ],
+      "context": "When French purchases grew in 1928, open-market buying counterbalanced the outflow.",
+      "precisionNote": "The passage dates the meeting to July 1927; named bankers are associated actors from the surrounding central-bank discussion, not a complete attendance list."
+    },
+    {
+      "id": "tragedy-trade-disputes",
+      "name": "Trade Disputes Act narrows union action after the strike",
+      "date": "1927-01-01",
+      "precision": "year",
+      "pages": [
+        412
+      ],
+      "people": [],
+      "organizations": [
+        "trades-union-congress"
+      ],
+      "lanes": [
+        "domestic"
+      ],
+      "summary": "The post-strike law restricts sympathy strikes, picketing and political contributions; Quigley describes unions shifting toward parliamentary action and negotiation with industry.",
+      "details": [
+        "Among the restrictions were separation of state employees from other unions and replacement of automatic political contributions with payments requiring explicit agreement. Quigley presents these changes as consequences of the General Strike’s defeat.",
+        "The TUC became disillusioned with the strike as an economic weapon and sought cooperation with industrial leaders. The National Industrial Council brought together unions and employers, creating an institutional connection between labor organization and cartelized industry."
+      ],
+      "context": "The TUC became disillusioned with the strike as an economic weapon and sought cooperation with industrial leaders."
+    },
+    {
+      "id": "tragedy-anglo-french-naval",
+      "name": "Secret Anglo-French bargain trades naval for infantry support",
+      "date": "1928-07-01",
+      "precision": "month",
+      "pages": [
+        258
+      ],
+      "people": [
+        "william-randolph-hearst"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "Britain and France privately exchange support on cruiser limits and trained reserves; publication in Hearst newspapers exposes the arrangement.",
+      "details": [
+        "After the Geneva failure, France promised to back Britain against American cruiser demands while Britain promised to resist limits on French trained infantry reserves at the coming world disarmament conference. Quigley dates their agreement to July 1928.",
+        "Employees of the French Foreign Ministry leaked it to Hearst and the story appeared within two months. France expelled Hearst’s Paris reporter, later expelled Hearst himself, and published the agreement in October. Quigley ties the exposure to a more favorable atmosphere at the 1930 London naval conference."
+      ],
+      "context": "Employees of the French Foreign Ministry leaked it to Hearst and the story appeared within two months."
+    },
+    {
+      "id": "tragedy-kellogg-briand",
+      "name": "Kellogg-Briand Pact renounces war with extensive reservations",
+      "date": "1928-01-01",
+      "precision": "year",
+      "pages": [
+        253,
+        254
+      ],
+      "people": [
+        "aristide-briand",
+        "frank-kellogg"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "A bilateral French proposal becomes a broad renunciation of war, but Quigley argues that reservations and weak enforcement sharply limit it.",
+      "details": [
+        "Briand proposed renunciation between France and America on the anniversary of American entry into the war. Kellogg expanded it into a multilateral arrangement, while France reserved self-defense and existing obligations, Britain reserved certain strategic areas, and America retained Monroe Doctrine claims.",
+        "Quigley notes the Soviet Union’s early ratification and the later Litvinoff Protocol as evidence of a turn toward collective security. He also argues that renouncing war without enforcement encouraged states to fight without formally declaring it."
+      ],
+      "context": "Quigley notes the Soviet Union’s early ratification and the later Litvinoff Protocol as evidence of a turn toward collective security."
+    },
+    {
+      "id": "tragedy-franc-legal",
+      "name": "France confirms gold stabilization in law",
+      "date": "1928-06-01",
+      "precision": "month",
+      "pages": [
+        287,
+        288
+      ],
+      "people": [],
+      "organizations": [
+        "bank-france"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "France gives legal effect to the franc stabilization already operating since late 1926.",
+      "details": [
+        "Quigley identifies France as the final Great Power to stabilize de jure, although its practical stabilization had preceded the legal step. About fifty countries joined stabilization programs over the broader decade.",
+        "The reconstructed system differed from the prewar gold standard, relying increasingly on gold exchange or bullion arrangements to economize on limited reserves. The distinction matters because Quigley’s criticism concerns an attempted restoration that could not reproduce the old automatic adjustments."
+      ],
+      "context": "The reconstructed system differed from the prewar gold standard, relying increasingly on gold exchange or bullion arrangements to economize on limited reserves."
+    },
+    {
+      "id": "tragedy-hatry",
+      "name": "Hatry panic prompts British rate rise and withdrawal from Wall Street",
+      "date": "1929-09-26",
+      "precision": "day",
+      "pages": [
+        297
+      ],
+      "people": [],
+      "organizations": [
+        "bank-england"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "Quigley traces an immediate trigger of Wall Street’s decline to the Hatry panic in London and a rise in the Bank of England rate.",
+      "details": [
+        "The Federal Reserve had already tightened and stock prices had moved far beyond earnings. The London disturbance led the Bank of England to raise its rate from four and a half to six and a half percent.",
+        "British funds began leaving Wall Street, worsening the already fragile speculative market. Quigley’s account connects this cross-border movement to the October panic while also emphasizing underlying weaknesses in production, purchasing power and foreign lending."
+      ],
+      "context": "British funds began leaving Wall Street, worsening the already fragile speculative market."
+    },
+    {
+      "id": "tragedy-wall-street",
+      "name": "Wall Street crash exposes credit-dependent international system",
+      "date": "1929-10-24",
+      "precision": "day",
+      "pages": [
+        267,
+        296,
+        297
+      ],
+      "people": [],
+      "organizations": [
+        "bank-england",
+        "federal-reserve-new-york"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "The October panic collapses security values and foreign lending; Quigley sees it as exposing structural imbalances concealed by easy credit.",
+      "details": [
+        "Quigley describes extraordinary trading volumes during the week of October 21 and almost nineteen and a quarter million shares exchanged on October 24. Credit had been diverted into speculation as foreign borrowers became dependent on increasingly short-term funds.",
+        "The crash curtailed American lending to Europe and revealed mismatches between production and consumption, debts and repayment capacity, and creditor demands and refusal to accept goods. Its international significance extends beyond the stock exchange because German reparations depended on that lending."
+      ],
+      "context": "The crash curtailed American lending to Europe and revealed mismatches between production and consumption, debts and repayment capacity, and creditor demands and refusal to accept goods."
+    },
+    {
+      "id": "tragedy-young",
+      "name": "Young Plan revises reparations and creates BIS settlement mechanism",
+      "date": "1930-01-01",
+      "precision": "month",
+      "pages": [
+        266,
+        267,
+        278
+      ],
+      "people": [
+        "owen-young"
+      ],
+      "organizations": [
+        "bis",
+        "jp-morgan"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "summary": "Twenty governments sign the Young arrangements, linking revised German payments, commercialized claims, early Rhineland evacuation and a new central-bank clearing institution.",
+      "details": [
+        "The committee chaired by Owen Young worked from February to June 1929. The final schedule stretched payments over fifty-nine years, removed much of the Dawes machinery and returned responsibility for foreign-exchange transfers to Germany.",
+        "France agreed to evacuation of the Rhineland in 1930 in return for commercializing part of its reparations claim. The BIS provided central-bank accounts for international settlement. Quigley argues that the resulting bargain gave up a major security lever while failing to survive the depression."
+      ],
+      "context": "France agreed to evacuation of the Rhineland in 1930 in return for commercializing part of its reparations claim."
+    },
+    {
+      "id": "tragedy-rhineland-evacuation",
+      "name": "Allied Rhineland occupation ends five years early",
+      "date": "1930-01-01",
+      "precision": "year",
+      "pages": [
+        239,
+        240,
+        267
+      ],
+      "people": [],
+      "organizations": [],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "summary": "Early evacuation under the Young bargain removes occupation forces while leaving the treaty’s demilitarization obligation in place.",
+      "details": [
+        "Quigley distinguishes physical Allied occupation from permanent prohibition of German troops and fortifications. The former ended in 1930, five years before the treaty schedule; the latter remained legally intact.",
+        "He traces the concession to France’s effort to commercialize reparations and secure cash for reconstruction debts. In his interpretation, evacuation made Hitler’s later remilitarization possible and illustrates the dangerous intersection of financial bargains and security policy."
+      ],
+      "context": "He traces the concession to France’s effort to commercialize reparations and secure cash for reconstruction debts."
+    },
+    {
+      "id": "tragedy-london-naval",
+      "name": "London naval conference extends limits to smaller vessels",
+      "date": "1930-01-01",
+      "precision": "year",
+      "pages": [
+        258,
+        259
+      ],
+      "people": [
+        "ramsay-macdonald"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "London reaches the cruiser, destroyer and submarine agreement that Geneva had failed to obtain, aided by depression and a changed British government.",
+      "details": [
+        "Quigley cites publicity surrounding Shearer’s lobbying and the Anglo-French bargain as improving conditions for agreement. The world depression reduced the attraction of an expensive arms race, while the Labour government was more pacific.",
+        "The United States, Britain and Japan accepted defined limits on classes beyond capital ships and carriers. Quigley presents the success as partial rather than universal: differences involving France and Italy continued to obstruct a complete five-power settlement."
+      ],
+      "context": "The United States, Britain and Japan accepted defined limits on classes beyond capital ships and carriers."
+    },
+    {
+      "id": "tragedy-customs-union",
+      "name": "Austro-German customs-union proposal meets French resistance",
+      "date": "1931-04-01",
+      "precision": "month",
+      "pages": [
+        268
+      ],
+      "people": [],
+      "organizations": [
+        "permanent-court-international-justice",
+        "credit-anstalt"
+      ],
+      "lanes": [
+        "diplomacy",
+        "finance"
+      ],
+      "summary": "France challenges a proposed customs union as incompatible with Austrian independence and recalls funds from vulnerable Austrian and German institutions.",
+      "details": [
+        "Quigley dates the announcement to April and connects the legal objection to Saint-Germain. The question was referred to the World Court while French capital withdrawals applied immediate financial pressure.",
+        "The episode precedes the Credit-Anstalt collapse in Quigley’s narrative. He stresses both political retaliation and underlying vulnerability: the Austrian bank had already been insolvent for years, so the customs dispute should not be treated as the sole origin of its losses."
+      ],
+      "context": "The episode precedes the Credit-Anstalt collapse in Quigley’s narrative.",
+      "precisionNote": "April 1931 is the dating given in this supplied PDF; retained at month precision rather than silently replaced by an outside chronology."
+    },
+    {
+      "id": "tragedy-credit-anstalt",
+      "name": "Credit-Anstalt losses ignite a trans-European banking panic",
+      "date": "1931-05-08",
+      "precision": "day",
+      "pages": [
+        268,
+        298
+      ],
+      "people": [],
+      "organizations": [
+        "credit-anstalt",
+        "reichsbank",
+        "bank-england"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "Austria’s largest bank discloses losses, triggering withdrawals that pass through Germany into London.",
+      "details": [
+        "Quigley says the announced loss understated much larger accumulated insolvency. The Rothschild interests and Austrian government supplied support, but public confidence had already failed and depositors began a run.",
+        "Austrian banks recalled funds held in Germany, German banks called in London balances, and pressure spread to sterling. The account connects the crisis to deflation’s erosion of collateral values and ultimately to Britain’s departure from gold."
+      ],
+      "context": "Austrian banks recalled funds held in Germany, German banks called in London balances, and pressure spread to sterling.",
+      "precisionNote": "May 8 is the disclosure date stated by the supplied PDF; it is a source date, not independent verification of the historical date."
+    },
+    {
+      "id": "tragedy-macmillan",
+      "name": "Macmillan Report reveals Britain’s short-term financial imbalance",
+      "date": "1931-06-01",
+      "precision": "month",
+      "pages": [
+        298,
+        413
+      ],
+      "people": [
+        "montagu-norman"
+      ],
+      "organizations": [
+        "bank-england"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "The report exposes London’s excess short-term liabilities while assets are frozen in central Europe, sharpening concern over sterling.",
+      "details": [
+        "Quigley gives short-term international liabilities of about £407 million against assets of £153 million. Publication occurred during the central-European banking crisis, when a large share of the assets was inaccessible.",
+        "In the political chapter, he describes the committee recommending a managed currency controlled by the Bank of England. The report thus sits at an intersection between technical diagnosis, debates about financial structure and the imminent British government crisis."
+      ],
+      "context": "In the political chapter, he describes the committee recommending a managed currency controlled by the Bank of England."
+    },
+    {
+      "id": "tragedy-hoover-moratorium",
+      "name": "Hoover proposes one-year moratorium on intergovernmental debts",
+      "date": "1931-07-01",
+      "precision": "month",
+      "pages": [
+        268,
+        269,
+        298
+      ],
+      "people": [
+        "herbert-hoover",
+        "andrew-mellon"
+      ],
+      "organizations": [
+        "bis"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "summary": "Hoover’s debt relief seeks to halt German collapse, but negotiations delay implementation and banking panic continues.",
+      "details": [
+        "Mellon warned from Europe that Germany’s public obligations could precipitate wholesale financial failure and losses for private creditors. America offered to postpone payments for the year following July 1 if its debtors passed relief to their own debtors.",
+        "France sought protection for commercialized reparations and political concessions, delaying agreement until mid-July. Quigley describes severe German bank failures in the interval and argues that the moratorium gave too little relief for full recovery."
+      ],
+      "context": "France sought protection for commercialized reparations and political concessions, delaying agreement until mid-July.",
+      "precisionNote": "This record marks the intended moratorium period beginning July 1931, not an inferred exact announcement day."
+    },
+    {
+      "id": "tragedy-national-government",
+      "name": "MacDonald forms National Government amid financial crisis",
+      "date": "1931-08-01",
+      "precision": "month",
+      "pages": [
+        413,
+        414
+      ],
+      "people": [
+        "ramsay-macdonald",
+        "philip-snowden",
+        "montagu-norman"
+      ],
+      "organizations": [
+        "labour-party",
+        "conservative-party",
+        "liberal-party",
+        "bank-england"
+      ],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "summary": "MacDonald reorganizes government with Conservatives and Liberals; Quigley argues that bankers’ insistence on relief cuts and the Labour Cabinet’s divisions shape the outcome.",
+      "details": [
+        "MacDonald privately negotiated with other party leaders while most Labour ministers were unaware of his plans. The new Cabinet included four Labour, four Conservative and two Liberal members; only a small Labour parliamentary group followed him.",
+        "Quigley contrasts bankers’ refusal to cooperate with the Labour government on August 23 with their ability to secure an £80 million foreign loan for its successor within days. He treats this contrast as evidence of political financial leverage, an interpretation kept distinct from the underlying chronology."
+      ],
+      "context": "Quigley contrasts bankers’ refusal to cooperate with the Labour government on August 23 with their ability to secure an £80 million foreign loan for its successor within days."
+    },
+    {
+      "id": "tragedy-sterling-leaves-gold",
+      "name": "Britain suspends gold standard under reserve pressure",
+      "date": "1931-09-21",
+      "precision": "day",
+      "pages": [
+        268,
+        298,
+        299,
+        300,
+        414
+      ],
+      "people": [
+        "ramsay-macdonald",
+        "philip-snowden",
+        "montagu-norman"
+      ],
+      "organizations": [
+        "bank-england"
+      ],
+      "lanes": [
+        "finance",
+        "domestic",
+        "diplomacy"
+      ],
+      "summary": "Reserve losses force sterling off gold, transforming Britain’s financial relation to France and the structure of international payments.",
+      "details": [
+        "London faced an overvalued currency, inadequate reserves and short-term liabilities exceeding available assets. Emergency foreign credits and spending cuts failed to restore confidence; pay reductions provoked unrest and naval mutiny.",
+        "Quigley argues that abandonment of gold relieved Britain’s dependence on French reserves and split the London-New York-Paris exchange triangle. He criticizes the continuation of deflationary policies that limited the recovery benefits of suspension."
+      ],
+      "context": "Quigley argues that abandonment of gold relieved Britain’s dependence on French reserves and split the London-New York-Paris exchange triangle."
+    },
+    {
+      "id": "tragedy-national-election",
+      "name": "National Government wins overwhelming election victory",
+      "date": "1931-10-27",
+      "precision": "day",
+      "pages": [
+        414
+      ],
+      "people": [
+        "ramsay-macdonald",
+        "philip-snowden"
+      ],
+      "organizations": [
+        "labour-party",
+        "conservative-party",
+        "liberal-party"
+      ],
+      "lanes": [
+        "domestic"
+      ],
+      "summary": "The National Government wins after the gold crisis; Quigley describes a campaign combining anti-Labour rhetoric, tariff politics and unequal publicity resources.",
+      "details": [
+        "The election followed a budget of higher taxation and sharp cuts to unemployment payments and public salaries. MacDonald and Snowden attacked their former Labour colleagues while Conservatives and Liberals argued over tariff policy.",
+        "Quigley reports 458 members supporting government and fifty-six in opposition, and criticizes the use of broadcasting and other publicity under government influence. He links the result to the later end of free trade and construction of a protected, cartelized economy."
+      ],
+      "context": "Quigley reports 458 members supporting government and fifty-six in opposition, and criticizes the use of broadcasting and other publicity under government influence."
+    },
+    {
+      "id": "tragedy-rfc",
+      "name": "Reconstruction Finance Corporation lends to banks and large firms",
+      "date": "1932-01-01",
+      "precision": "year",
+      "pages": [
+        302
+      ],
+      "people": [
+        "herbert-hoover"
+      ],
+      "organizations": [
+        "reconstruction-finance-corporation"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Federal emergency lending supports institutions but does not stop the developing American banking collapse.",
+      "details": [
+        "Quigley describes the corporation receiving $3.5 billion in government funds early in 1932 and lending more than $1.5 billion by year’s end. Its purpose was to provide liquidity to banks and large corporations.",
+        "Publication of loan details in January 1933 intensified runs rather than restoring confidence. The account connects the intervention to state bank holidays and the national emergency that confronted Roosevelt, showing the limits of institutional rescue without public trust."
+      ],
+      "context": "Publication of loan details in January 1933 intensified runs rather than restoring confidence."
+    },
+    {
+      "id": "tragedy-exchange-account",
+      "name": "Britain creates Exchange Equalization Account",
+      "date": "1932-05-01",
+      "precision": "month",
+      "pages": [
+        301
+      ],
+      "people": [],
+      "organizations": [
+        "exchange-equalization-account",
+        "bank-england"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "A £175 million fund manages sterling’s exchange rate while the Bank of England separately controls domestic credit.",
+      "details": [
+        "Capital returning to London after the gold suspension appreciated sterling, threatening the competitive benefit of depreciation. The fund bought and sold foreign exchange against market movements to moderate that pressure.",
+        "Quigley treats the separation of exchange management from domestic credit as a break with gold-standard automaticity. He notes that this was market intervention rather than full exchange control, so heavy capital flight could still constrain policy."
+      ],
+      "context": "Quigley treats the separation of exchange management from domestic credit as a break with gold-standard automaticity."
+    },
+    {
+      "id": "tragedy-lausanne-reparations",
+      "name": "Lausanne reduces reparations but formal settlement fails",
+      "date": "1932-06-01",
+      "precision": "month",
+      "pages": [
+        269
+      ],
+      "people": [
+        "herbert-hoover"
+      ],
+      "organizations": [],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "summary": "European governments cut German reparations to a small final total, but American refusal to reduce war debts prevents ratification.",
+      "details": [
+        "The Lausanne conference reduced the obligation to three billion marks. Quigley describes the agreement as failing technically because Congress would not make matching reductions in Allied war-debt liabilities.",
+        "The Young Plan therefore remained formally in force even as no effective restoration occurred. Hitler repudiated reparations in 1933, closing a financial dispute that Quigley says was already being overtaken by more dangerous political conflicts."
+      ],
+      "context": "The Young Plan therefore remained formally in force even as no effective restoration occurred."
+    },
+    {
+      "id": "tragedy-ottawa",
+      "name": "Ottawa treaties bind empire through Imperial Preference",
+      "date": "1932-08-01",
+      "precision": "month",
+      "pages": [
+        300
+      ],
+      "people": [],
+      "organizations": [],
+      "lanes": [
+        "finance",
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Eleven Imperial Preference treaties strengthen British imperial economic ties as sterling and gold blocs divide the world economy.",
+      "details": [
+        "Britain introduced special customs duties in November 1931 and a general tariff in February 1932. At Ottawa it added agreements drawing the empire more closely into the protected trading system.",
+        "Quigley connects these measures to bilateral agreements with countries such as Norway, Sweden, Denmark and Argentina. The policy exploited sterling depreciation while prompting gold-standard countries to erect their own trade barriers."
+      ],
+      "context": "Quigley connects these measures to bilateral agreements with countries such as Norway, Sweden, Denmark and Argentina."
+    },
+    {
+      "id": "tragedy-new-deal-election",
+      "name": "Roosevelt coalition responds to finance and industrial deflation",
+      "date": "1932-01-01",
+      "precision": "year",
+      "pages": [
+        451,
+        452,
+        453
+      ],
+      "people": [
+        "franklin-roosevelt"
+      ],
+      "organizations": [],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "summary": "Quigley interprets Roosevelt’s election as an alliance of farmers, labor, commerce and other groups injured by financial and heavy-industrial policy.",
+      "details": [
+        "He describes bankers and heavy industry as accepting falling prices while reducing wage bills and employment, damaging purchasing power for the economy as a whole. Previously Republican groups shifted toward the Democrats when the depression made these policies intolerable.",
+        "The New Deal sought to reward the resulting coalition through farm subsidies, job-creating expenditure and encouragement of unionization. Quigley nonetheless argues that Roosevelt’s monetary assumptions remained orthodox, limiting the program’s capacity to employ idle resources fully."
+      ],
+      "context": "The New Deal sought to reward the resulting coalition through farm subsidies, job-creating expenditure and encouragement of unionization."
+    },
+    {
+      "id": "tragedy-us-bank-emergency",
+      "name": "American banking emergency closes institutions and restricts gold",
+      "date": "1933-03-01",
+      "precision": "month",
+      "pages": [
+        302,
+        303
+      ],
+      "people": [
+        "franklin-roosevelt"
+      ],
+      "organizations": [
+        "federal-reserve-new-york",
+        "reconstruction-finance-corporation"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "After state-level closures and reserve losses, federal emergency measures close banks for review and end ordinary gold convertibility.",
+      "details": [
+        "Quigley follows the progression from Nevada and Iowa bank holidays to widespread closures in February and early March. Gold withdrawals and hoarding placed severe pressure on Federal Reserve resources despite the country’s favorable international position.",
+        "The administration conditioned reopening on satisfactory bank health, licensed gold exports and restricted private gold holdings. Quigley distinguishes America’s voluntary move toward domestic price recovery from Britain’s reluctant departure from gold under external reserve pressure."
+      ],
+      "context": "The administration conditioned reopening on satisfactory bank health, licensed gold exports and restricted private gold holdings.",
+      "precisionNote": "Month precision avoids adopting the PDF’s questionable exact national-closure date of March 4. The source groups measures completed through April 20."
+    },
+    {
+      "id": "tragedy-banking-separation",
+      "name": "Banking Act separates investment from deposit banking",
+      "date": "1933-01-01",
+      "precision": "year",
+      "pages": [
+        452
+      ],
+      "people": [
+        "franklin-roosevelt"
+      ],
+      "organizations": [
+        "jp-morgan"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley presents banking separation as part of the New Deal’s attempt to prevent a recurrence of financial abuses from the 1920s.",
+      "details": [
+        "The 1933 legislation separated investment banking from deposit banking. In Quigley’s narrative this accompanied supervision of securities issues and stock-exchange practices and efforts to curb financial exploitation of railroads.",
+        "He locates these measures within a wider rebalancing of organized economic interests rather than treating them as a complete rejection of private finance. The government continued borrowing from banks, and he argues that this limited deeper monetary change."
+      ],
+      "context": "He locates these measures within a wider rebalancing of organized economic interests rather than treating them as a complete rejection of private finance."
+    },
+    {
+      "id": "tragedy-industrial-union-drive",
+      "name": "Lewis leads industrial organizing drive in New Deal coalition",
+      "date": "1933-01-01",
+      "precision": "year",
+      "pages": [
+        452
+      ],
+      "people": [
+        "john-l-lewis",
+        "franklin-roosevelt"
+      ],
+      "organizations": [
+        "cio",
+        "united-mine-workers"
+      ],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "summary": "Industrial unions seek to limit heavy industry’s ability to impose sudden wage cuts and mass layoffs, in Quigley’s account of the New Deal coalition.",
+      "details": [
+        "Quigley describes a Committee for Industrial Organization led by John L. Lewis of the United Mine Workers. It sought to organize workers in steel, automobiles, electrical manufacturing and other mass-employment sectors previously lacking strong unions.",
+        "He connects the drive to the administration’s support for collective bargaining and to formation of more self-conscious labor blocs. This record does not reproduce the supplied text’s erroneous dating of the National Labor Relations Act to 1933."
+      ],
+      "context": "He connects the drive to the administration’s support for collective bargaining and to formation of more self-conscious labor blocs.",
+      "precisionNote": "Placed within the New Deal organizing period, 1933–1937; this passage provides no exact committee foundation date. The range does not assert establishment in 1933.",
+      "endDate": "1937-12-31"
+    },
+    {
+      "id": "tragedy-peace-ballot",
+      "name": "Peace Ballot records support for League and sanctions",
+      "date": "1934-11-01",
+      "precision": "month",
+      "pages": [
+        416,
+        417
+      ],
+      "people": [
+        "stanley-baldwin"
+      ],
+      "organizations": [
+        "league-of-nations"
+      ],
+      "lanes": [
+        "domestic",
+        "security",
+        "diplomacy"
+      ],
+      "summary": "A public ballot records overwhelming support for League membership and economic sanctions, shaping the government’s 1935 election presentation.",
+      "details": [
+        "The League of Nations Union and cooperating organizations surveyed voters from November 1934 to June 1935. Quigley records more than eleven million votes for remaining in the League and more than ten million for economic sanctions, with a smaller majority favoring military sanctions.",
+        "He contrasts these results with the governing circles’ appeasement policy. Baldwin replaced MacDonald and Hoare replaced Simon at the Foreign Office before the general election, making collective security a prominent public commitment even as Quigley describes conflicting private arrangements."
+      ],
+      "context": "He contrasts these results with the governing circles’ appeasement policy.",
+      "endDate": "1935-06-30"
+    },
+    {
+      "id": "tragedy-election-1935",
+      "name": "Conservatives seek mandate for collective security and rearmament",
+      "date": "1935-11-14",
+      "precision": "day",
+      "pages": [
+        416,
+        417
+      ],
+      "people": [
+        "stanley-baldwin"
+      ],
+      "organizations": [
+        "conservative-party",
+        "labour-party",
+        "liberal-party"
+      ],
+      "lanes": [
+        "domestic",
+        "diplomacy",
+        "security"
+      ],
+      "summary": "Quigley argues that the 1935 election campaign promises collective security while the government’s private conduct points toward appeasement.",
+      "details": [
+        "The Conservatives called the general election shortly before local polling, when Labour had spent much of its available money. The government sought support for League action and rearmament, while Labour was divided over pacifism.",
+        "The government lost seats but retained a Conservative majority of 387 against Labour’s 154. Quigley connects the ten-year parliamentary term that followed to the government’s increasingly dominant foreign-policy agenda and its failure, in his judgment, to honor the campaign’s security commitments."
+      ],
+      "context": "The government lost seats but retained a Conservative majority of 387 against Labour’s 154."
+    },
+    {
+      "id": "tragedy-rhineland-remilitarization",
+      "name": "Rhineland remilitarization removes France’s security lever",
+      "date": "1936-03-01",
+      "precision": "month",
+      "pages": [
+        239,
+        240,
+        252
+      ],
+      "people": [],
+      "organizations": [],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "summary": "Germany remilitarizes the Rhineland; Quigley argues that Britain’s failure to honor Locarno opens the way for German eastward expansion.",
+      "details": [
+        "Versailles had excluded German troops and fortifications from the left bank and a fifty-kilometer zone to the east. That restriction left the Ruhr vulnerable to French action and gave France leverage against German pressure on Poland or Czechoslovakia.",
+        "Quigley interprets the March 1936 violation as the destruction of the treaty’s most important security clause. In his account the abandoned guarantee links the financial concessions of 1930 and the diplomatic limitations of Locarno to the later collapse of eastern allies."
+      ],
+      "context": "Quigley interprets the March 1936 violation as the destruction of the treaty’s most important security clause."
+    },
+    {
+      "id": "tragedy-montreux",
+      "name": "Montreux restores Turkish sovereignty over the Straits",
+      "date": "1936-07-01",
+      "precision": "month",
+      "pages": [
+        238
+      ],
+      "people": [
+        "mustafa-kemal"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "The Montreux Convention revokes the Lausanne demilitarization rule for the Straits amid rising international aggression.",
+      "details": [
+        "The Lausanne settlement had maintained an open, demilitarized Straits regime. Quigley describes its modification in July 1936 as a response to the worsening security environment of the 1930s.",
+        "Turkey gained full sovereignty, including the right to fortify the Straits. This is a treaty revision presented as strengthening a settled Turkish state, contrasting with the aggressive revisions elsewhere in Quigley’s interwar narrative."
+      ],
+      "context": "Turkey gained full sovereignty, including the right to fortify the Straits."
+    },
+    {
+      "id": "tragedy-recession-1937",
+      "name": "1937 recession challenges New Deal pump-priming theory",
+      "date": "1937-01-01",
+      "precision": "year",
+      "pages": [
+        453,
+        454
+      ],
+      "people": [
+        "franklin-roosevelt"
+      ],
+      "organizations": [],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley argues that reduced New Deal spending triggers renewed contraction and exposes the inadequacy of temporary pump priming.",
+      "details": [
+        "The administration believed limited government spending could restart private investment and then be withdrawn. Quigley says the 1937 retrenchment instead produced a severe recession, forcing renewed treatment of demand shortfalls.",
+        "He links the subsequent recovery to rearmament and war expenditure and criticizes reliance on borrowing rather than monetary restructuring. This is an account of the author’s economic interpretation, with bracketed and ellipsis-heavy editorial substitutions in the supplied page treated cautiously."
+      ],
+      "context": "He links the subsequent recovery to rearmament and war expenditure and criticizes reliance on borrowing rather than monetary restructuring."
+    }
+  ],
+  "relationships": [
+    {
+      "fromId": "montagu-norman",
+      "toId": "bank-england",
+      "label": "Governor, 1920–1944",
+      "pages": [
+        279
+      ],
+      "description": "Governor, 1920–1944"
+    },
+    {
+      "fromId": "benjamin-strong",
+      "toId": "federal-reserve-new-york",
+      "label": "Governor beginning in 1914",
+      "pages": [
+        280
+      ],
+      "description": "Governor beginning in 1914"
+    },
+    {
+      "fromId": "benjamin-strong",
+      "toId": "bankers-trust",
+      "label": "Secretary in 1904; vice-president in 1909",
+      "pages": [
+        280
+      ],
+      "description": "Secretary in 1904; vice-president in 1909"
+    },
+    {
+      "fromId": "henry-davison",
+      "toId": "jp-morgan",
+      "label": "Morgan banker sponsoring Strong’s career",
+      "pages": [
+        280
+      ],
+      "description": "Morgan banker sponsoring Strong’s career"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "jp-morgan",
+      "label": "Increasingly made chief decisions after 1924, in Quigley’s account",
+      "pages": [
+        281
+      ],
+      "description": "Increasingly made chief decisions after 1924, in Quigley’s account"
+    },
+    {
+      "fromId": "charles-rist",
+      "toId": "bank-france",
+      "label": "Central-bank official named in international coordination",
+      "pages": [
+        278
+      ],
+      "description": "Central-bank official named in international coordination"
+    },
+    {
+      "fromId": "hjalmar-schacht",
+      "toId": "reichsbank",
+      "label": "Central-bank leader",
+      "pages": [
+        278
+      ],
+      "description": "Central-bank leader"
+    },
+    {
+      "fromId": "bis",
+      "toId": "bank-england",
+      "label": "Owned and governed through participating central banks",
+      "pages": [
+        278
+      ],
+      "description": "Owned and governed through participating central banks"
+    },
+    {
+      "fromId": "bis",
+      "toId": "bank-france",
+      "label": "Participating central bank in coordinated settlement system",
+      "pages": [
+        278
+      ],
+      "description": "Participating central bank in coordinated settlement system"
+    },
+    {
+      "fromId": "bis",
+      "toId": "reichsbank",
+      "label": "Participating central bank in coordinated settlement system",
+      "pages": [
+        278
+      ],
+      "description": "Participating central bank in coordinated settlement system"
+    },
+    {
+      "fromId": "montagu-norman",
+      "toId": "benjamin-strong",
+      "label": "Cooperated on gold and central-bank autonomy",
+      "pages": [
+        280
+      ],
+      "description": "Cooperated on gold and central-bank autonomy"
+    },
+    {
+      "fromId": "reginald-mckenna",
+      "toId": "midland-bank",
+      "label": "Board chairman in 1924",
+      "pages": [
+        279
+      ],
+      "description": "Board chairman in 1924"
+    },
+    {
+      "fromId": "ramsay-macdonald",
+      "toId": "labour-party",
+      "label": "Labour premier; expelled after National Government split",
+      "pages": [
+        411,
+        414
+      ],
+      "description": "Labour premier; expelled after National Government split"
+    },
+    {
+      "fromId": "philip-snowden",
+      "toId": "labour-party",
+      "label": "Labour chancellor who followed MacDonald’s split",
+      "pages": [
+        413,
+        414
+      ],
+      "description": "Labour chancellor who followed MacDonald’s split"
+    },
+    {
+      "fromId": "stanley-baldwin",
+      "toId": "conservative-party",
+      "label": "Conservative prime minister",
+      "pages": [
+        411,
+        416
+      ],
+      "description": "Conservative prime minister"
+    },
+    {
+      "fromId": "winston-churchill",
+      "toId": "conservative-party",
+      "label": "Chancellor in Baldwin’s government",
+      "pages": [
+        411
+      ],
+      "description": "Chancellor in Baldwin’s government"
+    },
+    {
+      "fromId": "alfred-mond",
+      "toId": "imperial-chemical-industries",
+      "label": "Industrial leader associated with labor negotiations",
+      "pages": [
+        412
+      ],
+      "description": "Industrial leader associated with labor negotiations"
+    },
+    {
+      "fromId": "trades-union-congress",
+      "toId": "national-industrial-council",
+      "label": "Participated in labor-industry cooperation forum",
+      "pages": [
+        412
+      ],
+      "description": "Participated in labor-industry cooperation forum"
+    },
+    {
+      "fromId": "federation-british-industries",
+      "toId": "national-industrial-council",
+      "label": "Participated in labor-industry cooperation forum",
+      "pages": [
+        412
+      ],
+      "description": "Participated in labor-industry cooperation forum"
+    },
+    {
+      "fromId": "john-l-lewis",
+      "toId": "united-mine-workers",
+      "label": "Union leader",
+      "pages": [
+        452
+      ],
+      "description": "Union leader"
+    },
+    {
+      "fromId": "john-l-lewis",
+      "toId": "cio",
+      "label": "Organizing leader",
+      "pages": [
+        452
+      ],
+      "description": "Organizing leader"
+    },
+    {
+      "fromId": "international-labour-office",
+      "toId": "league-of-nations",
+      "label": "Semi-autonomous associated organization",
+      "pages": [
+        251
+      ],
+      "description": "Semi-autonomous associated organization"
+    },
+    {
+      "fromId": "permanent-court-international-justice",
+      "toId": "league-of-nations",
+      "label": "Semi-autonomous associated organization",
+      "pages": [
+        251
+      ],
+      "description": "Semi-autonomous associated organization"
+    },
+    {
+      "fromId": "charles-dawes",
+      "toId": "jp-morgan",
+      "label": "Chaired plan Quigley characterizes as a Morgan production",
+      "pages": [
+        265
+      ],
+      "description": "Chaired plan Quigley characterizes as a Morgan production"
+    },
+    {
+      "fromId": "owen-young",
+      "toId": "jp-morgan",
+      "label": "Described as Morgan agent in Young Plan negotiations",
+      "pages": [
+        267
+      ],
+      "description": "Described as Morgan agent in Young Plan negotiations"
+    }
+  ],
+  "eventLinks": [
+    {
+      "fromId": "tragedy-versailles",
+      "toId": "tragedy-london-reparations",
+      "label": "Treaty defers valuation of reparations to a later bill",
+      "kind": "influence",
+      "pages": [
+        243,
+        244
+      ]
+    },
+    {
+      "fromId": "tragedy-london-reparations",
+      "toId": "tragedy-ruhr-occupation",
+      "label": "Failure to meet reparations schedule leads to default finding and occupation",
+      "kind": "influence",
+      "pages": [
+        264,
+        265
+      ]
+    },
+    {
+      "fromId": "tragedy-ruhr-occupation",
+      "toId": "tragedy-dawes",
+      "label": "Occupation crisis produces Dawes compromise and evacuation",
+      "kind": "influence",
+      "pages": [
+        265,
+        266
+      ]
+    },
+    {
+      "fromId": "tragedy-dawes",
+      "toId": "tragedy-young",
+      "label": "Growing obligations and transfer problems lead to replacement by Young Plan",
+      "kind": "influence",
+      "pages": [
+        266,
+        267
+      ]
+    },
+    {
+      "fromId": "tragedy-young",
+      "toId": "tragedy-rhineland-evacuation",
+      "label": "France exchanges early evacuation for commercializing reparations",
+      "kind": "influence",
+      "pages": [
+        267
+      ]
+    },
+    {
+      "fromId": "tragedy-rhineland-evacuation",
+      "toId": "tragedy-rhineland-remilitarization",
+      "label": "Ending occupation enables later destruction of demilitarization clause, in Quigley’s account",
+      "kind": "influence",
+      "pages": [
+        239,
+        240
+      ]
+    },
+    {
+      "fromId": "tragedy-geneva-protocol",
+      "toId": "tragedy-locarno",
+      "label": "British rejection of League protocol prompts Locarno alternative",
+      "kind": "influence",
+      "pages": [
+        251,
+        252
+      ]
+    },
+    {
+      "fromId": "tragedy-locarno",
+      "toId": "tragedy-rhineland-remilitarization",
+      "label": "Failure to enforce Rhine guarantee removes central security condition",
+      "kind": "influence",
+      "pages": [
+        252
+      ]
+    },
+    {
+      "fromId": "tragedy-sterling-gold",
+      "toId": "tragedy-general-strike",
+      "label": "Deflation and overvalued sterling intensify miners’ wage crisis",
+      "kind": "influence",
+      "pages": [
+        286,
+        411
+      ]
+    },
+    {
+      "fromId": "tragedy-central-bank-july",
+      "toId": "tragedy-wall-street",
+      "label": "Compensating credit supply increasingly feeds speculation, in Quigley’s interpretation",
+      "kind": "influence",
+      "pages": [
+        295,
+        296,
+        297
+      ]
+    },
+    {
+      "fromId": "tragedy-hatry",
+      "toId": "tragedy-wall-street",
+      "label": "British rate rise and withdrawal of funds trigger decline in fragile market",
+      "kind": "influence",
+      "pages": [
+        297
+      ]
+    },
+    {
+      "fromId": "tragedy-wall-street",
+      "toId": "tragedy-credit-anstalt",
+      "label": "Deflation erodes asset values and develops into banking crisis",
+      "kind": "influence",
+      "pages": [
+        297,
+        298
+      ]
+    },
+    {
+      "fromId": "tragedy-credit-anstalt",
+      "toId": "tragedy-sterling-leaves-gold",
+      "label": "Funds recalled through Germany spread reserve pressure to London",
+      "kind": "influence",
+      "pages": [
+        268,
+        298
+      ]
+    },
+    {
+      "fromId": "tragedy-credit-anstalt",
+      "toId": "tragedy-hoover-moratorium",
+      "label": "German financial emergency motivates temporary intergovernmental debt relief",
+      "kind": "influence",
+      "pages": [
+        268,
+        269
+      ]
+    },
+    {
+      "fromId": "tragedy-national-government",
+      "toId": "tragedy-national-election",
+      "label": "New administration seeks electoral mandate after austerity and gold crisis",
+      "kind": "influence",
+      "pages": [
+        414
+      ]
+    },
+    {
+      "fromId": "tragedy-sterling-leaves-gold",
+      "toId": "tragedy-exchange-account",
+      "label": "Appreciation of returning sterling funds prompts exchange management",
+      "kind": "influence",
+      "pages": [
+        301
+      ]
+    },
+    {
+      "fromId": "tragedy-sterling-leaves-gold",
+      "toId": "tragedy-ottawa",
+      "label": "Suspension and depreciation support protected imperial trading bloc",
+      "kind": "influence",
+      "pages": [
+        299,
+        300
+      ]
+    },
+    {
+      "fromId": "tragedy-sterling-leaves-gold",
+      "toId": "tragedy-us-bank-emergency",
+      "label": "Gold conversion and confidence shifts spread pressure to America",
+      "kind": "influence",
+      "pages": [
+        302
+      ]
+    },
+    {
+      "fromId": "tragedy-rfc",
+      "toId": "tragedy-us-bank-emergency",
+      "label": "Publication of emergency loans intensifies bank runs",
+      "kind": "influence",
+      "pages": [
+        302
+      ]
+    },
+    {
+      "fromId": "tragedy-peace-ballot",
+      "toId": "tragedy-election-1935",
+      "label": "Public commitment to collective security shapes election campaign",
+      "kind": "influence",
+      "pages": [
+        416,
+        417
+      ]
+    }
+  ]
+}

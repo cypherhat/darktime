@@ -1,0 +1,3605 @@
+{
+  "coverage": "PDF pages 472–792, chapters 39–65: Japanese and Italian aggression, British appeasement and institutional networks, European war, Allied strategy and postwar institutions, atomic diplomacy, and Cold War formation through 1950. The supplied PDF contains bracketed editorial interpolations; this digest does not attribute those additions to Quigley. Dates retain the precision supported by the supplied text, and known internal date inconsistencies are identified rather than silently repaired.",
+  "people": [
+    {
+      "id": "joseph-stalin",
+      "name": "Joseph Stalin",
+      "role": "Soviet leader",
+      "description": "Central Soviet decision maker in the narrative of wartime coalition diplomacy, territorial settlements and postwar confrontation.",
+      "pages": [
+        553,
+        650,
+        686,
+        738,
+        743
+      ]
+    },
+    {
+      "id": "benito-mussolini",
+      "name": "Benito Mussolini",
+      "role": "Italian Fascist dictator",
+      "description": "Led the Ethiopian invasion, assisted Spanish military rebels and moved from resisting German expansion in Austria toward partnership with Hitler.",
+      "pages": [
+        482,
+        483,
+        486,
+        504
+      ]
+    },
+    {
+      "id": "chiang-kai-shek",
+      "name": "Chiang Kai-shek",
+      "role": "Chinese Nationalist leader",
+      "description": "Military and political leader of the Kuomintang; the account traces his anti-Communist campaigns, wartime position and collapse on the mainland.",
+      "pages": [
+        477,
+        478,
+        754,
+        755,
+        756
+      ]
+    },
+    {
+      "id": "sun-yat-sen",
+      "name": "Sun Yat-sen",
+      "role": "Kuomintang founder",
+      "description": "Founded the Kuomintang and developed its program of national unification, political tutelage and eventual constitutional democracy.",
+      "pages": [
+        477
+      ]
+    },
+    {
+      "id": "mao-zedong",
+      "name": "Mao Zedong",
+      "role": "Chinese Communist leader",
+      "description": "The supplied text calls him Mao Tse-tung; led rural Communist forces and the victory on the Chinese mainland before negotiating with Stalin.",
+      "pages": [
+        478,
+        754,
+        756
+      ]
+    },
+    {
+      "id": "zhou-enlai",
+      "name": "Zhou Enlai",
+      "role": "Chinese Communist leader",
+      "description": "Called Chou En-lai in this edition; associated with Mao in the Communist regime operating from Yenan.",
+      "pages": [
+        754
+      ]
+    },
+    {
+      "id": "vyacheslav-molotov",
+      "name": "Vyacheslav Molotov",
+      "role": "Soviet foreign minister",
+      "description": "Replaced Litvinov in 1939, negotiated the German-Soviet pact and later advanced Soviet claims concerning Turkey.",
+      "pages": [
+        551,
+        553,
+        747
+      ]
+    },
+    {
+      "id": "joachim-von-ribbentrop",
+      "name": "Joachim von Ribbentrop",
+      "role": "German foreign minister",
+      "description": "Conducted German diplomatic approaches and signed the August 1939 nonaggression pact with Molotov.",
+      "pages": [
+        553
+      ]
+    },
+    {
+      "id": "pierre-laval",
+      "name": "Pierre Laval",
+      "role": "French politician and Vichy leader",
+      "description": "Succeeded Barthou as foreign minister, negotiated with Mussolini and Hoare, and helped establish the concentration of authority in Vichy France.",
+      "pages": [
+        483,
+        486,
+        579
+      ]
+    },
+    {
+      "id": "engelbert-dollfuss",
+      "name": "Engelbert Dollfuss",
+      "role": "Austrian chancellor",
+      "description": "Established an authoritarian Austrian regime supported by Mussolini and was murdered during the Nazi coup of July 1934.",
+      "pages": [
+        482,
+        483
+      ]
+    },
+    {
+      "id": "kurt-schuschnigg",
+      "name": "Kurt Schuschnigg",
+      "role": "Austrian chancellor",
+      "description": "Succeeded Dollfuss and negotiated the 1936 agreement with Germany while consolidating his domestic dictatorship.",
+      "pages": [
+        518,
+        519
+      ]
+    },
+    {
+      "id": "franz-von-papen",
+      "name": "Franz von Papen",
+      "role": "German diplomat in Austria",
+      "description": "German minister who negotiated the July 1936 agreement with Schuschnigg.",
+      "pages": [
+        519
+      ]
+    },
+    {
+      "id": "francisco-franco",
+      "name": "Francisco Franco",
+      "role": "Spanish military rebel leader",
+      "description": "Led the military rebellion supported by German and Italian aircraft; his movement benefited from the imbalance in enforcement of nonintervention.",
+      "pages": [
+        504,
+        505
+      ]
+    },
+    {
+      "id": "douglas-jerrold",
+      "name": "Douglas Jerrold",
+      "role": "British editor and Spanish-rebel supporter",
+      "description": "The narrative cites his autobiography for procurement of arms and arrangements to transport Franco from the Canary Islands to Morocco.",
+      "pages": [
+        504
+      ]
+    },
+    {
+      "id": "hugh-pollard",
+      "name": "Hugh Pollard",
+      "role": "British pilot and Spanish-rebel supporter",
+      "description": "Undertook the flight arranged to carry Franco from the Canary Islands to Morocco in July 1936.",
+      "pages": [
+        504
+      ]
+    },
+    {
+      "id": "leon-blum",
+      "name": "Léon Blum",
+      "role": "French prime minister",
+      "description": "Popular Front prime minister whose government proposed international nonintervention in the Spanish Civil War.",
+      "pages": [
+        505
+      ]
+    },
+    {
+      "id": "edvard-benes",
+      "name": "Edvard Beneš",
+      "role": "Czechoslovak president",
+      "description": "Opposed partition of Czechoslovakia in 1938 and later yielded to Gottwald’s demands in the Communist takeover of 1948.",
+      "pages": [
+        535,
+        537,
+        749
+      ]
+    },
+    {
+      "id": "edouard-daladier",
+      "name": "Édouard Daladier",
+      "role": "French prime minister",
+      "description": "Initially resisted British partition proposals for Czechoslovakia before accepting the Munich settlement.",
+      "pages": [
+        534,
+        535,
+        537
+      ]
+    },
+    {
+      "id": "philippe-petain",
+      "name": "Philippe Pétain",
+      "role": "Head of Vichy France",
+      "description": "Succeeded Reynaud in June 1940 and sought an armistice; subsequently combined the offices of head of state and head of government.",
+      "pages": [
+        579
+      ]
+    },
+    {
+      "id": "george-marshall",
+      "name": "George C. Marshall",
+      "role": "American general and secretary of state",
+      "description": "Participated in wartime strategy, attempted mediation and reform in China, and announced the European recovery proposal.",
+      "pages": [
+        691,
+        748,
+        755,
+        758,
+        761
+      ]
+    },
+    {
+      "id": "ernest-bevin",
+      "name": "Ernest Bevin",
+      "role": "British foreign secretary",
+      "description": "Replaced Eden in the British delegation at Potsdam when the Labour government took office.",
+      "pages": [
+        689
+      ]
+    },
+    {
+      "id": "james-byrnes",
+      "name": "James F. Byrnes",
+      "role": "American secretary of state",
+      "description": "Chosen by Truman after Roosevelt’s death; participated in Potsdam and postwar negotiations over Soviet cooperation.",
+      "pages": [
+        689,
+        690,
+        740
+      ]
+    },
+    {
+      "id": "henry-stimson",
+      "name": "Henry L. Stimson",
+      "role": "American secretary of war",
+      "description": "Briefed Truman on atomic research, led the Interim Committee, and intervened against bombing Kyoto.",
+      "pages": [
+        689,
+        691,
+        743
+      ]
+    },
+    {
+      "id": "robert-oppenheimer",
+      "name": "J. Robert Oppenheimer",
+      "role": "Atomic physicist and government adviser",
+      "description": "Directed Los Alamos and advised many governmental atomic bodies; the narrative distinguishes past Communist associations from actual party membership or disloyalty.",
+      "pages": [
+        737,
+        743,
+        744,
+        745
+      ]
+    },
+    {
+      "id": "leo-szilard",
+      "name": "Leo Szilard",
+      "role": "Atomic physicist and advocate of international control",
+      "description": "Pressed political leaders to confront the danger of atomic weapons and organized scientists’ petitions against use without international consideration.",
+      "pages": [
+        743,
+        744
+      ]
+    },
+    {
+      "id": "bernard-baruch",
+      "name": "Bernard Baruch",
+      "role": "American atomic-control negotiator",
+      "description": "Presented the American proposal for international ownership, inspection and staged control of nuclear materials to the United Nations.",
+      "pages": [
+        745
+      ]
+    },
+    {
+      "id": "david-lilienthal",
+      "name": "David Lilienthal",
+      "role": "First Atomic Energy Commission chairman",
+      "description": "Former TVA head who joined Acheson in developing international control proposals and chaired the civilian AEC.",
+      "pages": [
+        744,
+        745
+      ]
+    },
+    {
+      "id": "dean-acheson",
+      "name": "Dean Acheson",
+      "role": "American diplomat",
+      "description": "Led a State Department committee with Lilienthal to develop plans for international atomic-energy control.",
+      "pages": [
+        745
+      ]
+    },
+    {
+      "id": "josip-broz-tito",
+      "name": "Josip Broz Tito",
+      "role": "Yugoslav Partisan and Communist leader",
+      "description": "Led the Partisans favored by the Allies at Teheran and later resisted Soviet attempts to subordinate Yugoslavia.",
+      "pages": [
+        654,
+        665,
+        746,
+        748
+      ]
+    },
+    {
+      "id": "klement-gottwald",
+      "name": "Klement Gottwald",
+      "role": "Czechoslovak Communist leader",
+      "description": "Coalition prime minister from July 1946; forced the reversal of Marshall Plan participation and obtained dismissal of non-Communist ministers in February 1948.",
+      "pages": [
+        743,
+        749
+      ]
+    },
+    {
+      "id": "andrei-zhdanov",
+      "name": "Andrei Zhdanov",
+      "role": "Soviet Communist organizer",
+      "description": "Directed the 1947 creation of Cominform and advanced a division of the world into hostile imperialist and Soviet-led camps.",
+      "pages": [
+        741,
+        748
+      ]
+    },
+    {
+      "id": "lucius-clay",
+      "name": "Lucius D. Clay",
+      "role": "American military governor in Germany",
+      "description": "Administered the American occupation, disputed Soviet reparations and is criticized in the account for failing to secure Berlin access rights.",
+      "pages": [
+        739,
+        752,
+        759
+      ]
+    },
+    {
+      "id": "paul-nitze",
+      "name": "Paul Nitze",
+      "role": "State Department policy planner",
+      "description": "Led the Policy Planning Staff credited in the narrative with preparing NSC 68 in April 1950.",
+      "pages": [
+        758
+      ]
+    },
+    {
+      "id": "curtis-lemay",
+      "name": "Curtis E. LeMay",
+      "role": "Strategic Air Command commander",
+      "description": "Took over SAC in October 1948 and changed its operational assumptions and readiness.",
+      "pages": [
+        761
+      ]
+    },
+    {
+      "id": "ira-eaker",
+      "name": "Ira C. Eaker",
+      "role": "American air-force general",
+      "description": "The narrative describes his retirement and subsequent well-paid consultant work at Hughes Tool Company as an example of military-industrial affiliations.",
+      "pages": [
+        759
+      ]
+    },
+    {
+      "id": "harold-george",
+      "name": "Harold C. George",
+      "role": "American air-force general",
+      "description": "Joined Eaker in post-retirement employment at Hughes, in the narrative’s account of industrial ties of senior officers.",
+      "pages": [
+        759
+      ]
+    },
+    {
+      "id": "hirohito",
+      "name": "Hirohito",
+      "role": "Emperor of Japan",
+      "description": "Intervened in the deadlocked Japanese War Council to order acceptance of surrender terms in August 1945.",
+      "pages": [
+        694
+      ]
+    },
+    {
+      "id": "hideki-tojo",
+      "name": "Hideki Tojo",
+      "role": "Japanese premier and army leader",
+      "description": "Forced Konoye’s resignation in October 1941 and headed a government holding the premiership, army and home-affairs portfolios.",
+      "pages": [
+        620
+      ]
+    },
+    {
+      "id": "chester-nimitz",
+      "name": "Chester W. Nimitz",
+      "role": "American Pacific naval commander",
+      "description": "Used intelligence about Japanese plans to reverse the planned carrier ambush at Midway.",
+      "pages": [
+        624
+      ]
+    },
+    {
+      "id": "alcide-de-gasperi",
+      "name": "Alcide De Gasperi",
+      "role": "Italian Christian Democrat prime minister",
+      "description": "Led successive postwar coalition governments and the Christian Democrats at the decisive 1948 election.",
+      "pages": [
+        751
+      ]
+    },
+    {
+      "id": "konrad-adenauer",
+      "name": "Konrad Adenauer",
+      "role": "West German political leader",
+      "description": "Headed the civilian West German regime replacing military government in September 1949.",
+      "pages": [
+        763
+      ]
+    },
+    {
+      "id": "franklin-roosevelt",
+      "name": "Franklin D. Roosevelt",
+      "role": "American president and wartime coalition negotiator",
+      "description": "Quigley presents Roosevelt as improvising aid to Britain within domestic constraints, treating British survival as American self-defense, and advancing the international organization later embodied in the United Nations. The account follows his strategic disagreements with Churchill, negotiations with Stalin and the disruption caused by his death before Potsdam.",
+      "pages": [
+        599,
+        600,
+        602,
+        603,
+        632,
+        650,
+        651,
+        686,
+        689
+      ]
+    },
+    {
+      "id": "winston-churchill",
+      "name": "Winston Churchill",
+      "role": "British prime minister and wartime coalition leader",
+      "description": "Churchill’s accession after the Norway debate supplies the narrative’s nucleus of resistance to Hitler. Quigley then examines his disputes with Roosevelt over invasion strategy and imperial preference, his fear of postwar American isolationism and his acceptance of a worldwide security organization.",
+      "pages": [
+        574,
+        579,
+        582,
+        602,
+        603,
+        650,
+        651,
+        652,
+        689
+      ]
+    },
+    {
+      "id": "adolf-hitler",
+      "name": "Adolf Hitler",
+      "role": "German dictator directing expansion and war",
+      "description": "The narrative follows Hitler’s opportunistic acceleration of Austrian annexation, pressure for Czech partition, pact with Stalin and invasions of Poland and the Soviet Union. Quigley stresses choices of objectives and resource allocation, including the two-front attritional consequences of Barbarossa and the final offensive against the West.",
+      "pages": [
+        520,
+        534,
+        536,
+        537,
+        538,
+        553,
+        558,
+        582,
+        605,
+        606,
+        675
+      ]
+    },
+    {
+      "id": "neville-chamberlain",
+      "name": "Neville Chamberlain",
+      "role": "British prime minister associated with appeasement",
+      "description": "Quigley describes Chamberlain’s search for a general German settlement, direct negotiations with Hitler, pressure on Czechoslovakia and the distinction between his public Polish guarantee and secret economic approaches to Germany. His loss of parliamentary support in 1940 leads into Churchill’s national government.",
+      "pages": [
+        534,
+        535,
+        536,
+        537,
+        544,
+        545,
+        548,
+        549,
+        550,
+        574
+      ]
+    },
+    {
+      "id": "halifax",
+      "name": "Edward Frederick Lindley Wood",
+      "role": "British foreign secretary in the appeasement period",
+      "description": "The account places Halifax beside Chamberlain in the diplomatic pressure on Czechoslovakia and later negotiations over eastern European guarantees. Quigley criticizes his presentation of military assessments, his reluctance to accept a Soviet conference proposal and his vision of German predominance on the European continent.",
+      "pages": [
+        534,
+        535,
+        545,
+        548,
+        550,
+        551
+      ]
+    },
+    {
+      "id": "harry-truman",
+      "name": "Harry S. Truman",
+      "role": "American president during the transition to Cold War",
+      "description": "Truman inherited wartime and atomic decisions with limited prior knowledge, relied on Stimson’s briefings and selected Byrnes for the State Department. Quigley traces the shift from intended Soviet cooperation toward aid for Greece and Turkey, European recovery and a strategic containment framework.",
+      "pages": [
+        689,
+        690,
+        691,
+        739,
+        743,
+        747,
+        748,
+        758
+      ]
+    },
+    {
+      "id": "samuel-hoare",
+      "name": "Samuel J. G. Hoare",
+      "role": "British foreign secretary during the Ethiopian crisis",
+      "description": "Hoare’s public support for collective security contrasts in Quigley’s account with his private agreement to limit measures against Italy. The disclosed partition proposal negotiated with Laval provoked public anger and his December 1935 resignation, followed by a return to the Cabinet the next June.",
+      "pages": [
+        485,
+        486
+      ]
+    },
+    {
+      "id": "anthony-eden",
+      "name": "Anthony Eden",
+      "role": "British diplomat and foreign secretary",
+      "description": "Eden appears in the Ethiopian crisis negotiations, then in wartime talks with Stalin over territorial guarantees and the Anglo-Soviet alliance. The narrative stresses the constraints imposed by American opposition to wartime territorial settlements and follows his replacement by Bevin in the Potsdam delegation.",
+      "pages": [
+        485,
+        633,
+        650,
+        689
+      ]
+    },
+    {
+      "id": "james-forrestal",
+      "name": "James Forrestal",
+      "role": "First United States secretary of defense",
+      "description": "Quigley describes Forrestal’s earlier naval interests as weakening military unification, followed by his discovery as the first defense secretary that the office lacked the authority he needed. The account connects his demands for amendment with the continuing service struggle over appropriations and strategic priorities.",
+      "pages": [
+        758,
+        760,
+        761
+      ]
+    },
+    {
+      "id": "clement-attlee",
+      "name": "Clement Attlee",
+      "role": "British Labour prime minister succeeding Churchill",
+      "description": "Attlee replaced Churchill during Potsdam after Labour’s electoral victory, having already served as deputy prime minister and attended the opening of the conference. Quigley also identifies him among the three heads of government sponsoring the proposed UN atomic-energy commission.",
+      "pages": [
+        689,
+        744
+      ]
+    },
+    {
+      "id": "waldorf-astor",
+      "name": "Waldorf Astor",
+      "role": "Round Table policy-network participant",
+      "description": "Quigley names Lord Astor among the moderate Round Table circle with Curtis, Amery, Lothian and Brand. The group is presented as seeking an Atlantic alignment and fewer British European commitments through overlapping Rhodes, international-affairs and Commonwealth institutions.",
+      "pages": [
+        490,
+        491,
+        550
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "kuomintang",
+      "name": "Kuomintang",
+      "description": "Chinese Nationalist political party founded by Sun Yat-sen; reorganized with Soviet assistance before its break with Communists in 1927.",
+      "pages": [
+        477,
+        478,
+        754
+      ],
+      "members": [
+        "chiang-kai-shek",
+        "sun-yat-sen"
+      ],
+      "founderIds": [
+        "sun-yat-sen"
+      ]
+    },
+    {
+      "id": "chinese-communist-party",
+      "name": "Chinese Communist Party",
+      "description": "The Communist organization led by Mao and associated with Zhou, establishing rural bases and eventually defeating the Nationalist regime.",
+      "pages": [
+        478,
+        754,
+        756
+      ],
+      "members": [
+        "mao-zedong",
+        "zhou-enlai"
+      ]
+    },
+    {
+      "id": "soviet-government",
+      "name": "Soviet government",
+      "description": "Government headed by Stalin, represented diplomatically by Molotov and involved in the wartime coalition and postwar sphere-building.",
+      "pages": [
+        553,
+        650,
+        738,
+        743
+      ],
+      "members": [
+        "joseph-stalin",
+        "vyacheslav-molotov"
+      ]
+    },
+    {
+      "id": "german-nazi-government",
+      "name": "German Nazi government",
+      "description": "Hitler’s government, directing expansion, racial persecution, war and the diplomatic pact of 1939.",
+      "pages": [
+        520,
+        537,
+        544,
+        553,
+        558
+      ],
+      "members": [
+        "adolf-hitler",
+        "joachim-von-ribbentrop"
+      ]
+    },
+    {
+      "id": "italian-fascist-government",
+      "name": "Italian Fascist government",
+      "description": "Mussolini’s dictatorship, directing conquest in Ethiopia, aiding the Spanish military rebellion and entering the European war.",
+      "pages": [
+        482,
+        486,
+        504,
+        579
+      ],
+      "members": [
+        "benito-mussolini"
+      ]
+    },
+    {
+      "id": "japanese-imperial-government",
+      "name": "Japanese imperial government",
+      "description": "Government whose civilian authorities lacked control over military aggression in Manchuria; later headed by Tojo and ultimately ordered to surrender by Hirohito.",
+      "pages": [
+        476,
+        478,
+        620,
+        694
+      ],
+      "members": [
+        "hideki-tojo",
+        "hirohito"
+      ]
+    },
+    {
+      "id": "vichy-government",
+      "name": "Vichy government",
+      "description": "French authoritarian government under Pétain and Laval after the armistice, combining state and government powers and operating amid factional intrigue.",
+      "pages": [
+        579
+      ],
+      "members": [
+        "philippe-petain",
+        "pierre-laval"
+      ]
+    },
+    {
+      "id": "nonintervention-committee",
+      "name": "Nonintervention Committee",
+      "description": "International body for the agreement to refrain from intervention in Spain; the account stresses obstruction of supervision and unequal enforcement.",
+      "pages": [
+        505
+      ]
+    },
+    {
+      "id": "united-nations",
+      "name": "United Nations",
+      "description": "Postwar international peace and security organization emerging from wartime declarations, Dumbarton Oaks and San Francisco conferences.",
+      "pages": [
+        632,
+        650,
+        667,
+        668,
+        690
+      ]
+    },
+    {
+      "id": "international-monetary-fund",
+      "name": "International Monetary Fund",
+      "description": "Postwar monetary institution emerging from the Bretton Woods conference and the wartime framework for international economic cooperation.",
+      "pages": [
+        667
+      ]
+    },
+    {
+      "id": "world-bank",
+      "name": "International Bank for Reconstruction and Development",
+      "description": "World Bank, created within the postwar institutional framework following Bretton Woods monetary negotiations.",
+      "pages": [
+        667
+      ]
+    },
+    {
+      "id": "atomic-energy-commission",
+      "name": "United States Atomic Energy Commission",
+      "description": "Civilian commission established through the McMahon bill in August 1946; controlled fissionable materials and plants, but retained strong weapons and secrecy emphases.",
+      "pages": [
+        744
+      ],
+      "members": [
+        "david-lilienthal"
+      ]
+    },
+    {
+      "id": "un-atomic-energy-commission",
+      "name": "United Nations Atomic Energy Commission",
+      "description": "UN body including Security Council members and Canada, established in January 1946 to consider international control of atomic energy.",
+      "pages": [
+        744,
+        745
+      ]
+    },
+    {
+      "id": "cominform",
+      "name": "Cominform",
+      "description": "Communist coordinating body organized under Zhdanov in Poland in September 1947; Yugoslavia was expelled in June 1948.",
+      "pages": [
+        748
+      ],
+      "members": [
+        "andrei-zhdanov"
+      ]
+    },
+    {
+      "id": "nato",
+      "name": "North Atlantic Treaty Organization",
+      "description": "Mutual-defense organization formed following the April 1949 treaty between the United States, Canada and ten Western European countries.",
+      "pages": [
+        763
+      ]
+    },
+    {
+      "id": "national-security-council",
+      "name": "National Security Council",
+      "description": "Presidential advisory board created within the National Security Act framework; the narrative distinguishes it from the State Department staff that drafted NSC 68.",
+      "pages": [
+        758
+      ]
+    },
+    {
+      "id": "strategic-air-command",
+      "name": "Strategic Air Command",
+      "description": "American strategic-bombing command created in March 1946 and taken over by LeMay in October 1948.",
+      "pages": [
+        761
+      ],
+      "members": [
+        "curtis-lemay"
+      ]
+    },
+    {
+      "id": "federation-atomic-scientists",
+      "name": "Federation of Atomic Scientists",
+      "description": "Scientists’ organization emerging after Hiroshima that advocated public understanding and international control of nuclear power through its Bulletin.",
+      "pages": [
+        744
+      ],
+      "members": [
+        "leo-szilard"
+      ]
+    },
+    {
+      "id": "yugoslav-partisans",
+      "name": "Yugoslav Partisans",
+      "description": "Tito-led resistance movement favored over the Chetniks at Teheran and dominant in the postwar coalition established in Belgrade.",
+      "pages": [
+        654,
+        665
+      ],
+      "members": [
+        "josip-broz-tito"
+      ]
+    },
+    {
+      "id": "german-socialist-unity-party",
+      "name": "Socialist Unity Party of Germany",
+      "description": "Communist-dominated SED encouraged by Soviet occupation forces and strengthened through purges as eastern Germany was politically separated from the west.",
+      "pages": [
+        745,
+        751
+      ]
+    },
+    {
+      "id": "policy-planning-staff",
+      "name": "State Department Policy Planning Staff",
+      "description": "Policy-planning office led by Nitze when NSC 68 was prepared in April 1950.",
+      "pages": [
+        758
+      ],
+      "members": [
+        "paul-nitze"
+      ]
+    },
+    {
+      "id": "war-cabinet",
+      "name": "British War Cabinet",
+      "description": "British wartime executive policy body through which the narrative links Churchill’s national government to decisions about resistance, aid and Allied military strategy. Its new-source account concerns the wartime prime minister’s decisions, not a claim that every individual named at a summit belonged to the Cabinet.",
+      "pages": [
+        574,
+        579,
+        602,
+        603,
+        628,
+        650,
+        652
+      ]
+    },
+    {
+      "id": "foreign-office",
+      "name": "Foreign Office",
+      "description": "British diplomatic department participating in the appeasement negotiations and the later wartime alliance diplomacy. Quigley states that the secret 1939 approaches to Germany were known to the Foreign Office and places Halifax and Eden in the negotiations over guarantees, alliances and postwar settlements.",
+      "pages": [
+        545,
+        548,
+        549,
+        550,
+        551,
+        633,
+        689
+      ]
+    },
+    {
+      "id": "cliveden-circle",
+      "name": "Cliveden circle",
+      "description": "Quigley’s grouping around an outlook favoring a three-bloc world and an Atlantic alignment, discussed alongside the Round Table network. The account associates this perspective with Halifax’s description of German continental predominance; the shared policy outlook does not establish that every diplomatic action was collectively ordered by the circle.",
+      "pages": [
+        490,
+        491,
+        550
+      ]
+    },
+    {
+      "id": "french-government",
+      "name": "French government · intellectual-cooperation role",
+      "description": "French governmental diplomacy appears in the attempted anti-German alignment under Barthou and Laval, negotiations over Ethiopia, Anglo-French pressure on Czechoslovakia and the collapse preceding Vichy. This source expands the existing profile beyond intellectual cooperation to those governmental decisions without treating successive French regimes as a single unchanging membership.",
+      "pages": [
+        483,
+        484,
+        485,
+        486,
+        534,
+        535,
+        537,
+        574,
+        579
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "tragedy-manchuria",
+      "name": "Japanese army seizes Manchuria",
+      "date": "1931-09-01",
+      "precision": "month",
+      "people": [],
+      "organizations": [
+        "japanese-imperial-government",
+        "league-of-nations"
+      ],
+      "lanes": [
+        "empire",
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        476,
+        478,
+        479
+      ],
+      "summary": "The account presents the seizure as an independent military action that civilian leaders could not effectively reverse.",
+      "details": [
+        "Japan’s military institutions could approach the emperor without civilian mediation. The narrative links aggression to a coalition of militarists and industrial interests, but argues that inherited political traditions, rather than economic pressure alone, determined the chosen response.",
+        "China appealed to the League on September 21. Procedural delays produced an inquiry rather than collective enforcement; negotiations with civilian officials failed to address the armed authorities actually directing the occupation."
+      ],
+      "context": "Connects Japanese military autonomy and imperial expansion to the League’s response; China’s appeal leads directly into the Lytton inquiry.",
+      "precisionNote": "The source specifies September/autumn 1931 for the seizure; the first day is only a month-positioning anchor."
+    },
+    {
+      "id": "tragedy-lytton",
+      "name": "Lytton report condemns Japan without enforcement",
+      "date": "1932-10-01",
+      "precision": "month",
+      "people": [],
+      "organizations": [
+        "league-of-nations",
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "pages": [
+        478,
+        479
+      ],
+      "summary": "The Lytton inquiry condemned Japanese actions, but the League recommended no effective joint opposition.",
+      "details": [
+        "The October 1932 report followed China’s appeal of the previous September. The League endorsed nonrecognition of territorial changes made by force and expressed sympathy for the Chinese position.",
+        "The account rejects explanations confined to diplomatic timing or American absence: Japanese military autonomy and threats of assassination limited what the civilian government could deliver."
+      ],
+      "context": "Connects the League’s inquiry to the Manchurian occupation. The account stresses the gap between condemning aggression and negotiating with civilians who could not control the army.",
+      "precisionNote": "October 1932 is supplied; no exact publication day is asserted."
+    },
+    {
+      "id": "tragedy-dollfuss-coup",
+      "name": "Dollfuss murdered; Mussolini blocks German intervention",
+      "date": "1934-07-01",
+      "precision": "month",
+      "people": [
+        "engelbert-dollfuss",
+        "benito-mussolini",
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "italian-fascist-government",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "revolution",
+        "diplomacy"
+      ],
+      "pages": [
+        482,
+        483
+      ],
+      "summary": "The Nazi coup killed Dollfuss, but Italian mobilization at the Brenner prevented German entry.",
+      "details": [
+        "Dollfuss had destroyed Austrian democratic and working-class institutions while constructing an authoritarian state with Mussolini’s support. His murder during the July 1934 coup created an opportunity for Hitler.",
+        "Mussolini’s warning and troop concentration demonstrated, in this account, that Italy was the major power then prepared to defend Austrian independence. The later Ethiopian crisis helped dissolve that alignment."
+      ],
+      "context": "Connects Dollfuss’s Austrian regime, Hitler’s expansion and Mussolini’s earlier defense of Austrian independence, providing a contrast with Italy’s later alignment with Germany.",
+      "precisionNote": "Only July is assigned in this cited passage."
+    },
+    {
+      "id": "tragedy-stresa",
+      "name": "Stresa front opposes German rearmament",
+      "date": "1935-04-01",
+      "precision": "month",
+      "people": [
+        "benito-mussolini",
+        "pierre-laval"
+      ],
+      "organizations": [
+        "italian-fascist-government",
+        "french-government",
+        "league-of-nations"
+      ],
+      "lanes": [
+        "diplomacy"
+      ],
+      "pages": [
+        483
+      ],
+      "summary": "Britain, France and Italy formed a common front at Stresa after Germany announced rearmament.",
+      "details": [
+        "Barthou’s earlier encirclement strategy sought to combine France’s eastern allies with Italy and the Soviet Union. Laval continued this effort, bringing Italy into an agreement in January 1935.",
+        "The April conference and League condemnation appeared to reinforce collective opposition. Subsequent disagreements over Ethiopia and British concessions to Germany undermined the political basis of this front."
+      ],
+      "context": "Connects French efforts to assemble allies against German rearmament with Britain and Mussolini; subsequent Ethiopian disputes explain the weakening of this diplomatic front.",
+      "precisionNote": "The source gives April 1935; no conference opening day is supplied here."
+    },
+    {
+      "id": "tragedy-naval-agreement",
+      "name": "Anglo-German Naval Agreement alters France’s strategic position",
+      "date": "1935-06-01",
+      "precision": "month",
+      "people": [
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "foreign-office"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        489,
+        495
+      ],
+      "summary": "The naval agreement permitted a German fleet measured against British strength, weakening France’s independent strategic position.",
+      "details": [
+        "The text says Germany was allowed naval strength of 35 percent of Britain’s, while France’s allowance in the principal vessel categories was 33 percent. This made British cooperation increasingly important to the defense of France’s Atlantic coast.",
+        "Quigley places the treaty alongside the Ethiopian crisis, Rhineland remilitarization and the Spanish war in a cumulative encirclement of France, rather than interpreting it as an isolated disarmament settlement."
+      ],
+      "context": "Connects naval armaments to French dependence on British cooperation. Quigley treats this as one step in the strategic weakening that precedes the Czech crisis.",
+      "precisionNote": "The cited account supplies June 1935."
+    },
+    {
+      "id": "tragedy-ethiopia-invasion",
+      "name": "Italian invasion exposes limits of collective security",
+      "date": "1935-10-02",
+      "precision": "day",
+      "people": [
+        "benito-mussolini",
+        "samuel-hoare",
+        "anthony-eden",
+        "pierre-laval"
+      ],
+      "organizations": [
+        "italian-fascist-government",
+        "league-of-nations",
+        "foreign-office"
+      ],
+      "lanes": [
+        "empire",
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        485,
+        486
+      ],
+      "summary": "The Ethiopian invasion met delayed, partial sanctions while Britain and France avoided measures likely to stop it.",
+      "details": [
+        "Before the invasion, arms restrictions imposed by several governments disadvantaged Ethiopia. Hoare publicly supported the League while privately agreeing with Eden and Laval to avoid a blockade or closure of Suez that might risk war.",
+        "Economic sanctions left oil and other crucial commodities uncovered. The account argues that this simultaneously alienated Italy from France and discredited collective security, without protecting Ethiopia."
+      ],
+      "context": "Connects Mussolini’s colonial war with Hoare, Eden, Laval and League sanctions; their public pledges and private limits on enforcement explain the intersection of empire and diplomacy."
+    },
+    {
+      "id": "tragedy-hoare-laval",
+      "name": "Hoare–Laval partition proposal becomes public",
+      "date": "1935-12-10",
+      "precision": "day",
+      "people": [
+        "samuel-hoare",
+        "pierre-laval"
+      ],
+      "organizations": [
+        "league-of-nations",
+        "foreign-office",
+        "french-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "pages": [
+        486
+      ],
+      "summary": "Publication of the secret Ethiopian partition proposal provoked an outcry and cost Hoare his office.",
+      "details": [
+        "The proposal would have assigned roughly one-sixth of Ethiopia outright to Italy and reserved an additional third as a zone of Italian economic expansion and settlement. It substituted territorial concession for effective sanctions.",
+        "A French journalist disclosed the agreement on December 10, shortly after the British election pledge to support collective security. Baldwin sacrificed Hoare, who resigned on December 19 and returned to the Cabinet the following June."
+      ],
+      "context": "Connects Hoare and Laval’s diplomacy directly to proposed Italian gains in Ethiopia and the domestic consequences of disclosure in Britain."
+    },
+    {
+      "id": "tragedy-rhineland",
+      "name": "Germany remilitarizes the Rhineland",
+      "date": "1936-03-07",
+      "precision": "day",
+      "people": [
+        "adolf-hitler",
+        "neville-chamberlain"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "french-government"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        487,
+        488,
+        495
+      ],
+      "summary": "Rhineland remilitarization weakened French capacity to act in support of eastern allies.",
+      "details": [
+        "The account connects the move to Italy’s distraction in Ethiopia and the breakdown of a common front. Germany’s actual military preparedness was still limited, making political decisions about resistance decisive.",
+        "British opposition to sanctions and the defensive outlook of French planning inhibited action. Fortification of the Rhineland subsequently narrowed France’s ability to honor obligations to Czechoslovakia and the Soviet Union."
+      ],
+      "context": "Connects Hitler’s military move with British opposition to sanctions and France’s obligations to eastern allies; Quigley links the Ethiopian distraction to the opportunity for remilitarization."
+    },
+    {
+      "id": "tragedy-ethiopia-conquest",
+      "name": "Ethiopia falls and sanctions are removed",
+      "date": "1936-05-02",
+      "precision": "day",
+      "people": [
+        "benito-mussolini"
+      ],
+      "organizations": [
+        "italian-fascist-government",
+        "league-of-nations"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "pages": [
+        486,
+        487
+      ],
+      "summary": "The conquest was completed before sanctions became decisive, and the sanctioning states subsequently withdrew them.",
+      "details": [
+        "The source places completion of the conquest on May 2 and annexation a week later. The sanctions were lifted during the next two months, just as their economic effects were starting to become significant.",
+        "The episode damaged both France’s relationship with Italy and the credibility of League enforcement. In Quigley’s interpretation, ineffective sanctions produced the disadvantages of confrontation without the advantages of collective resistance."
+      ],
+      "context": "Connects the result of Mussolini’s invasion with the withdrawal of League sanctions and the damage to French hopes of maintaining Italian opposition to Germany."
+    },
+    {
+      "id": "tragedy-austria-1936",
+      "name": "Schuschnigg signs Austrian agreement with Germany",
+      "date": "1936-07-11",
+      "precision": "day",
+      "people": [
+        "kurt-schuschnigg",
+        "franz-von-papen",
+        "benito-mussolini"
+      ],
+      "organizations": [
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "domestic"
+      ],
+      "pages": [
+        519
+      ],
+      "summary": "A public assurance of Austrian independence accompanied secret concessions opening political positions to Nazis.",
+      "details": [
+        "The public agreement promised noninterference and acknowledged Austria as a German state. Secret provisions included amnesty for political prisoners, political responsibility for Nazis and relaxation of restrictions on German symbols and newspapers.",
+        "The narrative describes Schuschnigg as simultaneously suppressing domestic rivals and making concessions under Mussolini’s pressure. German leaders initially preferred gradual influence, keeping military measures in reserve."
+      ],
+      "context": "Connects Schuschnigg’s domestic consolidation to Papen’s German diplomacy and Mussolini’s pressure; secret political concessions form the bridge between formal independence and growing Nazi influence."
+    },
+    {
+      "id": "tragedy-franco-flight",
+      "name": "British supporters arrange Franco’s flight to Morocco",
+      "date": "1936-07-11",
+      "precision": "day",
+      "people": [
+        "francisco-franco",
+        "douglas-jerrold",
+        "hugh-pollard"
+      ],
+      "organizations": [
+        "italian-fascist-government"
+      ],
+      "lanes": [
+        "security",
+        "revolution"
+      ],
+      "pages": [
+        504
+      ],
+      "summary": "Jerrold and Pollard helped transport Franco toward the military uprising, while Italian assistance was prepared in advance.",
+      "details": [
+        "Citing Jerrold’s autobiography, the narrative describes arms procurement in late May and the June arrangement for Pollard to fly to the Canary Islands. Pollard departed on July 11 with his daughter and her friend as passengers.",
+        "Franco reached Morocco on July 18. Italian air units received preparation orders on July 15 and subsequently supported the revolt; German commitments followed Franco’s appeal after his arrival."
+      ],
+      "context": "Connects Jerrold and Pollard’s British assistance with Franco’s movement to Morocco and the preparations for Italian military support."
+    },
+    {
+      "id": "tragedy-spanish-revolt",
+      "name": "Spanish military rebellion begins in Morocco",
+      "date": "1936-07-18",
+      "precision": "day",
+      "people": [
+        "francisco-franco",
+        "benito-mussolini",
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "italian-fascist-government",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "revolution",
+        "war"
+      ],
+      "pages": [
+        504,
+        505
+      ],
+      "summary": "The initial military rebellion struggled, but foreign aircraft and other assistance sustained it.",
+      "details": [
+        "The source dates the outbreak in Morocco to July 18 after months of conspiracy and escalating assassinations. Much of the navy and air force remained loyal, and the rebels initially lacked the principal industrial regions and broad popular support.",
+        "Italian and Portuguese aid kept the revolt alive. Hitler promised assistance on July 24; transport aircraft helped overcome the obstacle posed by the loyal fleet to moving Moroccan forces into Spain."
+      ],
+      "context": "Connects Franco’s rebellion to Mussolini’s and Hitler’s assistance; foreign transport and aircraft help explain how a initially faltering military revolt continued."
+    },
+    {
+      "id": "tragedy-spanish-nonintervention",
+      "name": "Spanish nonintervention agreement takes effect",
+      "date": "1936-08-28",
+      "precision": "day",
+      "people": [
+        "leon-blum",
+        "francisco-franco"
+      ],
+      "organizations": [
+        "nonintervention-committee",
+        "french-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        505
+      ],
+      "summary": "Nonintervention formally restrained all sides, but the account describes enforcement that disadvantaged the recognized Spanish government.",
+      "details": [
+        "Blum and Delbos proposed the agreement on August 1 to avoid a wider clash among powers supplying opposing sides. Britain promptly supported it, while Italy and Portugal delayed participation as they aided the rebels.",
+        "The agreement became operative on August 28. Efforts to create neutral supervision were obstructed, and British pressure to restrict supplies through France contrasted with its refusal to impose comparable restrictions on Portugal."
+      ],
+      "context": "Connects Blum’s effort to avoid a wider European war with the Nonintervention Committee and foreign support for Franco; the source describes unequal practical restraints on opposing sides."
+    },
+    {
+      "id": "tragedy-anti-comintern",
+      "name": "Germany and Japan sign Anti-Comintern Pact",
+      "date": "1936-11-01",
+      "precision": "month",
+      "people": [
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        489,
+        490
+      ],
+      "summary": "The Anti-Comintern Pact formed part of the encirclement of the Soviet Union in the source’s analysis.",
+      "details": [
+        "The agreement united Germany and Japan against Communism and the Third International. The narrative treats it as one of several overlapping alignments reshaping European and global security.",
+        "Italy joined a year later, followed by Hungary and Manchukuo in February 1939 and Spain the next month. These accessions connect European revisionism with Japanese expansion."
+      ],
+      "context": "Connects German and Japanese policy against Communism, later joined by Italy and other states, across European and Pacific diplomatic alignments.",
+      "precisionNote": "The cited passage supplies November 1936, not a signing day."
+    },
+    {
+      "id": "tragedy-smuts-atlantic-policy",
+      "name": "Smuts outlines policy associated with Round Table Atlantic alignment",
+      "date": "1923-10-23",
+      "precision": "day",
+      "people": [
+        "curtis",
+        "amery",
+        "kerr",
+        "brand",
+        "waldorf-astor",
+        "milner",
+        "smuts",
+        "fisher"
+      ],
+      "organizations": [
+        "round-table",
+        "rhodes-trust",
+        "riia",
+        "cfr",
+        "cliveden-circle"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "pages": [
+        490,
+        491,
+        492
+      ],
+      "summary": "Quigley identifies Smuts’s speech as an early statement in the institutional policy history later informing appeasement.",
+      "details": [
+        "The narrative dates Smuts’s speech to October 23, 1923, following lunch with H. A. L. Fisher. It relates these circles to preparation for the Dawes Plan and Locarno and to later arguments for freeing Britain from commitments in Europe.",
+        "Quigley interprets this network’s weakening of collective security as a means of freeing Britain to build an Anglo-American and Dominion grouping. This is an authorial reconstruction of institutional influence, not proof that every named member directed each diplomatic decision."
+      ],
+      "context": "Connects Smuts and Fisher’s 1923 policy discussion with the Round Table, Rhodes and international-affairs institutions later invoked in Quigley’s interpretation of appeasement; it dates a speech rather than the founding of those networks."
+    },
+    {
+      "id": "tragedy-anschluss",
+      "name": "German forces enter Austria and Hitler decides on annexation",
+      "date": "1938-03-12",
+      "precision": "day",
+      "people": [
+        "adolf-hitler",
+        "kurt-schuschnigg"
+      ],
+      "organizations": [
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "empire",
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        520
+      ],
+      "summary": "The account describes invasion and annexation as accelerated decisions enabled by favorable political circumstances.",
+      "details": [
+        "Quigley states that the conditional decision to invade was made only on March 10 and that Hitler personally decided on annexation at noon on March 12. Even Ribbentrop and Göring were not initially informed of the latter decision.",
+        "He emphasizes the combination of Austria’s internal crisis and the international situation, including decisions taken in 1937. The event closed the western gap in the hostile ring around Czechoslovakia."
+      ],
+      "context": "Connects Hitler’s decisions with the Austrian crisis under Schuschnigg and the widening encirclement of Czechoslovakia after annexation."
+    },
+    {
+      "id": "tragedy-berchtesgaden-1938",
+      "name": "Chamberlain meets Hitler over the Sudeten crisis",
+      "date": "1938-09-15",
+      "precision": "day",
+      "people": [
+        "neville-chamberlain",
+        "adolf-hitler",
+        "halifax"
+      ],
+      "organizations": [
+        "foreign-office",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "diplomacy"
+      ],
+      "pages": [
+        534
+      ],
+      "summary": "Chamberlain sought a wider Anglo-German settlement, while Hitler demanded immediate Sudeten self-determination.",
+      "details": [
+        "Without prior Cabinet consultation, Chamberlain requested the interview on September 13. At the meeting Hitler insisted on settlement of the Sudeten question and abolition of the Czech-Soviet treaty under threat of war.",
+        "Chamberlain returned to consult the French and Runciman. The narrative relates this meeting to earlier British approaches for a general German settlement and to the panic created by exaggerated assessments of German military power."
+      ],
+      "context": "Connects Chamberlain’s personal negotiations with Hitler to Halifax’s earlier search for a general settlement and the subsequent Anglo-French pressure on Czechoslovakia."
+    },
+    {
+      "id": "tragedy-czech-partition-pressure",
+      "name": "Czechoslovakia accepts Anglo-French partition demands",
+      "date": "1938-09-21",
+      "precision": "day",
+      "people": [
+        "neville-chamberlain",
+        "halifax",
+        "edvard-benes",
+        "edouard-daladier"
+      ],
+      "organizations": [
+        "foreign-office",
+        "french-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "pages": [
+        535
+      ],
+      "summary": "British and French pressure obtained Czech acceptance of territorial cession after its initial refusal.",
+      "details": [
+        "The proposed partition of predominantly German areas was delivered on September 19. Beneš objected that neither Czech constitutional procedures nor treaty arbitration had been respected and doubted that a weakened state could rely on stronger guarantees.",
+        "France threatened abandonment if the proposal were rejected, and Britain reinforced the pressure. The Czech government accepted on September 21; Quigley treats the presentation of cession as a Czech choice as an instrument of British public persuasion."
+      ],
+      "context": "Connects Beneš’s objections to Chamberlain, Halifax and Daladier’s diplomatic demands; Czech acceptance then becomes the proposal Chamberlain carries back to Hitler."
+    },
+    {
+      "id": "tragedy-munich",
+      "name": "Munich settlement partitions Czechoslovakia",
+      "date": "1938-09-01",
+      "precision": "month",
+      "people": [
+        "adolf-hitler",
+        "neville-chamberlain",
+        "benito-mussolini",
+        "edouard-daladier",
+        "edvard-benes"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "foreign-office",
+        "french-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "pages": [
+        536,
+        537,
+        538
+      ],
+      "summary": "The four-power settlement transferred Czech territory while excluding Czechoslovakia from the decisive negotiations.",
+      "details": [
+        "The agreement prescribed staged German occupation and an international commission, with promised guarantees for the remainder. Quigley recounts that the commission subsequently accepted German demands, canceled plebiscites and cut key Czech transport and economic links.",
+        "The promised guarantee was never delivered; Poland and Hungary obtained further territory. The account concludes that the settlement eliminated effective resistance in central Europe and entrenched German predominance."
+      ],
+      "context": "Connects the four negotiating leaders with the exclusion of Beneš’s government and the economic and territorial weakening of Czechoslovakia. Its aftermath leads into Germany’s destruction of the remaining state.",
+      "precisionNote": "The supplied text inconsistently dates the conference on p537 after a September 28 parliamentary invitation to a Thursday meeting. Month precision avoids presenting the internally inconsistent day as resolved."
+    },
+    {
+      "id": "tragedy-kristallnacht",
+      "name": "Anti-Jewish violence and exclusion intensify in Germany",
+      "date": "1938-11-01",
+      "precision": "month",
+      "people": [
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "pages": [
+        544
+      ],
+      "summary": "The narrative describes sustained November attacks on Jewish people, property and places of worship, followed by economic exclusion.",
+      "details": [
+        "Several days of violence destroyed property and synagogues and assaulted individuals. The regime then imposed a collective assessment of one billion reichsmarks on Germany’s Jewish population.",
+        "Further laws excluded Jews from economic life. Quigley places these crimes among the developments that repeatedly outraged British public opinion while the British government continued seeking concessions and agreements."
+      ],
+      "context": "Connects Nazi persecution and economic exclusion of Jewish people with the British public outrage discussed in the appeasement narrative; this is a contextual intersection, not an affiliation of victims with the regime.",
+      "precisionNote": "The passage specifies November 1938 without assigning the onset a day."
+    },
+    {
+      "id": "tragedy-czech-destruction",
+      "name": "Germany destroys the remainder of Czechoslovakia",
+      "date": "1939-03-15",
+      "precision": "day",
+      "people": [
+        "adolf-hitler",
+        "neville-chamberlain"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "foreign-office"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "pages": [
+        538,
+        544,
+        545
+      ],
+      "summary": "German occupation demolished the remaining Czech state while Anglo-German commercial discussions continued.",
+      "details": [
+        "Hitler had ordered preparations to destroy the remainder soon after Munich. The March crisis therefore exposed the failure of the settlement’s promised guarantees and the continuing expansionist policy.",
+        "Chamberlain postponed Oliver Stanley’s visit to Berlin, but industrial negotiations continued. Public pressure produced a formal break on March 28, followed in the account by secret resumption on April 2."
+      ],
+      "context": "Connects the failure of Munich’s assurances with Hitler’s continuing expansion and Chamberlain’s commercial diplomacy, immediately before the change to a Polish guarantee."
+    },
+    {
+      "id": "tragedy-polish-guarantee",
+      "name": "Britain guarantees Polish independence",
+      "date": "1939-03-31",
+      "precision": "day",
+      "people": [
+        "neville-chamberlain",
+        "halifax"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        544,
+        545,
+        546
+      ],
+      "summary": "Britain’s unilateral assurance promised assistance if Polish independence was threatened.",
+      "details": [
+        "Halifax had first sought responses to a reported German threat against Romania and rebuffed Moscow’s proposed conference. German pressure on Poland then prompted the sudden British assurance.",
+        "The narrative carefully distinguishes independence from territorial integrity and emphasizes the guarantee’s initially temporary, unilateral wording. Those features left space for negotiation over Danzig or the Corridor even while public opinion read the promise as a firm stand."
+      ],
+      "context": "Connects Chamberlain and Halifax’s response to German pressure with Britain’s developing commitments; the source distinguishes the promise of independence from a guarantee of every existing frontier."
+    },
+    {
+      "id": "tragedy-wilson-wohlthat",
+      "name": "Secret British approach offers a wider settlement with Germany",
+      "date": "1939-07-01",
+      "precision": "month",
+      "people": [
+        "neville-chamberlain",
+        "halifax"
+      ],
+      "organizations": [
+        "foreign-office",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "finance"
+      ],
+      "pages": [
+        548,
+        549,
+        550
+      ],
+      "summary": "Quigley recounts Hudson and Horace Wilson’s approaches to Wohlthat alongside the public Polish guarantee.",
+      "details": [
+        "Around July 20, British representatives offered a nonaggression pact, spheres of interest, colonial concessions, economic arrangements and disarmament. The account quotes German diplomatic reporting that such a pact could release Britain from its commitments to Poland.",
+        "Later conversations repeated these proposals under strict secrecy. Quigley argues that rumors of these approaches increased Soviet distrust of British intentions during the parallel Anglo-Soviet negotiations."
+      ],
+      "context": "Connects secret British economic and diplomatic offers with the public Polish commitment and parallel Soviet negotiations. Quigley argues that rumors of the approaches increased Soviet distrust.",
+      "precisionNote": "Around July 20 is approximate in the text; the event retains month precision."
+    },
+    {
+      "id": "tragedy-german-soviet-pact",
+      "name": "Molotov and Ribbentrop sign nonaggression pact",
+      "date": "1939-08-23",
+      "precision": "day",
+      "people": [
+        "vyacheslav-molotov",
+        "joachim-von-ribbentrop",
+        "joseph-stalin",
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "soviet-government",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        551,
+        552,
+        553
+      ],
+      "summary": "The pact combined public nonaggression with a secret division of spheres in eastern Europe.",
+      "details": [
+        "Ribbentrop arrived in Moscow on August 23 and signed late that night. Public terms excluded aggression against the other party and assistance to third powers attacking it; a secret protocol delineated interests across the Baltic region, Poland and Bessarabia.",
+        "Quigley links the outcome to the failure of Anglo-Soviet negotiations, Polish refusal to admit Soviet military assistance and distrust of Britain. He says the pact did not make war inevitable, but eased Hitler’s calculation in starting it."
+      ],
+      "context": "Connects Molotov, Ribbentrop, Stalin and Hitler through the agreement and its secret spheres of interest; the narrative links the failed Western negotiations to the pact and the pact to easier German war planning."
+    },
+    {
+      "id": "tragedy-poland-invasion",
+      "name": "Germany invades Poland",
+      "date": "1939-09-01",
+      "precision": "day",
+      "people": [
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "war"
+      ],
+      "pages": [
+        558,
+        559
+      ],
+      "summary": "Air attacks and armored advances fragmented Polish resistance and prevented complete mobilization.",
+      "details": [
+        "The attack began at 4:40 a.m. with strikes on airfields, railways and assembly points. Quigley stresses the coordination of tactical aircraft, armored columns and encirclement rather than explaining victory by numerical superiority alone.",
+        "The destruction of communications and reconnaissance left scattered units fighting without unified control. The campaign exemplifies the military methods whose effectiveness would become apparent again in France and the Soviet Union."
+      ],
+      "context": "Connects Hitler’s diplomatic preparation with the military use of coordinated air and armored attacks, illustrating methods later used against France and the Soviet Union."
+    },
+    {
+      "id": "tragedy-churchill-premier",
+      "name": "Churchill replaces Chamberlain as German offensive begins",
+      "date": "1940-05-10",
+      "precision": "day",
+      "people": [
+        "winston-churchill",
+        "neville-chamberlain",
+        "amery"
+      ],
+      "organizations": [
+        "war-cabinet",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "domestic",
+        "war"
+      ],
+      "pages": [
+        574
+      ],
+      "summary": "Chamberlain resigned after the Norway debate and the opening of Germany’s western offensive.",
+      "details": [
+        "A nominal victory in the confidence division concealed the collapse of Chamberlain’s parliamentary support. Amery’s appeal for him to leave office became the climax of criticism of the government’s conduct.",
+        "Germany attacked the Netherlands, Belgium, Luxembourg and France at dawn on May 10. Churchill formed a national government and supplied a public commitment to continued resistance when military prospects looked extremely bleak."
+      ],
+      "context": "Connects Amery’s parliamentary challenge and Chamberlain’s loss of authority with Churchill’s national government, on the day the German western offensive begins."
+    },
+    {
+      "id": "tragedy-vichy",
+      "name": "Pétain seeks armistice and Vichy authority takes shape",
+      "date": "1940-06-16",
+      "precision": "day",
+      "people": [
+        "philippe-petain",
+        "pierre-laval",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "vichy-government",
+        "french-government"
+      ],
+      "lanes": [
+        "war",
+        "domestic"
+      ],
+      "pages": [
+        579,
+        580
+      ],
+      "summary": "Pétain succeeded Reynaud and requested an armistice, followed by the concentration of powers in the Vichy regime.",
+      "details": [
+        "Reynaud resigned when he could neither secure withdrawal overseas nor accept a separate peace. Churchill’s offer of political union had failed to obtain consideration, and Pétain’s early statement prompted some units to stop fighting.",
+        "The armistice came into force on June 25, leaving a divided country, prisoners held by Germany and punitive occupation charges. Laval’s constitutional measures subsequently combined state, governmental and decree-making powers under Pétain."
+      ],
+      "context": "Connects France’s military collapse with Pétain’s request for an armistice and Laval’s concentration of constitutional powers; Churchill appears through the unsuccessful offer of political union."
+    },
+    {
+      "id": "tragedy-battle-britain",
+      "name": "Britain’s resistance defeats the prerequisites for German invasion",
+      "date": "1940-07-01",
+      "precision": "month",
+      "people": [
+        "winston-churchill",
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "war-cabinet",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "war"
+      ],
+      "pages": [
+        582,
+        583
+      ],
+      "summary": "Britain’s refusal to negotiate forced Hitler to improvise invasion plans whose prerequisites Germany could not meet.",
+      "details": [
+        "Operation Sealion required air superiority, shipping and protection against British naval action. Quigley emphasizes that Germany lacked the integrated capacity to secure an invasion across the Channel.",
+        "The air campaign and Britain’s continuing resistance left Sealion unrealized. In December Hitler abandoned it and the Gibraltar project in favor of Balkan operations and the attack on the Soviet Union."
+      ],
+      "context": "Connects Churchill’s refusal to negotiate with Hitler’s failed invasion prerequisites; Quigley places the later shift toward Balkan operations and the Soviet attack in that strategic sequence.",
+      "endDate": "1940-10-31",
+      "precisionNote": "The chapter identifies July–October 1940 as the campaign interval; boundary days only position the month-level range."
+    },
+    {
+      "id": "tragedy-destroyers-bases",
+      "name": "Roosevelt transfers destroyers in exchange for Atlantic bases",
+      "date": "1940-09-01",
+      "precision": "month",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "war-cabinet"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        599
+      ],
+      "summary": "The United States transferred fifty old destroyers while acquiring long leases on British bases in the Western Hemisphere.",
+      "details": [
+        "The account places the executive arrangement alongside the Selective Service Act in September 1940, as Roosevelt improvised measures within the constraints of isolationist opinion and limited production.",
+        "Ninety-nine-year leases extended from Newfoundland to Trinidad. The exchange strengthened Britain’s immediate war effort and American Atlantic infrastructure without yet constituting full American participation in the war."
+      ],
+      "context": "Connects Roosevelt’s limited aid to Churchill’s war effort with American access to British Atlantic bases, joining naval strategy to the legal and political limits on US intervention.",
+      "precisionNote": "The cited passage gives September 1940."
+    },
+    {
+      "id": "tragedy-lend-lease",
+      "name": "Lend-Lease removes a financial obstacle to aid for Britain",
+      "date": "1941-03-01",
+      "precision": "month",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "finance",
+        "war"
+      ],
+      "pages": [
+        599,
+        600,
+        601
+      ],
+      "summary": "The aid mechanism replaced cash payment and ordinary loans with a pooling of resources framed as American self-defense.",
+      "details": [
+        "Britain’s available dollar assets and earnings could no longer cover its outstanding American purchases. Neutrality legislation blocked conventional loans, and Roosevelt wished to avoid the bitter interwar legacy of war debts.",
+        "The administration presented equipment-sharing as helping a neighbor extinguish a fire. A bill introduced in January became the Lend-Lease Act two months later, enabling a much broader flow of supplies."
+      ],
+      "context": "Connects Roosevelt and Churchill’s equipment-sharing policy with Britain’s shortage of dollars; it provides the financing mechanism later extended to Soviet supply deliveries.",
+      "precisionNote": "The passage dates enactment two months after January 10; month precision is retained."
+    },
+    {
+      "id": "tragedy-barbarossa",
+      "name": "Germany attacks the Soviet Union",
+      "date": "1941-06-22",
+      "precision": "day",
+      "people": [
+        "adolf-hitler",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "soviet-government"
+      ],
+      "lanes": [
+        "war"
+      ],
+      "pages": [
+        605,
+        606,
+        607
+      ],
+      "summary": "German encirclements won immense tactical successes without destroying Soviet capacity to continue fighting.",
+      "details": [
+        "Hitler used coordinated outer armored and inner infantry pincers to isolate and divide large Soviet formations. The scale of the campaign consumed time, men and resources while leaving the Soviet state able to generate further resistance.",
+        "Disputes and changes in geographic priorities delayed concentration on Moscow. Quigley argues that the campaign left an incompletely mobilized Germany trapped in the two-front war of attrition Hitler had wanted to avoid."
+      ],
+      "context": "Connects Hitler’s attack with Stalin’s continuing capacity to resist and the emergence of a costly two-front struggle, setting the military background for Anglo-American aid to the Soviet Union."
+    },
+    {
+      "id": "tragedy-atlantic-charter",
+      "name": "Roosevelt and Churchill define war aims at the Atlantic Conference",
+      "date": "1941-08-09",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "war-cabinet",
+        "state-department"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        602,
+        603
+      ],
+      "summary": "The Atlantic Conference produced public principles and secret strategic discussions that prioritized Germany.",
+      "details": [
+        "Meeting aboard the Prince of Wales in Newfoundland from August 9 to 12, the leaders addressed territorial self-determination, access to trade and resources, economic collaboration and disarmament. Imperial preference and the form of postwar international organization remained areas of disagreement.",
+        "Military conversations reaffirmed Germany-first strategy while exposing different expectations about blockade, bombing and a ground invasion. The Americans rejected an immediate declaration of war because preparedness remained inadequate."
+      ],
+      "context": "Connects Roosevelt and Churchill’s public war aims with secret Germany-first strategy; their disputes over trade and invasion methods link diplomatic principles to wartime planning.",
+      "endDate": "1941-08-12",
+      "precisionNote": "This dates the conference, not a separately normalized publication date for the Charter."
+    },
+    {
+      "id": "tragedy-soviet-supplies",
+      "name": "Moscow supply agreement expands Allied support to the Soviet Union",
+      "date": "1941-09-30",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "finance",
+        "war"
+      ],
+      "pages": [
+        610,
+        611
+      ],
+      "summary": "The agreement committed extensive monthly deliveries, requiring expansion of Lend-Lease to Soviet recipients.",
+      "details": [
+        "The nine-month program envisaged more than a million tons of supplies, including monthly deliveries of fighters, bombers and tanks. Earlier Soviet purchases, credits and British contributions had operated on a smaller financial basis.",
+        "Roosevelt had to reduce domestic opposition, including Catholic objections to support for the Soviet regime. By the end of November he could implement the Lend-Lease mechanism for these deliveries."
+      ],
+      "context": "Connects Roosevelt’s Lend-Lease program with Stalin’s military needs through the Moscow supply agreement; domestic American objections affect the ability to implement those commitments."
+    },
+    {
+      "id": "tragedy-tojo-cabinet",
+      "name": "Tojo forms a Japanese war government",
+      "date": "1941-10-01",
+      "precision": "month",
+      "people": [
+        "hideki-tojo"
+      ],
+      "organizations": [
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "domestic",
+        "war"
+      ],
+      "pages": [
+        620
+      ],
+      "summary": "Tojo forced Konoye from office and concentrated the premiership, army and police portfolios.",
+      "details": [
+        "The source says negotiations had become effectively impossible by October 15, when the activist military faction forced the change. Tojo’s control of home affairs extended to the domestic police as well as the army.",
+        "Diplomatic talks continued in Washington despite the unmistakable character of the new cabinet. The narrative places the shift immediately before the final preparations for the Pacific attack."
+      ],
+      "context": "Connects the concentration of army and police authority under Tojo with the military turn of Japanese policy while diplomatic negotiations continue in Washington.",
+      "precisionNote": "The passage links the transition to October 15 but does not clearly state the formal installation day; month precision avoids equating them."
+    },
+    {
+      "id": "tragedy-pearl-harbor",
+      "name": "Japan attacks Pearl Harbor",
+      "date": "1941-12-07",
+      "precision": "day",
+      "people": [
+        "hideki-tojo",
+        "franklin-roosevelt"
+      ],
+      "organizations": [
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "war"
+      ],
+      "pages": [
+        481,
+        620,
+        621
+      ],
+      "summary": "The carrier strike opened war with the United States after Japan sought a path to southern resources.",
+      "details": [
+        "Quigley explains the attack through Japanese fears that American bases would threaten the communications needed to seize the Dutch Indies and Malaya. The choice to strike America first followed from that strategic assumption.",
+        "The force sailed in radio silence along a northerly route and launched hundreds of aircraft. The account also describes missed or delayed warning from submarine contacts and the opening of the harbor’s protective net."
+      ],
+      "context": "Connects Tojo’s military policy with Roosevelt’s entry into the Pacific war; Quigley ties the initial strike to Japan’s plans for southern resources and exposed maritime communications."
+    },
+    {
+      "id": "tragedy-un-declaration",
+      "name": "Wartime Declaration of the United Nations commits signers to common victory",
+      "date": "1942-01-01",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "united-nations"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        632,
+        633
+      ],
+      "summary": "Twenty-six states pledged full resources and no separate peace, introducing the wartime United Nations framework.",
+      "details": [
+        "The declaration arose during the Arcadia Conference, where Churchill sought to preserve Germany-first strategy after Pearl Harbor. Roosevelt supplied a draft linking the war to human rights, independence and religious freedom.",
+        "The order of signatures distinguished four great powers from the lesser signers, foreshadowing later institutional hierarchy. France was excluded, while China’s inclusion as a great power reflected American insistence rather than its immediate military capacity."
+      ],
+      "context": "Connects Roosevelt and Churchill’s wartime coalition to the United Nations name and principles; the ranking of great and lesser powers anticipates later institutional arrangements."
+    },
+    {
+      "id": "tragedy-anglo-soviet-alliance",
+      "name": "Britain and Soviet Union sign twenty-year alliance",
+      "date": "1942-05-26",
+      "precision": "day",
+      "people": [
+        "anthony-eden",
+        "joseph-stalin",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "foreign-office",
+        "soviet-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        633
+      ],
+      "summary": "The alliance omitted the territorial commitments Stalin had sought and pledged noninterference and no territorial aggrandizement.",
+      "details": [
+        "Eden faced Soviet demands concerning frontiers and postwar security while American pressure opposed wartime territorial settlements. Churchill was more willing to accommodate necessities of power than the public American principles allowed.",
+        "The treaty resolved the immediate alliance issue without eliminating Soviet distrust. Demands for supplies and a second front intensified as Moscow feared that prolonged war might exhaust both Germany and the Soviet Union."
+      ],
+      "context": "Connects Eden’s negotiations with Stalin and Churchill’s wartime needs, constrained by American opposition to premature territorial settlements; continuing second-front demands follow the treaty."
+    },
+    {
+      "id": "tragedy-midway",
+      "name": "American carriers reverse Japan’s planned ambush at Midway",
+      "date": "1942-06-04",
+      "precision": "day",
+      "people": [
+        "chester-nimitz"
+      ],
+      "organizations": [
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "war",
+        "security"
+      ],
+      "pages": [
+        623,
+        624
+      ],
+      "summary": "Intelligence allowed Nimitz to turn the Japanese carrier trap into a decisive American victory.",
+      "details": [
+        "Japan planned to draw the remaining American Pacific fleet toward a threatened amphibious invasion and destroy it with concealed carrier aircraft. Nimitz knew the outline of the operation and positioned his carriers northeast of the Japanese force.",
+        "Quigley treats the battle as the first of several separate turning points in the global war. It followed the Coral Sea obstruction of a Japanese advance toward Port Moresby and altered the balance of carrier warfare."
+      ],
+      "context": "Connects Nimitz’s naval command and intelligence on Japanese plans to a reversal of the proposed ambush; the source identifies this as a distinct Pacific turning point within the wider war."
+    },
+    {
+      "id": "tragedy-el-alamein",
+      "name": "Axis attack on Egypt is defeated at El Alamein",
+      "date": "1942-11-02",
+      "precision": "day",
+      "people": [
+        "benito-mussolini"
+      ],
+      "organizations": [
+        "italian-fascist-government",
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "war",
+        "empire"
+      ],
+      "pages": [
+        623,
+        624,
+        625,
+        626
+      ],
+      "summary": "The victory reversed the Axis threat to Egypt and the British Mediterranean lifeline.",
+      "details": [
+        "The preceding struggle had made the Mediterranean nearly impassable for merchant traffic, forcing Britain to supply Egypt around Africa. Malta’s continuing resistance disrupted Axis communications despite severe bombing and desperate supply shortages.",
+        "The defeat on November 2 formed the second major turning point identified in the account. Its significance extended beyond the battlefield to communications between Britain, its imperial positions and the Allied forces in North Africa."
+      ],
+      "context": "Connects Axis operations in Egypt with British imperial communications and the Mediterranean supply struggle; the victory coincides with other Allied turning points in late 1942."
+    },
+    {
+      "id": "tragedy-torch",
+      "name": "Allied forces invade French North Africa",
+      "date": "1942-11-08",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill",
+        "dwight-eisenhower",
+        "pierre-laval"
+      ],
+      "organizations": [
+        "vichy-government"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        623,
+        627,
+        628
+      ],
+      "summary": "The North African landings improved the Allied position while provoking German occupation of the remaining French zone.",
+      "details": [
+        "The narrative places Torch alongside El Alamein as a strategic reversal in the Mediterranean. Success also raised the question of how the Allies would deal with the French authorities and the legacy of collaboration.",
+        "Hitler responded by occupying all France and trying to capture the fleet at Toulon, which largely scuttled itself. German forces entered Tunisia and resisted the Allied advance, including inflicting the Kasserine defeat."
+      ],
+      "context": "Connects Anglo-American planning under Roosevelt, Churchill and Eisenhower with Vichy-controlled North Africa; the source traces German occupation of the remaining French zone to the landings."
+    },
+    {
+      "id": "tragedy-casablanca",
+      "name": "Casablanca conference sets Allied strategy and unconditional surrender",
+      "date": "1943-01-01",
+      "precision": "month",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill"
+      ],
+      "organizations": [
+        "war-cabinet"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        628,
+        629
+      ],
+      "summary": "The leaders delayed a cross-Channel invasion and announced the demand for unconditional surrender.",
+      "details": [
+        "Meeting during the third week of January, the Americans and British continued to disagree about direct invasion of Europe and long-range planning. The conference’s compromises reflected these continuing differences.",
+        "Quigley criticizes unconditional surrender for obscuring the distinction between hostile governments and their populations. He argues that it discouraged opponents inside Axis countries and may have prolonged resistance."
+      ],
+      "context": "Connects Roosevelt and Churchill’s strategic disagreements to postponement of a cross-Channel invasion and their unconditional-surrender formula, which Quigley argues affected resistance within Axis countries.",
+      "precisionNote": "The cited text gives the third week of January; no opening day is invented."
+    },
+    {
+      "id": "tragedy-stalingrad",
+      "name": "German Sixth Army collapses at Stalingrad",
+      "date": "1943-02-01",
+      "precision": "month",
+      "people": [
+        "adolf-hitler",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "german-nazi-government",
+        "soviet-government"
+      ],
+      "lanes": [
+        "war"
+      ],
+      "pages": [
+        629,
+        630
+      ],
+      "summary": "The Stalingrad defeat broke the German advance and helped secure a Soviet strategic reversal.",
+      "details": [
+        "Hitler redirected the 1942 offensive toward Stalingrad while the Caucasus operation sought oil. Encirclement turned the city battle into an effort to hold Soviet formations in place long enough for other German forces to escape through Rostov.",
+        "Paulus continued resistance despite starvation and exhaustion, following Hitler’s orders. Quigley connects Soviet success to growing mobility and the large flow of American vehicles, aircraft and supplies."
+      ],
+      "context": "Connects Hitler’s oil and territorial objectives with Soviet encirclement and the wider Allied supply effort; Quigley identifies mobility and imported vehicles as part of the reversal.",
+      "precisionNote": "The account describes collapse in the November 1942–February 1943 interval; February is used for the culminating defeat."
+    },
+    {
+      "id": "tragedy-moscow-1943",
+      "name": "Moscow foreign-ministers conference commits to a postwar organization",
+      "date": "1943-10-01",
+      "precision": "month",
+      "people": [
+        "anthony-eden",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "foreign-office",
+        "soviet-government",
+        "united-nations"
+      ],
+      "lanes": [
+        "diplomacy"
+      ],
+      "pages": [
+        650,
+        651
+      ],
+      "summary": "The four-nation declaration promised continued cooperation for peace and an international organization open to peace-loving states.",
+      "details": [
+        "The foreign ministers prepared the first meeting of the Big Three and discussed Germany, Austria and responsibility for war crimes. They favored a disarmed Germany under joint control rather than immediate dismemberment.",
+        "The declaration advanced the American project for a worldwide security organization, which Churchill had accepted at Quebec partly to avert a postwar American return to isolationism."
+      ],
+      "context": "Connects Allied foreign-minister negotiations with preparation for Teheran and the proposed United Nations, joining decisions on Germany and Austria to postwar security institutions.",
+      "precisionNote": "October 1943 is the source’s stated precision."
+    },
+    {
+      "id": "tragedy-teheran",
+      "name": "Teheran summit settles invasion priorities and shifts support to Tito",
+      "date": "1943-11-28",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill",
+        "joseph-stalin",
+        "josip-broz-tito"
+      ],
+      "organizations": [
+        "soviet-government",
+        "yugoslav-partisans"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        651,
+        652,
+        653,
+        654
+      ],
+      "summary": "The Big Three reinforced the cross-Channel invasion plan and favored Tito’s Partisans over the Chetniks.",
+      "details": [
+        "Stalin and Roosevelt opposed Balkan or Aegean diversions that might delay Overlord, forcing Churchill to accept a spring 1944 target. The conference also issued assurances about Iranian sovereignty against the background of Allied occupation and supply routes.",
+        "The shift in support to Tito had major consequences for postwar Yugoslavia. Quigley interprets rival guerrilla strategies partly through their differing attitudes toward German reprisals and the struggle to dominate after liberation."
+      ],
+      "context": "Connects Roosevelt, Churchill and Stalin’s invasion decisions with support for Tito’s Partisans and Iranian sovereignty; these choices shape both military operations and postwar political possibilities.",
+      "endDate": "1943-12-01"
+    },
+    {
+      "id": "tragedy-d-day",
+      "name": "Overlord begins on D-Day",
+      "date": "1944-06-06",
+      "precision": "day",
+      "people": [
+        "dwight-eisenhower",
+        "franklin-roosevelt",
+        "winston-churchill",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "war-cabinet",
+        "soviet-government"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        654
+      ],
+      "summary": "The cross-Channel invasion implemented the strategic priority agreed despite persistent disputes among the Allies.",
+      "details": [
+        "Teheran settled the central dispute over opening a major western ground front. In the following months the leaders devoted their efforts to the military preparations culminating in Overlord.",
+        "The new front affected more than Germany’s immediate military position: the location and progress of Allied armies would determine the balance of power in the postwar European settlement."
+      ],
+      "context": "Connects Eisenhower’s operation with the invasion priority settled at Teheran; the advance of Western armies also establishes their position in the eventual European settlement."
+    },
+    {
+      "id": "tragedy-bretton-woods",
+      "name": "Bretton Woods conference prepares postwar monetary institutions",
+      "date": "1944-07-01",
+      "precision": "month",
+      "people": [],
+      "organizations": [
+        "international-monetary-fund",
+        "world-bank"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "pages": [
+        667,
+        668
+      ],
+      "summary": "The monetary conference formed part of the wartime construction of postwar international organizations.",
+      "details": [
+        "Quigley places Bretton Woods alongside conferences on food, relief, education and security, stressing that the economic architecture was planned while fighting continued. The July 1944 discussions concerned international monetary problems.",
+        "The resulting framework included the International Monetary Fund and the International Bank for Reconstruction and Development. The account treats these as institutional components of the hoped-for cooperative postwar order, rather than isolated banking events."
+      ],
+      "context": "Connects wartime international economic planning with the IMF and World Bank; it is one institutional strand alongside relief, education and security conferences, rather than a claim that these bodies directed battlefield events.",
+      "precisionNote": "July 1944 is stated; no opening day is supplied in this passage."
+    },
+    {
+      "id": "tragedy-warsaw-uprising",
+      "name": "Warsaw Home Army surrenders after Soviet halt",
+      "date": "1944-10-03",
+      "precision": "day",
+      "people": [
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "war",
+        "security"
+      ],
+      "pages": [
+        666
+      ],
+      "summary": "The Home Army surrendered after sixty-three days while the Soviet advance stopped and supplies were obstructed.",
+      "details": [
+        "The uprising occurred as Soviet forces approached Warsaw and the London Polish government negotiated with Moscow. Quigley describes the rebels as responding to a Soviet invitation, followed by abandonment when the armies stopped near the city.",
+        "He interprets the destruction of the Home Army as removing the principal obstacle to Soviet-sponsored Communist rule. This is a strongly stated causal and moral judgment in the source account, distinct from the event’s basic chronology."
+      ],
+      "context": "Connects Soviet military decisions with the fate of the Polish Home Army and the Soviet-sponsored alternative government; the account interprets the rebels’ destruction as removing an obstacle to Communist rule."
+    },
+    {
+      "id": "tragedy-bulge",
+      "name": "Hitler directs the final western offensive",
+      "date": "1944-12-16",
+      "precision": "day",
+      "people": [
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "german-nazi-government"
+      ],
+      "lanes": [
+        "war"
+      ],
+      "pages": [
+        675,
+        676
+      ],
+      "summary": "The Ardennes offensive delayed the Western advance but depleted resources needed against Soviet attacks.",
+      "details": [
+        "Quigley emphasizes the unexpected priority given to resisting Western armies despite Hitler’s anti-Communist rhetoric. Reserves of manpower, fuel and transport were concentrated in the final offensive.",
+        "The effort stalled the western attack for about two months while leaving the eastern front vulnerable to the Soviet offensive beginning January 12. The source interprets the decision through Hitler’s hostility toward Western civilization as well as military calculation."
+      ],
+      "context": "Connects Hitler’s allocation of dwindling reserves to the western offensive with the delay in the Allied advance and weakened resistance to the subsequent Soviet attack."
+    },
+    {
+      "id": "tragedy-yalta",
+      "name": "Yalta summit negotiates the closing war and Soviet entry against Japan",
+      "date": "1945-02-04",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "winston-churchill",
+        "joseph-stalin",
+        "chiang-kai-shek"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war"
+      ],
+      "pages": [
+        686,
+        687,
+        688
+      ],
+      "summary": "The leaders addressed immediate postwar issues and secret Far Eastern terms associated with Soviet intervention against Japan.",
+      "details": [
+        "The European defeat of Germany was already foreseeable, while projected invasion casualties in Japan remained a central concern. The conference discussed reversal of Japanese gains at Russia’s and China’s expense and the details of Soviet participation.",
+        "The Far Eastern arrangements were kept secret, with China to be informed later because the Allies feared poor security in Chungking. Quigley distinguishes negotiations over terms from the claim that Stalin had to be persuaded to enter the war at all."
+      ],
+      "context": "Connects Roosevelt, Churchill and Stalin’s closing-war negotiations with planned Soviet intervention against Japan and the secret terms affecting China; Chiang’s involvement here is as the leader to be informed, not a conference attendee.",
+      "endDate": "1945-02-12"
+    },
+    {
+      "id": "tragedy-roosevelt-death",
+      "name": "Roosevelt dies and Truman inherits unfamiliar wartime decisions",
+      "date": "1945-04-12",
+      "precision": "day",
+      "people": [
+        "franklin-roosevelt",
+        "harry-truman",
+        "henry-stimson",
+        "james-byrnes"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "domestic",
+        "diplomacy"
+      ],
+      "pages": [
+        689
+      ],
+      "summary": "The succession forced Truman to learn rapidly about atomic research and the main lines of foreign policy.",
+      "details": [
+        "Truman had been kept outside much of the wartime policy process and learned about the atomic project through Stimson on April 12 and again two weeks later. Quigley stresses the extraordinary informational burden this created.",
+        "Truman selected Byrnes for the State Department partly to avoid another uninformed successor, but Byrnes himself had mainly handled domestic matters. Changes of personnel complicated the final negotiations with Stalin."
+      ],
+      "context": "Connects presidential succession to Stimson’s atomic briefings and Truman’s selection of Byrnes, explaining the change of American leadership and preparation before Potsdam."
+    },
+    {
+      "id": "tragedy-trinity",
+      "name": "First atomic test succeeds at Alamogordo",
+      "date": "1945-07-16",
+      "precision": "day",
+      "people": [
+        "harry-truman",
+        "robert-oppenheimer",
+        "henry-stimson"
+      ],
+      "organizations": [],
+      "lanes": [
+        "security",
+        "war"
+      ],
+      "pages": [
+        690,
+        691
+      ],
+      "summary": "The successful test revealed the scale of nuclear destruction as the Potsdam negotiations opened.",
+      "details": [
+        "The implosion-type plutonium device detonated at 5:30 a.m. near Alamogordo, producing effects far beyond ordinary explosives. The narrative describes scientists confronting the moral and political significance of their achievement.",
+        "Quigley argues that the bomb did not play a decisive role in the Potsdam bargaining itself, but suggests that haste in using the weapons may have aimed at securing Japanese surrender before effective Soviet intervention."
+      ],
+      "context": "Connects the atomic research breakthrough to the Potsdam-period decisions on targets and use of the bomb; Quigley’s interpretation of urgency remains separate from the test’s demonstrated technical success.",
+      "precisionNote": "The AEC is a later institutional connection in the atomic narrative, not the organization administering the July 1945 test."
+    },
+    {
+      "id": "tragedy-potsdam",
+      "name": "Potsdam conference convenes with changing Western leadership",
+      "date": "1945-07-17",
+      "precision": "day",
+      "people": [
+        "harry-truman",
+        "joseph-stalin",
+        "winston-churchill",
+        "clement-attlee",
+        "anthony-eden",
+        "ernest-bevin",
+        "james-byrnes"
+      ],
+      "organizations": [
+        "soviet-government",
+        "state-department",
+        "foreign-office"
+      ],
+      "lanes": [
+        "diplomacy"
+      ],
+      "pages": [
+        689,
+        690,
+        691
+      ],
+      "summary": "The final Big Three wartime conference faced questions of Germany, cooperation and the imminent Japanese defeat.",
+      "details": [
+        "Truman and Byrnes were new to the roles previously occupied by Roosevelt and his advisers. The British election then brought Attlee and Bevin into the delegation, leaving Stalin as the sole surviving head among the earlier summit trio.",
+        "The American delegation hoped to preserve cooperation within the UN and avoid a European division that would force Germany into opposed blocs. Quigley presents competing expectations about recovery and political balance as central problems."
+      ],
+      "context": "Connects Truman, Byrnes and Stalin’s postwar negotiations with the replacement of Churchill and Eden by Attlee and Bevin, joining leadership changes to competing plans for European recovery.",
+      "endDate": "1945-08-02"
+    },
+    {
+      "id": "tragedy-hiroshima",
+      "name": "United States drops atomic bomb on Hiroshima",
+      "date": "1945-08-06",
+      "precision": "day",
+      "people": [
+        "harry-truman",
+        "henry-stimson",
+        "hirohito"
+      ],
+      "organizations": [
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "war",
+        "security"
+      ],
+      "pages": [
+        691,
+        693,
+        694
+      ],
+      "summary": "The Hiroshima attack confronted Japan with a new kind of destruction while surrender conditions remained disputed.",
+      "details": [
+        "The account traces target selection, Stimson’s successful effort to remove Kyoto, and the flight of the Enola Gay from Tinian. The Potsdam ultimatum had threatened destruction without explicitly explaining an atomic weapon.",
+        "After the attack the emperor indicated that the Potsdam terms should be accepted, but military leaders continued to seek conditions on disarmament, occupation and war-crimes trials. The source separates that internal deadlock from the assumption that all Japanese leaders were ready to surrender on identical terms."
+      ],
+      "context": "Connects Truman’s authorization and Stimson’s target intervention with Japan’s internal debate over surrender; the account follows the attack into the emperor’s position and continuing military demands."
+    },
+    {
+      "id": "tragedy-japan-surrender",
+      "name": "Japan signs the final surrender aboard Missouri",
+      "date": "1945-09-02",
+      "precision": "day",
+      "people": [
+        "hirohito",
+        "harry-truman"
+      ],
+      "organizations": [
+        "japanese-imperial-government"
+      ],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "pages": [
+        694
+      ],
+      "summary": "The formal signing ended the sequence of atomic attacks, Soviet intervention and the emperor’s order to make peace.",
+      "details": [
+        "A second bomb struck Nagasaki on August 9 after the Soviet declaration of war late on August 8. Hirohito intervened personally in the deadlocked council on August 10; acceptance preserved the emperor subject to the Allied Supreme Commander.",
+        "A failed military coup preceded the emperor’s radio appeal for acceptance of peace. The final surrender was signed on September 2 beneath the guns of the Missouri, completing a process rather than representing the first decision to stop fighting."
+      ],
+      "context": "Connects Hirohito’s intervention with atomic attacks, Soviet entry and Allied surrender terms; the September signing formalizes the earlier decision to accept peace."
+    },
+    {
+      "id": "tragedy-marshall-china",
+      "name": "Marshall’s mission seeks settlement and reform in China",
+      "date": "1946-01-01",
+      "precision": "year",
+      "people": [
+        "george-marshall",
+        "harry-truman",
+        "chiang-kai-shek",
+        "mao-zedong"
+      ],
+      "organizations": [
+        "kuomintang",
+        "chinese-communist-party",
+        "state-department"
+      ],
+      "lanes": [
+        "diplomacy",
+        "revolution"
+      ],
+      "pages": [
+        754,
+        755
+      ],
+      "summary": "Marshall attempted mediation, then urged reform and consolidation as the Nationalist regime continued its civil-war offensive.",
+      "details": [
+        "The original narrative describes corruption, dispersal of American aid and deteriorating support among peasants and urban groups. Marshall initially hoped for a coalition including Communists in a minority role, a proposal neither side accepted.",
+        "The mission’s failure reinforced his judgment that saving the Nationalist regime would require American control and troops at the expense of priorities in Europe. Bracketed claims of deliberate betrayal in this PDF are editorial interpolations and are excluded from this account."
+      ],
+      "context": "Connects Marshall’s mediation for Truman with the struggle between Chiang and Mao and the later choice to prioritize Europe. Bracketed editorial claims of deliberate betrayal in this edition are excluded.",
+      "precisionNote": "The passage says Marshall spent much of 1946 in China; the first day only anchors year precision."
+    },
+    {
+      "id": "tragedy-baruch",
+      "name": "Baruch presents international atomic-control plan",
+      "date": "1946-06-14",
+      "precision": "day",
+      "people": [
+        "bernard-baruch",
+        "dean-acheson",
+        "david-lilienthal",
+        "robert-oppenheimer"
+      ],
+      "organizations": [
+        "un-atomic-energy-commission",
+        "united-nations"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        744,
+        745
+      ],
+      "summary": "The plan proposed international control of nuclear materials before dismantling American weapons; the Soviet response demanded the reverse order.",
+      "details": [
+        "The international body would own, control or license uranium through processing and use, inspect facilities and prohibit weapons or diversion. Baruch proposed punishment outside the normal great-power veto and phased implementation to protect against evasion.",
+        "The Soviet representative rejected the proposal within five days, demanding immediate abolition of weapons and preservation of the veto before later control arrangements. Quigley interprets this as evidence of Soviet resistance to outside inspection rather than treating the impasse as merely a technical disagreement."
+      ],
+      "context": "Connects Baruch’s UN proposal with the Acheson–Lilienthal planning work and Oppenheimer’s technical advice; opposing US and Soviet sequencing demands explain the failure of international atomic control."
+    },
+    {
+      "id": "tragedy-aec",
+      "name": "McMahon legislation creates civilian atomic-energy commission",
+      "date": "1946-08-01",
+      "precision": "month",
+      "people": [
+        "david-lilienthal",
+        "harry-truman",
+        "leo-szilard",
+        "robert-oppenheimer"
+      ],
+      "organizations": [
+        "atomic-energy-commission",
+        "federation-atomic-scientists"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        744
+      ],
+      "summary": "Scientists’ lobbying helped establish civilian control, but the commission retained extensive secrecy and a weapons emphasis.",
+      "details": [
+        "The scientists’ organization opposed the administration’s May-Johnson proposal and backed the McMahon bill, which received presidential signature in August. Five full-time civilian commissioners controlled nuclear materials, plants and process patents.",
+        "Quigley says the result disappointed advocates seeking reduced military influence and open theoretical research. Technical dependence on advisory scientists, led by Oppenheimer, and the continuing weapons program constrained the reform."
+      ],
+      "context": "Connects Lilienthal’s civilian commission with Szilard’s wider scientist advocacy and Oppenheimer’s advisory influence; the narrative distinguishes legal civilian control from reduced secrecy or weapons emphasis.",
+      "precisionNote": "The cited passage specifies August 1946."
+    },
+    {
+      "id": "tragedy-truman-doctrine",
+      "name": "Truman asks Congress to aid Greece and Turkey",
+      "date": "1947-03-12",
+      "precision": "day",
+      "people": [
+        "harry-truman"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        747,
+        748
+      ],
+      "summary": "The Truman Doctrine announced support for peoples resisting armed minorities or outside pressure.",
+      "details": [
+        "Britain could no longer sustain the military and financial burden in Greece and Turkey and threatened withdrawal in February. Soviet pressure, guerrilla activity and limits of UN action formed the background to the American decision.",
+        "Truman requested $400 million in assistance, approved after debate in May. The narrative connects the doctrine to the broader turn from hoped-for cooperation toward containment of Soviet influence."
+      ],
+      "context": "Connects Truman’s aid request with Britain’s financial retreat from Greece and Turkey, the limits of UN action and the emerging containment policy."
+    },
+    {
+      "id": "tragedy-marshall-plan",
+      "name": "Marshall proposes cooperative European recovery aid",
+      "date": "1947-06-01",
+      "precision": "month",
+      "people": [
+        "george-marshall",
+        "harry-truman",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "pages": [
+        743,
+        748
+      ],
+      "summary": "Marshall offered support for a European recovery program open to the Soviet Union and Communist states.",
+      "details": [
+        "At Harvard’s commencement, Marshall presented economic support as a cooperative program rather than assistance confined from the outset to an anti-Soviet bloc. Quigley uses the inclusive offer as evidence that American willingness to cooperate had not yet vanished.",
+        "Stalin rejected participation and required Czechoslovakia to reverse its acceptance. The source interprets the refusal as a more clearly observable turning point in the onset of the Cold War than an inferred earlier decision in the Kremlin."
+      ],
+      "context": "Connects Marshall’s State Department recovery proposal with Truman’s broader policy and Stalin’s rejection; the source emphasizes that the initial offer included Communist states.",
+      "precisionNote": "The passage places the Harvard speech two weeks after the May aid approval; June precision avoids importing an exact day from outside this text."
+    },
+    {
+      "id": "tragedy-czech-recovery-reversal",
+      "name": "Stalin compels Czechoslovakia to refuse Marshall aid",
+      "date": "1947-07-10",
+      "precision": "day",
+      "people": [
+        "joseph-stalin",
+        "klement-gottwald"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "pages": [
+        743
+      ],
+      "summary": "Czechoslovakia reversed its July 7 acceptance of participation on Stalin’s direct instruction.",
+      "details": [
+        "The episode demonstrates the practical boundary of a recovery offer nominally open to the whole of Europe. Gottwald’s government could not pursue its initial economic decision independently of Soviet direction.",
+        "Quigley presents the July refusal as a possible date for the beginning of the Cold War, distinguishing it from his inferred February–March 1946 decision by Stalin to end cooperation."
+      ],
+      "context": "Connects Gottwald’s initial economic decision with Stalin’s instruction to reverse it; Quigley uses the case to mark the tightening division of European recovery into opposing blocs."
+    },
+    {
+      "id": "tragedy-security-act",
+      "name": "National Security Act reorganizes American security institutions",
+      "date": "1947-01-01",
+      "precision": "year",
+      "people": [
+        "harry-truman",
+        "james-forrestal"
+      ],
+      "organizations": [
+        "defense-department",
+        "national-security-council",
+        "cia",
+        "joint-chiefs"
+      ],
+      "lanes": [
+        "security",
+        "domestic"
+      ],
+      "pages": [
+        758,
+        760,
+        761
+      ],
+      "summary": "The reorganization created new security structures while leaving much interservice rivalry unresolved.",
+      "details": [
+        "The account identifies unification of the services, a presidential National Security Council and reorganization of intelligence around the CIA among its major elements. It criticizes an attempt to substitute organizational arrangements for an explicit strategic framework.",
+        "Separate service secretaries and chiefs retained competing loyalties and command relationships, limiting the defense secretary’s effective authority. The narrative discusses NSA in this wider evolving system; it does not justify dating NSA’s creation to the 1947 act."
+      ],
+      "context": "Connects Truman and Forrestal with the Defense Department, National Security Council, CIA and Joint Chiefs; the source argues that reorganization alone failed to resolve competing service priorities.",
+      "precisionNote": "The cited section identifies the Act by year; no exact enactment day is normalized here."
+    },
+    {
+      "id": "tragedy-cominform",
+      "name": "Cominform is organized in Poland",
+      "date": "1947-09-01",
+      "precision": "month",
+      "people": [
+        "andrei-zhdanov",
+        "joseph-stalin",
+        "josip-broz-tito"
+      ],
+      "organizations": [
+        "cominform",
+        "soviet-government"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        748
+      ],
+      "summary": "The meeting reestablished direct coordination of Communist parties within a sharply divided two-camp worldview.",
+      "details": [
+        "Representatives from eight European Communist parties met under Zhdanov’s direction. Delegates were told that the world consisted of a US-led imperialist camp and a Soviet-led peace-loving camp.",
+        "Quigley describes the organization as part of Soviet efforts to control local parties and police. The resulting demands clashed with Tito’s insistence on Yugoslav autonomy and helped precipitate the rupture."
+      ],
+      "context": "Connects Zhdanov’s coordinating organization with Stalin’s effort to control European Communist parties and the confrontation with Tito over Yugoslav autonomy.",
+      "precisionNote": "September 1947 is stated."
+    },
+    {
+      "id": "tragedy-czech-coup",
+      "name": "Beneš yields to Gottwald’s cabinet demands",
+      "date": "1948-02-25",
+      "precision": "day",
+      "people": [
+        "edvard-benes",
+        "klement-gottwald",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "revolution",
+        "domestic"
+      ],
+      "pages": [
+        749
+      ],
+      "summary": "The dismissal of non-Communist ministers completed the decisive step toward Communist control of Czechoslovakia.",
+      "details": [
+        "A dispute over replacement of Prague police officials escalated when the Communist interior minister defied the Cabinet. Armed factory workers, police and militia supported the party’s pressure.",
+        "Gottwald threatened civil war unless Beneš dismissed twelve ministers. Quigley links Beneš’s vulnerability to disillusionment with the Western powers at Munich, explicitly connecting the 1938 settlement with the political outcome ten years later."
+      ],
+      "context": "Connects Gottwald’s pressure on Beneš with Communist control of police and armed organizations; Quigley explicitly links Beneš’s orientation toward Russia to his disillusionment at Munich."
+    },
+    {
+      "id": "tragedy-italian-election",
+      "name": "Italian election gives Christian Democrats decisive victory",
+      "date": "1948-04-18",
+      "precision": "day",
+      "people": [
+        "alcide-de-gasperi"
+      ],
+      "organizations": [],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "pages": [
+        751
+      ],
+      "summary": "The first general election under the new republican constitution defeated the Communist-led Popular Front alliance.",
+      "details": [
+        "Communists had participated in earlier De Gasperi governments before moving into opposition in May 1947. The constitution taking effect in January 1948 required the new election as the country’s political orientation remained uncertain.",
+        "The Christian Democrats won 307 of 570 assembly seats against 182 for the Popular Front. Quigley treats the result as Italy’s postwar turning point, alongside Berlin and monetary reform in Germany."
+      ],
+      "context": "Connects De Gasperi’s Christian Democrats with Italy’s postwar constitutional transition and Communist opposition. This passage describes the electoral outcome without independently supporting covert-financing claims in other sources.",
+      "precisionNote": "No causal claim about covert American financing is supplied by this cited passage; cross-source comparison with Scott must preserve that distinction."
+    },
+    {
+      "id": "tragedy-tito-break",
+      "name": "Yugoslavia is expelled from Cominform",
+      "date": "1948-06-01",
+      "precision": "month",
+      "people": [
+        "josip-broz-tito",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "cominform",
+        "yugoslav-partisans",
+        "soviet-government"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        746,
+        748,
+        749
+      ],
+      "summary": "Tito’s rejection of Soviet domination led to expulsion and an extensive campaign against Yugoslavia.",
+      "details": [
+        "Stalin had tried to force Yugoslavia into federation with more compliant Bulgaria after growing disputes over regional alignments. Tito refused, bringing the conflict to an open break.",
+        "The Soviet bloc launched economic, ideological and political pressure, while alleged Titoists were purged elsewhere. Yugoslavia closed its border to Greek guerrillas and later received American aid, changing the regional balance."
+      ],
+      "context": "Connects Tito’s refusal of Soviet control with expulsion from Cominform, Soviet-bloc pressure and Yugoslavia’s later move toward American assistance; these are political conflicts, not continuing alliance memberships.",
+      "precisionNote": "The source gives June 1948 for expulsion."
+    },
+    {
+      "id": "tragedy-german-currency",
+      "name": "Western German currency reform binds recovery to the West",
+      "date": "1948-06-01",
+      "precision": "month",
+      "people": [
+        "lucius-clay"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "finance",
+        "diplomacy"
+      ],
+      "pages": [
+        750,
+        751
+      ],
+      "summary": "The monetary reform reduced excess currency and stimulated recovery while deepening Germany’s east-west division.",
+      "details": [
+        "Quigley describes the reform as a fiscal turning point, replacing inflated Reichsmarks with Deutschemarks and arranging blocked balances to encourage production. He connects it with industrial expansion and Western European prosperity.",
+        "The Soviet government opposed the measure because it threatened to orient German exchanges toward Western food and raw materials rather than an economically reunited Germany. It then invoked the reform as a justification for the Berlin blockade."
+      ],
+      "context": "Connects monetary reconstruction and industrial revival to Germany’s westward economic orientation; the source presents the reform as the pretext used for the Berlin blockade.",
+      "precisionNote": "PDF p751 says June 1, whereas commonly documented implementation uses a later June date; month precision preserves the source account without silently endorsing its day."
+    },
+    {
+      "id": "tragedy-berlin-blockade",
+      "name": "Berlin blockade begins; Western airlift supplies the city",
+      "date": "1948-06-24",
+      "precision": "day",
+      "people": [
+        "joseph-stalin",
+        "lucius-clay",
+        "harry-truman"
+      ],
+      "organizations": [
+        "soviet-government"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        751,
+        752,
+        753
+      ],
+      "summary": "The closure of ground access led to an airlift that sustained the Western sectors until the blockade ended.",
+      "details": [
+        "Earlier restrictions had already disrupted road and rail traffic. On June 24 all ground access from the west closed, leaving a contested air corridor and enormous daily needs for food and fuel among two million people.",
+        "The airlift expanded despite weather and darkness, while Berlin’s administration split and the western zones moved toward a civilian West German state. Quigley attributes the Western success to logistical efficiency and Berliners’ endurance."
+      ],
+      "context": "Connects Stalin’s pressure and Clay’s occupation responsibilities with the airlift and the political separation of German zones; the source links the crisis to later Western alliance-building.",
+      "endDate": "1949-05-12"
+    },
+    {
+      "id": "tragedy-lemay-sac",
+      "name": "LeMay takes command of Strategic Air Command",
+      "date": "1948-10-01",
+      "precision": "month",
+      "people": [
+        "curtis-lemay"
+      ],
+      "organizations": [
+        "strategic-air-command"
+      ],
+      "lanes": [
+        "security",
+        "war"
+      ],
+      "pages": [
+        761
+      ],
+      "summary": "LeMay replaced mobilization-based assumptions with a more continuously ready strategic-bombing force.",
+      "details": [
+        "SAC had been formed in March 1946 but initially lacked sufficient aircraft, trained personnel, bases and equipment. It still assumed that negotiations and mobilization would precede war.",
+        "LeMay’s arrival in October 1948 brought intensive efforts to transform readiness. The account situates this change within interservice budget conflicts and the air force’s success in prioritizing strategic bombing."
+      ],
+      "context": "Connects LeMay’s command appointment with the strategic-bombing priorities favored in the interservice budget struggle; his readiness reforms address the earlier weakness of SAC.",
+      "precisionNote": "October 1948 is supplied."
+    },
+    {
+      "id": "tragedy-nato",
+      "name": "North Atlantic treaty establishes a Western defense organization",
+      "date": "1949-04-04",
+      "precision": "day",
+      "people": [
+        "harry-truman"
+      ],
+      "organizations": [
+        "nato"
+      ],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "pages": [
+        763
+      ],
+      "summary": "The treaty united the United States, Canada and ten Western European states in a mutual-defense framework.",
+      "details": [
+        "Its declared principles emphasized democracy, individual liberty and the rule of law. The account relates formation of the alliance to the Berlin crisis and the effort to anchor Western Germany within the Western camp.",
+        "Later accessions expanded the alliance, including Greece and Turkey in 1952 and West Germany in 1955. Those later dates are contextual consequences, not presented as membership at the founding moment."
+      ],
+      "context": "Connects the North Atlantic alliance with the Berlin crisis and the integration of western Germany into a Western defense framework; later accessions are contextual developments rather than founding memberships."
+    },
+    {
+      "id": "tragedy-nationalist-taiwan",
+      "name": "Nationalist government flees mainland China for Taiwan",
+      "date": "1949-12-07",
+      "precision": "day",
+      "people": [
+        "chiang-kai-shek",
+        "mao-zedong",
+        "zhou-enlai"
+      ],
+      "organizations": [
+        "kuomintang",
+        "chinese-communist-party"
+      ],
+      "lanes": [
+        "revolution",
+        "diplomacy"
+      ],
+      "pages": [
+        755,
+        756
+      ],
+      "summary": "The Communist military victories culminated in the Nationalist government’s retreat to Taiwan.",
+      "details": [
+        "The narrative traces the defeat to Nationalist corruption, inflation, military dispersal and failures to act on reform advice, along with Communist access to captured Japanese and American weapons. It describes major northern armies as destroyed by early 1949.",
+        "The source dates the flight as eight years to the day after Pearl Harbor. Editorial bracketed claims about a deliberate American betrayal are excluded from this summary; they are not treated as Quigley’s own historical judgment."
+      ],
+      "context": "Connects Chiang’s Nationalist retreat with Mao and Zhou’s mainland victory and the failed earlier reform and mediation efforts; the summary excludes the supplied edition’s bracketed betrayal allegations."
+    },
+    {
+      "id": "tragedy-sino-soviet-treaty",
+      "name": "Mao and Stalin conclude mutual-assistance treaty",
+      "date": "1950-02-14",
+      "precision": "day",
+      "people": [
+        "mao-zedong",
+        "joseph-stalin"
+      ],
+      "organizations": [
+        "soviet-government",
+        "chinese-communist-party"
+      ],
+      "lanes": [
+        "diplomacy",
+        "finance"
+      ],
+      "pages": [
+        756
+      ],
+      "summary": "The treaty linked Chinese requests for aid with Soviet efforts to influence the new regime’s direction.",
+      "details": [
+        "Mao met Stalin in Moscow in December 1949, seeking economic and technical assistance to rebuild China. Public and secret arrangements included a defensive alliance, loans and eventual transfer of certain northern ports and railways.",
+        "Quigley emphasizes that China sought more aid than it obtained and that territorial and regional arrangements preserved considerable Soviet influence. His suggestion of a secret agreement concerning a Korean attack remains explicitly tentative, not an established term."
+      ],
+      "context": "Connects Mao’s need for economic and technical assistance with Stalin’s effort to shape the new Chinese regime; the account distinguishes stated treaty terms from tentative speculation about Korea."
+    },
+    {
+      "id": "tragedy-nsc68",
+      "name": "Nitze’s Policy Planning Staff prepares NSC 68",
+      "date": "1950-04-01",
+      "precision": "month",
+      "people": [
+        "paul-nitze",
+        "harry-truman"
+      ],
+      "organizations": [
+        "policy-planning-staff",
+        "state-department",
+        "national-security-council",
+        "joint-chiefs"
+      ],
+      "lanes": [
+        "security",
+        "diplomacy"
+      ],
+      "pages": [
+        758
+      ],
+      "summary": "The document supplied a strategic military policy underlying containment after years of interservice deadlock.",
+      "details": [
+        "The Joint Chiefs had told Truman in 1946 that a common strategy required service unification, yet rivalry prevented an agreed policy for several more years. Quigley places completion of the strategic framework in April 1950.",
+        "He specifically attributes NSC 68 to Nitze’s State Department Policy Planning Staff rather than its National Security Council code label. This links the administrative structures established after the war to the emerging containment program."
+      ],
+      "context": "Connects Nitze’s State Department planning office with Truman’s containment policy and the unresolved strategy problems of the Joint Chiefs; the NSC code label does not identify the document’s drafting office.",
+      "precisionNote": "April 1950 is stated; no submission day is invented."
+    }
+  ],
+  "relationships": [
+    {
+      "fromId": "sun-yat-sen",
+      "toId": "kuomintang",
+      "label": "founded",
+      "pages": [
+        477
+      ],
+      "description": "The source explicitly describes the Kuomintang as founded by Sun Yat-sen."
+    },
+    {
+      "fromId": "chiang-kai-shek",
+      "toId": "kuomintang",
+      "label": "military and political leader",
+      "pages": [
+        477,
+        478,
+        754
+      ],
+      "description": "Chiang extended party rule and subsequently directed the Nationalist regime."
+    },
+    {
+      "fromId": "mao-zedong",
+      "toId": "chinese-communist-party",
+      "label": "led rural Communist regime",
+      "pages": [
+        478,
+        754
+      ],
+      "description": "Mao led Communist forces based in rural China and the later mainland victory."
+    },
+    {
+      "fromId": "zhou-enlai",
+      "toId": "chinese-communist-party",
+      "label": "led with Mao",
+      "pages": [
+        754
+      ],
+      "description": "The account names Mao and Chou En-lai together in the Yenan-based Communist regime."
+    },
+    {
+      "fromId": "chiang-kai-shek",
+      "toId": "mao-zedong",
+      "label": "opposed in Chinese civil war",
+      "pages": [
+        754,
+        755,
+        756
+      ],
+      "description": "The relationship is military and political opposition, not affiliation."
+    },
+    {
+      "fromId": "joseph-stalin",
+      "toId": "soviet-government",
+      "label": "headed",
+      "pages": [
+        738,
+        739
+      ],
+      "description": "The discussion centers on Stalin’s assessment and direction of Soviet foreign policy."
+    },
+    {
+      "fromId": "vyacheslav-molotov",
+      "toId": "soviet-government",
+      "label": "foreign minister",
+      "pages": [
+        551,
+        553
+      ],
+      "description": "Molotov replaced Litvinov and negotiated with British and German representatives."
+    },
+    {
+      "fromId": "joachim-von-ribbentrop",
+      "toId": "german-nazi-government",
+      "label": "foreign minister",
+      "pages": [
+        553
+      ],
+      "description": "Ribbentrop signed the German-Soviet pact as German representative."
+    },
+    {
+      "fromId": "adolf-hitler",
+      "toId": "german-nazi-government",
+      "label": "directed",
+      "pages": [
+        520,
+        553,
+        558
+      ],
+      "description": "Hitler made expansion, alliance and war decisions in the cited sections."
+    },
+    {
+      "fromId": "benito-mussolini",
+      "toId": "italian-fascist-government",
+      "label": "dictator",
+      "pages": [
+        482,
+        486
+      ],
+      "description": "The account attributes Italian state and military policy to Mussolini."
+    },
+    {
+      "fromId": "samuel-hoare",
+      "toId": "pierre-laval",
+      "label": "negotiated Ethiopian partition proposal",
+      "pages": [
+        486
+      ],
+      "description": "The secret proposal allocated territory and an economic expansion zone to Italy."
+    },
+    {
+      "fromId": "benito-mussolini",
+      "toId": "francisco-franco",
+      "label": "supplied rebel military support",
+      "pages": [
+        504,
+        505
+      ],
+      "description": "Italian aircraft and other aid sustained the military revolt."
+    },
+    {
+      "fromId": "adolf-hitler",
+      "toId": "francisco-franco",
+      "label": "authorized aircraft assistance",
+      "pages": [
+        504
+      ],
+      "description": "After an emissary reached Hitler on July 24, German aircraft and crews were dispatched."
+    },
+    {
+      "fromId": "douglas-jerrold",
+      "toId": "hugh-pollard",
+      "label": "arranged flight for Franco",
+      "pages": [
+        504
+      ],
+      "description": "Jerrold persuaded Pollard to undertake the Canary Islands mission."
+    },
+    {
+      "fromId": "hugh-pollard",
+      "toId": "francisco-franco",
+      "label": "transported to Morocco",
+      "pages": [
+        504
+      ],
+      "description": "The flight was designed to bring Franco to the military rebellion."
+    },
+    {
+      "fromId": "kurt-schuschnigg",
+      "toId": "franz-von-papen",
+      "label": "negotiated Austrian-German agreement",
+      "pages": [
+        519
+      ],
+      "description": "They signed the public and secret agreement of July 11, 1936."
+    },
+    {
+      "fromId": "curtis",
+      "toId": "round-table",
+      "label": "member of policy circle",
+      "pages": [
+        491
+      ],
+      "description": "The source names Curtis among the more moderate Round Table group."
+    },
+    {
+      "fromId": "amery",
+      "toId": "round-table",
+      "label": "member of policy circle",
+      "pages": [
+        491
+      ],
+      "description": "The source names Amery alongside Curtis, Lothian, Brand and Astor."
+    },
+    {
+      "fromId": "kerr",
+      "toId": "rhodes-trust",
+      "label": "Rhodes organization secretary, 1925–1940",
+      "pages": [
+        491
+      ],
+      "description": "The text identifies Lord Lothian, Philip Kerr, as secretary during these years."
+    },
+    {
+      "fromId": "brand",
+      "toId": "round-table",
+      "label": "member of policy circle",
+      "pages": [
+        491
+      ],
+      "description": "Brand is named in the Round Table grouping used in the appeasement analysis."
+    },
+    {
+      "fromId": "waldorf-astor",
+      "toId": "round-table",
+      "label": "member of policy circle",
+      "pages": [
+        491
+      ],
+      "description": "Lord Astor is named in the institutional circle seeking an Atlantic bloc."
+    },
+    {
+      "fromId": "round-table",
+      "toId": "riia",
+      "label": "overlapping Atlantic-bloc institutional network",
+      "pages": [
+        491
+      ],
+      "description": "The narrative places the Chatham House institutes in the same network of preparations for an Atlantic grouping; this does not establish legal ownership."
+    },
+    {
+      "fromId": "round-table",
+      "toId": "cfr",
+      "label": "overlapping Atlantic-bloc institutional network",
+      "pages": [
+        491
+      ],
+      "description": "The Council on Foreign Relations is included in the source’s account of an Anglo-American institutional network."
+    },
+    {
+      "fromId": "neville-chamberlain",
+      "toId": "adolf-hitler",
+      "label": "negotiated during Czech crisis",
+      "pages": [
+        534,
+        536,
+        537
+      ],
+      "description": "The relationship records diplomacy rather than shared organization membership."
+    },
+    {
+      "fromId": "philippe-petain",
+      "toId": "vichy-government",
+      "label": "head of state and government",
+      "pages": [
+        579
+      ],
+      "description": "Vichy constitutional laws combined these offices and legislative decree powers."
+    },
+    {
+      "fromId": "pierre-laval",
+      "toId": "vichy-government",
+      "label": "constitutional organizer and designated successor",
+      "pages": [
+        579
+      ],
+      "description": "Laval pushed through the measures concentrating authority under Pétain."
+    },
+    {
+      "fromId": "franklin-roosevelt",
+      "toId": "winston-churchill",
+      "label": "wartime strategic partners",
+      "pages": [
+        602,
+        603,
+        628,
+        651
+      ],
+      "description": "The partners cooperated while disagreeing over strategy, trade and international organization."
+    },
+    {
+      "fromId": "franklin-roosevelt",
+      "toId": "joseph-stalin",
+      "label": "Big Three negotiating partners",
+      "pages": [
+        651,
+        686,
+        687
+      ],
+      "description": "Teheran and Yalta negotiations connected war plans and postwar arrangements."
+    },
+    {
+      "fromId": "harry-truman",
+      "toId": "james-byrnes",
+      "label": "selected as secretary of state",
+      "pages": [
+        689
+      ],
+      "description": "Truman selected Byrnes in part to provide an informed successor in the presidential succession order."
+    },
+    {
+      "fromId": "henry-stimson",
+      "toId": "harry-truman",
+      "label": "briefed on atomic research",
+      "pages": [
+        689
+      ],
+      "description": "Stimson explained the program to Truman after Roosevelt’s death."
+    },
+    {
+      "fromId": "robert-oppenheimer",
+      "toId": "cia",
+      "label": "atomic-energy consultant",
+      "pages": [
+        737
+      ],
+      "description": "The text lists the CIA among organizations receiving Oppenheimer’s advice after 1947."
+    },
+    {
+      "fromId": "robert-oppenheimer",
+      "toId": "state-department",
+      "label": "atomic-energy consultant",
+      "pages": [
+        737
+      ],
+      "description": "The State Department appears in the list of governmental advisory roles."
+    },
+    {
+      "fromId": "robert-oppenheimer",
+      "toId": "national-security-council",
+      "label": "atomic-energy consultant",
+      "pages": [
+        737
+      ],
+      "description": "The NSC appears in the list of governmental advisory roles."
+    },
+    {
+      "fromId": "david-lilienthal",
+      "toId": "atomic-energy-commission",
+      "label": "first chairman",
+      "pages": [
+        744
+      ],
+      "description": "The civilian commission was chaired by the former TVA leader."
+    },
+    {
+      "fromId": "bernard-baruch",
+      "toId": "un-atomic-energy-commission",
+      "label": "presented control plan",
+      "pages": [
+        745
+      ],
+      "description": "Baruch presented the plan on June 14, 1946."
+    },
+    {
+      "fromId": "dean-acheson",
+      "toId": "david-lilienthal",
+      "label": "co-led atomic-control study",
+      "pages": [
+        745
+      ],
+      "description": "The State Department committee developed proposals before Baruch’s presentation."
+    },
+    {
+      "fromId": "leo-szilard",
+      "toId": "federation-atomic-scientists",
+      "label": "scientist advocacy network",
+      "pages": [
+        743,
+        744
+      ],
+      "description": "Szilard’s petitions and the Chicago scientific group preceded the post-Hiroshima organization; no formal founding office is assigned."
+    },
+    {
+      "fromId": "josip-broz-tito",
+      "toId": "yugoslav-partisans",
+      "label": "led",
+      "pages": [
+        654,
+        665
+      ],
+      "description": "The Partisans dominated the coalition accepted in Belgrade in 1945."
+    },
+    {
+      "fromId": "josip-broz-tito",
+      "toId": "joseph-stalin",
+      "label": "broke over Soviet control",
+      "pages": [
+        746,
+        748
+      ],
+      "description": "The relationship records conflict culminating in expulsion from Cominform."
+    },
+    {
+      "fromId": "andrei-zhdanov",
+      "toId": "cominform",
+      "label": "directed organization meeting",
+      "pages": [
+        748
+      ],
+      "description": "Zhdanov presided over the September 1947 creation and ideological framing."
+    },
+    {
+      "fromId": "klement-gottwald",
+      "toId": "joseph-stalin",
+      "label": "subject to instructions on Marshall aid",
+      "pages": [
+        743
+      ],
+      "description": "The Czech government reversed its acceptance on Stalin’s direct order."
+    },
+    {
+      "fromId": "george-marshall",
+      "toId": "state-department",
+      "label": "secretary of state announcing recovery plan",
+      "pages": [
+        748
+      ],
+      "description": "The Harvard proposal is explicitly attributed to Secretary of State Marshall."
+    },
+    {
+      "fromId": "james-forrestal",
+      "toId": "defense-department",
+      "label": "first secretary of defense",
+      "pages": [
+        761
+      ],
+      "description": "The account describes Forrestal’s change of view regarding the limits of the unification arrangements."
+    },
+    {
+      "fromId": "paul-nitze",
+      "toId": "policy-planning-staff",
+      "label": "led during NSC 68 preparation",
+      "pages": [
+        758
+      ],
+      "description": "The staff, not the NSC itself, is credited with preparing the document."
+    },
+    {
+      "fromId": "policy-planning-staff",
+      "toId": "state-department",
+      "label": "departmental office",
+      "pages": [
+        758
+      ],
+      "description": "The source explicitly identifies it as State Department Policy Planning Staff."
+    },
+    {
+      "fromId": "curtis-lemay",
+      "toId": "strategic-air-command",
+      "label": "commander from October 1948",
+      "pages": [
+        761
+      ],
+      "description": "LeMay succeeded Kenney and transformed readiness assumptions."
+    },
+    {
+      "fromId": "ira-eaker",
+      "toId": "hughes-tool",
+      "label": "post-retirement industrial employment",
+      "pages": [
+        759
+      ],
+      "description": "The source reports a $50,000 annual Hughes Tool position."
+    },
+    {
+      "fromId": "harold-george",
+      "toId": "hughes-tool",
+      "label": "post-retirement industrial employment",
+      "pages": [
+        759
+      ],
+      "description": "The source reports George joined Eaker at Hughes at $40,000 a year."
+    },
+    {
+      "fromId": "hirohito",
+      "toId": "japanese-imperial-government",
+      "label": "emperor ordering acceptance of peace",
+      "pages": [
+        694
+      ],
+      "description": "His personal intervention broke the War Council deadlock."
+    },
+    {
+      "fromId": "hideki-tojo",
+      "toId": "japanese-imperial-government",
+      "label": "premier, army minister and home-affairs minister",
+      "pages": [
+        620
+      ],
+      "description": "The combined posts are explicitly listed in the source."
+    }
+  ],
+  "eventLinks": [
+    {
+      "fromId": "tragedy-ethiopia-invasion",
+      "toId": "tragedy-rhineland",
+      "label": "Ethiopian crisis distracts Italy and opens opportunity for remilitarization",
+      "kind": "influence",
+      "pages": [
+        487
+      ]
+    },
+    {
+      "fromId": "tragedy-naval-agreement",
+      "toId": "tragedy-munich",
+      "label": "Naval dependence forms part of France’s weakened capacity to honor Czech commitments",
+      "kind": "influence",
+      "pages": [
+        489,
+        495
+      ]
+    },
+    {
+      "fromId": "tragedy-rhineland",
+      "toId": "tragedy-munich",
+      "label": "Fortified German frontier reduces France’s freedom to intervene eastward",
+      "kind": "influence",
+      "pages": [
+        489,
+        495
+      ]
+    },
+    {
+      "fromId": "tragedy-anschluss",
+      "toId": "tragedy-munich",
+      "label": "Austrian annexation closes the western gap around Czechoslovakia",
+      "kind": "influence",
+      "pages": [
+        490
+      ]
+    },
+    {
+      "fromId": "tragedy-munich",
+      "toId": "tragedy-czech-destruction",
+      "label": "Munich establishes German predominance and is followed by orders to destroy the remaining state",
+      "kind": "influence",
+      "pages": [
+        537,
+        538,
+        544
+      ]
+    },
+    {
+      "fromId": "tragedy-wilson-wohlthat",
+      "toId": "tragedy-german-soviet-pact",
+      "label": "Quigley argues rumors of British-German talks deepened Soviet distrust",
+      "kind": "influence",
+      "pages": [
+        549,
+        550
+      ]
+    },
+    {
+      "fromId": "tragedy-german-soviet-pact",
+      "toId": "tragedy-poland-invasion",
+      "label": "The pact eases Hitler’s strategic calculation before invasion",
+      "kind": "influence",
+      "pages": [
+        553,
+        558
+      ]
+    },
+    {
+      "fromId": "tragedy-battle-britain",
+      "toId": "tragedy-barbarossa",
+      "label": "Failure of western projects precedes Hitler’s December shift toward the Soviet attack",
+      "kind": "influence",
+      "pages": [
+        582
+      ]
+    },
+    {
+      "fromId": "tragedy-lend-lease",
+      "toId": "tragedy-soviet-supplies",
+      "label": "Expanded supplies require the Lend-Lease financing mechanism",
+      "kind": "influence",
+      "pages": [
+        611
+      ]
+    },
+    {
+      "fromId": "tragedy-teheran",
+      "toId": "tragedy-d-day",
+      "label": "Teheran fixes priority of Overlord over proposed Balkan diversions",
+      "kind": "influence",
+      "pages": [
+        652,
+        654
+      ]
+    },
+    {
+      "fromId": "tragedy-yalta",
+      "toId": "tragedy-japan-surrender",
+      "label": "Far Eastern terms frame Soviet intervention and final Japanese defeat",
+      "kind": "influence",
+      "pages": [
+        687,
+        694
+      ]
+    },
+    {
+      "fromId": "tragedy-roosevelt-death",
+      "toId": "tragedy-potsdam",
+      "label": "New American leadership and uneven preparation complicate the final summit",
+      "kind": "influence",
+      "pages": [
+        689
+      ]
+    },
+    {
+      "fromId": "tragedy-trinity",
+      "toId": "tragedy-hiroshima",
+      "label": "Successful test precedes target authorization and atomic attack",
+      "kind": "influence",
+      "pages": [
+        690,
+        691,
+        693
+      ]
+    },
+    {
+      "fromId": "tragedy-truman-doctrine",
+      "toId": "tragedy-marshall-plan",
+      "label": "Greek-Turkish aid is followed by a wider European recovery offer",
+      "kind": "influence",
+      "pages": [
+        747,
+        748
+      ]
+    },
+    {
+      "fromId": "tragedy-marshall-plan",
+      "toId": "tragedy-czech-recovery-reversal",
+      "label": "Soviet rejection forces Czech reversal of initial participation",
+      "kind": "influence",
+      "pages": [
+        743,
+        748
+      ]
+    },
+    {
+      "fromId": "tragedy-cominform",
+      "toId": "tragedy-tito-break",
+      "label": "Attempts at Soviet control culminate in Yugoslav expulsion",
+      "kind": "influence",
+      "pages": [
+        748
+      ]
+    },
+    {
+      "fromId": "tragedy-munich",
+      "toId": "tragedy-czech-coup",
+      "label": "Quigley connects Beneš’s Western disillusionment at Munich with his later Soviet orientation",
+      "kind": "influence",
+      "pages": [
+        749
+      ]
+    },
+    {
+      "fromId": "tragedy-german-currency",
+      "toId": "tragedy-berlin-blockade",
+      "label": "Soviet Union invokes currency reform as an excuse for blockade",
+      "kind": "influence",
+      "pages": [
+        751
+      ]
+    },
+    {
+      "fromId": "tragedy-berlin-blockade",
+      "toId": "tragedy-nato",
+      "label": "Berlin crisis strengthens the drive for Western alliance and German integration",
+      "kind": "influence",
+      "pages": [
+        763
+      ]
+    },
+    {
+      "fromId": "tragedy-marshall-china",
+      "toId": "tragedy-nationalist-taiwan",
+      "label": "Failure of reform and mediation precedes the Nationalist collapse",
+      "kind": "influence",
+      "pages": [
+        755,
+        756
+      ]
+    },
+    {
+      "fromId": "tragedy-nationalist-taiwan",
+      "toId": "tragedy-sino-soviet-treaty",
+      "label": "Communist victory brings Mao to Moscow to seek aid and negotiate",
+      "kind": "influence",
+      "pages": [
+        756
+      ]
+    },
+    {
+      "fromId": "tragedy-security-act",
+      "toId": "tragedy-nsc68",
+      "label": "Institutional reorganization fails initially to supply unified strategy; NSC 68 follows",
+      "kind": "influence",
+      "pages": [
+        758,
+        760
+      ]
+    }
+  ]
+}

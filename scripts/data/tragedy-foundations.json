@@ -1,0 +1,3575 @@
+{
+  "coverage": "Selected institutional, financial and imperial passages in chapters 5\u201314 (PDF pages 47\u2013229), with particular attention to banking mechanisms, Rhodes\u2013Milner affiliations, constitutional reforms and the diplomatic origins of the First World War. Civilizational theory and passing references are not exhaustively indexed. Additional selected pages158\u2013186 address foreign customs supervision, Japan\u2019s political-economic organization and Chinese republican instability.",
+  "people": [
+    {
+      "id": "william-paterson",
+      "name": "William Paterson",
+      "role": "Bank of England promoter",
+      "description": "Quigley identifies Paterson and his associates with the Bank of England\u2019s 1694 establishment and describes credit creation as a resource of British state power.",
+      "pages": [
+        54
+      ]
+    },
+    {
+      "id": "george-peabody",
+      "name": "George Peabody",
+      "role": "Merchant banker",
+      "description": "Quigley names George Peabody and Company as the London predecessor established in 1838 of the banking enterprise later associated with J. P. Morgan.",
+      "pages": [
+        58
+      ]
+    },
+    {
+      "id": "j-p-morgan",
+      "name": "John Pierpont Morgan",
+      "role": "Investment banker",
+      "description": "Quigley describes Morgan\u2019s industrial and railway influence, the concentration of financial power, and the relationship between banker financing and American politics. Later references to the Morgan firm are kept institutionally distinct from this individual.",
+      "pages": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "william-rockefeller",
+      "name": "William Rockefeller",
+      "role": "Industrial financier",
+      "description": "Quigley attributes the Milwaukee railroad\u2019s costly acquisition of electrification assets and a branch line to Rockefeller and his associates, presenting this as an example of security issuance benefiting financiers rather than operations.",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "id": "william-c-whitney",
+      "name": "William C. Whitney",
+      "role": "Business and political financier",
+      "description": "Quigley connects Whitney with civil-service reform and with business efforts to reduce political machines\u2019 independent patronage income.",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "id": "grover-cleveland",
+      "name": "Grover Cleveland",
+      "role": "US president",
+      "description": "Quigley discusses Cleveland\u2019s administration in relation to Morgan\u2019s gold-market leverage and the use of the Venezuela controversy to redirect domestic discontent.",
+      "pages": [
+        67,
+        78,
+        79
+      ]
+    },
+    {
+      "id": "mark-hanna",
+      "name": "Mark Hanna",
+      "role": "Republican organizer",
+      "description": "Quigley describes Hanna financing southern Republican convention delegates in the campaign to secure McKinley\u2019s nomination in 1896.",
+      "pages": [
+        78
+      ]
+    },
+    {
+      "id": "william-mckinley",
+      "name": "William McKinley",
+      "role": "US president",
+      "description": "Quigley associates McKinley\u2019s 1896 election with a business-funded response to Bryan\u2019s challenge to the gold standard.",
+      "pages": [
+        78
+      ]
+    },
+    {
+      "id": "william-jennings-bryan",
+      "name": "William Jennings Bryan",
+      "role": "Democratic politician and secretary of state",
+      "description": "Quigley presents Bryan as the candidate who brought agrarian monetary discontent into the Democratic Party in 1896 and later as an exception to the administration\u2019s pro-Entente orientation.",
+      "pages": [
+        78,
+        218
+      ]
+    },
+    {
+      "id": "theodore-roosevelt",
+      "name": "Theodore Roosevelt",
+      "role": "US president",
+      "description": "Quigley links Roosevelt and Henry Cabot Lodge to support for intervention against Spain and later places the Roosevelt\u2013Taft split within competing business interests.",
+      "pages": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "henry-cabot-lodge",
+      "name": "Henry Cabot Lodge",
+      "role": "US senator",
+      "description": "Quigley connects Lodge with Theodore Roosevelt\u2019s advocacy of intervention in Cuba in the period preceding the Spanish-American War.",
+      "pages": [
+        79
+      ]
+    },
+    {
+      "id": "woodrow-wilson",
+      "name": "Woodrow Wilson",
+      "role": "US president",
+      "description": "Quigley connects Wilson\u2019s 1912 victory and Progressive reforms to the split in the Republican Party, and discusses his decisions on US entry into the First World War and the armistice.",
+      "pages": [
+        80,
+        218,
+        223
+      ]
+    },
+    {
+      "id": "william-howard-taft",
+      "name": "William Howard Taft",
+      "role": "US president",
+      "description": "Quigley treats the Roosevelt\u2013Taft division as one expression of the conflict between older financial capitalism and newer monopoly interests.",
+      "pages": [
+        80
+      ]
+    },
+    {
+      "id": "william-randolph-hearst",
+      "name": "William Randolph Hearst",
+      "role": "Publisher",
+      "description": "Quigley identifies Hearst\u2019s press as a force arousing American public opinion during the Cuban revolt and the approach to war with Spain.",
+      "pages": [
+        79
+      ]
+    },
+    {
+      "id": "john-w-davis",
+      "name": "John W. Davis",
+      "role": "Lawyer and presidential candidate",
+      "description": "Quigley places Davis within the Morgan system of legal influence and identifies the 1924 Democratic presidential candidate as a principal Morgan lawyer.",
+      "pages": [
+        58,
+        79
+      ]
+    },
+    {
+      "id": "dwight-morrow",
+      "name": "Dwight Morrow",
+      "role": "Morgan partner",
+      "description": "Quigley identifies Morrow among the Morgan-associated figures and describes his influence over the choice of the Republican presidential candidate in 1924.",
+      "pages": [
+        58,
+        79
+      ]
+    },
+    {
+      "id": "thomas-lamont",
+      "name": "Thomas W. Lamont",
+      "role": "Morgan partner",
+      "description": "Quigley names Lamont among the financial and legal figures associated with the Morgan office\u2019s system of influence.",
+      "pages": [
+        58
+      ]
+    },
+    {
+      "id": "john-foster-dulles",
+      "name": "John Foster Dulles",
+      "role": "Lawyer and diplomat",
+      "description": "Quigley includes Dulles among figures connected with the Morgan office\u2019s system of influence, without making this a claim of a single uniform role for everyone named.",
+      "pages": [
+        58
+      ]
+    },
+    {
+      "id": "ruskin",
+      "name": "John Ruskin",
+      "role": "Oxford professor and imperial thinker",
+      "description": "Quigley presents Ruskin\u2019s teaching as a moral and educational influence on Rhodes, Milner and associates, linking domestic social reform to imperial expansion.",
+      "pages": [
+        119,
+        120
+      ]
+    },
+    {
+      "id": "rhodes",
+      "name": "Cecil John Rhodes",
+      "role": "Mining entrepreneur and imperial politician",
+      "description": "Quigley connects Rhodes\u2019s mining wealth, political contributions, imperial federation projects and scholarships. His account of Rhodes\u2019s secret organization remains an author-attributed reconstruction.",
+      "pages": [
+        120,
+        124,
+        125
+      ]
+    },
+    {
+      "id": "milner",
+      "name": "Alfred Milner",
+      "role": "Imperial administrator",
+      "description": "Quigley traces Milner\u2019s South African administration, recruitment of the Kindergarten, Rhodes trusteeship and influence on wartime government and Commonwealth reform.",
+      "pages": [
+        120,
+        121,
+        126,
+        127,
+        132,
+        133
+      ]
+    },
+    {
+      "id": "stead",
+      "name": "William T. Stead",
+      "role": "Journalist and imperial organizer",
+      "description": "Quigley presents Stead as the journalist who brought Rhodes and reform-minded imperialists into association and helped organize the 1891 society.",
+      "pages": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "brett",
+      "name": "Reginald Baliol Brett, Lord Esher",
+      "role": "Royal adviser and defence organizer",
+      "description": "Quigley places Brett in the Rhodes executive circle, describes his advice to the monarchy, and connects him to defence coordination and the Cabinet secretariat.",
+      "pages": [
+        120,
+        126,
+        132
+      ]
+    },
+    {
+      "id": "balfour",
+      "name": "Arthur James Balfour",
+      "role": "British statesman",
+      "description": "Quigley names Balfour as a potential initiate in the proposed Rhodes organization and later associates his name with the 1926 declaration of dominion equality. A listed potential member is not recorded as proven membership.",
+      "pages": [
+        120,
+        121,
+        135
+      ]
+    },
+    {
+      "id": "rothschild",
+      "name": "Nathan Mayer Rothschild",
+      "role": "Financier",
+      "description": "Quigley describes Lord Rothschild as a financial supporter of Rhodes\u2019s mining interests and as a participant or prospective participant in Rhodes\u2019s imperial circle.",
+      "pages": [
+        120,
+        124
+      ]
+    },
+    {
+      "id": "beit",
+      "name": "Alfred Beit",
+      "role": "Mining financier",
+      "description": "Quigley connects Beit\u2019s wealth with Rhodes\u2019s mining enterprises, the planned Transvaal uprising and later financial support for Rhodes\u2019s associates.",
+      "pages": [
+        120,
+        121,
+        125
+      ]
+    },
+    {
+      "id": "bailey",
+      "name": "Abe Bailey",
+      "role": "Mining financier and patron",
+      "description": "Quigley identifies Bailey as a funder of the Round Table journal and international-affairs institutes and as an ally involved in Rhodes\u2019s South African projects.",
+      "pages": [
+        121,
+        122,
+        125,
+        127
+      ]
+    },
+    {
+      "id": "arnold-toynbee",
+      "name": "Arnold Toynbee",
+      "role": "Social reformer",
+      "description": "Quigley associates this Toynbee with Ruskin\u2019s reform-minded circle and identifies him as the deceased namesake of Toynbee Hall. He is distinct from historian Arnold J. Toynbee.",
+      "pages": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "george-parkin",
+      "name": "George Robert Parkin",
+      "role": "Rhodes Trust organizer",
+      "description": "Quigley describes Parkin as organizing secretary of the Rhodes Trust after 1902 and as an organizer of overseas groups and imperial educational links.",
+      "pages": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "gell",
+      "name": "Philip Lyttelton Gell",
+      "role": "Settlement and company administrator",
+      "description": "Quigley identifies Gell as Toynbee Hall\u2019s chairman and as an official of the British South Africa Company within the Rhodes-associated circle.",
+      "pages": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "henry-birchenough",
+      "name": "Henry Birchenough",
+      "role": "Company administrator",
+      "description": "Quigley includes Birchenough among the Ruskin-influenced Oxford friends and officials of the British South Africa Company.",
+      "pages": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "florashaw",
+      "name": "Flora Shaw",
+      "role": "Colonial journalist",
+      "description": "Quigley describes Shaw\u2019s simultaneous links with The Times and Stead\u2019s newspaper and her press work in support of Rhodes\u2019s imperial projects.",
+      "pages": [
+        121,
+        126
+      ]
+    },
+    {
+      "id": "curtis",
+      "name": "Lionel Curtis",
+      "role": "Commonwealth organizer",
+      "description": "Quigley traces Curtis\u2019s South African administrative work, union campaigns, Round Table organizing and involvement in Indian and Irish constitutional arrangements.",
+      "pages": [
+        122,
+        127,
+        130,
+        132,
+        133,
+        157
+      ]
+    },
+    {
+      "id": "kerr",
+      "name": "Philip Kerr",
+      "role": "Editor and imperial organizer",
+      "description": "Quigley associates Kerr with The State, the Round Table journal, constitutional memoranda and the wartime secretariat around Lloyd George.",
+      "pages": [
+        127,
+        130,
+        131,
+        133
+      ]
+    },
+    {
+      "id": "smuts",
+      "name": "Jan Christiaan Smuts",
+      "role": "South African statesman",
+      "description": "Quigley traces Smuts from Transvaal politics through the South African Union, wartime imperial institutions and Irish negotiations, while discussing his repression of strikes and racial-policy compromises.",
+      "pages": [
+        126,
+        127,
+        128,
+        129,
+        133,
+        157
+      ]
+    },
+    {
+      "id": "selborne",
+      "name": "William Waldegrave Palmer",
+      "role": "High commissioner",
+      "description": "Quigley describes Selborne succeeding Milner, continuing to use the Kindergarten and sponsoring the memorandum for South African union.",
+      "pages": [
+        127
+      ]
+    },
+    {
+      "id": "brand",
+      "name": "Robert Henry Brand",
+      "role": "Constitutional and financial adviser",
+      "description": "Quigley connects Brand with the preparation of the South African Union constitution alongside Patrick Duncan.",
+      "pages": [
+        127
+      ]
+    },
+    {
+      "id": "duncan",
+      "name": "Patrick Duncan",
+      "role": "South African administrator and politician",
+      "description": "Quigley identifies Duncan with the Kindergarten, South African constitutional work, Unionist politics and later cabinet participation.",
+      "pages": [
+        122,
+        127,
+        128
+      ]
+    },
+    {
+      "id": "basil-long",
+      "name": "Basil Kellett Long",
+      "role": "Journalist and political adviser",
+      "description": "Quigley connects Long with the Durban convention, Unionist politics and press negotiations surrounding dominion equality.",
+      "pages": [
+        122,
+        127,
+        135
+      ]
+    },
+    {
+      "id": "feetham",
+      "name": "Richard Feetham",
+      "role": "Lawyer and boundary commissioner",
+      "description": "Quigley identifies Feetham as a South African member of the Kindergarten and later chairman of the Irish Boundary Commission.",
+      "pages": [
+        122,
+        127,
+        158
+      ]
+    },
+    {
+      "id": "hankey",
+      "name": "Maurice Pascal Alers Hankey",
+      "role": "Cabinet and defence secretary",
+      "description": "Quigley traces Hankey\u2019s long service to the Committee of Imperial Defence, Cabinet, Privy Council and imperial and international conferences.",
+      "pages": [
+        132
+      ]
+    },
+    {
+      "id": "amery",
+      "name": "Leopold Amery",
+      "role": "Colonial statesman",
+      "description": "Quigley connects Amery with Milner\u2019s secretariat, Colonial Office policy and the conference that issued the 1926 dominion declaration.",
+      "pages": [
+        133,
+        135,
+        157
+      ]
+    },
+    {
+      "id": "lloyd-george",
+      "name": "David Lloyd George",
+      "role": "British prime minister",
+      "description": "Quigley describes Lloyd George drawing secretarial support from the Round Table circle and replacing Asquith in the wartime concentration of executive authority.",
+      "pages": [
+        133,
+        229
+      ]
+    },
+    {
+      "id": "jameson",
+      "name": "Leander Starr Jameson",
+      "role": "Colonial politician",
+      "description": "Quigley discusses Jameson\u2019s raid into the Transvaal, later Cape premiership and role in initiating the public debate on South African union.",
+      "pages": [
+        125,
+        126,
+        127
+      ]
+    },
+    {
+      "id": "rosebery",
+      "name": "Archibald Primrose",
+      "role": "British prime minister",
+      "description": "Quigley connects Rosebery with the secret negotiations over Uganda, a place in Rhodes\u2019s circle and Rhodes trusteeship.",
+      "pages": [
+        124
+      ]
+    },
+    {
+      "id": "benjamin-disraeli",
+      "name": "Benjamin Disraeli",
+      "role": "British prime minister",
+      "description": "Quigley associates Disraeli\u2019s Suez-share purchase with the defence of routes to India and Rothschild financing.",
+      "pages": [
+        119,
+        123
+      ]
+    },
+    {
+      "id": "evelyn-baring",
+      "name": "Evelyn Baring, Lord Cromer",
+      "role": "British resident in Egypt",
+      "description": "Quigley describes Cromer controlling Egyptian finances and government through the British occupation and advisory system until 1907.",
+      "pages": [
+        123
+      ]
+    },
+    {
+      "id": "frederick-lugard",
+      "name": "Frederick Lugard",
+      "role": "Colonial administrator",
+      "description": "Quigley connects Lugard with the British East Africa Company\u2019s Uganda intervention and later opposition to closer union through defence of indirect rule.",
+      "pages": [
+        123,
+        124,
+        136
+      ]
+    },
+    {
+      "id": "henry-kitchener",
+      "name": "Herbert Kitchener",
+      "role": "Military commander",
+      "description": "Quigley describes Kitchener\u2019s Sudan campaign, railway financing and confrontation with the French expedition at Fashoda.",
+      "pages": [
+        123,
+        124,
+        189
+      ]
+    },
+    {
+      "id": "harry-johnston",
+      "name": "Harry H. Johnston",
+      "role": "Colonial administrator",
+      "description": "Quigley traces Johnston\u2019s concessions and protectorate projects in Kenya and Nyasaland, supported by Rhodes financing.",
+      "pages": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "paul-kruger",
+      "name": "Paul Kruger",
+      "role": "Transvaal president",
+      "description": "Quigley describes the raid aimed at Kruger\u2019s government and the developing confrontation with Britain leading to the Boer War.",
+      "pages": [
+        125,
+        126
+      ]
+    },
+    {
+      "id": "louis-botha",
+      "name": "Louis Botha",
+      "role": "South African prime minister",
+      "description": "Quigley identifies Botha as the Union\u2019s first prime minister and places him alongside Smuts in conciliatory imperial policy and wartime leadership.",
+      "pages": [
+        127,
+        129
+      ]
+    },
+    {
+      "id": "j-b-m-hertzog",
+      "name": "J. B. M. Hertzog",
+      "role": "South African nationalist leader",
+      "description": "Quigley describes Hertzog\u2019s opposition to Botha and Smuts, his nationalist organization and coalition with Labour in 1924.",
+      "pages": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "mohandas-gandhi",
+      "name": "Mohandas K. Gandhi",
+      "role": "Indian independence leader",
+      "description": "Quigley traces Gandhi\u2019s South African campaigns, compromise with Smuts and mass non-cooperation in India. The book\u2019s evaluations of his methods are retained as interpretations.",
+      "pages": [
+        151,
+        152,
+        153,
+        154
+      ]
+    },
+    {
+      "id": "allan-octavian-hume",
+      "name": "Allan Octavian Hume",
+      "role": "Indian National Congress organizer",
+      "description": "Quigley credits Hume with establishing the Indian National Congress in 1885 with support from the viceroy, to channel political demands into representative discussion.",
+      "pages": [
+        147
+      ]
+    },
+    {
+      "id": "lord-dufferin",
+      "name": "Frederick Hamilton-Temple-Blackwood, Lord Dufferin",
+      "role": "Viceroy of India",
+      "description": "Quigley describes Dufferin\u2019s support for Hume\u2019s establishment of the Indian National Congress.",
+      "pages": [
+        147
+      ]
+    },
+    {
+      "id": "gopal-krishna-gokhale",
+      "name": "Gopal Krishna Gokhale",
+      "role": "Indian reformer",
+      "description": "Quigley identifies Gokhale as founder of the Servants of India Society and as an earlier Congress leader whose death preceded Gandhi\u2019s ascendancy.",
+      "pages": [
+        147,
+        153
+      ]
+    },
+    {
+      "id": "bal-gangadhar-tilak",
+      "name": "Bal Gangadhar Tilak",
+      "role": "Indian nationalist",
+      "description": "Quigley describes Tilak\u2019s challenge to Congress moderates, opposition to imposed social reform and boycott of Congress following the 1907 split.",
+      "pages": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "reginald-dyer",
+      "name": "Reginald E. H. Dyer",
+      "role": "British army officer",
+      "description": "Quigley describes Dyer ordering gunfire on the Amritsar gathering on April 13, 1919 and imposing further collective humiliation after the massacre.",
+      "pages": [
+        154
+      ]
+    },
+    {
+      "id": "eamon-de-valera",
+      "name": "\u00c9amon de Valera",
+      "role": "Irish republican leader",
+      "description": "Quigley traces de Valera\u2019s opposition to the 1921 settlement and his later dismantling of ties with Britain after taking office in 1932.",
+      "pages": [
+        157,
+        158
+      ]
+    },
+    {
+      "id": "arthur-griffith",
+      "name": "Arthur Griffith",
+      "role": "Irish negotiator",
+      "description": "Quigley identifies Griffith among the moderate Irish leaders opposed by republicans who rejected the settlement with Britain.",
+      "pages": [
+        158
+      ]
+    },
+    {
+      "id": "michael-collins",
+      "name": "Michael Collins",
+      "role": "Irish republican and treaty leader",
+      "description": "Quigley places Collins among the leaders who accepted the Irish settlement and records his assassination in the ensuing struggle.",
+      "pages": [
+        158
+      ]
+    },
+    {
+      "id": "otto-von-bismarck",
+      "name": "Otto von Bismarck",
+      "role": "German chancellor",
+      "description": "Quigley traces Bismarck\u2019s alliances aimed at isolating France and balancing Austrian and Russian interests, contrasting them with later German diplomacy.",
+      "pages": [
+        187,
+        188
+      ]
+    },
+    {
+      "id": "wilhelm-ii",
+      "name": "Wilhelm II",
+      "role": "German emperor",
+      "description": "Quigley connects Wilhelm\u2019s dismissal of Bismarck and failure to renew the Reinsurance Treaty with the later division of Europe into rival coalitions.",
+      "pages": [
+        187,
+        188,
+        191
+      ]
+    },
+    {
+      "id": "ernest-cassel",
+      "name": "Ernest Cassel",
+      "role": "International banker",
+      "description": "Quigley describes Cassel\u2019s financial and personal connections with Edward VII and his employment of Lord Esher, in the context of the Entente\u2019s formation.",
+      "pages": [
+        190
+      ]
+    },
+    {
+      "id": "edward-vii",
+      "name": "Edward VII",
+      "role": "British king",
+      "description": "Quigley describes the king\u2019s relationships with financiers and Lord Esher as one influence within Britain\u2019s rapprochement with France and Russia.",
+      "pages": [
+        126,
+        190
+      ]
+    },
+    {
+      "id": "richard-haldane",
+      "name": "Richard Haldane",
+      "role": "British war secretary",
+      "description": "Quigley describes Haldane\u2019s unsuccessful 1912 mission to negotiate naval restraint and conditional British neutrality with Germany.",
+      "pages": [
+        192
+      ]
+    },
+    {
+      "id": "charles-masterman",
+      "name": "Charles Masterman",
+      "role": "Wartime propaganda administrator",
+      "description": "Quigley identifies Masterman as head of the British War Propaganda Bureau and describes its American information operations.",
+      "pages": [
+        229
+      ]
+    },
+    {
+      "id": "gilbert-parker",
+      "name": "Gilbert Parker",
+      "role": "Wartime information organizer",
+      "description": "Quigley describes Parker\u2019s American Bureau of Information as distributing news to American papers lacking their own overseas reporting.",
+      "pages": [
+        229
+      ]
+    },
+    {
+      "id": "frederick-e-smith",
+      "name": "Frederick E. Smith, Lord Birkenhead",
+      "role": "Lawyer and minister",
+      "description": "Quigley connects Smith with the wartime Press Bureau and information controls.",
+      "pages": [
+        229
+      ]
+    },
+    {
+      "id": "robert-hart",
+      "name": "Robert Hart",
+      "role": "Chinese customs administrator",
+      "description": "Quigley describes Hart heading the Chinese customs service from1863 to1906 as an example of foreign influence over fiscal administration and tariff policy.",
+      "pages": [
+        166
+      ]
+    },
+    {
+      "id": "edgar-vincent",
+      "name": "Edgar Vincent, Lord D\u2019Abernon",
+      "role": "Financial administrator",
+      "description": "Quigley identifies Vincent as a leading figure in the Ottoman financial system from1882 to1897, drawing a comparison with Hart in China and Cromer in Egypt.",
+      "pages": [
+        166
+      ]
+    },
+    {
+      "id": "matthew-perry",
+      "name": "Matthew Perry",
+      "role": "US naval commander",
+      "description": "Quigley describes Perry\u2019s1853 arrival in Tokyo Bay as a demonstration of Western naval power that intensified the political crisis of the Tokugawa regime.",
+      "pages": [
+        173
+      ]
+    },
+    {
+      "id": "sun-yat-sen",
+      "name": "Sun Yat-sen",
+      "role": "Chinese republican leader",
+      "description": "Quigley describes Sun\u2019s republican and military-government projects and his difficulty controlling regional armies and establishing the planned reforms.",
+      "pages": [
+        171
+      ]
+    },
+    {
+      "id": "albert-grey",
+      "name": "Albert Grey",
+      "role": "Imperial organizer",
+      "description": "Quigley places Grey in the Ruskin-influenced imperial circle, among the potential initiates of Rhodes\u2019s planned society and among Toynbee Hall\u2019s associated reformers. He also connects Grey with negotiations for official support preceding the Jameson Raid.",
+      "pages": [
+        120,
+        121,
+        126
+      ]
+    },
+    {
+      "id": "ormsby-gore",
+      "name": "William G. A. Ormsby-Gore",
+      "role": "Imperial official and Cabinet Secretariat member",
+      "description": "Quigley identifies Ormsby-Gore as one of Milner\u2019s assistants brought into the wartime Cabinet Secretariat. This links his imperial-administrative background with the new machinery of executive coordination.",
+      "pages": [
+        133
+      ]
+    },
+    {
+      "id": "curzon",
+      "name": "George Nathaniel Curzon",
+      "role": "British imperial statesman and viceroy",
+      "description": "Quigley places Curzon among the more active imperialists and discusses the controversy over his administrative division of Bengal. In the India narrative, this dispute intersects with the rise of nationalist boycott and the Congress split.",
+      "pages": [
+        119,
+        148
+      ]
+    },
+    {
+      "id": "joseph-chamberlain",
+      "name": "Joseph Chamberlain",
+      "role": "Colonial secretary and imperial advocate",
+      "description": "Quigley identifies Chamberlain with active imperialism and official negotiations around Rhodes\u2019s Transvaal plans. He also discusses Chamberlain\u2019s efforts to reach an Anglo-German understanding before the later alliance polarization.",
+      "pages": [
+        119,
+        126,
+        191
+      ]
+    },
+    {
+      "id": "fisher",
+      "name": "Herbert Albert Laurens Fisher",
+      "role": "Historian, warden and British politician",
+      "description": "Quigley identifies Fisher as Warden of All Souls and places him with Smuts and John Simon among advocates of revising Germany\u2019s treatment. He links Fisher\u2019s parliamentary speeches and meetings to the development of the Dawes and Locarno policies, and records his participation in pressure for milder Versailles terms.",
+      "pages": [
+        491,
+        492
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "bank-england",
+      "name": "Bank of England",
+      "description": "Central banking institution used by Quigley to explain credit creation, government financing and relationships between merchant bankers and monetary administration.",
+      "pages": [
+        54,
+        60,
+        61,
+        67
+      ],
+      "founderIds": [
+        "william-paterson"
+      ],
+      "members": []
+    },
+    {
+      "id": "jp-morgan",
+      "name": "J. P. Morgan and Company",
+      "description": "Banking firm whose predecessor, legal and financial associates, industrial influence and later incorporation are discussed by Quigley.",
+      "pages": [
+        58,
+        76,
+        77,
+        79
+      ],
+      "founderIds": [],
+      "members": [
+        "j-p-morgan",
+        "thomas-lamont",
+        "dwight-morrow",
+        "john-w-davis"
+      ]
+    },
+    {
+      "id": "guaranty-trust",
+      "name": "Guaranty Trust Company",
+      "description": "Commercial bank identified as the Morgan firm\u2019s principal subsidiary and its merger partner in 1959.",
+      "pages": [
+        58
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "rothschild-banking-houses",
+      "name": "Rothschild banking houses",
+      "description": "A family-linked network of banking partnerships, not one legal corporation. Quigley describes branches in several European capitals and their cooperation in finance.",
+      "pages": [
+        57,
+        66,
+        190
+      ],
+      "founderIds": [],
+      "members": [
+        "rothschild"
+      ]
+    },
+    {
+      "id": "us-steel",
+      "name": "United States Steel",
+      "description": "Industrial corporation identified by Quigley as a Morgan-controlled example of the concentration of corporate assets.",
+      "pages": [
+        76
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "att",
+      "name": "American Telephone and Telegraph",
+      "description": "Corporation used by Quigley to illustrate the concentration of economic assets and Morgan influence.",
+      "pages": [
+        77
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "new-republic",
+      "name": "The New Republic",
+      "description": "Weekly journal whose 1914 founding Quigley relates to Whitney financing and Morgan-associated liberal reform.",
+      "pages": [
+        80
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "republican-party",
+      "name": "Republican Party (United States)",
+      "description": "Political party whose conventions, business financing and 1912 split feature in Quigley\u2019s account of American political economy.",
+      "pages": [
+        77,
+        78,
+        80
+      ],
+      "founderIds": [],
+      "members": [
+        "william-mckinley",
+        "mark-hanna",
+        "theodore-roosevelt",
+        "william-howard-taft"
+      ]
+    },
+    {
+      "id": "democratic-party",
+      "name": "Democratic Party (United States)",
+      "description": "Political party used by Quigley to trace Bryan\u2019s agrarian challenge, Wilson\u2019s reforms and financial links in presidential campaigns.",
+      "pages": [
+        78,
+        79,
+        80
+      ],
+      "founderIds": [],
+      "members": [
+        "william-jennings-bryan",
+        "woodrow-wilson",
+        "grover-cleveland",
+        "john-w-davis"
+      ]
+    },
+    {
+      "id": "federal-reserve",
+      "name": "Federal Reserve System",
+      "description": "Monetary institution examined by Quigley through credit reserves, banking control and Progressive-era reform.",
+      "pages": [
+        60,
+        62,
+        64,
+        80
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "oxford-university",
+      "name": "University of Oxford",
+      "description": "University through which Quigley traces Ruskin\u2019s teaching, Rhodes scholarships and the educational formation of an imperial political circle.",
+      "pages": [
+        119,
+        120,
+        122
+      ],
+      "founderIds": [],
+      "members": [
+        "ruskin",
+        "rhodes",
+        "milner",
+        "arnold-toynbee"
+      ]
+    },
+    {
+      "id": "de-beers",
+      "name": "De Beers Consolidated Mines",
+      "description": "Diamond-mining enterprise whose consolidation Quigley connects with Rhodes, Beit and Rothschild financing.",
+      "pages": [
+        120
+      ],
+      "founderIds": [],
+      "members": [
+        "rhodes",
+        "beit"
+      ]
+    },
+    {
+      "id": "consolidated-gold-fields",
+      "name": "Consolidated Gold Fields",
+      "description": "Mining enterprise described as a major source of Rhodes\u2019s wealth and a contrast to the British South Africa Company\u2019s weak commercial returns.",
+      "pages": [
+        120,
+        125
+      ],
+      "founderIds": [],
+      "members": [
+        "rhodes"
+      ]
+    },
+    {
+      "id": "milner-group",
+      "name": "Milner Group",
+      "description": "An author-defined circle of associated imperial reformers, administrators, journalists and financiers. Quigley reconstructs its influence; this label is not a claim of a single incorporated organization or proved membership for every suggested initiate.",
+      "pages": [
+        120,
+        121,
+        122,
+        133
+      ],
+      "founderIds": [],
+      "members": [
+        "rhodes",
+        "stead",
+        "milner",
+        "brett",
+        "curtis",
+        "kerr",
+        "smuts",
+        "amery"
+      ]
+    },
+    {
+      "id": "rhodes-trust",
+      "name": "Rhodes Trust",
+      "description": "Trust supporting scholarships and Rhodes\u2019s educational legacy; Quigley connects its funds and administration with the wider imperial circle.",
+      "pages": [
+        120,
+        121,
+        127
+      ],
+      "founderIds": [],
+      "members": [
+        "milner",
+        "george-parkin"
+      ]
+    },
+    {
+      "id": "toynbee-hall",
+      "name": "Toynbee Hall",
+      "description": "East London settlement house connecting university-educated reformers with social welfare and adult education; Quigley presents it as an institutional seed of the later imperial circle.",
+      "pages": [
+        121
+      ],
+      "founderIds": [
+        "gell"
+      ],
+      "members": [
+        "milner",
+        "gell",
+        "albert-grey"
+      ]
+    },
+    {
+      "id": "bsac",
+      "name": "British South Africa Company",
+      "description": "Chartered company through which Rhodes acquired concessions and extensive administrative powers in southern Africa, with poor early commercial returns.",
+      "pages": [
+        121,
+        125
+      ],
+      "founderIds": [
+        "rhodes"
+      ],
+      "members": [
+        "gell",
+        "henry-birchenough",
+        "jameson"
+      ]
+    },
+    {
+      "id": "the-times",
+      "name": "The Times",
+      "description": "Newspaper whose colonial reporting, ownership and editorial influence are linked by Quigley to the Rhodes\u2013Milner circle.",
+      "pages": [
+        121,
+        122,
+        126,
+        135
+      ],
+      "founderIds": [],
+      "members": [
+        "florashaw"
+      ]
+    },
+    {
+      "id": "pall-mall-gazette",
+      "name": "Pall Mall Gazette",
+      "description": "Newspaper associated with Stead and Shaw\u2019s overlapping journalistic employment in Quigley\u2019s account.",
+      "pages": [
+        121
+      ],
+      "founderIds": [],
+      "members": [
+        "stead",
+        "florashaw"
+      ]
+    },
+    {
+      "id": "round-table",
+      "name": "Round Table movement",
+      "description": "Groups organized across British dependencies and the United States, connected by correspondence, visits and a quarterly journal; their federal project evolved toward Commonwealth cooperation.",
+      "pages": [
+        121,
+        122,
+        131,
+        132
+      ],
+      "founderIds": [],
+      "members": [
+        "milner",
+        "curtis",
+        "kerr",
+        "smuts",
+        "amery",
+        "bailey"
+      ]
+    },
+    {
+      "id": "round-table-journal",
+      "name": "The Round Table \u00b7 journal",
+      "description": "Quarterly founded in 1910 and financed substantially by Abe Bailey, serving the imperial federation and later Commonwealth debate.",
+      "pages": [
+        122,
+        131,
+        157
+      ],
+      "founderIds": [],
+      "members": [
+        "kerr",
+        "curtis",
+        "bailey"
+      ]
+    },
+    {
+      "id": "kindergarten",
+      "name": "Milner\u2019s Kindergarten",
+      "description": "Young administrative staff recruited by Milner in South Africa, later involved in constitutional union and Round Table organization.",
+      "pages": [
+        121,
+        126,
+        127
+      ],
+      "founderIds": [],
+      "members": [
+        "milner",
+        "curtis",
+        "kerr",
+        "brand",
+        "duncan",
+        "basil-long",
+        "feetham"
+      ]
+    },
+    {
+      "id": "the-state",
+      "name": "The State \u00b7 South African journal",
+      "description": "Periodical edited by Kerr and financed by Bailey to advocate South African federation.",
+      "pages": [
+        127
+      ],
+      "founderIds": [
+        "kerr"
+      ],
+      "members": [
+        "kerr",
+        "bailey"
+      ]
+    },
+    {
+      "id": "riia",
+      "name": "Royal Institute of International Affairs (Chatham House)",
+      "description": "International-affairs institute linked by Quigley with the postwar transformation of the Round Table network and funding from Bailey and the Astor family.",
+      "pages": [
+        122
+      ],
+      "founderIds": [],
+      "members": [
+        "bailey"
+      ]
+    },
+    {
+      "id": "cfr",
+      "name": "Council on Foreign Relations",
+      "description": "American institution placed by Quigley within the spread of international-affairs institutes in the period 1919\u20131927.",
+      "pages": [
+        122
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "ipr",
+      "name": "Institute of Pacific Relations",
+      "description": "Network established after 1925 in Pacific countries, described by Quigley as interlocking with international-affairs institutes and Round Table circles.",
+      "pages": [
+        122
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "suez-canal-company",
+      "name": "Suez Canal Company",
+      "description": "Company whose shares linked strategic communications, Egyptian debt and British financial intervention; Quigley also connects its business interests with Anglo-French rapprochement.",
+      "pages": [
+        123,
+        190
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "british-east-africa-company",
+      "name": "British East Africa Company",
+      "description": "Commercial company receiving concessions and supporting Lugard\u2019s intervention in Uganda before bankruptcy and state assumption of its rights.",
+      "pages": [
+        124
+      ],
+      "founderIds": [],
+      "members": [
+        "frederick-lugard",
+        "harry-johnston"
+      ]
+    },
+    {
+      "id": "south-african-union",
+      "name": "Union of South Africa",
+      "description": "State created from four colonies in 1910. Quigley connects its constitution to Smuts, the Kindergarten and imperial federation ambitions, and discusses racial exclusion and domestic opposition.",
+      "pages": [
+        127,
+        128,
+        129
+      ],
+      "founderIds": [],
+      "members": [
+        "louis-botha",
+        "smuts",
+        "duncan"
+      ]
+    },
+    {
+      "id": "committee-imperial-defence",
+      "name": "Committee of Imperial Defence",
+      "description": "Body through which Esher and Hankey coordinated imperial defence and developed secretarial practices subsequently transferred to the Cabinet.",
+      "pages": [
+        132
+      ],
+      "founderIds": [],
+      "members": [
+        "brett",
+        "hankey"
+      ]
+    },
+    {
+      "id": "british-cabinet-secretariat",
+      "name": "British Cabinet Secretariat",
+      "description": "Wartime coordinating office which Quigley connects with the Committee of Imperial Defence and the Milner\u2013Esher network.",
+      "pages": [
+        132,
+        133
+      ],
+      "founderIds": [],
+      "members": [
+        "hankey",
+        "amery",
+        "ormsby-gore"
+      ]
+    },
+    {
+      "id": "imperial-war-cabinet",
+      "name": "Imperial War Cabinet",
+      "description": "Wartime body extending Cabinet participation to dominion premiers, particularly Smuts, within Quigley\u2019s explanation of Commonwealth equality.",
+      "pages": [
+        133,
+        135
+      ],
+      "founderIds": [],
+      "members": [
+        "milner",
+        "smuts",
+        "lloyd-george"
+      ]
+    },
+    {
+      "id": "colonial-office",
+      "name": "Colonial Office",
+      "description": "British department through which Milner, Amery and associates pursued dependent-imperial policy and constitutional reform.",
+      "pages": [
+        133,
+        135,
+        157
+      ],
+      "founderIds": [],
+      "members": [
+        "milner",
+        "amery",
+        "curtis"
+      ]
+    },
+    {
+      "id": "indian-national-congress",
+      "name": "Indian National Congress",
+      "description": "Political organization established under Hume\u2019s initiative in 1885, developing from constitutional petitions to broader national mobilization and Gandhi\u2019s leadership.",
+      "pages": [
+        147,
+        148,
+        153
+      ],
+      "founderIds": [
+        "allan-octavian-hume"
+      ],
+      "members": [
+        "gopal-krishna-gokhale",
+        "bal-gangadhar-tilak",
+        "mohandas-gandhi"
+      ]
+    },
+    {
+      "id": "servants-india-society",
+      "name": "Servants of India Society",
+      "description": "Reform organization founded by Gokhale in 1905, described as a dedicated educational and social-reform association crossing caste and religious boundaries.",
+      "pages": [
+        147
+      ],
+      "founderIds": [
+        "gopal-krishna-gokhale"
+      ],
+      "members": [
+        "gopal-krishna-gokhale"
+      ]
+    },
+    {
+      "id": "muslim-league",
+      "name": "All-India Muslim League",
+      "description": "Political organization formed in 1906, initially opposed to Hindu extremism and later demanding self-government in Quigley\u2019s account.",
+      "pages": [
+        148
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "sinn-fein",
+      "name": "Sinn F\u00e9in",
+      "description": "Irish movement whose elected representatives organized a Dublin parliament rather than attending Westminster after the 1918 election.",
+      "pages": [
+        157
+      ],
+      "founderIds": [],
+      "members": [
+        "eamon-de-valera",
+        "arthur-griffith",
+        "michael-collins"
+      ]
+    },
+    {
+      "id": "irish-free-state",
+      "name": "Irish Free State",
+      "description": "Dominion established by the Anglo-Irish settlement, used by Quigley as a case of Commonwealth constitutional change and subsequent challenges to British ties.",
+      "pages": [
+        157,
+        158
+      ],
+      "founderIds": [],
+      "members": [
+        "arthur-griffith",
+        "michael-collins",
+        "eamon-de-valera"
+      ]
+    },
+    {
+      "id": "war-propaganda-bureau",
+      "name": "British War Propaganda Bureau",
+      "description": "Wartime information organization headed by Masterman with an American bureau led by Parker; Quigley discusses its ability to supply news to US newspapers.",
+      "pages": [
+        229
+      ],
+      "founderIds": [],
+      "members": [
+        "charles-masterman",
+        "gilbert-parker"
+      ]
+    },
+    {
+      "id": "british-press-bureau",
+      "name": "British Press Bureau",
+      "description": "Office of wartime information control linked by Quigley with censorship, the armed services and Frederick E. Smith.",
+      "pages": [
+        229
+      ],
+      "founderIds": [],
+      "members": [
+        "frederick-e-smith"
+      ]
+    },
+    {
+      "id": "chinese-maritime-customs",
+      "name": "Chinese Maritime Customs Service",
+      "description": "Customs administration used by Quigley to explain externally constrained tariff policy and the financing of the Chinese state.",
+      "pages": [
+        162,
+        166
+      ],
+      "founderIds": [],
+      "members": [
+        "robert-hart"
+      ]
+    },
+    {
+      "id": "ottoman-financial-administration",
+      "name": "Ottoman financial administration under foreign supervision",
+      "description": "A source-described financial-administrative system, not a single inferred corporation. Quigley uses it to illustrate foreign leverage over Ottoman revenues and tariffs.",
+      "pages": [
+        166
+      ],
+      "founderIds": [],
+      "members": [
+        "edgar-vincent"
+      ]
+    },
+    {
+      "id": "genro",
+      "name": "Genr\u014d \u00b7 Japanese elder statesmen",
+      "description": "An informal council of Meiji-era leaders described by Quigley as exercising influence over appointments, military policy and major treaties; this is not a political party or one incorporated business.",
+      "pages": [
+        179,
+        180,
+        181
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "mitsui",
+      "name": "Mitsui business group",
+      "description": "Commercial and industrial group associated by Quigley with the financing of the Meiji transformation and with elite political and military connections.",
+      "pages": [
+        174,
+        180,
+        181
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "mitsubishi",
+      "name": "Mitsubishi business group",
+      "description": "Industrial group discussed by Quigley within the linkages among Japanese political factions, military institutions and concentrated enterprise.",
+      "pages": [
+        174,
+        180
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "japanese-diet",
+      "name": "Imperial Diet of Japan",
+      "description": "Legislature created within the1889 constitutional arrangements, with budgetary powers which Quigley contrasts with continuing control by the Meiji leaders.",
+      "pages": [
+        175,
+        176
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "lse",
+      "name": "London School of Economics",
+      "description": "The school appears in Quigley\u2019s critique of a right-wing conspiracy narrative alleging coordinated academic and press control of American policy. He describes that narrative as a myth rather than endorsing its allegations; a neighboring bracketed editorial addition disputes his rejection of conspiracy and is excluded from this account.",
+      "pages": [
+        785
+      ],
+      "founderIds": [],
+      "members": []
+    }
+  ],
+  "events": [
+    {
+      "id": "tragedy-bank-england-founded",
+      "name": "Bank of England founded",
+      "date": "1694-01-01",
+      "precision": "year",
+      "pages": [
+        54
+      ],
+      "people": [
+        "william-paterson"
+      ],
+      "organizations": [
+        "bank-england"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "Quigley identifies the Bank of England\u2019s foundation by William Paterson and his associates as a turning point in the development of credit and British state power.",
+      "details": [
+        "The account distinguishes paper claims redeemable against gold from the larger volume of bank notes and deposit credit that reserves could support. The institutional innovation matters because not every claim was presented for payment at once.",
+        "Quigley connects this financing capacity with Britain\u2019s later military competition with Napoleon. His argument concerns credit organization, not a claim that the bank invented all forms of banking."
+      ],
+      "context": "Introduces the central-bank institution that later connects merchant bankers, war financing and interwar monetary policy.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-peabody-predecessor",
+      "name": "Peabody establishes the Morgan firm\u2019s London predecessor",
+      "date": "1838-01-01",
+      "precision": "year",
+      "pages": [
+        58
+      ],
+      "people": [
+        "george-peabody"
+      ],
+      "organizations": [
+        "jp-morgan"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "The supplied text traces the Morgan banking enterprise to George Peabody and Company, established in London in 1838, as part of its discussion of private merchant-bank organization.",
+      "details": [
+        "Quigley uses the long period of private partnership to explain why influential investment-banking firms could operate through governments and corporations while disclosing little about their own finances.",
+        "This event records the predecessor named in the passage, rather than backdating every later Morgan corporate entity or treating the London predecessor and the1940 corporation as legally identical."
+      ],
+      "context": "Starts the institutional lineage that can be followed into political finance, incorporation and the Guaranty merger.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-morgan-incorporated",
+      "name": "J. P. Morgan and Company incorporates",
+      "date": "1940-03-21",
+      "precision": "day",
+      "pages": [
+        58
+      ],
+      "people": [],
+      "organizations": [
+        "jp-morgan"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley dates the Morgan firm\u2019s incorporation to March21,1940, contrasting its earlier private partnership with the later corporate structure.",
+      "details": [
+        "The passage places this change within the decline of the older international-financial-capitalist system. It explains private partnerships\u2019 secrecy and their willingness to retain personal liability.",
+        "Quigley also associates later incorporation with the pressure of inheritance taxation. The event describes the firm\u2019s legal transition, without implying that all earlier associates were still involved in1940."
+      ],
+      "context": "Connects the nineteenth-century merchant-bank narrative to twentieth-century corporate reorganization."
+    },
+    {
+      "id": "tragedy-morgan-guaranty-merger",
+      "name": "Morgan merges with Guaranty Trust",
+      "date": "1959-04-24",
+      "precision": "day",
+      "pages": [
+        58
+      ],
+      "people": [],
+      "organizations": [
+        "jp-morgan",
+        "guaranty-trust"
+      ],
+      "lanes": [
+        "finance"
+      ],
+      "summary": "The supplied PDF dates the merger of J. P. Morgan and Company with Guaranty Trust to April24,1959 and identifies Guaranty as its principal commercial-bank subsidiary.",
+      "details": [
+        "Quigley describes the merger as ending the Morgan firm\u2019s existence as a separate entity. This is an institutional succession, not the disappearance of the historical Morgan network or all its affiliated businesses.",
+        "The passage is a retrospective endpoint in the chapter\u2019s treatment of private investment banking and the movement toward corporate organization."
+      ],
+      "context": "Extends the banking backbone into the1950s and separates a firm\u2019s institutional history from earlier individual financiers."
+    },
+    {
+      "id": "tragedy-pendleton-reform",
+      "name": "Pendleton reform changes political patronage",
+      "date": "1883-01-01",
+      "precision": "year",
+      "pages": [
+        76,
+        77
+      ],
+      "people": [
+        "william-c-whitney"
+      ],
+      "organizations": [
+        "republican-party",
+        "democratic-party"
+      ],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "summary": "Quigley interprets the1883 Pendleton reform as reducing party machines\u2019 independent patronage-based income and increasing politicians\u2019 reliance on business campaign contributions.",
+      "details": [
+        "His account compares the electoral, party-organizational and financial pressures on officeholders. The argument is about the redistribution of political leverage, rather than merely improved administrative efficiency.",
+        "The source links the reform to an ensuing period of investment-banking influence from1884 to1933. That causal interpretation remains Quigley\u2019s and is not treated as independently established by the diagram."
+      ],
+      "context": "Links administrative reform, campaign finance and the book\u2019s account of business influence on government.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-bryan-election",
+      "name": "Bryan\u2019s monetary challenge meets McKinley\u2019s campaign",
+      "date": "1896-01-01",
+      "precision": "year",
+      "pages": [
+        78
+      ],
+      "people": [
+        "william-jennings-bryan",
+        "william-mckinley",
+        "mark-hanna"
+      ],
+      "organizations": [
+        "democratic-party",
+        "republican-party"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley portrays the1896 election as a confrontation between agrarian demands for a larger money supply and the business interests defending the gold standard.",
+      "details": [
+        "The Democratic nomination of Bryan broke the expectation that financiers could influence both parties equally. Quigley connects this change to farm debt, falling agricultural prices and unequal railroad and industrial charges.",
+        "He describes large-scale business spending and Hanna\u2019s purchase of convention support for McKinley. These campaign mechanisms are attributed to the account rather than presented as proof of control over every voter."
+      ],
+      "context": "Makes monetary policy intersect with party organization and the later debates over financial capitalism.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-spanish-american-war",
+      "name": "US war with Spain expands overseas power",
+      "date": "1898-01-01",
+      "precision": "year",
+      "pages": [
+        79
+      ],
+      "people": [
+        "theodore-roosevelt",
+        "henry-cabot-lodge",
+        "william-randolph-hearst"
+      ],
+      "organizations": [],
+      "lanes": [
+        "war",
+        "empire",
+        "domestic"
+      ],
+      "summary": "Quigley places the war with Spain within the Cuban revolt, press agitation and the search for an external issue during domestic economic discontent.",
+      "details": [
+        "The passage links Hearst\u2019s press and the interventionist advocacy of Lodge and Roosevelt with the crisis following the Maine explosion. It does not establish the cause of that explosion.",
+        "The resulting acquisition of overseas territories and recognition of American naval power appear alongside rising gold production and a renewed period of prosperity. Quigley separates these overlapping forces rather than reducing recovery to wartime demand alone."
+      ],
+      "context": "Connects domestic political economy with the emergence of American imperial and naval power.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-wilson-election",
+      "name": "Republican split opens the way for Wilson",
+      "date": "1912-01-01",
+      "precision": "year",
+      "pages": [
+        80
+      ],
+      "people": [
+        "woodrow-wilson",
+        "theodore-roosevelt",
+        "william-howard-taft"
+      ],
+      "organizations": [
+        "republican-party",
+        "democratic-party"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley explains Wilson\u2019s1912 victory partly through the division between Roosevelt and Taft, which he relates to competing business interests and the coalition of liberal eastern and agrarian western voters.",
+      "details": [
+        "He distinguishes the older Morgan-centered financial-capitalist interests from newer monopoly interests associated with the Rockefeller bloc. The factional interpretation belongs to the source.",
+        "The passage then assesses Progressive reforms, treating Wilson\u2019s political and administrative changes as more effective than many of his economic measures."
+      ],
+      "context": "Connects party competition and financial networks to the Progressive-era institutional reforms.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-federal-reserve-established",
+      "name": "Federal Reserve established in Progressive reform",
+      "date": "1913-01-01",
+      "precision": "year",
+      "pages": [
+        62,
+        80
+      ],
+      "people": [
+        "woodrow-wilson"
+      ],
+      "organizations": [
+        "federal-reserve"
+      ],
+      "lanes": [
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley includes the Federal Reserve among the institutional reforms associated with Wilson\u2019s Progressive program, and discusses its role within the broader American banking system.",
+      "details": [
+        "The early economic chapter compares the American organization of industry and investment banking with British, French, German and Russian arrangements. It also describes the mechanisms of reserve requirements and monetary expansion.",
+        "This marker uses the source\u2019s1913 establishment year for the system; it does not silently treat every regional Reserve Bank as already operating in that year."
+      ],
+      "context": "Creates a cited identity bridge to Scott\u2019s later discussion of the Federal Reserve and Wall Street networks.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-new-republic-founded",
+      "name": "The New Republic founded with business-linked financing",
+      "date": "1914-01-01",
+      "precision": "year",
+      "pages": [
+        80
+      ],
+      "people": [],
+      "organizations": [
+        "new-republic",
+        "jp-morgan"
+      ],
+      "lanes": [
+        "domestic",
+        "finance"
+      ],
+      "summary": "Quigley describes The New Republic\u2019s1914 foundation as a liberal reform enterprise financed with Whitney money through a Morgan-associated organizer.",
+      "details": [
+        "He places the journal within a combination of genuine reform impulses and the view that limited concessions could protect wealth and channel discontent. The account therefore does not equate every reform advocate with identical motives.",
+        "The journal is used as an example of the press connecting economic elites, Progressive ideas and public political debate."
+      ],
+      "context": "Links the financial narrative to the circulation of reform ideas through publishing.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-ruskin-oxford",
+      "name": "Ruskin\u2019s Oxford teaching connects reform and empire",
+      "date": "1870-01-01",
+      "precision": "year",
+      "pages": [
+        119,
+        120
+      ],
+      "people": [
+        "ruskin",
+        "rhodes",
+        "milner"
+      ],
+      "organizations": [
+        "oxford-university"
+      ],
+      "lanes": [
+        "empire",
+        "domestic"
+      ],
+      "summary": "Quigley dates Ruskin\u2019s Oxford appointment to1870 and presents his teaching as an influence linking upper-class education, domestic social reform and imperial responsibility.",
+      "details": [
+        "The passage portrays the extension of English institutional traditions to poorer people and overseas populations as a moral project for the privileged. These paternalistic ideas are described as the participants\u2019 outlook.",
+        "Quigley traces this intellectual influence into Rhodes and the friends later associated with Milner. It is an author-described connection of ideas, not a dated claim that every named person attended the same lecture."
+      ],
+      "context": "Introduces the educational links shared with The Anglo-American Establishment.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-suez-shares",
+      "name": "British purchase of Suez shares links strategy and finance",
+      "date": "1875-01-01",
+      "precision": "year",
+      "pages": [
+        123
+      ],
+      "people": [
+        "benjamin-disraeli",
+        "rothschild"
+      ],
+      "organizations": [
+        "suez-canal-company"
+      ],
+      "lanes": [
+        "empire",
+        "finance",
+        "diplomacy"
+      ],
+      "summary": "Quigley describes Disraeli buying the Egyptian ruler\u2019s Suez Canal shares with Rothschild money in1875 to protect communications with India.",
+      "details": [
+        "The account connects the sale to Egyptian indebtedness and follows the increasing involvement of external financial and governmental authorities. Strategic protection of an earlier acquisition becomes a reason for further intervention.",
+        "This marker distinguishes the purchase of shares from the1882 occupation and from the wider Anglo-French debt-management arrangements."
+      ],
+      "context": "Shows financial transactions and imperial strategy meeting at the same institution.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-toynbee-hall",
+      "name": "Toynbee Hall connects social reform and imperial organizers",
+      "date": "1884-01-01",
+      "precision": "year",
+      "pages": [
+        121
+      ],
+      "people": [
+        "milner",
+        "gell",
+        "arnold-toynbee",
+        "albert-grey"
+      ],
+      "organizations": [
+        "toynbee-hall"
+      ],
+      "lanes": [
+        "domestic",
+        "empire"
+      ],
+      "summary": "Quigley dates Toynbee Hall\u2019s establishment to1884, describes Gell as chairman and links the settlement-house movement to the social-reform background of the later imperial circle.",
+      "details": [
+        "The organization placed educated residents in poorer districts to support welfare and adult education. Quigley connects it with both university extension and later recruitment of young administrators.",
+        "Arnold Toynbee had died in1883 and is the namesake and intellectual influence here, not a living participant in an1884 founding meeting. The supplied passage\u2019s compressed list is not used to assign him a posthumous administrative role."
+      ],
+      "context": "Connects domestic educational work to the people later recruited into Milner\u2019s administration.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-rhodes-bsac",
+      "name": "Rhodes\u2019s concession becomes a chartered-company project",
+      "date": "1889-01-01",
+      "precision": "year",
+      "pages": [
+        125
+      ],
+      "people": [
+        "rhodes",
+        "jameson"
+      ],
+      "organizations": [
+        "bsac"
+      ],
+      "lanes": [
+        "empire",
+        "finance"
+      ],
+      "summary": "Quigley links Rhodes\u2019s1888 mining concession from Lobengula to the British South Africa Company organized in1889, with a charter giving it extensive territorial powers.",
+      "details": [
+        "The source compares the company\u2019s weak early dividend record with the much larger returns from Rhodes\u2019s established mining operations. Political expansion and commercial profitability were therefore not identical.",
+        "It describes later conquest and public improvements under the company, while attributing the acquisition\u2019s opportunistic and coercive methods to Rhodes\u2019s project."
+      ],
+      "context": "Creates an institutional link between mining wealth, chartered governance and the southern African political timeline.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-shaw-times",
+      "name": "Flora Shaw joins The Times colonial department",
+      "date": "1890-01-01",
+      "precision": "year",
+      "pages": [
+        121
+      ],
+      "people": [
+        "florashaw",
+        "stead",
+        "rhodes"
+      ],
+      "organizations": [
+        "the-times",
+        "pall-mall-gazette"
+      ],
+      "lanes": [
+        "empire",
+        "domestic"
+      ],
+      "summary": "Quigley describes Shaw becoming head of The Times colonial department in1890 while retaining a financial connection with Stead\u2019s Pall Mall Gazette.",
+      "details": [
+        "The passage links her appointment to her introduction to Rhodes in1889 and to the subsequent publicity for his imperial projects. These are specific journalistic affiliations within the source account.",
+        "Her newspaper role later becomes relevant to the presentation of the Jameson Raid and to Quigley\u2019s broader reconstruction of press influence."
+      ],
+      "context": "Shows the press connection between individuals who recur in both Quigley books.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-rhodes-society",
+      "name": "Rhodes and Stead organize the proposed imperial society",
+      "date": "1891-02-05",
+      "precision": "day",
+      "pages": [
+        120,
+        121
+      ],
+      "people": [
+        "rhodes",
+        "stead",
+        "brett",
+        "milner"
+      ],
+      "organizations": [
+        "milner-group"
+      ],
+      "lanes": [
+        "empire",
+        "finance"
+      ],
+      "summary": "Quigley dates Rhodes and Stead\u2019s organization of their secret imperial society to February5,1891 and describes an executive circle involving Brett and Milner.",
+      "details": [
+        "He distinguishes a central circle from an outer association later linked to the Round Table. Names listed as potential initiates are not automatically converted into confirmed membership.",
+        "The passage describes Brett\u2019s invitation and Milner\u2019s later acceptance after returning from Egypt, and places the outer organization\u2019s development in1909\u20131913."
+      ],
+      "context": "Connects the earlier imperial plans in The Anglo-American Establishment to this book\u2019s separately cited organizational reconstruction."
+    },
+    {
+      "id": "tragedy-jameson-raid",
+      "name": "Jameson Raid fails against the Transvaal",
+      "date": "1895-01-01",
+      "precision": "year",
+      "pages": [
+        125,
+        126
+      ],
+      "people": [
+        "rhodes",
+        "beit",
+        "jameson",
+        "paul-kruger",
+        "florashaw",
+        "joseph-chamberlain"
+      ],
+      "organizations": [
+        "bsac",
+        "the-times"
+      ],
+      "lanes": [
+        "empire",
+        "war",
+        "finance"
+      ],
+      "summary": "Quigley describes the planned Johannesburg uprising and Jameson\u2019s raid as an attempt financed by Rhodes and Beit to overthrow Kruger\u2019s government.",
+      "details": [
+        "The uprising failed to materialize as planned, but Jameson proceeded and was captured. Quigley discusses both the preparation of opinion through newspapers and negotiations with British officials.",
+        "He places the raid\u2019s aftermath within the loss of Boer support for Rhodes and the use of the Kaiser\u2019s congratulatory telegram to shift British attention toward German interference."
+      ],
+      "context": "Links financing, press activity and colonial conflict to the subsequent Boer War. The year follows the source\u2019s compressed dating of the raid sequence.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-milner-south-africa",
+      "name": "Milner becomes South African high commissioner",
+      "date": "1897-01-01",
+      "precision": "year",
+      "pages": [
+        121,
+        126
+      ],
+      "people": [
+        "milner",
+        "rhodes",
+        "smuts"
+      ],
+      "organizations": [
+        "kindergarten"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley identifies Milner\u2019s1897 appointment as a turning point in the renewed confrontation over the Transvaal and the later recruitment of his young administrative circle.",
+      "details": [
+        "The passage connects publicity over the Uitlanders with frontier troop movements and the developing roles of Smuts and Kruger. Quigley\u2019s causal account remains attributed to him.",
+        "The Kindergarten later reorganized the conquered territories and contributed to the Union constitution; that later activity is distinct from the appointment itself."
+      ],
+      "context": "Provides a common person and institution through which the two Quigley timelines intersect.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-boer-war",
+      "name": "Boer War reshapes imperial confidence",
+      "date": "1899-01-01",
+      "precision": "year",
+      "pages": [
+        125,
+        126
+      ],
+      "people": [
+        "milner",
+        "smuts",
+        "paul-kruger",
+        "rhodes"
+      ],
+      "organizations": [
+        "kindergarten"
+      ],
+      "lanes": [
+        "empire",
+        "war",
+        "diplomacy"
+      ],
+      "summary": "Quigley portrays the1899\u20131902 Boer War as a major imperial turning point whose costly British victory weakened confidence in British power.",
+      "details": [
+        "He relates the conflict to the aftermath of the Jameson Raid, frontier tensions and the ultimatum drawn up by Smuts. The interpretation is not represented as independent proof of every participant\u2019s hidden intention.",
+        "The aftermath connected occupied-territory administration with the later Kindergarten and contributed, in the source\u2019s account, to Britain\u2019s rapprochement with Japan and France."
+      ],
+      "context": "Connects colonial conflict with both constitutional reorganization and the diplomatic alliances preceding the First World War.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1902-12-31"
+    },
+    {
+      "id": "tragedy-rhodes-trust-succession",
+      "name": "Rhodes\u2019s legacy finances scholarships and associated institutions",
+      "date": "1902-01-01",
+      "precision": "year",
+      "pages": [
+        120,
+        121
+      ],
+      "people": [
+        "rhodes",
+        "milner",
+        "george-parkin",
+        "beit",
+        "bailey"
+      ],
+      "organizations": [
+        "rhodes-trust",
+        "milner-group"
+      ],
+      "lanes": [
+        "empire",
+        "finance",
+        "domestic"
+      ],
+      "summary": "Quigley links Rhodes\u2019s death in1902 with access to his fortune, the Rhodes scholarships and the activities of the associated imperial circle.",
+      "details": [
+        "Milner appears as chief trustee and Parkin as organizing secretary after1902. Quigley also identifies support from Beit and Bailey as additional resources for the group\u2019s projects.",
+        "The source frames the scholarships as a means of extending a particular educational and governing tradition. This explanation of purpose remains the author\u2019s interpretation of the legacy."
+      ],
+      "context": "Shows trust administration connecting educational exchange with financial patronage and imperial organization.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-selborne-succeeds",
+      "name": "Selborne continues Milner\u2019s administrative circle",
+      "date": "1905-01-01",
+      "precision": "year",
+      "pages": [
+        127
+      ],
+      "people": [
+        "milner",
+        "selborne",
+        "curtis",
+        "kerr"
+      ],
+      "organizations": [
+        "kindergarten"
+      ],
+      "lanes": [
+        "empire"
+      ],
+      "summary": "Quigley describes Selborne taking over as high commissioner after Milner left public administration in1905 and continuing to use the Kindergarten.",
+      "details": [
+        "The group shifted its attention toward uniting the four colonies, supported by Selborne, Smuts and Jameson. The account traces a coordinated sequence of public argument and constitutional preparation.",
+        "Milner\u2019s departure is therefore an administrative transition rather than the end of the associates\u2019 influence in South Africa."
+      ],
+      "context": "Links personnel continuity to the campaign that culminated in the1910 Union.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-imperial-general-staff",
+      "name": "Esher\u2019s defence coordination develops an Imperial General Staff",
+      "date": "1907-01-01",
+      "precision": "year",
+      "pages": [
+        132
+      ],
+      "people": [
+        "brett",
+        "hankey"
+      ],
+      "organizations": [
+        "committee-imperial-defence"
+      ],
+      "lanes": [
+        "security",
+        "empire"
+      ],
+      "summary": "Quigley associates the1907 establishment of an Imperial General Staff with Esher\u2019s coordinating role after the inquiry into the South African War.",
+      "details": [
+        "The passage connects defence planning with reorganization of the military forces of dominions and with the creation of an able secretariat.",
+        "Hankey\u2019s later Cabinet work is presented as part of the same institutional development, not as a separate proof that every military decision was made by the imperial circle."
+      ],
+      "context": "Connects the Boer War aftermath with wartime executive coordination.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-south-african-union",
+      "name": "South African Union follows coordinated constitutional work",
+      "date": "1910-01-01",
+      "precision": "year",
+      "pages": [
+        127
+      ],
+      "people": [
+        "smuts",
+        "louis-botha",
+        "selborne",
+        "curtis",
+        "kerr",
+        "brand",
+        "duncan",
+        "basil-long"
+      ],
+      "organizations": [
+        "kindergarten",
+        "south-african-union",
+        "the-state"
+      ],
+      "lanes": [
+        "empire",
+        "domestic"
+      ],
+      "summary": "Quigley describes the1910 Union as the result of coordinated constitutional work by Smuts and the Kindergarten, supported by Selborne, Jameson and Bailey-funded publicity.",
+      "details": [
+        "The passage identifies Kerr and Curtis with a union memorandum, Brand and Duncan with constitutional groundwork, and Long and Duncan with legal advice at the Durban convention.",
+        "Botha became prime minister while Smuts held several portfolios. Quigley then traces the tension between imperial reconciliation, Boer nationalism and racial exclusion."
+      ],
+      "context": "Connects the same constitutional actors to The Anglo-American Establishment while preserving this book\u2019s separate account.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-round-table-groups",
+      "name": "Round Table groups organize across the empire",
+      "date": "1909-01-01",
+      "precision": "year",
+      "pages": [
+        121,
+        122
+      ],
+      "people": [
+        "milner",
+        "curtis",
+        "george-parkin",
+        "kerr"
+      ],
+      "organizations": [
+        "kindergarten",
+        "round-table"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley places the organization of Round Table groups in the period1909\u20131913, connecting Milner\u2019s former administrators with overseas political and educational associates.",
+      "details": [
+        "Correspondence, visits and a shared journal helped maintain the network. He identifies different local nuclei rather than a single identical membership list in every country.",
+        "The original imperial-federation ambition later shifted toward cooperation among increasingly autonomous countries. This event covers the organizational interval, not one invented universal founding day."
+      ],
+      "context": "Adds a source-attributed institutional bridge among southern Africa, Britain, the dominions and the United States.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1913-12-31"
+    },
+    {
+      "id": "tragedy-round-table-journal",
+      "name": "The Round Table begins publication",
+      "date": "1910-01-01",
+      "precision": "year",
+      "pages": [
+        122,
+        131
+      ],
+      "people": [
+        "kerr",
+        "bailey",
+        "milner"
+      ],
+      "organizations": [
+        "round-table-journal",
+        "round-table"
+      ],
+      "lanes": [
+        "empire",
+        "domestic",
+        "finance"
+      ],
+      "summary": "Quigley identifies the quarterly journal\u2019s1910 foundation with Kerr\u2019s editorship and substantial financing from Abe Bailey.",
+      "details": [
+        "The journal served discussions about imperial federation and connected overseas groups through shared arguments and information. It also later published positions on Irish and Commonwealth reform.",
+        "Editorial work, financial patronage and the political movement are distinct affiliations, although the diagram links them through the same people and organization."
+      ],
+      "context": "Connects publishing and finance with the imperial constitutional timeline.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-cabinet-secretariat",
+      "name": "Wartime Cabinet Secretariat draws on defence administrators",
+      "date": "1916-01-01",
+      "precision": "year",
+      "pages": [
+        132,
+        133
+      ],
+      "people": [
+        "milner",
+        "brett",
+        "hankey",
+        "amery",
+        "ormsby-gore"
+      ],
+      "organizations": [
+        "committee-imperial-defence",
+        "british-cabinet-secretariat"
+      ],
+      "lanes": [
+        "security",
+        "war",
+        "domestic"
+      ],
+      "summary": "Quigley places the creation of the Cabinet Secretariat in1916\u20131917 and connects its staff to Esher\u2019s defence secretariat and Milner\u2019s assistants.",
+      "details": [
+        "Hankey and Swinton appear as defence administrators, while Amery and Ormsby-Gore came from Milner\u2019s circle. The passage follows the movement of specific personnel rather than treating institutional similarity alone as causation.",
+        "The new office became a durable coordinating mechanism, with Hankey serving the Cabinet and numerous imperial and international conferences."
+      ],
+      "context": "Provides an explicit personnel bridge between imperial administration and modern executive government.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1917-12-31"
+    },
+    {
+      "id": "tragedy-federation-rejected",
+      "name": "Dominion resistance redirects Milner\u2019s federation project",
+      "date": "1916-07-28",
+      "precision": "day",
+      "pages": [
+        134
+      ],
+      "people": [
+        "milner",
+        "curtis"
+      ],
+      "organizations": [
+        "round-table"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley identifies a July28,1916 meeting as a moment when Milner presented the federation project but found no dominion member prepared to accept it.",
+      "details": [
+        "The passage describes a shift from a unified imperial constitutional structure toward looser Commonwealth cooperation. It uses Curtis\u2019s writings to explain the outlook behind the proposal.",
+        "This is a source-described turning point within an evolving project, not a claim that one meeting alone created the entire Commonwealth."
+      ],
+      "context": "Explains why the federation thread intersects with later resolutions recognizing dominion autonomy."
+    },
+    {
+      "id": "tragedy-imperial-war-cabinet",
+      "name": "Imperial War Cabinet incorporates dominion leaders",
+      "date": "1917-01-01",
+      "precision": "year",
+      "pages": [
+        133,
+        134,
+        135
+      ],
+      "people": [
+        "milner",
+        "smuts",
+        "lloyd-george"
+      ],
+      "organizations": [
+        "imperial-war-cabinet"
+      ],
+      "lanes": [
+        "empire",
+        "war",
+        "diplomacy"
+      ],
+      "summary": "Quigley describes the incorporation of dominion prime ministers into the wartime Cabinet system and the1917 recognition of dominions as autonomous nations within an imperial Commonwealth.",
+      "details": [
+        "The source singles out Smuts and connects participation in war decisions to an adequate voice in foreign relations. India\u2019s representation was also extended in subsequent arrangements.",
+        "Milner hoped the wartime body would continue meeting annually after the war, but Quigley notes that this expectation was not fulfilled."
+      ],
+      "context": "Links wartime coordination with the constitutional movement toward equal status.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-milner-equal-status",
+      "name": "Milner states the equal-partnership principle",
+      "date": "1919-07-09",
+      "precision": "day",
+      "pages": [
+        135
+      ],
+      "people": [
+        "milner",
+        "smuts"
+      ],
+      "organizations": [
+        "colonial-office",
+        "round-table"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley dates Milner\u2019s official equal-partnership statement to July9,1919 and places it in the longer movement toward dominion autonomy.",
+      "details": [
+        "The text distinguishes equality of status from equality of actual power. It traces agreement among Canadian and South African participants during the wartime conferences.",
+        "Quigley presents the1926 declaration and the1931 statute as later formal expressions of this developing position, rather than as wholly disconnected innovations."
+      ],
+      "context": "Connects an explicitly dated statement with the broader Commonwealth constitutional sequence."
+    },
+    {
+      "id": "tragedy-international-affairs-institutes",
+      "name": "Postwar international-affairs institutes develop",
+      "date": "1919-01-01",
+      "precision": "year",
+      "pages": [
+        122
+      ],
+      "people": [
+        "bailey"
+      ],
+      "organizations": [
+        "riia",
+        "cfr",
+        "round-table"
+      ],
+      "lanes": [
+        "diplomacy",
+        "finance"
+      ],
+      "summary": "Quigley places the founding of the Royal Institute and the development of analogous institutes in1919\u20131927, connecting them to the Round Table-associated network and financial patrons.",
+      "details": [
+        "Bailey and the Astor family appear as supporters in the British account. The passage describes local institutes and personal links rather than a single legal organization extending over every country.",
+        "The PDF uses1919 for the Royal Institute\u2019s origin, whereas the existing Anglo-American digest uses its separate founding chronology. The two source accounts are not silently collapsed into one exact date."
+      ],
+      "context": "Provides shared institutional identities for overlays with the other Quigley book and Scott\u2019s account of the CFR.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1927-12-31"
+    },
+    {
+      "id": "tragedy-ipr-network",
+      "name": "Institute of Pacific Relations expands the institute network",
+      "date": "1925-01-01",
+      "precision": "year",
+      "pages": [
+        122
+      ],
+      "people": [],
+      "organizations": [
+        "ipr",
+        "riia",
+        "round-table"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "summary": "Quigley describes a Pacific institute structure developing after1925 in countries holding Pacific territory, interlocking locally with existing international-affairs institutes and Round Table groups.",
+      "details": [
+        "This passage explains a relationship among institutions and local networks, without claiming that every participant shared identical views or that one central office directed all activity.",
+        "The year is an anchor for the source\u2019s after1925 description, not an asserted exact founding day for all twelve units."
+      ],
+      "context": "Connects Pacific affairs to the imperial and international-institute backbone.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-commonwealth-declaration",
+      "name": "1926 declaration gives dominions equal status",
+      "date": "1926-01-01",
+      "precision": "year",
+      "pages": [
+        135
+      ],
+      "people": [
+        "balfour",
+        "amery",
+        "smuts",
+        "basil-long"
+      ],
+      "organizations": [
+        "round-table"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley describes the1926 declaration under Balfour\u2019s name as the public expression of ideas negotiated during earlier imperial conferences.",
+      "details": [
+        "The account identifies Canadian and South African influence and the work of press figures in formulating the position, while noting less enthusiastic Australian and New Zealand responses.",
+        "The declaration\u2019s status as a constitutional principle is distinguished from its later legislative expression in the Statute of Westminster."
+      ],
+      "context": "Connects named negotiators and publications to the legal transformation of imperial relations.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-westminster-statute",
+      "name": "Statute of Westminster formalizes dominion autonomy",
+      "date": "1931-01-01",
+      "precision": "year",
+      "pages": [
+        135
+      ],
+      "people": [],
+      "organizations": [
+        "round-table"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley presents the1931 Statute of Westminster as the legal expression of the dominion-equality principle stated in the1926 declaration and earlier imperial negotiations.",
+      "details": [
+        "The chapter follows the shift from federation to autonomous cooperation and common allegiance, rather than treating the statute as the original beginning of that shift.",
+        "The source\u2019s institutional interpretation links this legal outcome to the earlier Milner and Round Table program; the diagram preserves that attribution."
+      ],
+      "context": "Provides a constitutional endpoint for the wartime and postwar equal-partnership sequence.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-congress-founded",
+      "name": "Indian National Congress established",
+      "date": "1885-01-01",
+      "precision": "year",
+      "pages": [
+        147
+      ],
+      "people": [
+        "allan-octavian-hume",
+        "lord-dufferin"
+      ],
+      "organizations": [
+        "indian-national-congress"
+      ],
+      "lanes": [
+        "empire",
+        "decolonization",
+        "domestic"
+      ],
+      "summary": "Quigley credits Hume with establishing the Indian National Congress in1885 with support from the viceroy as a way to channel political agitation into representative discussion.",
+      "details": [
+        "The initial program sought greater participation within the British system and renounced violent methods. Later demands became more assertive under nationalist pressure.",
+        "The account places this organization within a broader succession of religious reform, national awareness and opposition to colonial rule."
+      ],
+      "context": "Introduces an institution that later connects Gokhale, Tilak, Gandhi and constitutional reforms.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-servants-india",
+      "name": "Gokhale establishes Servants of India Society",
+      "date": "1905-01-01",
+      "precision": "year",
+      "pages": [
+        147
+      ],
+      "people": [
+        "gopal-krishna-gokhale"
+      ],
+      "organizations": [
+        "servants-india-society"
+      ],
+      "lanes": [
+        "domestic",
+        "decolonization"
+      ],
+      "summary": "Quigley identifies Gokhale\u2019s1905 society as a disciplined educational and social-reform organization seeking to cross caste and religious divisions.",
+      "details": [
+        "Its members took vows governing their conduct and worked among diverse groups, connecting moral commitment with national education.",
+        "The organization belongs to the source\u2019s account of reform traditions preceding Gandhi\u2019s mass political leadership, rather than being treated as identical to the Congress party."
+      ],
+      "context": "Connects social reform and Indian national organization through a named founder.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-muslim-league",
+      "name": "Muslim League enters the constitutional struggle",
+      "date": "1906-01-01",
+      "precision": "year",
+      "pages": [
+        148
+      ],
+      "people": [],
+      "organizations": [
+        "muslim-league",
+        "indian-national-congress"
+      ],
+      "lanes": [
+        "empire",
+        "decolonization",
+        "domestic"
+      ],
+      "summary": "Quigley describes the Muslim League\u2019s formation in1906 in opposition to Hindu extremism and with initial support for the British position.",
+      "details": [
+        "The account then notes its1913 demand for self-government, showing a change in political outlook rather than assuming the founding program lasted unchanged.",
+        "The source uses this organization alongside the growing division between Congress moderates and Tilak\u2019s supporters."
+      ],
+      "context": "Shows why the constitutional timeline contains multiple organizations with changing positions.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-gandhi-smuts-agreement",
+      "name": "Gandhi and Smuts reach a South African settlement",
+      "date": "1914-01-01",
+      "precision": "year",
+      "pages": [
+        152
+      ],
+      "people": [
+        "mohandas-gandhi",
+        "smuts"
+      ],
+      "organizations": [
+        "south-african-union"
+      ],
+      "lanes": [
+        "empire",
+        "domestic",
+        "decolonization"
+      ],
+      "summary": "Quigley describes Gandhi and Smuts reaching an elaborate1914 compromise after campaigns against discriminatory registration, taxes and marriage restrictions in South Africa.",
+      "details": [
+        "The agreement recognized Indian marriages and revoked some discrimination, while the account connects it with the cessation of indentured-labor importation in1920.",
+        "Quigley treats these campaigns as the development of methods Gandhi later used in India. The settlement was partial and is not presented as eliminating racial exclusion."
+      ],
+      "context": "Creates a person-based intersection between the South African administrative thread and Indian mass politics.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-rowlatt-act",
+      "name": "Rowlatt Act extends wartime restrictions in India",
+      "date": "1919-03-01",
+      "precision": "month",
+      "pages": [
+        154
+      ],
+      "people": [
+        "mohandas-gandhi"
+      ],
+      "organizations": [
+        "indian-national-congress"
+      ],
+      "lanes": [
+        "security",
+        "empire",
+        "decolonization"
+      ],
+      "summary": "Quigley dates the Rowlatt Act to March1919 and describes it as continuing wartime restrictions just when Indians expected greater freedom.",
+      "details": [
+        "Gandhi responded with civil disobedience and local general strikes, while outbreaks of violence conflicted with his nonviolent methods.",
+        "The passage connects this confrontation with the failure of constitutional reform to satisfy mass political aspirations and with officials hostile to greater Indian autonomy."
+      ],
+      "context": "Links coercive legislation, constitutional expectations and the Amritsar crisis.",
+      "precisionNote": "The source supplies a month. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-amritsar",
+      "name": "Amritsar massacre deepens the colonial crisis",
+      "date": "1919-04-13",
+      "precision": "day",
+      "pages": [
+        154
+      ],
+      "people": [
+        "reginald-dyer",
+        "mohandas-gandhi"
+      ],
+      "organizations": [
+        "indian-national-congress"
+      ],
+      "lanes": [
+        "security",
+        "empire",
+        "decolonization"
+      ],
+      "summary": "Quigley describes Dyer ordering troops to fire on the Amritsar gathering on April13,1919, followed by further collective punishments and political controversy.",
+      "details": [
+        "The account places the gathering within the confrontation after the Rowlatt Act and the removal of local Congress leaders. It emphasizes the lack of adequate exits and the abandonment of the wounded.",
+        "The event is linked to the breakdown of trust in imperial government. The source\u2019s subsequent political analysis is kept distinct from the date of the shooting itself."
+      ],
+      "context": "Shows the coercive crisis intersecting with the constitutional and nationalist timelines."
+    },
+    {
+      "id": "tragedy-india-dyarchy",
+      "name": "Government of India reform introduces dyarchy",
+      "date": "1919-01-01",
+      "precision": "year",
+      "pages": [
+        133,
+        153,
+        154
+      ],
+      "people": [
+        "curtis",
+        "milner",
+        "mohandas-gandhi"
+      ],
+      "organizations": [
+        "colonial-office",
+        "indian-national-congress"
+      ],
+      "lanes": [
+        "empire",
+        "domestic",
+        "decolonization"
+      ],
+      "summary": "Quigley connects Curtis\u2019s Indian constitutional work with the1919 reform and assesses its failure amid raised political expectations and British conservative opposition.",
+      "details": [
+        "The account sees the reform as allowing areas of self-government to expand with experience, but the masses mobilized by Gandhi sought a greater political transformation.",
+        "Opposition to both the reform and nationalist agitation helped shift Gandhi toward broader non-cooperation and civil disobedience. These causal judgments remain the author\u2019s."
+      ],
+      "context": "Connects a Round Table constitutional actor with India\u2019s mass political movement.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-irish-parliament",
+      "name": "Sinn F\u00e9in representatives establish a Dublin parliament",
+      "date": "1918-01-01",
+      "precision": "year",
+      "pages": [
+        157
+      ],
+      "people": [
+        "eamon-de-valera"
+      ],
+      "organizations": [
+        "sinn-fein"
+      ],
+      "lanes": [
+        "domestic",
+        "decolonization"
+      ],
+      "summary": "Quigley connects the1918 Irish election with Sinn F\u00e9in representatives\u2019 decision to organize a parliament in Dublin rather than attend Westminster.",
+      "details": [
+        "Attempts to arrest its members led, in the account, to escalating assassination, reprisal and armed conflict. The author describes violence by both sides rather than treating the sequence as a peaceful constitutional change.",
+        "The year anchors the election-to-parliament sequence as narrated here, without inventing an exact assembly date omitted from this passage."
+      ],
+      "context": "Introduces the political institution whose conflict led to partition proposals and treaty negotiations.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-irish-government-act",
+      "name": "Government of Ireland Act follows a partition proposal",
+      "date": "1920-01-01",
+      "precision": "year",
+      "pages": [
+        157
+      ],
+      "people": [
+        "curtis",
+        "eamon-de-valera"
+      ],
+      "organizations": [
+        "round-table-journal",
+        "colonial-office",
+        "sinn-fein"
+      ],
+      "lanes": [
+        "domestic",
+        "empire",
+        "decolonization"
+      ],
+      "summary": "Quigley links Curtis\u2019s March1920 journal proposal for separate northern and southern arrangements with the Government of Ireland Act later that year.",
+      "details": [
+        "Republicans led by de Valera rejected the arrangement and the conflict continued. The source describes efforts by the Round Table-associated officials and newspapers to restrain repression and reach a settlement.",
+        "The event records a constitutional proposal and enactment, not acceptance by all the parties involved."
+      ],
+      "context": "Connects journal debate, Colonial Office advisers and the Irish constitutional crisis.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-irish-treaty",
+      "name": "Anglo-Irish agreement creates a dominion settlement",
+      "date": "1921-12-01",
+      "precision": "month",
+      "pages": [
+        157,
+        158
+      ],
+      "people": [
+        "smuts",
+        "curtis",
+        "eamon-de-valera",
+        "arthur-griffith",
+        "michael-collins"
+      ],
+      "organizations": [
+        "irish-free-state",
+        "colonial-office",
+        "sinn-fein"
+      ],
+      "lanes": [
+        "empire",
+        "diplomacy",
+        "decolonization"
+      ],
+      "summary": "Quigley describes Smuts helping arrange negotiations from which the December1921 agreement emerged, giving southern Ireland dominion status while the northern arrangement continued.",
+      "details": [
+        "Curtis appears as secretary to the conference. The author connects Smuts\u2019s arguments to the South African experience of dominion government.",
+        "The settlement was rejected by de Valera\u2019s republicans, leading to a new conflict among Irish factions; Feetham\u2019s later boundary work forms a further administrative link."
+      ],
+      "context": "Connects South African and Irish constitutional histories through named negotiators rather than mere thematic resemblance.",
+      "precisionNote": "The source supplies a month. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-irish-devalera",
+      "name": "De Valera dismantles further ties with Britain",
+      "date": "1932-01-01",
+      "precision": "year",
+      "pages": [
+        158
+      ],
+      "people": [
+        "eamon-de-valera"
+      ],
+      "organizations": [
+        "irish-free-state"
+      ],
+      "lanes": [
+        "domestic",
+        "decolonization",
+        "diplomacy"
+      ],
+      "summary": "Quigley describes de Valera taking office after the1932 election and moving against the oath of loyalty, governor-general\u2019s office and other links with Britain.",
+      "details": [
+        "The passage also follows disputes over land payments, appeals and tariffs, showing that the constitutional settlement remained politically contested.",
+        "Its discussion of the1938 transfer of naval bases connects the later changes with the coming European war, without treating all these actions as occurring in1932."
+      ],
+      "context": "Extends the Irish settlement thread into the interwar constitutional and strategic disputes.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-dual-alliance",
+      "name": "Franco-Russian alliance reshapes European alignments",
+      "date": "1894-01-01",
+      "precision": "year",
+      "pages": [
+        188,
+        189
+      ],
+      "people": [
+        "otto-von-bismarck",
+        "wilhelm-ii"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "finance"
+      ],
+      "summary": "Quigley links the Franco-Russian alliance of1894 with the failure to renew the Reinsurance Treaty and with France and Russia\u2019s diplomatic isolation.",
+      "details": [
+        "He adds Russia\u2019s demand for railroad and industrial loans, which Paris could supply, as a financial factor supporting rapprochement.",
+        "The alliance became the base for later British agreements with France and Russia. The source distinguishes its military commitments from the looser ententes."
+      ],
+      "context": "Connects loan financing and alliance formation within the origins of the First World War.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-entente-cordiale",
+      "name": "Entente Cordiale reconciles colonial disputes",
+      "date": "1904-01-01",
+      "precision": "year",
+      "pages": [
+        189
+      ],
+      "people": [
+        "henry-kitchener",
+        "edward-vii"
+      ],
+      "organizations": [
+        "suez-canal-company"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "summary": "Quigley explains the1904 Anglo-French agreement through both German naval pressure and the resolution of colonial disputes after the Fashoda confrontation.",
+      "details": [
+        "The account describes reciprocal recognition involving Egypt and Morocco and additional settlements concerning African and other overseas territories.",
+        "It then follows unofficial military conversations that deepened the relationship. The colonial agreement and later operational commitments are not presented as the same document."
+      ],
+      "context": "Links colonial settlements, finance and the diplomatic framework preceding the war.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-anglo-russian-entente",
+      "name": "Anglo-Russian agreement completes the Entente alignment",
+      "date": "1907-01-01",
+      "precision": "year",
+      "pages": [
+        190
+      ],
+      "people": [
+        "ernest-cassel",
+        "edward-vii",
+        "brett"
+      ],
+      "organizations": [
+        "rothschild-banking-houses"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire",
+        "finance"
+      ],
+      "summary": "Quigley describes the1907 British agreement with Russia after Russian defeat by Japan and the sharpening of British rivalry with Germany.",
+      "details": [
+        "The agreement divided Persia into spheres, recognized British influence in Afghanistan and addressed Tibet. Quigley also discusses financial and personal connections among the Entente countries.",
+        "Those banking links are part of his explanation of rapprochement, not a claim that every provision was dictated by one banker."
+      ],
+      "context": "Provides a dated diplomatic context for the later Iranian and oil-policy accounts in the archive.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-haldane-mission",
+      "name": "Haldane\u2019s naval mission fails to bridge the alliances",
+      "date": "1912-01-01",
+      "precision": "year",
+      "pages": [
+        192
+      ],
+      "people": [
+        "richard-haldane",
+        "wilhelm-ii"
+      ],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "security"
+      ],
+      "summary": "Quigley describes Haldane\u2019s1912 mission to Berlin as an unsuccessful effort to obtain naval restraint without accepting a neutrality promise that could permit German continental predominance.",
+      "details": [
+        "The source contrasts Haldane\u2019s earlier affection for German culture with his conclusion that militarist influence was prevailing.",
+        "This unsuccessful negotiation is placed alongside later attempts to settle the Baghdad Railway issue, showing that diplomacy continued before the outbreak of war."
+      ],
+      "context": "Links the naval competition thread to the limits of diplomatic compromise.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-baghdad-railway-agreement",
+      "name": "Britain and Germany initial a Baghdad Railway agreement",
+      "date": "1914-06-01",
+      "precision": "month",
+      "pages": [
+        192
+      ],
+      "people": [],
+      "organizations": [],
+      "lanes": [
+        "diplomacy",
+        "empire"
+      ],
+      "summary": "Quigley dates the initialing of the Anglo-German railway agreement to June1914, shortly before the outbreak of the war.",
+      "details": [
+        "Britain withdrew its opposition in exchange for limits on the German position near Basra and recognition of British preeminence in the Euphrates and Persian Gulf region.",
+        "The source presents this as a solution to a long-running dispute that was overtaken by war, rather than as evidence that all Anglo-German conflicts had been resolved."
+      ],
+      "context": "Connects economic infrastructure and imperial spheres to the diplomatic chronology just before1914.",
+      "precisionNote": "The source supplies a month. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-us-war-entry",
+      "name": "United States enters the First World War",
+      "date": "1917-04-01",
+      "precision": "month",
+      "pages": [
+        218
+      ],
+      "people": [
+        "woodrow-wilson",
+        "william-jennings-bryan"
+      ],
+      "organizations": [],
+      "lanes": [
+        "war",
+        "diplomacy",
+        "finance"
+      ],
+      "summary": "Quigley dates American intervention to April1917 and reviews several explanations, including submarine attacks, British propaganda, financial exposure and balance-of-power concerns.",
+      "details": [
+        "He does not simply adopt the bankers\u2019 conspiracy explanation among those alternatives. His argument emphasizes the unwillingness of most administration leaders to accept an Entente defeat.",
+        "The passage connects American security to control of the oceans by the United States or a friendly power, placing financial and propagandist influences within that strategic context."
+      ],
+      "context": "Allows finance, information and diplomacy to intersect without converting alternative explanations into established causation.",
+      "precisionNote": "The source supplies a month. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-armistice",
+      "name": "Armistice ends First World War fighting",
+      "date": "1918-11-11",
+      "precision": "day",
+      "pages": [
+        223
+      ],
+      "people": [
+        "woodrow-wilson"
+      ],
+      "organizations": [],
+      "lanes": [
+        "war",
+        "diplomacy"
+      ],
+      "summary": "Quigley describes the armistice signed on November11,1918 and distinguishes its military terms from the later peace settlement.",
+      "details": [
+        "The account follows evacuation, surrender of equipment, prisoners and other obligations, then links the negotiations with expectations concerning Wilson\u2019s Fourteen Points.",
+        "It rejects the later claim that Germany\u2019s army had been undefeated and betrayed at home, emphasizing military defeat and the High Command\u2019s role in seeking terms."
+      ],
+      "context": "Connects wartime decisions with the Versailles and interwar security narratives."
+    },
+    {
+      "id": "tragedy-wartime-information",
+      "name": "British wartime information controls reach the American press",
+      "date": "1914-01-01",
+      "precision": "year",
+      "pages": [
+        229
+      ],
+      "people": [
+        "charles-masterman",
+        "gilbert-parker",
+        "frederick-e-smith"
+      ],
+      "organizations": [
+        "war-propaganda-bureau",
+        "british-press-bureau"
+      ],
+      "lanes": [
+        "war",
+        "security",
+        "domestic"
+      ],
+      "summary": "Quigley describes British wartime censorship and propaganda organizations developing in1914 and reaching American newspapers through a dedicated information bureau.",
+      "details": [
+        "The account distinguishes controls over cables, mail, books and news from the distribution of material to papers without their own foreign correspondents.",
+        "The later1916 press arrangements are part of the evolving system, not backdated to the initial1914 organization. Quigley uses these institutions to explain the wartime management of public information."
+      ],
+      "context": "Connects information institutions with the debate about American attitudes toward the Entente.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-hart-customs",
+      "name": "Hart\u2019s customs administration links trade and foreign leverage",
+      "date": "1863-01-01",
+      "precision": "year",
+      "pages": [
+        166
+      ],
+      "people": [
+        "robert-hart"
+      ],
+      "organizations": [
+        "chinese-maritime-customs"
+      ],
+      "lanes": [
+        "finance",
+        "empire"
+      ],
+      "summary": "Quigley dates Hart\u2019s leadership of Chinese customs from1863 to1906, placing it within foreign control over tariffs and fiscal administration.",
+      "details": [
+        "The source argues that low treaty-imposed tariffs hindered the protection of local handicrafts against European industrial imports. Control of customs was therefore both an administrative office and an economic relationship.",
+        "The passage compares China with Egypt and Ottoman Turkey. It does not equate these countries\u2019 legal arrangements or imply that a single international institution administered them all."
+      ],
+      "context": "Connects the financial backbone to the economic pressures discussed in the later Chinese political timeline.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1906-12-31"
+    },
+    {
+      "id": "tragedy-ottoman-vincent",
+      "name": "Vincent participates in Ottoman financial supervision",
+      "date": "1882-01-01",
+      "precision": "year",
+      "pages": [
+        166
+      ],
+      "people": [
+        "edgar-vincent"
+      ],
+      "organizations": [
+        "ottoman-financial-administration"
+      ],
+      "lanes": [
+        "finance",
+        "empire",
+        "diplomacy"
+      ],
+      "summary": "Quigley identifies Vincent as a central figure in Ottoman financial administration in1882\u20131897 as part of his comparison of foreign fiscal influence in Asian and Middle Eastern states.",
+      "details": [
+        "The discussion emphasizes treaty restrictions on tariffs and outside control over financial or customs services. It explains mechanisms of economic penetration rather than only military conquest.",
+        "The source supplies a period and a leading administrator, not a complete corporate history or a universal founding date for every debt-management body."
+      ],
+      "context": "Links Middle Eastern fiscal institutions with the wider finance-and-empire theme.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1897-12-31"
+    },
+    {
+      "id": "tragedy-perry-japan",
+      "name": "Perry\u2019s naval arrival challenges Japanese exclusion",
+      "date": "1853-01-01",
+      "precision": "year",
+      "pages": [
+        173
+      ],
+      "people": [
+        "matthew-perry"
+      ],
+      "organizations": [],
+      "lanes": [
+        "empire",
+        "security",
+        "diplomacy"
+      ],
+      "summary": "Quigley describes Perry\u2019s1853 arrival in Tokyo Bay as a shock revealing the strength of Western steam-powered vessels and naval guns.",
+      "details": [
+        "The pressure intensified an existing dispute about whether to maintain exclusion or open the country. Regional leaders used the crisis in their challenge to the Tokugawa government.",
+        "The account connects the later opening and Restoration to domestic clan alliances, rather than treating the arrival itself as an immediate completed transfer of power."
+      ],
+      "context": "Introduces the foreign-pressure thread underlying Japan\u2019s institutional and industrial transformation.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-meiji-reorganization",
+      "name": "Meiji transformation links clan rule and merchant finance",
+      "date": "1867-01-01",
+      "precision": "year",
+      "pages": [
+        174,
+        181
+      ],
+      "people": [],
+      "organizations": [
+        "genro",
+        "mitsui",
+        "mitsubishi"
+      ],
+      "lanes": [
+        "domestic",
+        "finance",
+        "revolution"
+      ],
+      "summary": "Quigley describes the1867\u20131868 transfer of authority from the shogunate to western-clan leaders governing in the emperor\u2019s name, supported by wealthy merchant interests.",
+      "details": [
+        "The source distinguishes the public restoration of imperial rule from the practical exercise of power by an oligarchy. It follows bureaucratic, military and commercial mechanisms that sustained that group.",
+        "The PDF calls the Restoration1867 in one passage and1868 in another. This interval preserves the narrated transition rather than silently converting both references into one exact date."
+      ],
+      "context": "Connects political change and business finance with the later Japanese diplomatic and military timeline.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date.",
+      "endDate": "1868-12-31"
+    },
+    {
+      "id": "tragedy-japanese-constitution",
+      "name": "Japanese constitution defines the Diet\u2019s limited leverage",
+      "date": "1889-01-01",
+      "precision": "year",
+      "pages": [
+        174,
+        175,
+        176
+      ],
+      "people": [],
+      "organizations": [
+        "japanese-diet",
+        "genro"
+      ],
+      "lanes": [
+        "domestic",
+        "security"
+      ],
+      "summary": "Quigley describes the1889 constitution as establishing formal legislative institutions while preserving extensive authority for imperial ministers and the Meiji leadership.",
+      "details": [
+        "Budgetary approval gave the Diet a potential means of opposition, but the repetition of an earlier budget and the leaders\u2019 influence over appointments limited that leverage.",
+        "The source also discusses restricted suffrage, campaign finance and administrative manipulation. These are its analysis of how constitutional form interacted with practical power, not a claim that every election had an identical result."
+      ],
+      "context": "Connects the book\u2019s institutional comparison of constitutional government with Japanese military and commercial networks.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-anglo-japanese-alliance",
+      "name": "Anglo-Japanese alliance protects against multiple enemies",
+      "date": "1902-01-01",
+      "precision": "year",
+      "pages": [
+        126,
+        185
+      ],
+      "people": [],
+      "organizations": [
+        "genro"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire",
+        "war"
+      ],
+      "summary": "Quigley identifies the1902 Anglo-Japanese alliance as an agreement providing assistance if either signatory faced more than one enemy in the Far East.",
+      "details": [
+        "In his account, British concerns after the Boer War and Japanese preparations for conflict with Russia made the partnership useful to both states.",
+        "The alliance isolated the approaching Russo-Japanese confrontation and formed part of the reorganization of global alignments before the First World War."
+      ],
+      "context": "Creates an Asian diplomatic intersection with the South African war\u2019s imperial consequences.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-portsmouth",
+      "name": "Portsmouth settlement follows Russo-Japanese war",
+      "date": "1905-01-01",
+      "precision": "year",
+      "pages": [
+        185
+      ],
+      "people": [],
+      "organizations": [
+        "genro"
+      ],
+      "lanes": [
+        "diplomacy",
+        "war",
+        "empire"
+      ],
+      "summary": "Quigley describes the1905 Portsmouth settlement after Japanese military victories and the destruction of Russia\u2019s fleet at Tsushima.",
+      "details": [
+        "The passage records Russia\u2019s concessions concerning Korea, southern Sakhalin and Liaotung, alongside a commitment concerning withdrawal from Manchuria.",
+        "Quigley then follows Japan\u2019s annexation of Korea in1910, distinguishing the peace settlement from the later administrative absorption."
+      ],
+      "context": "Connects imperial rivalry in Asia with the Anglo-Russian rapprochement and later Japanese expansion.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-japanese-twenty-one-demands",
+      "name": "Japan presents Twenty-one Demands to China",
+      "date": "1915-01-01",
+      "precision": "month",
+      "pages": [
+        185,
+        186
+      ],
+      "people": [],
+      "organizations": [
+        "genro"
+      ],
+      "lanes": [
+        "diplomacy",
+        "empire",
+        "war"
+      ],
+      "summary": "Quigley dates Japan\u2019s Twenty-one Demands to January1915 and treats them as an effort to exploit the wartime absence of other great powers from East Asia.",
+      "details": [
+        "The source connects the demands with Japanese seizure of German positions and with earlier agreements recognizing Japanese and Russian spheres.",
+        "It argues that the demands damaged the international opinion Japan had cultivated, particularly American views associated with Chinese territorial integrity and the Open Door."
+      ],
+      "context": "Links the First World War\u2019s global reach with the longer Sino-Japanese and US-Japanese diplomatic conflict.",
+      "precisionNote": "The source supplies a month. The first day is a plotting anchor, not an asserted exact date."
+    },
+    {
+      "id": "tragedy-chinese-republican-crisis",
+      "name": "Chinese revolution removes the dynasty without controlling armies",
+      "date": "1911-01-01",
+      "precision": "year",
+      "pages": [
+        167,
+        168,
+        170,
+        171
+      ],
+      "people": [
+        "sun-yat-sen"
+      ],
+      "organizations": [],
+      "lanes": [
+        "revolution",
+        "domestic",
+        "finance"
+      ],
+      "summary": "Quigley portrays the1911 collapse of the imperial regime as a political revolution whose leaders lacked stable control of the regional military forces.",
+      "details": [
+        "He connects revolutionary support with overseas Chinese financing and with the erosion of confidence in inherited institutions under foreign pressure.",
+        "The subsequent republic struggled over jurisdiction while military commanders became increasingly independent. The author\u2019s explanatory model links finance, imported weapons and political organization."
+      ],
+      "context": "Provides the earlier institutional context for the later Chinese civil-war and Cold War accounts.",
+      "precisionNote": "The source supplies a year. The first day is a plotting anchor, not an asserted exact date."
+    }
+  ],
+  "relationships": [
+    {
+      "fromId": "rothschild",
+      "toId": "de-beers",
+      "label": "Financial support for Rhodes\u2019s mining consolidation",
+      "pages": [
+        120
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "beit",
+      "toId": "de-beers",
+      "label": "Financial support for Rhodes\u2019s mining consolidation",
+      "pages": [
+        120
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "ruskin",
+      "toId": "rhodes",
+      "label": "Intellectual influence described by Quigley",
+      "pages": [
+        119,
+        120
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "ruskin",
+      "toId": "milner",
+      "label": "Intellectual influence described by Quigley",
+      "pages": [
+        120
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "stead",
+      "toId": "rhodes",
+      "label": "Co-organizer of proposed imperial society",
+      "pages": [
+        120
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "brett",
+      "toId": "milner-group",
+      "label": "Executive circle in Quigley\u2019s reconstruction",
+      "pages": [
+        120,
+        121
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "florashaw",
+      "toId": "the-times",
+      "label": "Head of colonial department",
+      "pages": [
+        121
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "florashaw",
+      "toId": "pall-mall-gazette",
+      "label": "Overlapping newspaper employment",
+      "pages": [
+        121
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "bailey",
+      "toId": "round-table-journal",
+      "label": "Financial patron",
+      "pages": [
+        122
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "bailey",
+      "toId": "the-state",
+      "label": "Financial patron",
+      "pages": [
+        127
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "kerr",
+      "toId": "the-state",
+      "label": "Editor and union advocate",
+      "pages": [
+        127
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "milner",
+      "toId": "rhodes-trust",
+      "label": "Chief Rhodes trustee in cited account",
+      "pages": [
+        121
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "george-parkin",
+      "toId": "rhodes-trust",
+      "label": "Organizing secretary after1902",
+      "pages": [
+        121
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "curtis",
+      "toId": "colonial-office",
+      "label": "Adviser on Irish affairs",
+      "pages": [
+        133,
+        157
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "brett",
+      "toId": "committee-imperial-defence",
+      "label": "Defence coordinator in cited account",
+      "pages": [
+        132
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "hankey",
+      "toId": "committee-imperial-defence",
+      "label": "Secretary1908\u20131938",
+      "pages": [
+        132
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "hankey",
+      "toId": "british-cabinet-secretariat",
+      "label": "Cabinet secretary1916\u20131938",
+      "pages": [
+        132
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "amery",
+      "toId": "colonial-office",
+      "label": "Colonial secretary1924\u20131929",
+      "pages": [
+        135
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "smuts",
+      "toId": "imperial-war-cabinet",
+      "label": "Dominion premier participating in imperial coordination",
+      "pages": [
+        133
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "ernest-cassel",
+      "toId": "brett",
+      "label": "Employer relationship described by Quigley",
+      "pages": [
+        190
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "ernest-cassel",
+      "toId": "edward-vii",
+      "label": "Close personal association in cited account",
+      "pages": [
+        190
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "rothschild-banking-houses",
+      "toId": "suez-canal-company",
+      "label": "Commercial interest linking diplomacy and finance",
+      "pages": [
+        190
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "jp-morgan",
+      "label": "Association in Quigley\u2019s system-of-influence list; specific legal role not resolved here",
+      "pages": [
+        58
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "jp-morgan",
+      "label": "Financial association in cited account",
+      "pages": [
+        58
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "dwight-morrow",
+      "toId": "jp-morgan",
+      "label": "Partner and political influence",
+      "pages": [
+        58,
+        79
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "john-w-davis",
+      "toId": "jp-morgan",
+      "label": "Legal adviser and political connection",
+      "pages": [
+        58,
+        79
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "william-jennings-bryan",
+      "toId": "democratic-party",
+      "label": "1896 candidate articulating agrarian monetary demands",
+      "pages": [
+        78
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "mark-hanna",
+      "toId": "republican-party",
+      "label": "Convention organizer for McKinley",
+      "pages": [
+        78
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "allan-octavian-hume",
+      "toId": "indian-national-congress",
+      "label": "Founding initiative",
+      "pages": [
+        147
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "gopal-krishna-gokhale",
+      "toId": "servants-india-society",
+      "label": "Founder",
+      "pages": [
+        147
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "mohandas-gandhi",
+      "toId": "indian-national-congress",
+      "label": "Spiritual and mass-mobilization leadership",
+      "pages": [
+        153
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "milner-group",
+      "toId": "round-table",
+      "label": "Institutional continuation in Quigley\u2019s account",
+      "pages": [
+        121
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "round-table",
+      "toId": "riia",
+      "label": "Postwar institutional connection in Quigley\u2019s account",
+      "pages": [
+        122
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "round-table",
+      "toId": "cfr",
+      "label": "International institute connection in Quigley\u2019s account",
+      "pages": [
+        122
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "round-table",
+      "toId": "ipr",
+      "label": "Interlocking institute relationships in cited account",
+      "pages": [
+        122
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "robert-hart",
+      "toId": "chinese-maritime-customs",
+      "label": "Head of customs1863\u20131906",
+      "pages": [
+        166
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "edgar-vincent",
+      "toId": "ottoman-financial-administration",
+      "label": "Financial-administration role1882\u20131897",
+      "pages": [
+        166
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "mitsui",
+      "toId": "genro",
+      "label": "Financial and political association described by Quigley",
+      "pages": [
+        174,
+        180,
+        181
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "mitsubishi",
+      "toId": "genro",
+      "label": "Business-group link within Meiji political economy",
+      "pages": [
+        174,
+        180
+      ],
+      "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    }
+  ],
+  "eventLinks": [
+    {
+      "fromId": "tragedy-jameson-raid",
+      "toId": "tragedy-boer-war",
+      "label": "Quigley connects the raid\u2019s aftermath with the later Boer conflict",
+      "kind": "Source-described sequence or institutional continuation",
+      "pages": [
+        125,
+        126
+      ]
+    },
+    {
+      "fromId": "tragedy-boer-war",
+      "toId": "tragedy-south-african-union",
+      "label": "Postwar administration feeds the later union campaign in Quigley\u2019s account",
+      "kind": "Source-described sequence or institutional continuation",
+      "pages": [
+        126,
+        127
+      ]
+    },
+    {
+      "fromId": "tragedy-round-table-groups",
+      "toId": "tragedy-international-affairs-institutes",
+      "label": "Quigley describes postwar institutional development from this circle",
+      "kind": "Source-described sequence or institutional continuation",
+      "pages": [
+        121,
+        122
+      ]
+    },
+    {
+      "fromId": "tragedy-milner-equal-status",
+      "toId": "tragedy-commonwealth-declaration",
+      "label": "Earlier equal-partnership principle restated in1926",
+      "kind": "Source-described sequence or institutional continuation",
+      "pages": [
+        135
+      ]
+    },
+    {
+      "fromId": "tragedy-commonwealth-declaration",
+      "toId": "tragedy-westminster-statute",
+      "label": "Constitutional declaration receives later statutory form",
+      "kind": "Source-described sequence or institutional continuation",
+      "pages": [
+        135
+      ]
+    },
+    {
+      "fromId": "tragedy-rowlatt-act",
+      "toId": "tragedy-amritsar",
+      "label": "Political agitation following the Rowlatt Act precedes the Amritsar crisis",
+      "kind": "Source-described sequence or institutional continuation",
+      "pages": [
+        154
+      ]
+    }
+  ]
+}

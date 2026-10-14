@@ -244,8 +244,8 @@ test("complete export includes all sources and on-demand event narratives", asyn
   const file = await download.path();
   const fs = await import("node:fs/promises");
   const exported = JSON.parse(await fs.readFile(file!, "utf8"));
-  expect(exported.sources).toHaveLength(3);
-  expect(exported.events).toHaveLength(203);
+  expect(exported.sources).toHaveLength(4);
+  expect(exported.events).toHaveLength(450);
   expect(
     exported.events.every((e: { sourceSummaries?: { details: string[] }[] }) =>
       e.sourceSummaries?.some((s) => s.details.length >= 2),
@@ -331,13 +331,155 @@ test("removed source is absent from controls, exports and lazy bundles", async (
   page.on("request", (request) => requests.push(request.url()));
   await page.goto("/?collection=gemstone");
   await expect(page.getByLabel("Select collection")).toHaveValue("anglo");
-  await expect(page.locator(".source-selection input")).toHaveCount(3);
+  await expect(page.locator(".source-selection input")).toHaveCount(4);
   await expect(page.getByRole("checkbox", { name: /Gemstone/ })).toHaveCount(0);
   await page.getByRole("button", { name: /^Sources/ }).click();
-  await expect(page.locator(".source-card .source-byline")).toHaveCount(3);
+  await expect(page.locator(".source-card .source-byline")).toHaveCount(4);
   expect(
     requests.some((url) =>
       /assets\/gemstone-|collections\/gemstone|narratives\/gemstone/.test(url),
     ),
   ).toBe(false);
+});
+
+test("Tragedy and Hope loads alone, distinguishes Quigley books and overlays shared institutions", async ({
+  page,
+}) => {
+  const errors: string[] = [];
+  page.on("pageerror", (error) => errors.push(error.message));
+  const requests: string[] = [];
+  page.on("request", (request) => requests.push(request.url()));
+  await page.goto("/?collection=tragedy");
+  await expect(page.getByLabel("Select collection")).toHaveValue("tragedy");
+  await expect(page.locator(".result-count")).toHaveText("247 matching events");
+  await expect(page.locator(".source-selection")).toContainText(
+    "Quigley · Tragedy and Hope",
+  );
+  await expect(page.locator(".source-selection")).toContainText(
+    "Quigley · Anglo-American Establishment",
+  );
+  expect(requests.some((url) => /assets\/tragedy-/.test(url))).toBe(true);
+  expect(
+    requests.some((url) => /assets\/(anglo|scott|yankee)-/.test(url)),
+  ).toBe(false);
+  await page
+    .getByRole("checkbox", {
+      name: "Include The State, the Deep State, and the Wall Street Overworld",
+    })
+    .check();
+  await page.getByLabel("Timeline period").selectOption("1950-1979");
+  await page.getByLabel("Timeline participant").selectOption("allen-dulles");
+  const marker = page.getByRole("button", {
+    name: "CIA-backed operation overthrows Mossadeq in Iran, 1953-08, month precision",
+    exact: true,
+  });
+  await expect(marker).toHaveCount(3);
+  await marker.first().click();
+  const panel = page.getByRole("complementary", {
+    name: "Timeline event details",
+  });
+  await expect(panel).toContainText("Allen W. Dulles");
+  await expect(page.locator(".highlighted-connection")).not.toHaveCount(0);
+  await panel.getByRole("tab", { name: "Source account" }).click();
+  await expect(panel).toContainText("Tragedy and Hope");
+  await expect(panel).toContainText("Why this point connects the threads");
+  await panel.getByRole("button", { name: "Close timeline details" }).click();
+  await page.getByRole("button", { name: /^Sources/ }).click();
+  const source = page.locator(".source-card").filter({
+    has: page.getByRole("heading", {
+      name: "Tragedy and Hope: A History of the World in Our Time",
+      exact: true,
+    }),
+  });
+  await source
+    .getByText("Source qualifications & conflicting accounts")
+    .click();
+  await expect(source).toContainText("bracketed editorial");
+  await expect(source).toContainText("1,090-page PDF");
+  expect(errors).toEqual([]);
+});
+
+test("any person and organization can be compared on aligned entity tracks", async ({
+  page,
+}) => {
+  await page.goto("/?collection=anglo,tragedy");
+  await page
+    .getByRole("button", {
+      name: "People & organization timelines",
+      exact: true,
+    })
+    .click();
+  await page.getByLabel("Add timeline entity").selectOption("fw-eggleston");
+  await page.getByRole("button", { name: "Add timeline", exact: true }).click();
+  await page.getByLabel("Add timeline entity").selectOption("ipr");
+  await page.getByRole("button", { name: "Add timeline", exact: true }).click();
+  await expect(page.locator(".lane-labels > div")).toHaveCount(2);
+  await expect(page.locator(".lane-labels")).toContainText(
+    "Frederic Eggleston",
+  );
+  await expect(page.locator(".lane-labels")).toContainText(
+    "Institute of Pacific Relations",
+  );
+  await expect(page.locator(".lane-labels")).toContainText(
+    "Lifespan dates not yet recorded",
+  );
+  const shared = page.getByRole("button", {
+    name: "First listed IPR conference at Honolulu, 1925, year precision",
+    exact: true,
+  });
+  await expect(shared).toHaveCount(2);
+  await shared.first().click();
+  await expect(page.locator(".highlighted-connection")).not.toHaveCount(0);
+  await expect(
+    page.getByRole("complementary", { name: "Timeline event details" }),
+  ).toContainText("Frederic Eggleston");
+  await page.getByRole("button", { name: "Close timeline details" }).click();
+  expect(new URL(page.url()).searchParams.get("tracks")).toBe(
+    "fw-eggleston,ipr",
+  );
+  await page.reload();
+  await expect(page.locator(".lane-labels > div")).toHaveCount(2);
+  const career = page.getByRole("button", {
+    name: "Frederic Eggleston · Australian minister in Washington, 1944 – 1946, year precision",
+    exact: true,
+  });
+  await career.click();
+  const panel = page.getByRole("complementary", {
+    name: "Timeline event details",
+  });
+  await panel.getByRole("tab", { name: "Source account" }).click();
+  await expect(panel).toContainText("diplomatic service");
+  await expect(panel).toContainText("The cited biographical footnote");
+  await page.screenshot({ path: "/tmp/darktime-entity-tracks.png" });
+});
+
+test("record details open a lifecycle timeline with cited birth and death", async ({
+  page,
+}) => {
+  await page.goto("/?collection=tragedy#rhodes");
+  await page
+    .getByRole("dialog")
+    .getByRole("button", { name: "View timeline", exact: true })
+    .click();
+  await expect(page.locator(".lane-labels > div")).toHaveCount(1);
+  const birth = page.getByRole("button", {
+    name: "Cecil John Rhodes · Birth, 1853, year precision",
+    exact: true,
+  });
+  const death = page.getByRole("button", {
+    name: "Cecil John Rhodes · Death, 1902, year precision",
+    exact: true,
+  });
+  await expect(birth).toBeVisible();
+  await expect(death).toBeVisible();
+  await birth.click();
+  const panel = page.getByRole("complementary", {
+    name: "Timeline event details",
+  });
+  await panel.getByRole("tab", { name: "Source account" }).click();
+  await expect(panel).toContainText("Only the year is given");
+  await expect(panel).toContainText("Tragedy and Hope");
+  await expect(
+    page.getByRole("button", { name: "Show details", exact: true }),
+  ).toBeVisible();
 });

@@ -29,6 +29,19 @@ for (const e of entries) {
   for (const a of e.accounts || [])
     assert(sources.has(a.sourceId), `${e.id}: unknown account source`);
 }
+for (const entry of entries) {
+  for (const milestone of entry.milestones || []) {
+    validateCitations(milestone.citations, `${entry.id}:${milestone.id}`);
+    assert(
+      !Number.isNaN(Date.parse(milestone.date)),
+      `${entry.id}: invalid lifecycle date`,
+    );
+    assert(
+      milestone.details.length >= 2,
+      `${entry.id}: missing milestone context`,
+    );
+  }
+}
 for (const e of data.events) {
   assert(!Number.isNaN(Date.parse(e.date!)), `${e.id}: bad date`);
   if (e.endDate)
@@ -96,7 +109,24 @@ assert(
   data.events.some((e) => e.lanes!.length > 1),
   "Expected intersections",
 );
-assert.equal(data.sources.length, 3, "Expected three PDF sources");
+assert.equal(data.sources.length, 4, "Expected four PDF sources");
+const byId = new Map(entries.map((entry) => [entry.id, entry]));
+for (const event of data.events.filter((event) =>
+  event.citations.some((citation) => citation.sourceId === "tragedy"),
+)) {
+  for (const id of [...event.people!, ...event.organizations!])
+    assert(
+      byId
+        .get(id)
+        ?.citations.some((citation) => citation.sourceId === "tragedy"),
+      `${event.id}: participant ${id} lacks a book-specific account`,
+    );
+}
+assert.equal(
+  sources.get("tragedy")?.chapters?.length,
+  77,
+  "Tragedy and Hope chapter map must cover all 77 chapters",
+);
 console.log(
   `Archive valid: ${data.people.length} people, ${data.organizations.length} organizations, ${data.events.length} substantive event narratives, ${data.relationships.length} cited relationships, ${data.eventLinks?.length} attributed event links.`,
 );

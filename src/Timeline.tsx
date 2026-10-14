@@ -551,8 +551,8 @@ export default function Timeline({
             {hover.entry.citations
               .map(
                 (c) =>
-                  catalog.sources.find((s) => s.id === c.sourceId)?.author ||
-                  "Source",
+                  catalog.sources.find((s) => s.id === c.sourceId)
+                    ?.shortTitle || "Source",
               )
               .filter((s, i, a) => a.indexOf(s) === i)
               .join(" · ")}

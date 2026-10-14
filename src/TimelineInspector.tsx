@@ -8,11 +8,13 @@ export default function TimelineInspector({
   entry,
   onExplore,
   onClose,
+  onTimeline,
 }: {
   data: Archive;
   entry: Entry;
   onExplore: (id: string) => void;
   onClose: () => void;
+  onTimeline: (id: string) => void;
 }) {
   const [tab, setTab] = useState("Connections");
   const [history, setHistory] = useState<string[]>([]);

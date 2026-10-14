@@ -33,6 +33,7 @@ import {
   matches,
   dateLabel,
 } from "./archive";
+import { lifecycleEvents, entityProjection } from "./lifecycle";
 import "./style.css";
 const EventNarrative = lazy(() => import("./EventNarrative"));
 const TimelineInspector = lazy(() => import("./TimelineInspector"));
@@ -174,6 +175,15 @@ function App() {
   const [range, setRange] = useState<[number, number] | null>(null);
   const [overlayLinks, setOverlayLinks] = useState(true);
   const [entityFilter, setEntityFilter] = useState("");
+  const [entityTracks, setEntityTracks] = useState<string[]>(() =>
+    (new URL(location.href).searchParams.get("tracks") || "")
+      .split(",")
+      .filter(Boolean),
+  );
+  const [entityMode, setEntityMode] = useState(() =>
+    new URL(location.href).searchParams.has("tracks"),
+  );
+  const [trackToAdd, setTrackToAdd] = useState("");
   const [connectionPage, setConnectionPage] = useState(0);
   const detailRef = useRef<HTMLElement>(null);
   const previousFocus = useRef<HTMLElement | null>(null);
@@ -285,7 +295,10 @@ function App() {
     url.hash = "";
     history.pushState(null, "", url);
   };
-  const all = useMemo(() => (data ? entriesOf(data) : []), [data]);
+  const all = useMemo(
+    () => (data ? [...entriesOf(data), ...lifecycleEvents(data)] : []),
+    [data],
+  );
   const byId = useMemo(() => new Map(all.map((e) => [e.id, e])), [all]);
   const entry = byId.get(selected || "");
   const events = useMemo(
@@ -313,13 +326,58 @@ function App() {
       )
       .sort((a, b) => a.name.localeCompare(b.name));
   }, [data, scope]);
+  const diagram = useMemo(() => {
+    if (!data || !entityMode) return data;
+    const lifecycle = lifecycleEvents(data).filter(
+      (event) =>
+        matches(event, query) &&
+        (!range ||
+          (Number(event.date!.slice(0, 4)) <= range[1] &&
+            Number((event.endDate || event.date!).slice(0, 4)) >= range[0])),
+    );
+    return entityProjection(
+      data,
+      entityTracks,
+      [...events, ...lifecycle],
+      selectedSourcesForScope(scope),
+    );
+  }, [data, entityMode, entityTracks, events, query, range, scope]);
+  const diagramActive = useMemo(
+    () => (entityMode ? diagram?.lanes.map((lane) => lane.id) || [] : active),
+    [entityMode, diagram, active],
+  );
   const plottedEvents = useMemo(
     () =>
-      events
-        .filter((e) => e.lanes?.some((id) => active.includes(id)))
+      (diagram?.events || [])
+        .filter((event) =>
+          event.lanes?.some((id) => diagramActive.includes(id)),
+        )
         .sort((a, b) => a.date!.localeCompare(b.date!)),
-    [events, active],
+    [diagram, diagramActive],
   );
+  const viewEntityTimeline = (id: string) => {
+    close();
+    setInspected(null);
+    setEntityMode(true);
+    setEntityTracks([id]);
+    setView("Timelines");
+    setEntityFilter("");
+    setQuery("");
+    setRange(null);
+    const url = new URL(location.href);
+    url.searchParams.set("tracks", id);
+    history.replaceState(null, "", url);
+    document
+      .querySelector(".workspace")
+      ?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+  useEffect(() => {
+    const url = new URL(location.href);
+    if (entityMode && entityTracks.length)
+      url.searchParams.set("tracks", entityTracks.join(","));
+    else url.searchParams.delete("tracks");
+    history.replaceState(null, "", url);
+  }, [entityMode, entityTracks]);
   const records = useMemo(() => {
     const rows =
       view === "Characters"
@@ -662,6 +720,100 @@ function App() {
             </div>
             {view === "Timelines" ? (
               <>
+                <div className="entity-timeline-controls">
+                  <div
+                    className="timeline-mode"
+                    role="group"
+                    aria-label="Timeline display"
+                  >
+                    <button
+                      aria-pressed={!entityMode}
+                      onClick={() => setEntityMode(false)}
+                    >
+                      Topic timelines
+                    </button>
+                    <button
+                      aria-pressed={entityMode}
+                      onClick={() => {
+                        setEntityMode(true);
+                        setEntityFilter("");
+                        setQuery("");
+                      }}
+                    >
+                      People & organization timelines
+                    </button>
+                  </div>
+                  {entityMode && (
+                    <>
+                      <p className="view-note">
+                        Choose people or organizations from the selected sources
+                        to compare on aligned tracks. Birth, death and lifecycle
+                        changes appear where cited; the first and last dated
+                        references do not imply a lifespan.
+                      </p>
+                      <div className="entity-track-picker">
+                        <label>
+                          Add a person or organization
+                          <select
+                            aria-label="Add timeline entity"
+                            value={trackToAdd}
+                            onChange={(event) =>
+                              setTrackToAdd(event.target.value)
+                            }
+                          >
+                            <option value="">Choose a record…</option>
+                            {all
+                              .filter(
+                                (record) =>
+                                  record.kind !== "event" &&
+                                  !entityTracks.includes(record.id),
+                              )
+                              .sort((a, b) => a.name.localeCompare(b.name))
+                              .map((record) => (
+                                <option key={record.id} value={record.id}>
+                                  {record.name} · {record.kind}
+                                </option>
+                              ))}
+                          </select>
+                        </label>
+                        <button
+                          disabled={!trackToAdd}
+                          onClick={() => {
+                            setEntityTracks((previous) => [
+                              ...previous,
+                              trackToAdd,
+                            ]);
+                            setTrackToAdd("");
+                          }}
+                        >
+                          Add timeline
+                        </button>
+                        {!!entityTracks.length && (
+                          <button onClick={() => setEntityTracks([])}>
+                            Clear tracks
+                          </button>
+                        )}
+                      </div>
+                      <div className="entity-track-chips">
+                        {entityTracks.map((id) => (
+                          <span key={id}>
+                            {byId.get(id)?.name || id}
+                            <button
+                              aria-label={`Remove ${byId.get(id)?.name || id} timeline`}
+                              onClick={() =>
+                                setEntityTracks((previous) =>
+                                  previous.filter((track) => track !== id),
+                                )
+                              }
+                            >
+                              ×
+                            </button>
+                          </span>
+                        ))}
+                      </div>
+                    </>
+                  )}
+                </div>
                 <div className="view-tools">
                   <label>
                     Period
@@ -695,28 +847,31 @@ function App() {
                       </option>
                     </select>
                   </label>
-                  <label>
-                    Participant
-                    <select
-                      aria-label="Timeline participant"
-                      value={entityFilter}
-                      onChange={(e) => setEntityFilter(e.target.value)}
-                    >
-                      <option value="">All people & organizations</option>
-                      {[...data.people, ...data.organizations]
-                        .sort((a, b) => a.name.localeCompare(b.name))
-                        .map((e) => (
-                          <option key={e.id} value={e.id}>
-                            {e.name}
-                          </option>
-                        ))}
-                    </select>
-                  </label>
+                  {!entityMode && (
+                    <label>
+                      Participant
+                      <select
+                        aria-label="Timeline participant"
+                        value={entityFilter}
+                        onChange={(e) => setEntityFilter(e.target.value)}
+                      >
+                        <option value="">All people & organizations</option>
+                        {[...data.people, ...data.organizations]
+                          .sort((a, b) => a.name.localeCompare(b.name))
+                          .map((e) => (
+                            <option key={e.id} value={e.id}>
+                              {e.name}
+                            </option>
+                          ))}
+                      </select>
+                    </label>
+                  )}
                   <span className="result-count">
-                    {events.length} matching events
+                    {entityMode ? diagram?.events.length : events.length}{" "}
+                    matching events
                   </span>
                 </div>
-                {selectedSources.length > 1 && (
+                {selectedSources.length > 1 && !entityMode && (
                   <div className="overlay-options">
                     <label>
                       <input
@@ -777,12 +932,12 @@ function App() {
                           />
                           <span>
                             {s.author === "Carroll Quigley"
-                              ? "Quigley"
+                              ? `Quigley · ${s.shortTitle || s.title}`
                               : s.author === "Peter Dale Scott"
                                 ? "Peter Dale Scott"
                                 : "Carl Oglesby"}
                             <small>
-                              {s.id === "anglo"
+                              {s.author === "Carroll Quigley"
                                 ? "Historical study"
                                 : s.id === "scott"
                                   ? "Political analysis"
@@ -793,86 +948,107 @@ function App() {
                       ))}
                     </fieldset>
                   </details>
-                  {highlighted &&
-                    data.events.find((e) => e.id === highlighted) && (
-                      <div className="selected-event-strip" aria-live="polite">
-                        <strong>
-                          {data.events.find((e) => e.id === highlighted)!.name}
-                        </strong>
-                        <span>Highlighted across threads</span>
-                        <button
-                          className="show-event-details"
-                          onClick={() => setInspected(highlighted)}
-                        >
-                          <BookOpen size={16} /> Show details
-                        </button>
-                        <button onClick={() => setHighlighted(null)}>
-                          Clear highlight
-                        </button>
-                      </div>
-                    )}
-                </div>
-                <details className="thread-controls">
-                  <summary>Timeline threads · {active.length} visible</summary>
-                  <div className="thread-heading">
-                    <span className="tiny-label">
-                      {active.length} / {data.lanes.length} THREADS VISIBLE
-                    </span>
-                    <div>
+                  {highlighted && byId.get(highlighted) && (
+                    <div className="selected-event-strip" aria-live="polite">
+                      <strong>{byId.get(highlighted)!.name}</strong>
+                      <span>Highlighted across threads</span>
                       <button
-                        onClick={() => setActive(data.lanes.map((l) => l.id))}
+                        className="show-event-details"
+                        onClick={() => setInspected(highlighted)}
                       >
-                        Show all
+                        <BookOpen size={16} /> Show details
                       </button>
-                      <button onClick={() => setActive([])}>Hide all</button>
+                      <button onClick={() => setHighlighted(null)}>
+                        Clear highlight
+                      </button>
                     </div>
-                  </div>
-                  <div className="thread-filters">
-                    {data.lanes.map((l) => (
-                      <button
-                        key={l.id}
-                        aria-pressed={active.includes(l.id)}
-                        className={active.includes(l.id) ? "selected" : ""}
-                        onClick={() =>
-                          setActive(
-                            active.includes(l.id)
-                              ? active.filter((i) => i !== l.id)
-                              : [...active, l.id],
-                          )
-                        }
-                      >
-                        <span style={{ background: l.color }} />
-                        {l.name}
-                      </button>
-                    ))}
-                  </div>
-                </details>
-                {!active.length ? (
+                  )}
+                </div>
+                {!entityMode && (
+                  <details className="thread-controls">
+                    <summary>
+                      Timeline threads · {active.length} visible
+                    </summary>
+                    <div className="thread-heading">
+                      <span className="tiny-label">
+                        {active.length} / {data.lanes.length} THREADS VISIBLE
+                      </span>
+                      <div>
+                        <button
+                          onClick={() => setActive(data.lanes.map((l) => l.id))}
+                        >
+                          Show all
+                        </button>
+                        <button onClick={() => setActive([])}>Hide all</button>
+                      </div>
+                    </div>
+                    <div className="thread-filters">
+                      {data.lanes.map((l) => (
+                        <button
+                          key={l.id}
+                          aria-pressed={active.includes(l.id)}
+                          className={active.includes(l.id) ? "selected" : ""}
+                          onClick={() =>
+                            setActive(
+                              active.includes(l.id)
+                                ? active.filter((i) => i !== l.id)
+                                : [...active, l.id],
+                            )
+                          }
+                        >
+                          <span style={{ background: l.color }} />
+                          {l.name}
+                        </button>
+                      ))}
+                    </div>
+                  </details>
+                )}
+                {!diagramActive.length ? (
                   <div className="empty">
-                    Select a timeline thread to start exploring.
+                    {entityMode
+                      ? "Choose a person or organization to start its timeline."
+                      : "Select a timeline thread to start exploring."}
                   </div>
                 ) : (
                   <div className="timeline-layout">
                     <div className="lane-labels">
-                      {data.lanes
-                        .filter((l) => active.includes(l.id))
+                      {diagram!.lanes
+                        .filter((l) => diagramActive.includes(l.id))
                         .map((l) => (
                           <div key={l.id} style={{ color: l.color }}>
                             {l.name}
+                            {entityMode && (
+                              <small>
+                                {byId.get(l.id.slice(7))?.kind === "person"
+                                  ? (
+                                      byId.get(l.id.slice(7))?.milestones || []
+                                    ).some(
+                                      (m) =>
+                                        (m.kind === "birth" ||
+                                          m.kind === "death") &&
+                                        m.citations.some((c) =>
+                                          selectedSources.includes(c.sourceId),
+                                        ),
+                                    )
+                                    ? "Cited lifespan & events"
+                                    : "Lifespan dates not yet recorded"
+                                  : "Cited institutional record"}
+                              </small>
+                            )}
                             <small>
                               {l.sourceIds
                                 ?.map(
                                   (id) =>
-                                    catalog.sources
-                                      .find((source) => source.id === id)
-                                      ?.author?.split(" ")
-                                      .at(-1) || "Source",
+                                    catalog.sources.find(
+                                      (source) => source.id === id,
+                                    )?.shortTitle || "Source",
                                 )
                                 .join(" / ")}{" "}
                               ·{" "}
                               {
-                                events.filter((e) => e.lanes?.includes(l.id))
-                                  .length
+                                diagram!.events.filter((e) =>
+                                  e.lanes?.includes(l.id),
+                                ).length
                               }{" "}
                               EVENTS
                             </small>
@@ -886,9 +1062,9 @@ function App() {
                         }
                       >
                         <Timeline
-                          data={data}
-                          events={events}
-                          active={active}
+                          data={diagram!}
+                          events={diagram!.events}
+                          active={diagramActive}
                           onSelect={highlight}
                           highlightedId={highlighted}
                           range={range}
@@ -901,8 +1077,11 @@ function App() {
                 )}
                 <div className="below-chart">
                   <span>
-                    {data.events.map((e) => e.date!.slice(0, 4)).sort()[0]} —{" "}
-                    {data.events
+                    {diagram!.events
+                      .map((e) => e.date!.slice(0, 4))
+                      .sort()[0] || "No dated record"}{" "}
+                    —{" "}
+                    {diagram!.events
                       .map((e) => (e.endDate || e.date!).slice(0, 4))
                       .sort()
                       .at(-1)}
@@ -964,10 +1143,13 @@ function App() {
                             <p>{labelFor(e, scope)}</p>
                             <span className="event-thread-names">
                               {e
-                                .lanes!.filter((id) => active.includes(id))
+                                .lanes!.filter((id) =>
+                                  diagramActive.includes(id),
+                                )
                                 .map(
                                   (id) =>
-                                    data.lanes.find((l) => l.id === id)?.name,
+                                    diagram!.lanes.find((l) => l.id === id)
+                                      ?.name,
                                 )
                                 .join(" · ")}
                             </span>
@@ -1303,6 +1485,7 @@ function App() {
           <TimelineInspector
             data={data}
             entry={byId.get(inspected)!}
+            onTimeline={viewEntityTimeline}
             onClose={() => setInspected(null)}
             onExplore={(id) => {
               setInspected(id);
@@ -1414,6 +1597,14 @@ function App() {
                     entry.status ||
                     "Source account · independent verification pending"}
                 </div>
+                {entry.kind !== "event" && (
+                  <button
+                    className="explore-connections"
+                    onClick={() => viewEntityTimeline(entry.id)}
+                  >
+                    <Clock size={16} /> View timeline <ArrowUpRight size={14} />
+                  </button>
+                )}
                 {entry.kind !== "event" && (
                   <button
                     className="explore-connections"

@@ -1,0 +1,182 @@
+[
+  {
+    "entityId": "rhodes",
+    "sourceId": "tragedy",
+    "birth": "1853-01-01",
+    "death": "1902-01-01",
+    "precision": "year",
+    "pages": [
+      120,
+      786
+    ],
+    "description": "The biographical parenthesis identifies Cecil Rhodes’s lifespan, separately from his Cape Colony premiership of 1890–1896. Text basis: “Rhodes (1853-1902)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "stead",
+    "sourceId": "tragedy",
+    "birth": "1849-01-01",
+    "death": "1912-01-01",
+    "precision": "year",
+    "pages": [
+      120,
+      786
+    ],
+    "description": "The biographical parenthesis identifies the journalist William T. Stead’s lifespan in the account of his association with Rhodes. Text basis: “William T. Stead (1849-1912)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "beit",
+    "sourceId": "tragedy",
+    "birth": "1853-01-01",
+    "death": "1906-01-01",
+    "precision": "year",
+    "pages": [
+      121
+    ],
+    "description": "The biographical parenthesis identifies the lifespan of Rhodes supporter Alfred Beit, whose funds helped sustain the group. Text basis: “Alfred Beit (1853-1906)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "bailey",
+    "sourceId": "tragedy",
+    "birth": "1864-01-01",
+    "death": "1940-01-01",
+    "precision": "year",
+    "pages": [
+      121
+    ],
+    "description": "The biographical parenthesis identifies the lifespan of the financier and Rhodes supporter Abe Bailey. Text basis: “Sir Abe Bailey (1864-1940)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "harry-johnston",
+    "sourceId": "tragedy",
+    "birth": "1858-01-01",
+    "death": "1927-01-01",
+    "precision": "year",
+    "pages": [
+      123
+    ],
+    "description": "The biographical parenthesis identifies Harry Hamilton Johnston’s lifespan while discussing British expansion in central Africa. Text basis: “Johnston (1858-1927)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "lugard",
+    "sourceId": "tragedy",
+    "birth": "1858-01-01",
+    "death": "1945-01-01",
+    "precision": "year",
+    "pages": [
+      123
+    ],
+    "description": "The biographical parenthesis identifies Frederick Lugard’s lifespan alongside Johnston; this is not an administrative tenure. Text basis: “Lugard (1858- 1945)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "bal-gangadhar-tilak",
+    "sourceId": "tragedy",
+    "birth": "1859-01-01",
+    "death": "1920-01-01",
+    "precision": "year",
+    "pages": [
+      145,
+      147
+    ],
+    "description": "The text gives Tilak’s lifespan twice, first as B. G. Tilak and then as Bal Gangathar Tilak, in its account of Indian nationalism. Text basis: “B. G. Tilak (1859-1920)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "mohandas-gandhi",
+    "sourceId": "tragedy",
+    "birth": "1869-01-01",
+    "death": "1948-01-01",
+    "precision": "year",
+    "pages": [
+      145,
+      150
+    ],
+    "description": "The biographical parenthesis gives Gandhi’s lifespan, repeated with his expanded name Mohandas Karamchand Gandhi. Text basis: “M. K. Gandhi (1869-1948)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "gopal-krishna-gokhale",
+    "sourceId": "tragedy",
+    "birth": "1866-01-01",
+    "death": "1915-01-01",
+    "precision": "year",
+    "pages": [
+      147
+    ],
+    "description": "The text explicitly gives Gokhale’s lifespan before identifying his founding of the Servants of India Society in 1905; the foundation date is a distinct fact. Text basis: “Gopal Krishna Gokhale ( 1866-1915)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "allan-octavian-hume",
+    "sourceId": "tragedy",
+    "birth": "1829-01-01",
+    "death": "1912-01-01",
+    "precision": "year",
+    "pages": [
+      147
+    ],
+    "description": "The biographical parenthesis identifies Hume’s lifespan in the account of his establishment of the Indian National Congress. Text basis: “Allan Octavian Hume (1829-1912)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "sun-yat-sen",
+    "sourceId": "tragedy",
+    "birth": "1866-01-01",
+    "death": "1925-01-01",
+    "precision": "year",
+    "pages": [
+      170
+    ],
+    "description": "The biographical parenthesis identifies Sun Yat-sen’s lifespan while describing his return to China during the 1911 revolution. Text basis: “Sun Yat-sen (1866-1925)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "ernest-cassel",
+    "sourceId": "tragedy",
+    "birth": "1852-01-01",
+    "death": "1921-01-01",
+    "precision": "year",
+    "pages": [
+      190
+    ],
+    "description": "The life-year parenthesis follows Sir Ernest Cassel’s name and biographical description, before the account of his move from Germany to England at seventeen. Text basis: “(1852-1921)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "alfred-mond",
+    "sourceId": "tragedy",
+    "birth": "1868-01-01",
+    "death": "1930-01-01",
+    "precision": "year",
+    "pages": [
+      420
+    ],
+    "description": "The biographical parenthesis identifies Alfred Mond’s lifespan, separate from the discussion of monopoly-capitalist industrial organization. Text basis: “Alfred M. Mond, Lord Melchett (1868-1930)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "george-peabody",
+    "sourceId": "tragedy",
+    "birth": "1795-01-01",
+    "death": "1869-01-01",
+    "precision": "year",
+    "pages": [
+      782
+    ],
+    "description": "The biographical parenthesis identifies George Peabody’s lifespan while explaining his place in the origins of the Morgan firm and philanthropic foundations. Text basis: “George Peabody (1795-1869)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "curtis",
+    "sourceId": "tragedy",
+    "birth": "1872-01-01",
+    "death": "1955-01-01",
+    "precision": "year",
+    "pages": [
+      787
+    ],
+    "description": "The text gives Lionel Curtis’s life-year pair while naming the leaders of the Round Table group after Milner. Text basis: “Curtis (1872-1955)”. Dates retain year precision; January 1 is a storage convention."
+  },
+  {
+    "entityId": "jerome-greene",
+    "sourceId": "tragedy",
+    "birth": "1874-01-01",
+    "death": "1959-01-01",
+    "precision": "year",
+    "pages": [
+      791
+    ],
+    "description": "The biographical parenthesis identifies Jerome Greene’s lifespan, followed by his birth in Japan and education at Harvard. Text basis: “Jerome D. Greene (1874-1959)”. Dates retain year precision; January 1 is a storage convention."
+  }
+]

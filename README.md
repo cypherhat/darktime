@@ -6,13 +6,15 @@ Live: https://cypherhat.github.io/darktime/
 
 ## Collections
 
-The archive contains **340 people, 152 organizations, 203 events, 675 relationships and 21 timeline threads**, plus two explicitly cited links between events. Shared identities are counted once; collection counts overlap.
+The archive contains **477 people, 247 organizations, 450 events, 920 relationships and 29 timeline threads**, plus 72 explicitly cited links between events. Shared identities are counted once; collection counts overlap.
 
 - **Carroll Quigley, The Anglo-American Establishment**: 170 people, 70 organizations, 90 events. Selected passages from all thirteen chapters and the tentative appendix roster. Quigley’s reported institutional roles are distinguished from inferred network membership and bracketed conjectures.
 - **Peter Dale Scott, The State, the Deep State, and the Wall Street Overworld**: 72 people, 40 organizations, 37 events. Article and notes reviewed; important denials, memoir qualifications and publication-date discrepancies are preserved.
 - **Carl Oglesby, The Yankee and Cowboy War**: 111 people, 49 organizations, 76 events. Selected records across the narrative, revised preface and appendix. His faction model, alternative accounts, official findings and denials retain their attribution. OCR uncertainty is noted.
 
-These are substantive attributed digests, not exhaustive indexes of every passing reference. The books’ interpretation of an event is not independent corroboration. Citations use **1-based PDF file pages**; printed-page references are included where discernible. The original PDFs in `docs/` and `sources/` remain local research files and are not redistributed by the website. All event narratives are embedded static assets, with no outbound source links required.
+- **Carroll Quigley, Tragedy and Hope**: 196 people, 130 organizations, 247 events, 245 affiliations and 70 event connections across eight threads. A selective institutional and political digest of the supplied 1,090-page annotated PDF, emphasizing finance, empire, world wars and connections through the 1950s, with selected 1960s developments. Later introductory material and identified bracketed editorial additions are excluded from Quigley-attributed accounts. Dates, inconsistencies and coverage limits remain visible.
+
+These are substantive attributed digests, not exhaustive indexes of every passing reference. The books’ interpretation of an event is not independent corroboration. Citations use **1-based PDF file pages**; printed-page references are included where discernible. The original PDFs in the single canonical `docs/` directory remain local research files and are not redistributed by the website. All event narratives are embedded static assets, with no outbound source links required.
 
 ## Browser-only architecture
 
@@ -22,7 +24,9 @@ Select arbitrary source combinations with the **Choose sources to overlay** chec
 
 Timelines provide UTC dates, year-bearing tick labels, smooth pan/zoom, period and participant filters, precision/duration bars, readable full-title labels, staggered numbered markers, hover/focus previews, and a matching event list. Source checkboxes stay pinned above the timeline. Thread controls, collections and the matching event list fold away; the diagram uses the document’s vertical scrolling instead of a nested scroll area. Click a marker to highlight its cross-thread connectors and open a persistent event panel alongside the diagram. Browse Connections and Source account tabs, follow clickable people, organizations and events, and use Back to retrace your path. The prominent Show details button reopens the panel. On mobile the panel docks below the diagram. Highlights persist through zoom and scrolling. Use the zoom buttons or Ctrl/Command + scroll to zoom; ordinary scrolling moves the page.
 
-Stable IDs support shareable URLs, e.g. `?collection=anglo,scott#allen-dulles`. Retired source IDs in overlay URLs are ignored; a retired-only selection falls back to Quigley. Export downloads the complete archive, including detailed narratives.
+Choose **People & organization timelines** to build one or several aligned tracks from any records in the selected sources, or use **View timeline** in a record’s details. Shared events connect the tracks. Comparisons can be shared through `tracks=person-id,organization-id` in the URL. Explicitly cited birth/death, career and institutional-change milestones supplement the event inventory; missing lifespan endpoints are labeled, never inferred from first/last appearances. The initial lifecycle data includes 16 cited lifespan pairs and nine career or institutional milestones. These are embedded on their parent records rather than expanding the global event inventory with every birthday.
+
+Stable IDs support shareable URLs, e.g. `?collection=tragedy,scott#allen-dulles`. Retired source IDs in overlay URLs are ignored; a retired-only selection falls back to Quigley. Export downloads the complete archive, including detailed narratives.
 
 ## Develop and validate
 
@@ -55,4 +59,6 @@ Use distinct identities for people with similar names. Merge only when the text 
 
 For a new collection, register source metadata, associate its lane definitions with the source ID and add its records/citations. The build discovers generated source/narrative bundles automatically. Run the validator, build and browser checks before committing.
 
-The ingestion scripts and `scripts/data/` research artifacts document the PDF extraction. `ingest-anglo.py`, `merge-research.py` and `apply-summaries.py` record the staged additions; the canonical archive remains authoritative for subsequent manual revisions. Only PDF sources listed in the canonical archive are selectable or exported.
+The ingestion scripts and `scripts/data/` research artifacts document the PDF extraction. `ingest-anglo.py`, `merge-research.py`, `ingest-tragedy.py`, `ingest-lifecycle.py` and `apply-summaries.py` record the staged additions; the canonical archive remains authoritative for subsequent manual revisions. Only PDF sources listed in the canonical archive are selectable or exported.
+
+The duplicate Anglo-American Establishment PDF formerly in `sources/` was removed after SHA-256 comparison with `docs/anglo.pdf`. All source metadata uses paths in `docs/`. Tragedy and Hope uses PDF-file pages rather than the original printed pagination; its chapter map records all 77 chapters, while the digest covers the selected passages described in its source notes.

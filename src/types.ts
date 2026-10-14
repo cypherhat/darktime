@@ -15,8 +15,27 @@ export interface SourceSummary {
   context: string;
   precisionNote?: string;
 }
+export interface LifecycleMilestone {
+  id: string;
+  name: string;
+  kind:
+    | "birth"
+    | "death"
+    | "formation"
+    | "transformation"
+    | "dissolution"
+    | "career";
+  date: string;
+  endDate?: string;
+  precision: "day" | "month" | "year";
+  description: string;
+  details: string[];
+  citations: Citation[];
+}
 export interface Entry {
   id: string;
+  milestones?: LifecycleMilestone[];
+  lifecycleFor?: string;
   name: string;
   kind: "person" | "organization" | "event";
   role: string;
@@ -47,6 +66,7 @@ export interface Entry {
 }
 export interface Source {
   id: string;
+  shortTitle?: string;
   title: string;
   url: string;
   accessed: string;

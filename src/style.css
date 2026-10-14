@@ -1862,3 +1862,61 @@ select {
   font-weight: 700;
   padding: 10px 14px;
 }
+.entity-timeline-controls {
+  margin: 15px 0;
+}
+.timeline-mode {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.timeline-mode button,
+.entity-track-picker > button {
+  border: 1px solid #59634b;
+  padding: 10px 12px;
+  font-size: 12px;
+}
+.timeline-mode button[aria-pressed="true"] {
+  background: #d3b889;
+  color: #171d17;
+  border-color: #d3b889;
+}
+.entity-track-picker {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 15px 0;
+}
+.entity-track-picker label {
+  display: grid;
+  gap: 7px;
+  font-size: 11px;
+  color: #bcc5a8;
+}
+.entity-track-picker select {
+  padding: 10px;
+  max-width: min(480px, 80vw);
+  color: #ddd9c4;
+  background: #20261d;
+  border: 1px solid #59634b;
+}
+.entity-track-picker button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.entity-track-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.entity-track-chips > span {
+  border: 1px solid #766b4c;
+  padding: 8px 10px;
+  font-size: 12px;
+  color: #d9c597;
+}
+.entity-track-chips button {
+  margin-left: 15px;
+  font-size: 18px;
+}
