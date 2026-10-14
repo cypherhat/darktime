@@ -1,0 +1,3707 @@
+{
+  "scope": "PDF pages 191–351, second-half narrative and appendix; pages 352–390 are notes/index, used as finding aids.",
+  "attribution": "All records paraphrase Carl Oglesby, The Yankee and Cowboy War. Interpretations and allegations remain attributed; this extraction does not independently confirm them. Citations are exact 1-based PDF file pages.",
+  "people": [
+    {
+      "id": "chester-davis",
+      "name": "Chester Davis",
+      "role": "Hughes counsel",
+      "pages": [
+        214,
+        224,
+        233
+      ],
+      "description": "Oglesby describes the lawyer defending Hughes in the TWA dispute and leading Toolco’s confrontation with Maheu.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        },
+        {
+          "pdfPage": 224,
+          "printed": "208"
+        },
+        {
+          "pdfPage": 233,
+          "printed": "217"
+        }
+      ]
+    },
+    {
+      "id": "noah-dietrich",
+      "name": "Noah Dietrich",
+      "role": "Hughes financial executive",
+      "pages": [
+        201
+      ],
+      "description": "Oglesby describes the Toolco executive whose reduction of a credit request intensified a conflict with Hughes Aircraft managers.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "185"
+        }
+      ]
+    },
+    {
+      "id": "john-sonnett",
+      "name": "John Sonnett",
+      "role": "TWA litigation counsel",
+      "pages": [
+        214
+      ],
+      "description": "Oglesby describes the lawyer pursuing TWA’s antitrust case against Hughes, whose theory the Supreme Court ultimately rejected in the book’s account.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        }
+      ]
+    },
+    {
+      "id": "william-o-douglas",
+      "name": "William O. Douglas",
+      "role": "Supreme Court justice",
+      "pages": [
+        214
+      ],
+      "description": "Oglesby describes the justice writing the majority decision assigning the Hughes dispute to aviation regulators.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        }
+      ]
+    },
+    {
+      "id": "charles-metzner",
+      "name": "Charles Metzner",
+      "role": "Federal district judge",
+      "pages": [
+        215,
+        226
+      ],
+      "description": "Oglesby describes the judge presiding over damages proceedings in TWA v. Hughes.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 215,
+          "printed": "199"
+        },
+        {
+          "pdfPage": 226,
+          "printed": "210"
+        }
+      ]
+    },
+    {
+      "id": "herbert-brownell",
+      "name": "Herbert Brownell",
+      "role": "Special master",
+      "pages": [
+        215
+      ],
+      "description": "Oglesby describes the special master who reviewed depositions in the Hughes litigation.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 215,
+          "printed": "199"
+        }
+      ]
+    },
+    {
+      "id": "hank-greenspun",
+      "name": "Hank Greenspun",
+      "role": "Las Vegas Sun editor",
+      "pages": [
+        217,
+        232,
+        239
+      ],
+      "description": "Oglesby describes a Maheu ally who stored the former Hughes aide’s document collection.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        }
+      ]
+    },
+    {
+      "id": "jack-hooper",
+      "name": "Jack Hooper",
+      "role": "Hughes security chief",
+      "pages": [
+        217,
+        231
+      ],
+      "description": "Oglesby describes the former FBI man running Hughes’s Nevada security force, left unaware of Hughes’s departure.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        }
+      ]
+    },
+    {
+      "id": "paul-laxalt",
+      "name": "Paul Laxalt",
+      "role": "Nevada governor",
+      "pages": [
+        218,
+        238
+      ],
+      "description": "Oglesby describes the governor praising Hughes’s economic importance and later speaking with a caller identified as Hughes.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 218,
+          "printed": "202"
+        },
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "larry-obrien",
+      "name": "Larry O’Brien",
+      "role": "Political consultant",
+      "pages": [
+        218,
+        219
+      ],
+      "description": "Oglesby describes the Kennedy associate whose firm accepted consulting work for Hughes; the author could not establish the full scope of that work.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 218,
+          "printed": "202"
+        },
+        {
+          "pdfPage": 219,
+          "printed": "203"
+        }
+      ]
+    },
+    {
+      "id": "richard-danner",
+      "name": "Richard Danner",
+      "role": "Hughes hotel manager",
+      "pages": [
+        220,
+        233
+      ],
+      "description": "Oglesby describes a Nixon associate involved in the Hughes cash-transfer story and Maheu’s dismissal meeting.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 220,
+          "printed": "204"
+        },
+        {
+          "pdfPage": 233,
+          "printed": "217"
+        }
+      ]
+    },
+    {
+      "id": "john-meier",
+      "name": "John Meier",
+      "role": "Hughes mining adviser",
+      "pages": [
+        222,
+        224
+      ],
+      "description": "Oglesby describes the Nevada mining-claims adviser implicated in the book’s alleged silver-mining swindle; those allegations remain source claims.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 222,
+          "printed": "206"
+        },
+        {
+          "pdfPage": 224,
+          "printed": "208"
+        }
+      ]
+    },
+    {
+      "id": "bill-gay",
+      "name": "Bill Gay",
+      "role": "Toolco director",
+      "pages": [
+        228,
+        230,
+        233
+      ],
+      "description": "Oglesby describes the director who recruited Hughes’s personal aides and participated in the board’s moves against Maheu.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 228,
+          "printed": "212"
+        },
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        },
+        {
+          "pdfPage": 233,
+          "printed": "217"
+        }
+      ]
+    },
+    {
+      "id": "howard-eckersley",
+      "name": "Howard Eckersley",
+      "role": "Hughes personal aide",
+      "pages": [
+        230,
+        238
+      ],
+      "description": "Oglesby describes the aide said to have notarized the contested Hughes proxy and later delivered a supporting letter.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        },
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "levar-myler",
+      "name": "Levar B. Myler",
+      "role": "Hughes personal aide",
+      "pages": [
+        230,
+        231,
+        238
+      ],
+      "description": "Oglesby describes the aide who witnessed and stored the disputed proxy and later presented it to court.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        },
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        },
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "james-golden",
+      "name": "James Golden",
+      "role": "Security executive",
+      "pages": [
+        231,
+        232
+      ],
+      "description": "Oglesby describes a former Nixon Secret Service protector, Lockheed security executive and founding Intertel officer.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        },
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        }
+      ]
+    },
+    {
+      "id": "edward-morgan",
+      "name": "Edward P. Morgan",
+      "role": "Maheu lawyer",
+      "pages": [
+        227,
+        233
+      ],
+      "description": "Oglesby describes Maheu’s lawyer and friend, involved in Hughes transfers and the formal dismissal meeting.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 227,
+          "printed": "211"
+        },
+        {
+          "pdfPage": 233,
+          "printed": "217"
+        }
+      ]
+    },
+    {
+      "id": "robert-bennett",
+      "name": "Robert Bennett",
+      "role": "Mullen president",
+      "pages": [
+        239,
+        240
+      ],
+      "description": "Oglesby describes the public-relations executive who brought the Toolco account to Mullen and convened discussion of Greenspun’s papers.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        }
+      ]
+    },
+    {
+      "id": "ralph-winte",
+      "name": "Ralph Winte",
+      "role": "Hughes Nevada security chief",
+      "pages": [
+        239
+      ],
+      "description": "Oglesby describes the security successor with an Intertel background who met with Bennett and Hunt.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        }
+      ]
+    },
+    {
+      "id": "howard-hunt",
+      "name": "E. Howard Hunt",
+      "role": "White House operative",
+      "pages": [
+        239,
+        243,
+        249
+      ],
+      "description": "Oglesby describes the Watergate operative whose demands and wife’s death form the author’s account of the cover-up crisis.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 243,
+          "printed": "227"
+        },
+        {
+          "pdfPage": 249,
+          "printed": "233"
+        }
+      ]
+    },
+    {
+      "id": "gordon-liddy",
+      "name": "G. Gordon Liddy",
+      "role": "White House operative",
+      "pages": [
+        240,
+        308
+      ],
+      "description": "Oglesby describes the operative associated with the proposed Greenspun burglary and the Watergate entry team.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        },
+        {
+          "pdfPage": 308,
+          "printed": "292"
+        }
+      ]
+    },
+    {
+      "id": "james-mccord",
+      "name": "James W. McCord Jr.",
+      "role": "Security specialist and Watergate defendant",
+      "pages": [
+        301,
+        303,
+        319
+      ],
+      "description": "Oglesby describes a former CIA security officer and CREEP security chief; the author hypothesizes a continuing covert CIA mission, which McCord denied.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "285"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        },
+        {
+          "pdfPage": 319,
+          "printed": "303"
+        }
+      ]
+    },
+    {
+      "id": "dorothy-hunt",
+      "name": "Dorothy Hunt",
+      "role": "Watergate funds intermediary",
+      "pages": [
+        244,
+        252
+      ],
+      "description": "Oglesby describes Howard Hunt’s wife, described as a contact for defendants’ financial support, killed aboard United Flight 553.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 244,
+          "printed": "228"
+        },
+        {
+          "pdfPage": 252,
+          "printed": "236"
+        }
+      ]
+    },
+    {
+      "id": "gerald-alch",
+      "name": "Gerald Alch",
+      "role": "McCord defense lawyer",
+      "pages": [
+        243,
+        321
+      ],
+      "description": "Oglesby describes McCord’s initial lawyer; he denied McCord’s claims that he proposed fabricating a CIA defense.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 243,
+          "printed": "227"
+        },
+        {
+          "pdfPage": 321,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "william-bittman",
+      "name": "William Bittman",
+      "role": "Hunt lawyer",
+      "pages": [
+        243
+      ],
+      "description": "Oglesby describes the lawyer whose office Alch said he had visited before discussing trial silence with McCord.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 243,
+          "printed": "227"
+        }
+      ]
+    },
+    {
+      "id": "sherman-skolnick",
+      "name": "Sherman Skolnick",
+      "role": "Private investigator",
+      "pages": [
+        249,
+        264,
+        282
+      ],
+      "description": "Oglesby describes the investigator challenging the Flight 553 findings; the author acknowledges that his sabotage conclusions exceeded the evidence.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 249,
+          "printed": "233"
+        },
+        {
+          "pdfPage": 264,
+          "printed": "248"
+        },
+        {
+          "pdfPage": 282,
+          "printed": "266"
+        }
+      ]
+    },
+    {
+      "id": "alex-bottos",
+      "name": "Alex Bottos",
+      "role": "Informant and investigator",
+      "pages": [
+        280,
+        282
+      ],
+      "description": "Oglesby describes a Sarelli-case informant whose claim connecting the crash with organized crime is recounted but not independently established.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 280,
+          "printed": "264"
+        },
+        {
+          "pdfPage": 282,
+          "printed": "266"
+        }
+      ]
+    },
+    {
+      "id": "john-reed",
+      "name": "John H. Reed",
+      "role": "NTSB chairman",
+      "pages": [
+        251,
+        253
+      ],
+      "description": "Oglesby describes the safety-board chairman asking the FBI to explain its early actions at the crash scene.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 253,
+          "printed": "237"
+        }
+      ]
+    },
+    {
+      "id": "william-ruckelshaus",
+      "name": "William D. Ruckelshaus",
+      "role": "Acting FBI director",
+      "pages": [
+        253,
+        254
+      ],
+      "description": "Oglesby describes the official responding that agents investigated possible federal violations and initially did not know Dorothy Hunt was aboard.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 253,
+          "printed": "237"
+        },
+        {
+          "pdfPage": 254,
+          "printed": "238"
+        }
+      ]
+    },
+    {
+      "id": "egil-krogh",
+      "name": "Egil Krogh",
+      "role": "White House and DOT official",
+      "pages": [
+        257,
+        259
+      ],
+      "description": "Oglesby describes the Special Investigative Unit organizer moved to the Department of Transportation after the crash.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "id": "alexander-butterfield",
+      "name": "Alexander Butterfield",
+      "role": "White House aide and FAA administrator",
+      "pages": [
+        257,
+        258
+      ],
+      "description": "Oglesby describes a Haldeman associate nominated to lead the FAA who later disclosed the White House recording system.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "id": "dwight-chapin",
+      "name": "Dwight Chapin",
+      "role": "White House aide",
+      "pages": [
+        257,
+        258
+      ],
+      "description": "Oglesby describes the Haldeman aide who later worked at United’s Chicago office and attended the Flight 553 hearings.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "id": "richard-spears",
+      "name": "Richard Spears",
+      "role": "NTSB general manager",
+      "pages": [
+        259,
+        260
+      ],
+      "description": "Oglesby describes the political appointee whose changes in safety-board management were contested by C. O. Miller.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        },
+        {
+          "pdfPage": 260,
+          "printed": "244"
+        }
+      ]
+    },
+    {
+      "id": "co-miller",
+      "name": "C. O. Miller",
+      "role": "Bureau of Aviation Safety director",
+      "pages": [
+        259,
+        260
+      ],
+      "description": "Oglesby describes the safety official challenging Spears’s asserted executive backing and interference in technical administration.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        },
+        {
+          "pdfPage": 260,
+          "printed": "244"
+        }
+      ]
+    },
+    {
+      "id": "ronald-dorfman",
+      "name": "Ronald Dorfman",
+      "role": "Journalism editor",
+      "pages": [
+        262,
+        264
+      ],
+      "description": "Oglesby describes the Chicago Journalism Review editor arguing against Skolnick’s poisoning inference.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 262,
+          "printed": "246"
+        },
+        {
+          "pdfPage": 264,
+          "printed": "248"
+        }
+      ]
+    },
+    {
+      "id": "wendell-whitehouse",
+      "name": "Wendell Whitehouse",
+      "role": "Flight 553 captain",
+      "pages": [
+        262,
+        264
+      ],
+      "description": "Oglesby describes the pilot whose toxicology and crash injuries are disputed in the book’s discussion of official findings.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 262,
+          "printed": "246"
+        },
+        {
+          "pdfPage": 264,
+          "printed": "248"
+        }
+      ]
+    },
+    {
+      "id": "paul-gaynor",
+      "name": "Paul Gaynor",
+      "role": "CIA officer",
+      "pages": [
+        313,
+        314
+      ],
+      "description": "Oglesby describes the CIA contact who received McCord’s letters warning against attributing Watergate to the agency.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 313,
+          "printed": "297"
+        },
+        {
+          "pdfPage": 314,
+          "printed": "298"
+        }
+      ]
+    },
+    {
+      "id": "jack-caulfield",
+      "name": "Jack Caulfield",
+      "role": "Nixon security associate",
+      "pages": [
+        311,
+        319
+      ],
+      "description": "Oglesby describes the intermediary accused in McCord’s account of offering clemency and receiving his Christmas warning letter.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 311,
+          "printed": "295"
+        },
+        {
+          "pdfPage": 319,
+          "printed": "303"
+        }
+      ]
+    },
+    {
+      "id": "bernard-fensterwald",
+      "name": "Bernard Fensterwald",
+      "role": "Lawyer and assassination researcher",
+      "pages": [
+        320,
+        321
+      ],
+      "description": "Oglesby describes the founder of the Committee to Investigate Assassinations and later McCord’s attorney.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 320,
+          "printed": "304"
+        },
+        {
+          "pdfPage": 321,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "lou-russell",
+      "name": "Lou Russell",
+      "role": "Private investigator",
+      "pages": [
+        322,
+        323
+      ],
+      "description": "Oglesby describes the McCord employee and Fensterwald associate whose exchanged paychecks raised questions for the author.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 322,
+          "printed": "306"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-carter",
+      "name": "Jimmy Carter",
+      "role": "Presidential candidate and president",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby describes the governor whose Trilateral membership and appointments the author interprets through his factional framework.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "david-rockefeller",
+      "name": "David Rockefeller",
+      "role": "Banker and commission founder",
+      "pages": [
+        325
+      ],
+      "description": "Oglesby describes the founder of the Trilateral Commission, in the book’s account, advised by Brzezinski.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "zbigniew-brzezinski",
+      "name": "Zbigniew Brzezinski",
+      "role": "Foreign-policy adviser",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby describes the Trilateral adviser appointed Carter’s national security adviser.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "walter-mondale",
+      "name": "Walter Mondale",
+      "role": "Vice-presidential candidate",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby describes a Trilateral member selected as Carter’s running mate.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "cyrus-vance",
+      "name": "Cyrus Vance",
+      "role": "Secretary of State",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby describes a Trilateral member appointed Carter’s Secretary of State.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "harold-brown",
+      "name": "Harold Brown",
+      "role": "Secretary of Defense",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby describes a Trilateral member appointed Carter’s Secretary of Defense.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "michael-blumenthal",
+      "name": "W. Michael Blumenthal",
+      "role": "Treasury secretary",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby describes a Trilateral member appointed Carter’s Treasury secretary.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "andrew-young",
+      "name": "Andrew Young",
+      "role": "UN ambassador",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby describes a Trilateral member appointed Carter’s UN ambassador.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "richard-helms",
+      "name": "Richard Helms",
+      "role": "CIA director",
+      "pages": [
+        305,
+        312
+      ],
+      "description": "Oglesby describes the agency director whom McCord admired and wrote to after Watergate; the author’s covert-direction theory is an inference.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 305,
+          "printed": "289"
+        },
+        {
+          "pdfPage": 312,
+          "printed": "296"
+        }
+      ]
+    },
+    {
+      "id": "bernard-barker",
+      "name": "Bernard Barker",
+      "role": "Watergate defendant",
+      "pages": [
+        244,
+        308
+      ],
+      "description": "Oglesby describes the entry-team member quoted about Dorothy Hunt’s funds and McCord’s decision to proceed.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 244,
+          "printed": "228"
+        },
+        {
+          "pdfPage": 308,
+          "printed": "292"
+        }
+      ]
+    },
+    {
+      "id": "john-sirica",
+      "name": "John Sirica",
+      "role": "Watergate judge",
+      "pages": [
+        319
+      ],
+      "description": "Oglesby describes the judge receiving McCord’s March 19 letter.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 319,
+          "printed": "303"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "hughes-tool",
+      "name": "Hughes Tool Company",
+      "pages": [
+        224,
+        230
+      ],
+      "description": "In Oglesby’s account, the corporate board confronted Maheu over litigation and control of Nevada operations.",
+      "members": [
+        "chester-davis",
+        "bill-gay",
+        "noah-dietrich"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 224,
+          "printed": "208"
+        },
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        }
+      ]
+    },
+    {
+      "id": "hughes-aircraft",
+      "name": "Hughes Aircraft Company",
+      "pages": [
+        201
+      ],
+      "description": "In Oglesby’s account, defense-oriented managers clashed with Toolco over borrowing and management autonomy.",
+      "members": [
+        "hughes"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "185"
+        }
+      ]
+    },
+    {
+      "id": "twa",
+      "name": "Trans World Airlines",
+      "pages": [
+        214,
+        216
+      ],
+      "description": "In Oglesby’s account, the airline disputed with Hughes over finance and antitrust jurisdiction.",
+      "members": [
+        "hughes"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        },
+        {
+          "pdfPage": 216,
+          "printed": "200"
+        }
+      ]
+    },
+    {
+      "id": "irving-trust",
+      "name": "Irving Trust",
+      "pages": [
+        213
+      ],
+      "description": "In Oglesby’s account, a TWA lender represented by Ben Sessel demanded a voting trust and loan terms.",
+      "members": [],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 213,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "id": "dillon-read",
+      "name": "Dillon, Read",
+      "pages": [
+        213
+      ],
+      "description": "In Oglesby’s account, the firm’s refinancing plan was central to Hughes’s loss-of-control dispute.",
+      "members": [],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 213,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "id": "desert-inn",
+      "name": "Desert Inn",
+      "pages": [
+        217,
+        231
+      ],
+      "description": "In Oglesby’s account, the Las Vegas hotel-casino housed Hughes until his November 1970 departure.",
+      "members": [
+        "hughes",
+        "maheu"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        }
+      ]
+    },
+    {
+      "id": "las-vegas-sun",
+      "name": "Las Vegas Sun",
+      "pages": [
+        232,
+        239
+      ],
+      "description": "In Oglesby’s account, Greenspun’s newspaper reported Hughes missing and its safe held Maheu’s papers.",
+      "members": [
+        "hank-greenspun"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        }
+      ]
+    },
+    {
+      "id": "intertel",
+      "name": "Intertel",
+      "pages": [
+        232,
+        237
+      ],
+      "description": "In Oglesby’s account, the security company, described as 94 percent owned by Resorts International, assisted Hughes’s Bahamas move.",
+      "members": [
+        "james-golden",
+        "ralph-winte"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 237,
+          "printed": "221"
+        }
+      ]
+    },
+    {
+      "id": "resorts-international",
+      "name": "Resorts International",
+      "pages": [
+        232,
+        237
+      ],
+      "description": "In Oglesby’s account, the Bahamas casino operator competed with Hughes’s Nevada interests and owned most of Intertel.",
+      "members": [],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 237,
+          "printed": "221"
+        }
+      ]
+    },
+    {
+      "id": "lockheed",
+      "name": "Lockheed Aircraft Corporation",
+      "pages": [
+        231,
+        232
+      ],
+      "description": "In Oglesby’s account, the aircraft company employed Golden and leased the JetStar used for Hughes’s departure.",
+      "members": [
+        "james-golden"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        },
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        }
+      ]
+    },
+    {
+      "id": "summa",
+      "name": "Summa Corporation",
+      "pages": [
+        238
+      ],
+      "description": "In Oglesby’s account, the reorganized Hughes corporation succeeded the old Toolco structure.",
+      "members": [],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "mullen",
+      "name": "Robert Mullen and Company",
+      "pages": [
+        239,
+        240
+      ],
+      "description": "In Oglesby’s account, the PR firm maintained CIA cover relationships according to the Baker report cited by Oglesby.",
+      "members": [
+        "robert-bennett",
+        "howard-hunt"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        }
+      ]
+    },
+    {
+      "id": "creep",
+      "name": "Committee to Re-Elect the President",
+      "pages": [
+        240,
+        303
+      ],
+      "description": "In Oglesby’s account, Nixon’s campaign committee employed McCord as security chief.",
+      "members": [
+        "mitchell",
+        "james-mccord"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        }
+      ]
+    },
+    {
+      "id": "white-house-plumbers",
+      "name": "White House Special Investigative Unit (Plumbers)",
+      "pages": [
+        257
+      ],
+      "description": "In Oglesby’s account, the White House investigative group organized by Krogh is associated with burglary and political intelligence.",
+      "members": [
+        "egil-krogh",
+        "howard-hunt",
+        "gordon-liddy"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        }
+      ]
+    },
+    {
+      "id": "ntsb",
+      "name": "National Transportation Safety Board",
+      "pages": [
+        251,
+        259
+      ],
+      "description": "In Oglesby’s account, the federal board investigated United Flight 553 and contested FBI and managerial actions.",
+      "members": [
+        "john-reed",
+        "richard-spears"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "id": "faa",
+      "name": "Federal Aviation Administration",
+      "pages": [
+        254,
+        258
+      ],
+      "description": "In Oglesby’s account, the aviation administration supplied crash evidence and was assigned to Butterfield.",
+      "members": [
+        "alexander-butterfield"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 254,
+          "printed": "238"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "id": "dot",
+      "name": "Department of Transportation",
+      "pages": [
+        257,
+        258
+      ],
+      "description": "In Oglesby’s account, the transportation department had overarching responsibility connected to the safety investigation.",
+      "members": [
+        "egil-krogh"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "id": "united-airlines",
+      "name": "United Air Lines",
+      "pages": [
+        251,
+        258
+      ],
+      "description": "In Oglesby’s account, the Flight 553 operator employed Chapin in its Chicago market-planning office.",
+      "members": [
+        "dwight-chapin"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "id": "aviation-safety-bureau",
+      "name": "Bureau of Aviation Safety",
+      "pages": [
+        258,
+        259
+      ],
+      "description": "In Oglesby’s account, the technical investigative unit led by Miller oversaw the crash inquiry.",
+      "members": [
+        "co-miller"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "id": "security-international",
+      "name": "Security International, Inc.",
+      "pages": [
+        303,
+        323
+      ],
+      "description": "In Oglesby’s account, McCord’s private firm supplied security services and employed Russell.",
+      "members": [
+        "james-mccord",
+        "lou-russell"
+      ],
+      "founders": [
+        "james-mccord"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "ctia",
+      "name": "Committee to Investigate Assassinations",
+      "pages": [
+        320,
+        323
+      ],
+      "description": "In Oglesby’s account, Fensterwald’s small research organization collected information about JFK, RFK and King assassinations.",
+      "members": [
+        "bernard-fensterwald"
+      ],
+      "founders": [
+        "bernard-fensterwald"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 320,
+          "printed": "304"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "trilateral",
+      "name": "Trilateral Commission",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "In Oglesby’s account, the international policy group coordinated discussion among North America, Western Europe and Japan; the author interprets its influence as Yankee establishment power.",
+      "members": [
+        "jimmy-carter",
+        "david-rockefeller",
+        "zbigniew-brzezinski",
+        "walter-mondale",
+        "cyrus-vance",
+        "harold-brown",
+        "michael-blumenthal",
+        "andrew-young"
+      ],
+      "founders": [
+        "david-rockefeller"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "id": "dnc",
+      "name": "Democratic National Committee",
+      "pages": [
+        304
+      ],
+      "description": "In Oglesby’s account, the party headquarters was the target of the June 17 entry.",
+      "members": [
+        "larry-obrien"
+      ],
+      "founders": [],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "288"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "yankee-twa-voting-trust",
+      "title": "Hughes accepts TWA financing and voting trust",
+      "date": "1960",
+      "precision": "year",
+      "pages": [
+        214
+      ],
+      "description": "Oglesby describes Hughes accepting financing that left him without control; the account presents the terms as coercive.",
+      "people": [
+        "hughes"
+      ],
+      "organizations": [
+        "twa",
+        "dillon-read",
+        "irving-trust"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        }
+      ]
+    },
+    {
+      "id": "yankee-twa-sale",
+      "title": "Hughes divests TWA stock, in book’s dating",
+      "date": "1965-05-03",
+      "precision": "day",
+      "pages": [
+        216
+      ],
+      "description": "Oglesby describes the public sale of Hughes’s airline holding, handled by Merrill Lynch. This is the source’s date, retained without independent confirmation.",
+      "people": [
+        "hughes"
+      ],
+      "organizations": [
+        "twa"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 216,
+          "printed": "200"
+        }
+      ]
+    },
+    {
+      "id": "yankee-vegas-arrival",
+      "title": "Hughes takes residence at Desert Inn",
+      "date": "1966-11",
+      "precision": "month",
+      "pages": [
+        216,
+        217
+      ],
+      "description": "Oglesby describes Hughes arriving around Thanksgiving in a penthouse prepared by Maheu.",
+      "people": [
+        "hughes",
+        "maheu"
+      ],
+      "organizations": [
+        "desert-inn"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 216,
+          "printed": "200"
+        },
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        }
+      ]
+    },
+    {
+      "id": "yankee-obrien-memo",
+      "title": "Maheu memo discusses hiring Kennedy aides",
+      "date": "1968-06-28",
+      "precision": "day",
+      "pages": [
+        218,
+        219
+      ],
+      "description": "Oglesby describes a memo arranging O’Brien’s visit; the subsequent consulting contract is described but its full duties remain unclear.",
+      "people": [
+        "maheu",
+        "hughes",
+        "larry-obrien"
+      ],
+      "organizations": [
+        "hughes-empire"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 218,
+          "printed": "202"
+        },
+        {
+          "pdfPage": 219,
+          "printed": "203"
+        }
+      ]
+    },
+    {
+      "id": "yankee-maheu-twa-charge",
+      "title": "Maheu receives authority over TWA litigation",
+      "date": "1970-01",
+      "precision": "month",
+      "pages": [
+        226
+      ],
+      "description": "Oglesby describes Hughes giving Maheu responsibility and the Toolco board confirming authority.",
+      "people": [
+        "hughes",
+        "maheu",
+        "chester-davis"
+      ],
+      "organizations": [
+        "hughes-tool",
+        "twa"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 226,
+          "printed": "210"
+        }
+      ]
+    },
+    {
+      "id": "yankee-twa-damages",
+      "title": "Metzner awards damages against Hughes",
+      "date": "1970-04-14",
+      "precision": "day",
+      "pages": [
+        226
+      ],
+      "description": "Oglesby describes a damages judgment exceeding $145 million, later increased with expenses and overturned.",
+      "people": [
+        "charles-metzner",
+        "hughes",
+        "maheu"
+      ],
+      "organizations": [
+        "twa"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 226,
+          "printed": "210"
+        }
+      ]
+    },
+    {
+      "id": "yankee-hughes-proxy",
+      "title": "Contested proxy grants Toolco authority",
+      "date": "1970-11-14",
+      "precision": "day",
+      "pages": [
+        230,
+        231,
+        238
+      ],
+      "description": "Oglesby describes a proxy said to be signed by Hughes, notarized by Eckersley and witnessed by Myler. The parties’ handwriting experts later disagreed.",
+      "people": [
+        "hughes",
+        "howard-eckersley",
+        "levar-myler",
+        "chester-davis"
+      ],
+      "organizations": [
+        "hughes-tool"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        },
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        },
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "yankee-thanksgiving-move",
+      "title": "Hughes leaves Las Vegas for Bahamas",
+      "date": "1970-11-26",
+      "precision": "day",
+      "pages": [
+        231,
+        232
+      ],
+      "description": "Oglesby describes a secret departure via Nellis Air Force Base. The author interprets the board takeover as a coup; Nixon’s involvement is posed as a question.",
+      "people": [
+        "hughes",
+        "james-golden",
+        "howard-eckersley",
+        "levar-myler"
+      ],
+      "organizations": [
+        "intertel",
+        "desert-inn",
+        "lockheed"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        },
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        }
+      ]
+    },
+    {
+      "id": "yankee-missing-headline",
+      "title": "Las Vegas Sun reports Hughes missing",
+      "date": "1970-12-03",
+      "precision": "day",
+      "pages": [
+        232
+      ],
+      "description": "Oglesby describes Greenspun’s headline after Maheu discovered Hughes had left.",
+      "people": [
+        "hank-greenspun",
+        "maheu",
+        "hughes"
+      ],
+      "organizations": [
+        "las-vegas-sun"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        }
+      ]
+    },
+    {
+      "id": "yankee-maheu-dismissed",
+      "title": "Toolco formally dismisses Maheu",
+      "date": "1970-12-04",
+      "precision": "day",
+      "pages": [
+        233
+      ],
+      "description": "Oglesby describes Davis telling Morgan that Maheu was fired, citing the November proxy.",
+      "people": [
+        "chester-davis",
+        "maheu",
+        "edward-morgan",
+        "bill-gay"
+      ],
+      "organizations": [
+        "hughes-tool"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 233,
+          "printed": "217"
+        }
+      ]
+    },
+    {
+      "id": "yankee-proxy-court",
+      "title": "Proxy presented in control dispute",
+      "date": "1970-12-10",
+      "precision": "day",
+      "pages": [
+        238
+      ],
+      "description": "Oglesby describes Myler presenting the proxy to court and Eckersley bringing a purported Hughes letter; the court accepted Davis’s handwriting expert.",
+      "people": [
+        "levar-myler",
+        "howard-eckersley",
+        "maheu",
+        "chester-davis"
+      ],
+      "organizations": [
+        "hughes-tool"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "yankee-greenspun-plan",
+      "title": "Meeting plans Greenspun document burglary",
+      "date": "1972-02",
+      "precision": "month",
+      "pages": [
+        239,
+        240
+      ],
+      "description": "Oglesby describes a Mullen-office meeting determining on burglary, according to the testimony and reconstruction he cites; an April safe attempt was never conclusively linked to the Plumbers.",
+      "people": [
+        "robert-bennett",
+        "howard-hunt",
+        "ralph-winte",
+        "gordon-liddy"
+      ],
+      "organizations": [
+        "mullen",
+        "las-vegas-sun",
+        "white-house-plumbers"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        }
+      ]
+    },
+    {
+      "id": "yankee-watergate-arrest",
+      "title": "Entry team arrested at Watergate",
+      "date": "1972-06-17",
+      "precision": "day",
+      "pages": [
+        304,
+        308,
+        309,
+        310
+      ],
+      "description": "Oglesby describes the taped-door sequence and arrest; his claim that McCord deliberately triggered discovery is an interpretation, denied by McCord.",
+      "people": [
+        "james-mccord",
+        "bernard-barker",
+        "gordon-liddy",
+        "howard-hunt"
+      ],
+      "organizations": [
+        "dnc",
+        "creep"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "288"
+        },
+        {
+          "pdfPage": 308,
+          "printed": "292"
+        },
+        {
+          "pdfPage": 309,
+          "printed": "293"
+        },
+        {
+          "pdfPage": 310,
+          "printed": "294"
+        }
+      ]
+    },
+    {
+      "id": "yankee-caulfield-clemency",
+      "title": "McCord recounts Caulfield clemency offer",
+      "date": "1972-07",
+      "precision": "month",
+      "pages": [
+        311
+      ],
+      "description": "Oglesby describes McCord’s account of a meeting offering clemency and support, which he refused in conjunction with a CIA-blame strategy.",
+      "people": [
+        "jack-caulfield",
+        "james-mccord"
+      ],
+      "organizations": [
+        "creep"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 311,
+          "printed": "295"
+        }
+      ]
+    },
+    {
+      "id": "yankee-mccord-helms-letter",
+      "title": "McCord writes Helms about CIA-blame narrative",
+      "date": "1972-07-29",
+      "precision": "day",
+      "pages": [
+        312,
+        313
+      ],
+      "description": "Oglesby describes a letter alerting Helms to attempts to describe the break-in as a CIA operation.",
+      "people": [
+        "james-mccord",
+        "richard-helms"
+      ],
+      "organizations": [
+        "cia",
+        "creep"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 312,
+          "printed": "296"
+        },
+        {
+          "pdfPage": 313,
+          "printed": "297"
+        }
+      ]
+    },
+    {
+      "id": "yankee-alch-lunch",
+      "title": "McCord recounts trial-silence discussion",
+      "date": "1972-10",
+      "precision": "month",
+      "pages": [
+        243,
+        244
+      ],
+      "description": "Oglesby describes McCord’s account of lunch with Alch about clemency, financial assistance and keeping defendants off the witness stand; Alch’s later denials are separately recorded.",
+      "people": [
+        "james-mccord",
+        "gerald-alch",
+        "william-bittman",
+        "dorothy-hunt"
+      ],
+      "organizations": [
+        "creep"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 243,
+          "printed": "227"
+        },
+        {
+          "pdfPage": 244,
+          "printed": "228"
+        }
+      ]
+    },
+    {
+      "id": "yankee-flight553",
+      "title": "United Flight 553 crashes at Chicago Midway",
+      "date": "1972-12-08",
+      "precision": "day",
+      "pages": [
+        251,
+        254,
+        264
+      ],
+      "description": "Oglesby describes the crash that killed Dorothy Hunt. The official account attributed the accident to crew handling; Skolnick and Bottos alleged sabotage, which the book does not establish.",
+      "people": [
+        "dorothy-hunt",
+        "wendell-whitehouse"
+      ],
+      "organizations": [
+        "united-airlines",
+        "ntsb",
+        "fbi"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 254,
+          "printed": "238"
+        },
+        {
+          "pdfPage": 264,
+          "printed": "248"
+        }
+      ]
+    },
+    {
+      "id": "yankee-krogh-dot",
+      "title": "Krogh moved to transportation department",
+      "date": "1972-12-09",
+      "precision": "day",
+      "pages": [
+        257
+      ],
+      "description": "Oglesby describes Krogh’s sudden DOT appointment, interpreted by Oglesby as potentially significant to the crash investigation.",
+      "people": [
+        "egil-krogh",
+        "nixon"
+      ],
+      "organizations": [
+        "dot"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        }
+      ]
+    },
+    {
+      "id": "yankee-butterfield-faa",
+      "title": "Butterfield announced as FAA administrator",
+      "date": "1972-12-19",
+      "precision": "day",
+      "pages": [
+        258
+      ],
+      "description": "Oglesby describes the announcement followed by a delay until March because of restrictions on military officers holding the position.",
+      "people": [
+        "alexander-butterfield",
+        "nixon"
+      ],
+      "organizations": [
+        "faa"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "id": "yankee-gaynor-letter",
+      "title": "McCord warns Gaynor about blaming CIA",
+      "date": "1972-12-22",
+      "precision": "day",
+      "pages": [
+        313,
+        314
+      ],
+      "description": "Oglesby describes McCord’s letter advocating press leaks about pressure to blame the agency.",
+      "people": [
+        "james-mccord",
+        "paul-gaynor"
+      ],
+      "organizations": [
+        "cia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 313,
+          "printed": "297"
+        },
+        {
+          "pdfPage": 314,
+          "printed": "298"
+        }
+      ]
+    },
+    {
+      "id": "yankee-gaynor-max-effect",
+      "title": "McCord discusses timing disclosures",
+      "date": "1972-12-23",
+      "precision": "day",
+      "pages": [
+        314
+      ],
+      "description": "Oglesby describes a further letter to Gaynor discussing holding evidence until the trial to maximize its effect.",
+      "people": [
+        "james-mccord",
+        "paul-gaynor",
+        "mitchell"
+      ],
+      "organizations": [
+        "cia",
+        "creep"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 314,
+          "printed": "298"
+        }
+      ]
+    },
+    {
+      "id": "yankee-twa-reversal",
+      "title": "Supreme Court reverses Hughes antitrust case",
+      "date": "1973-01",
+      "precision": "month",
+      "pages": [
+        214
+      ],
+      "description": "Oglesby describes the Court accepting Davis’s jurisdictional argument that the CAB, rather than the courts, had authority.",
+      "people": [
+        "hughes",
+        "chester-davis",
+        "william-o-douglas"
+      ],
+      "organizations": [
+        "twa"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        }
+      ]
+    },
+    {
+      "id": "yankee-crash-hearings",
+      "title": "Flight 553 public hearings open",
+      "date": "1973-02-28",
+      "precision": "day",
+      "pages": [
+        258,
+        259
+      ],
+      "description": "Oglesby describes the Chicago hearings attended by Chapin, amid disagreement over management of the investigation.",
+      "people": [
+        "dwight-chapin",
+        "co-miller",
+        "richard-spears"
+      ],
+      "organizations": [
+        "ntsb",
+        "united-airlines"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "id": "yankee-skolnick-petition",
+      "title": "Skolnick seeks testimony at crash hearings",
+      "date": "1973-03-01",
+      "precision": "day",
+      "pages": [
+        281,
+        282
+      ],
+      "description": "Oglesby describes Skolnick’s petition to inquiry chair Isobel Burgess, rejected in the author’s account.",
+      "people": [
+        "sherman-skolnick",
+        "alex-bottos"
+      ],
+      "organizations": [
+        "ntsb"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 281,
+          "printed": "265"
+        },
+        {
+          "pdfPage": 282,
+          "printed": "266"
+        }
+      ]
+    },
+    {
+      "id": "yankee-skolnick-suit",
+      "title": "Skolnick sues over crash hearings",
+      "date": "1973-03-02",
+      "precision": "day",
+      "pages": [
+        282
+      ],
+      "description": "Oglesby describes Skolnick filing a Cook County lawsuit against Burgess after describing the hearings as a sham.",
+      "people": [
+        "sherman-skolnick"
+      ],
+      "organizations": [
+        "ntsb"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 282,
+          "printed": "266"
+        }
+      ]
+    },
+    {
+      "id": "yankee-bottos-observation",
+      "title": "Bottos detained for mental observation",
+      "date": "1973-03-05",
+      "precision": "day",
+      "pages": [
+        282
+      ],
+      "description": "Oglesby describes Bottos’s detention at Springfield; Bottos believed it prevented Sarelli testimony, while prosecutor Vaira later gave a different explanation for not calling him.",
+      "people": [
+        "alex-bottos"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 282,
+          "printed": "266"
+        }
+      ]
+    },
+    {
+      "id": "yankee-sirica-letter",
+      "title": "McCord sends letter to Judge Sirica",
+      "date": "1973-03-19",
+      "precision": "day",
+      "pages": [
+        319
+      ],
+      "description": "Oglesby describes the letter linking the Watergate operation to White House pressure and accelerating the crisis.",
+      "people": [
+        "james-mccord",
+        "john-sirica",
+        "mitchell"
+      ],
+      "organizations": [
+        "creep"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 319,
+          "printed": "303"
+        }
+      ]
+    },
+    {
+      "id": "yankee-krogh-resigns",
+      "title": "Krogh resigns DOT post",
+      "date": "1973-05-09",
+      "precision": "day",
+      "pages": [
+        259
+      ],
+      "description": "Oglesby describes Krogh’s resignation after his role in the Fielding burglary became public.",
+      "people": [
+        "egil-krogh"
+      ],
+      "organizations": [
+        "dot",
+        "white-house-plumbers"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "id": "yankee-alch-denial",
+      "title": "Alch denies proposed false CIA defense",
+      "date": "1973-05-23",
+      "precision": "day",
+      "pages": [
+        321,
+        322
+      ],
+      "description": "Oglesby describes Alch’s testimony denying McCord’s accusations and asserting a prior McCord-Fensterwald connection.",
+      "people": [
+        "gerald-alch",
+        "james-mccord",
+        "bernard-fensterwald"
+      ],
+      "organizations": [
+        "creep",
+        "ctia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 321,
+          "printed": "305"
+        },
+        {
+          "pdfPage": 322,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "yankee-irs-greenspun",
+      "title": "IRS seeks Maheu material from Greenspun",
+      "date": "1973-05-23",
+      "precision": "day",
+      "pages": [
+        241
+      ],
+      "description": "Oglesby describes an IRS approach to Greenspun for the documents, blocked through court action in the author’s account.",
+      "people": [
+        "hank-greenspun",
+        "maheu"
+      ],
+      "organizations": [
+        "las-vegas-sun"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 241,
+          "printed": "225"
+        }
+      ]
+    },
+    {
+      "id": "yankee-reed-letter",
+      "title": "NTSB asks FBI to explain early crash actions",
+      "date": "1973-06-05",
+      "precision": "day",
+      "pages": [
+        251,
+        252,
+        253
+      ],
+      "description": "Oglesby describes Reed’s letter asking why agents interviewed witnesses and heard tower tapes before safety investigators.",
+      "people": [
+        "john-reed",
+        "william-ruckelshaus"
+      ],
+      "organizations": [
+        "ntsb",
+        "fbi"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 252,
+          "printed": "236"
+        },
+        {
+          "pdfPage": 253,
+          "printed": "237"
+        }
+      ]
+    },
+    {
+      "id": "yankee-ruckelshaus-letter",
+      "title": "FBI explains response to Flight 553",
+      "date": "1973-06-11",
+      "precision": "day",
+      "pages": [
+        253,
+        254,
+        255
+      ],
+      "description": "Oglesby describes Ruckelshaus’s reply describing roughly fifty agents, first arrival within forty-five minutes, an investigation ending within twenty hours, and initial ignorance of Hunt’s presence.",
+      "people": [
+        "william-ruckelshaus",
+        "john-reed"
+      ],
+      "organizations": [
+        "fbi",
+        "ntsb"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 253,
+          "printed": "237"
+        },
+        {
+          "pdfPage": 254,
+          "printed": "238"
+        },
+        {
+          "pdfPage": 255,
+          "printed": "239"
+        }
+      ]
+    },
+    {
+      "id": "yankee-crash-final-report",
+      "title": "NTSB issues final Flight 553 report",
+      "date": "1973-08-29",
+      "precision": "day",
+      "pages": [
+        261,
+        341
+      ],
+      "description": "Oglesby describes the report and its crew-error reconstruction; the appendix challenges the spoiler explanation but does not establish an alternative cause.",
+      "people": [
+        "wendell-whitehouse"
+      ],
+      "organizations": [
+        "ntsb",
+        "united-airlines"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 261,
+          "printed": "245"
+        },
+        {
+          "pdfPage": 341,
+          "printed": "325"
+        }
+      ]
+    },
+    {
+      "id": "yankee-trilateral-founded",
+      "title": "Trilateral Commission formed",
+      "date": "1973",
+      "precision": "year",
+      "pages": [
+        325
+      ],
+      "description": "Oglesby describes Rockefeller creating the commission on Brzezinski’s advice; its relation to older networks is the author’s interpretation.",
+      "people": [
+        "david-rockefeller",
+        "zbigniew-brzezinski",
+        "jimmy-carter"
+      ],
+      "organizations": [
+        "trilateral",
+        "cfr",
+        "round-table"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "yankee-maheu-libel",
+      "title": "Maheu wins libel verdict",
+      "date": "1974-07",
+      "precision": "month",
+      "pages": [
+        238
+      ],
+      "description": "Oglesby describes a Los Angeles jury finding for Maheu after Hughes’s telephone accusations of dishonesty.",
+      "people": [
+        "maheu",
+        "hughes"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 238,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "yankee-carter-team",
+      "title": "Carter appoints Trilateral members",
+      "date": "1977",
+      "precision": "year",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby describes Carter’s selection of Vance, Brown, Brzezinski, Blumenthal and Young; the source’s explanation of factional influence remains an interpretation.",
+      "people": [
+        "jimmy-carter",
+        "cyrus-vance",
+        "harold-brown",
+        "zbigniew-brzezinski",
+        "michael-blumenthal",
+        "andrew-young",
+        "walter-mondale"
+      ],
+      "organizations": [
+        "trilateral"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "source": "chester-davis",
+      "target": "hughes-tool",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        224,
+        230
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 224,
+          "printed": "208"
+        },
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        }
+      ]
+    },
+    {
+      "source": "bill-gay",
+      "target": "hughes-tool",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        224,
+        230
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 224,
+          "printed": "208"
+        },
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        }
+      ]
+    },
+    {
+      "source": "noah-dietrich",
+      "target": "hughes-tool",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        224,
+        230
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 224,
+          "printed": "208"
+        },
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        }
+      ]
+    },
+    {
+      "source": "hughes",
+      "target": "hughes-aircraft",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        201
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "185"
+        }
+      ]
+    },
+    {
+      "source": "hughes",
+      "target": "twa",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        214,
+        216
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 214,
+          "printed": "198"
+        },
+        {
+          "pdfPage": 216,
+          "printed": "200"
+        }
+      ]
+    },
+    {
+      "source": "hughes",
+      "target": "desert-inn",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        217,
+        231
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        }
+      ]
+    },
+    {
+      "source": "maheu",
+      "target": "desert-inn",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        217,
+        231
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        }
+      ]
+    },
+    {
+      "source": "hank-greenspun",
+      "target": "las-vegas-sun",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        232,
+        239
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        }
+      ]
+    },
+    {
+      "source": "james-golden",
+      "target": "intertel",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        232,
+        237
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 237,
+          "printed": "221"
+        }
+      ]
+    },
+    {
+      "source": "ralph-winte",
+      "target": "intertel",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        232,
+        237
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        },
+        {
+          "pdfPage": 237,
+          "printed": "221"
+        }
+      ]
+    },
+    {
+      "source": "james-golden",
+      "target": "lockheed",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        231,
+        232
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 231,
+          "printed": "215"
+        },
+        {
+          "pdfPage": 232,
+          "printed": "216"
+        }
+      ]
+    },
+    {
+      "source": "robert-bennett",
+      "target": "mullen",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        239,
+        240
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        }
+      ]
+    },
+    {
+      "source": "howard-hunt",
+      "target": "mullen",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        239,
+        240
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        }
+      ]
+    },
+    {
+      "source": "mitchell",
+      "target": "creep",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        240,
+        303
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "creep",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        240,
+        303
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        }
+      ]
+    },
+    {
+      "source": "egil-krogh",
+      "target": "white-house-plumbers",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        257
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        }
+      ]
+    },
+    {
+      "source": "howard-hunt",
+      "target": "white-house-plumbers",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        257
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        }
+      ]
+    },
+    {
+      "source": "gordon-liddy",
+      "target": "white-house-plumbers",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        257
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        }
+      ]
+    },
+    {
+      "source": "john-reed",
+      "target": "ntsb",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        251,
+        259
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "source": "richard-spears",
+      "target": "ntsb",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        251,
+        259
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "source": "alexander-butterfield",
+      "target": "faa",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        254,
+        258
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 254,
+          "printed": "238"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "source": "egil-krogh",
+      "target": "dot",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        257,
+        258
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 257,
+          "printed": "241"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "source": "dwight-chapin",
+      "target": "united-airlines",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        251,
+        258
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        }
+      ]
+    },
+    {
+      "source": "co-miller",
+      "target": "aviation-safety-bureau",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        258,
+        259
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 258,
+          "printed": "242"
+        },
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "security-international",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        303,
+        323
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "source": "lou-russell",
+      "target": "security-international",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        303,
+        323
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "source": "bernard-fensterwald",
+      "target": "ctia",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        320,
+        323
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 320,
+          "printed": "304"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "source": "jimmy-carter",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "david-rockefeller",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "zbigniew-brzezinski",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "walter-mondale",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "cyrus-vance",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "harold-brown",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "michael-blumenthal",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "andrew-young",
+      "target": "trilateral",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        325,
+        326
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        },
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "larry-obrien",
+      "target": "dnc",
+      "label": "Affiliated in Oglesby’s account",
+      "pages": [
+        304
+      ],
+      "description": "Oglesby reports the person’s stated role or association with this institution, without treating Oglesby’s faction interpretation as formal membership.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "288"
+        }
+      ]
+    },
+    {
+      "source": "hughes",
+      "target": "maheu",
+      "label": "Employer and aide",
+      "pages": [
+        217,
+        226
+      ],
+      "description": "Oglesby reports Hughes employing Maheu to manage Nevada operations and later assigning him litigation authority.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 217,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 226,
+          "printed": "210"
+        }
+      ]
+    },
+    {
+      "source": "maheu",
+      "target": "chester-davis",
+      "label": "Rival authority claims",
+      "pages": [
+        229,
+        230
+      ],
+      "description": "Oglesby reports Maheu and Davis disputing control of the TWA case and Nevada empire.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 229,
+          "printed": "213"
+        },
+        {
+          "pdfPage": 230,
+          "printed": "214"
+        }
+      ]
+    },
+    {
+      "source": "hank-greenspun",
+      "target": "maheu",
+      "label": "Document custodian",
+      "pages": [
+        239
+      ],
+      "description": "Oglesby reports Greenspun holding Maheu’s Hughes documents and tapes.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        }
+      ]
+    },
+    {
+      "source": "resorts-international",
+      "target": "intertel",
+      "label": "Majority ownership described",
+      "pages": [
+        237
+      ],
+      "description": "Oglesby reports Resorts International owning 94 percent of Intertel.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 237,
+          "printed": "221"
+        }
+      ]
+    },
+    {
+      "source": "mullen",
+      "target": "cia",
+      "label": "Cover relationship cited",
+      "pages": [
+        239,
+        240
+      ],
+      "description": "Oglesby reports the Baker report describing CIA cover arrangements through Mullen.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 239,
+          "printed": "223"
+        },
+        {
+          "pdfPage": 240,
+          "printed": "224"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "cia",
+      "label": "Former security officer",
+      "pages": [
+        301,
+        303
+      ],
+      "description": "Oglesby reports McCord’s official career in CIA security from 1951 to 1970.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "285"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "287"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "fbi",
+      "label": "Former special agent",
+      "pages": [
+        301,
+        302
+      ],
+      "description": "Oglesby reports McCord’s FBI radio-intelligence and special-agent service.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "285"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "286"
+        }
+      ]
+    },
+    {
+      "source": "dorothy-hunt",
+      "target": "howard-hunt",
+      "label": "Spouses",
+      "pages": [
+        252
+      ],
+      "description": "Oglesby reports Dorothy as E. Howard Hunt’s wife and a participant in financial-support arrangements.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 252,
+          "printed": "236"
+        }
+      ]
+    },
+    {
+      "source": "gerald-alch",
+      "target": "james-mccord",
+      "label": "Attorney-client relationship",
+      "pages": [
+        243,
+        321
+      ],
+      "description": "Oglesby reports Alch representing McCord, followed by disputed accounts of defense strategy.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 243,
+          "printed": "227"
+        },
+        {
+          "pdfPage": 321,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "source": "bernard-fensterwald",
+      "target": "james-mccord",
+      "label": "Later attorney-client relationship",
+      "pages": [
+        320,
+        321
+      ],
+      "description": "Oglesby reports Fensterwald becoming McCord’s attorney after the Sirica letter.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 320,
+          "printed": "304"
+        },
+        {
+          "pdfPage": 321,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "source": "lou-russell",
+      "target": "bernard-fensterwald",
+      "label": "Checks exchanged through CTIA",
+      "pages": [
+        322,
+        323
+      ],
+      "description": "Oglesby reports Smith explaining that Fensterwald exchanged Russell’s McCord paychecks for personal checks; the author’s darker inference is unconfirmed.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 322,
+          "printed": "306"
+        },
+        {
+          "pdfPage": 323,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "paul-gaynor",
+      "label": "Post-arrest correspondence",
+      "pages": [
+        313,
+        314
+      ],
+      "description": "Oglesby reports McCord contacting Gaynor about CIA-blame narratives and timing disclosures.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 313,
+          "printed": "297"
+        },
+        {
+          "pdfPage": 314,
+          "printed": "298"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "richard-helms",
+      "label": "Letter recipient",
+      "pages": [
+        312,
+        313
+      ],
+      "description": "Oglesby reports McCord addressing a personal July 29 letter to Helms.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 312,
+          "printed": "296"
+        },
+        {
+          "pdfPage": 313,
+          "printed": "297"
+        }
+      ]
+    },
+    {
+      "source": "james-mccord",
+      "target": "jack-caulfield",
+      "label": "Clemency discussion and warning",
+      "pages": [
+        311,
+        319
+      ],
+      "description": "Oglesby reports McCord recounting an offer of clemency and later writing Caulfield a warning.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 311,
+          "printed": "295"
+        },
+        {
+          "pdfPage": 319,
+          "printed": "303"
+        }
+      ]
+    },
+    {
+      "source": "john-reed",
+      "target": "william-ruckelshaus",
+      "label": "Interagency correspondence",
+      "pages": [
+        251,
+        253,
+        254
+      ],
+      "description": "Oglesby reports Reed and Ruckelshaus exchanging letters about responsibility for the crash investigation.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 251,
+          "printed": "235"
+        },
+        {
+          "pdfPage": 253,
+          "printed": "237"
+        },
+        {
+          "pdfPage": 254,
+          "printed": "238"
+        }
+      ]
+    },
+    {
+      "source": "sherman-skolnick",
+      "target": "alex-bottos",
+      "label": "Crash-investigation collaborators",
+      "pages": [
+        280,
+        282
+      ],
+      "description": "Oglesby reports the two advancing a sabotage theory; their claims are not established by this extraction.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 280,
+          "printed": "264"
+        },
+        {
+          "pdfPage": 282,
+          "printed": "266"
+        }
+      ]
+    },
+    {
+      "source": "ronald-dorfman",
+      "target": "sherman-skolnick",
+      "label": "Disputed poisoning inference",
+      "pages": [
+        262,
+        264
+      ],
+      "description": "Oglesby reports Dorfman arguing that Skolnick turned assumptions into conclusions on cyanide.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 262,
+          "printed": "246"
+        },
+        {
+          "pdfPage": 264,
+          "printed": "248"
+        }
+      ]
+    },
+    {
+      "source": "richard-spears",
+      "target": "co-miller",
+      "label": "Safety-board management dispute",
+      "pages": [
+        259,
+        260
+      ],
+      "description": "Oglesby reports Miller challenging Spears’s managerial authority and claimed external support.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 259,
+          "printed": "243"
+        },
+        {
+          "pdfPage": 260,
+          "printed": "244"
+        }
+      ]
+    },
+    {
+      "source": "david-rockefeller",
+      "target": "zbigniew-brzezinski",
+      "label": "Commission formation advice",
+      "pages": [
+        325
+      ],
+      "description": "Oglesby reports Rockefeller founding the commission on Brzezinski’s advice.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "source": "jimmy-carter",
+      "target": "walter-mondale",
+      "label": "Presidential running mates",
+      "pages": [
+        326
+      ],
+      "description": "Oglesby reports Carter selecting fellow Trilateral member Mondale.",
+      "evidence": "source-account",
+      "printedPages": [
+        {
+          "pdfPage": 326,
+          "printed": "310"
+        }
+      ]
+    },
+    {
+      "source": "trilateral",
+      "target": "cfr",
+      "label": "Author’s network interpretation",
+      "pages": [
+        325
+      ],
+      "description": "Oglesby reports Oglesby calling the commission an offshoot of the CFR and older networks; this is analytical linkage, not a verified legal affiliation.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "source": "trilateral",
+      "target": "round-table",
+      "label": "Author’s network interpretation",
+      "pages": [
+        325
+      ],
+      "description": "Oglesby reports Oglesby tracing the commission to the Round Table tradition; no formal parent-body relation is established here.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 325,
+          "printed": "309"
+        }
+      ]
+    }
+  ]
+}

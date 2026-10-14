@@ -1,0 +1,5264 @@
+{
+  "source": "yankee",
+  "title": "The Yankee and Cowboy War: Conspiracies from Dallas to Watergate",
+  "author": "Carl Oglesby",
+  "edition": "Berkley Medallion, September 1977; copyright 1976, 1977",
+  "scope": {
+    "pdfPages": [
+      1,
+      190
+    ]
+  },
+  "chapters": [
+    {
+      "title": "Yankees and Cowboys: A Perspective on the Dallas–Watergate Decade",
+      "pdfStart": 17,
+      "pdfEnd": 29,
+      "printedStart": 1
+    },
+    {
+      "title": "Clandestine America: Three Sources",
+      "pdfStart": 30,
+      "pdfEnd": 59,
+      "printedStart": 14
+    },
+    {
+      "title": "The Whole Bay of Pigs Thing",
+      "pdfStart": 63,
+      "pdfEnd": 95,
+      "printedStart": 47
+    },
+    {
+      "title": "Dealey Plaza",
+      "pdfStart": 96,
+      "pdfEnd": 176,
+      "printedStart": 80
+    },
+    {
+      "title": "1968",
+      "pdfStart": 177,
+      "pdfEnd": 185,
+      "printedStart": 161
+    },
+    {
+      "title": "The Hughes Connection (beginning only)",
+      "pdfStart": 189,
+      "pdfEnd": 190,
+      "printedStart": 173
+    }
+  ],
+  "notes": [
+    "PDF page numbers are 1-based. Main-text printed page equals PDF page minus 16.",
+    "OCR inspected against rendered PDF page 63; noisy OCR needs cautious treatment.",
+    "Yankee and Cowboy are Oglesby’s analytical faction labels, not formal membership organizations.",
+    "The author distinguishes his hypotheses from established facts in several passages; preserve attribution on disputed assassination, intelligence and cover-up claims.",
+    "PDF 61 OCR dates Ford pardon to 1971; avoid treating this as an independently verified event date.",
+    "The author’s account of Gehlen and the CIA contains chronology and institutional claims requiring external corroboration; retained as source claims only."
+  ],
+  "people": [
+    {
+      "id": "oglesby",
+      "name": "Carl Oglesby",
+      "role": "Author and political theorist",
+      "pages": [
+        13,
+        17,
+        22
+      ],
+      "description": "Oglesby describes his interpretation of Dallas and Watergate as struggles between rival power elites and notes that faction labels are an analytical model.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 17,
+          "printed": 1
+        },
+        {
+          "pdfPage": 22,
+          "printed": 6
+        }
+      ]
+    },
+    {
+      "id": "jfk",
+      "name": "John F. Kennedy",
+      "role": "President",
+      "pages": [
+        43,
+        65,
+        88,
+        92
+      ],
+      "description": "Oglesby describes a president whose coalition faced internal disputes over Cuba, Vietnam, taxation and civil rights; the proposed connection to his murder is the author’s theory.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 43,
+          "printed": 27
+        },
+        {
+          "pdfPage": 65,
+          "printed": 49
+        },
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 92,
+          "printed": 76
+        }
+      ]
+    },
+    {
+      "id": "nixon",
+      "name": "Richard Nixon",
+      "role": "President and former vice president",
+      "pages": [
+        50,
+        63,
+        64,
+        95
+      ],
+      "description": "Oglesby describes Nixon’s June 1972 taped references to Bay of Pigs as a clue connecting Watergate to earlier clandestine conflicts.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        },
+        {
+          "pdfPage": 63,
+          "printed": 47
+        },
+        {
+          "pdfPage": 64,
+          "printed": 48
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        }
+      ]
+    },
+    {
+      "id": "mitchell",
+      "name": "John Mitchell",
+      "role": "Attorney general",
+      "pages": [
+        35,
+        190
+      ],
+      "description": "Oglesby describes the attorney general implicated in Liddy’s reported explanation of the proposed Greenspun burglary.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 35,
+          "printed": 19
+        },
+        {
+          "pdfPage": 190,
+          "printed": 174
+        }
+      ]
+    },
+    {
+      "id": "hughes",
+      "name": "Howard Hughes",
+      "role": "Industrialist",
+      "pages": [
+        21,
+        69,
+        189,
+        190
+      ],
+      "description": "Oglesby describes an emblem of entrepreneurial Cowboy wealth and an employer of Robert Maheu; his connection to Watergate is explored provisionally.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 21,
+          "printed": 5
+        },
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 189,
+          "printed": 173
+        },
+        {
+          "pdfPage": 190,
+          "printed": 174
+        }
+      ]
+    },
+    {
+      "id": "maheu",
+      "name": "Robert Maheu",
+      "role": "Hughes aide and intermediary",
+      "pages": [
+        69,
+        95,
+        189
+      ],
+      "description": "Oglesby describes a Hughes operative who acted between the CIA and John Roselli in a plot against Castro.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        },
+        {
+          "pdfPage": 189,
+          "printed": 173
+        }
+      ]
+    },
+    {
+      "id": "hoover",
+      "name": "J. Edgar Hoover",
+      "role": "FBI director",
+      "pages": [
+        38,
+        104,
+        132,
+        183
+      ],
+      "description": "Oglesby describes the director signing domestic counterintelligence instructions and providing the commission information about Oswald, ballistics and Ruby.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 38,
+          "printed": 22
+        },
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 132,
+          "printed": 116
+        },
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "id": "allen-dulles",
+      "name": "Allen W. Dulles",
+      "role": "Intelligence director and commissioner",
+      "pages": [
+        55,
+        57,
+        64,
+        120,
+        124
+      ],
+      "description": "Oglesby describes a CIA leader and Warren commissioner; the author discusses his responses to possible Oswald intelligence connections.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 55,
+          "printed": 39
+        },
+        {
+          "pdfPage": 57,
+          "printed": 41
+        },
+        {
+          "pdfPage": 64,
+          "printed": 48
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "id": "quigley",
+      "name": "Carroll Quigley",
+      "role": "Historian",
+      "pages": [
+        22,
+        39,
+        40
+      ],
+      "description": "Oglesby describes the historian whose account of the Round Table supplies a foundation for Oglesby’s interpretation of elite power.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 39,
+          "printed": 23
+        },
+        {
+          "pdfPage": 40,
+          "printed": 24
+        }
+      ]
+    },
+    {
+      "id": "lyndon-johnson",
+      "name": "Lyndon B. Johnson",
+      "role": "President",
+      "pages": [
+        85,
+        92,
+        164,
+        179
+      ],
+      "description": "Oglesby describes the president whose Vietnam escalation and 1968 withdrawal from candidacy Oglesby frames through factional conflict.",
+      "aliases": [
+        "LBJ"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 85,
+          "printed": 69
+        },
+        {
+          "pdfPage": 92,
+          "printed": 76
+        },
+        {
+          "pdfPage": 164,
+          "printed": 148
+        },
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "id": "robert-kennedy",
+      "name": "Robert F. Kennedy",
+      "role": "Attorney general and presidential candidate",
+      "pages": [
+        88,
+        89,
+        181,
+        184
+      ],
+      "description": "Oglesby describes Kennedy’s anti-organized-crime campaign, feud with Johnson and 1968 coalition, followed by assassination.",
+      "aliases": [
+        "RFK"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 181,
+          "printed": 165
+        },
+        {
+          "pdfPage": 184,
+          "printed": 168
+        }
+      ]
+    },
+    {
+      "id": "john-connally",
+      "name": "John Connally",
+      "role": "Texas governor",
+      "pages": [
+        88,
+        89,
+        97,
+        102
+      ],
+      "description": "Oglesby describes the governor wounded beside Kennedy, who later testified that he believed a separate bullet hit him.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 102,
+          "printed": 86
+        }
+      ]
+    },
+    {
+      "id": "howard-hunt",
+      "name": "E. Howard Hunt",
+      "role": "CIA officer and Watergate operative",
+      "pages": [
+        63,
+        95,
+        122,
+        175,
+        189
+      ],
+      "description": "Oglesby describes a participant in anti-Castro operations whose knowledge worried Nixon in the tapes.",
+      "aliases": [
+        "Howard Hunt"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 63,
+          "printed": 47
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 175,
+          "printed": 159
+        },
+        {
+          "pdfPage": 189,
+          "printed": 173
+        }
+      ]
+    },
+    {
+      "id": "hr-haldeman",
+      "name": "H. R. Haldeman",
+      "role": "White House chief of staff",
+      "pages": [
+        63,
+        64,
+        70
+      ],
+      "description": "Oglesby describes Nixon’s interlocutor in the June 23, 1972 conversations concerning CIA involvement and Bay of Pigs.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 63,
+          "printed": 47
+        },
+        {
+          "pdfPage": 64,
+          "printed": 48
+        },
+        {
+          "pdfPage": 70,
+          "printed": 54
+        }
+      ]
+    },
+    {
+      "id": "richard-helms",
+      "name": "Richard Helms",
+      "role": "CIA director",
+      "pages": [
+        64,
+        123
+      ],
+      "description": "Oglesby describes the director referenced in discussions with FBI acting director Gray and in a Mexico City memorandum.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 64,
+          "printed": 48
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "id": "patrick-gray",
+      "name": "L. Patrick Gray",
+      "role": "Acting FBI director",
+      "pages": [
+        64
+      ],
+      "description": "Oglesby describes Gray’s reported conversation with Helms about whether Watergate touched a covert operation.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 64,
+          "printed": 48
+        }
+      ]
+    },
+    {
+      "id": "fidel-castro",
+      "name": "Fidel Castro",
+      "role": "Cuban leader",
+      "pages": [
+        65,
+        68,
+        69,
+        89
+      ],
+      "description": "Oglesby describes the target of the invasion and assassination schemes discussed in the book.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 65,
+          "printed": 49
+        },
+        {
+          "pdfPage": 68,
+          "printed": 52
+        },
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 89,
+          "printed": 73
+        }
+      ]
+    },
+    {
+      "id": "john-roselli",
+      "name": "John Roselli",
+      "role": "Organized-crime figure",
+      "pages": [
+        69,
+        95,
+        131
+      ],
+      "description": "Oglesby describes the figure Maheu contacted on behalf of the CIA for operations against Castro.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        }
+      ]
+    },
+    {
+      "id": "meyer-lansky",
+      "name": "Meyer Lansky",
+      "role": "Organized-crime strategist",
+      "pages": [
+        45,
+        46,
+        47,
+        130
+      ],
+      "description": "Oglesby describes a central Syndicate figure in the author’s account of wartime cooperation and pre-revolutionary Cuban gambling.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 45,
+          "printed": 29
+        },
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 47,
+          "printed": 31
+        },
+        {
+          "pdfPage": 130,
+          "printed": 114
+        }
+      ]
+    },
+    {
+      "id": "lucky-luciano",
+      "name": "Charles Lucky Luciano",
+      "role": "Organized-crime leader",
+      "pages": [
+        45,
+        46,
+        47
+      ],
+      "description": "Oglesby describes the imprisoned leader whose wartime cooperation and eventual release are described as foundations of Operation Underworld.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 45,
+          "printed": 29
+        },
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 47,
+          "printed": 31
+        }
+      ]
+    },
+    {
+      "id": "franklin-roosevelt",
+      "name": "Franklin D. Roosevelt",
+      "role": "President",
+      "pages": [
+        44,
+        46,
+        47
+      ],
+      "description": "Oglesby describes the wartime president whom Oglesby holds politically responsible for cooperation with organized crime.",
+      "aliases": [
+        "FDR"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 44,
+          "printed": 28
+        },
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 47,
+          "printed": 31
+        }
+      ]
+    },
+    {
+      "id": "fulgencio-batista",
+      "name": "Fulgencio Batista",
+      "role": "Cuban ruler",
+      "pages": [
+        47,
+        48,
+        50
+      ],
+      "description": "Oglesby describes Lansky’s Cuban partner in the author’s account of liquor sourcing, gambling and political influence.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 47,
+          "printed": 31
+        },
+        {
+          "pdfPage": 48,
+          "printed": 32
+        },
+        {
+          "pdfPage": 50,
+          "printed": 34
+        }
+      ]
+    },
+    {
+      "id": "bebe-rebozo",
+      "name": "Bebe Rebozo",
+      "role": "Businessman and Nixon associate",
+      "pages": [
+        50,
+        51,
+        52
+      ],
+      "description": "Oglesby describes a Florida businessman whose friendship with Nixon and business links Oglesby examines, separating possible early contacts from established later relationships.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        },
+        {
+          "pdfPage": 51,
+          "printed": 35
+        },
+        {
+          "pdfPage": 52,
+          "printed": 36
+        }
+      ]
+    },
+    {
+      "id": "richard-danner",
+      "name": "Richard Danner",
+      "role": "Intermediary",
+      "pages": [
+        50
+      ],
+      "description": "Oglesby describes a former FBI man and Miami Beach city manager described as a connector among Nixon, Rebozo and Hughes.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        }
+      ]
+    },
+    {
+      "id": "george-smathers",
+      "name": "George Smathers",
+      "role": "Senator",
+      "pages": [
+        50,
+        51,
+        52,
+        68
+      ],
+      "description": "Oglesby describes a Rebozo business partner and Nixon acquaintance who, in an anecdote quoted by Oglesby, pressed Kennedy to kill Castro.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        },
+        {
+          "pdfPage": 51,
+          "printed": 35
+        },
+        {
+          "pdfPage": 52,
+          "printed": 36
+        },
+        {
+          "pdfPage": 68,
+          "printed": 52
+        }
+      ]
+    },
+    {
+      "id": "reinhard-gehlen",
+      "name": "Reinhard Gehlen",
+      "role": "German intelligence chief",
+      "pages": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "description": "Oglesby describes the former Nazi intelligence officer whose postwar arrangement with American officials the author treats as a source of clandestine influence.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 54,
+          "printed": 38
+        },
+        {
+          "pdfPage": 55,
+          "printed": 39
+        },
+        {
+          "pdfPage": 56,
+          "printed": 40
+        },
+        {
+          "pdfPage": 57,
+          "printed": 41
+        }
+      ]
+    },
+    {
+      "id": "andrei-vlassov",
+      "name": "Andrei Vlassov",
+      "role": "Military commander",
+      "pages": [
+        54,
+        58
+      ],
+      "description": "Oglesby describes an anti-Bolshevik commander whom Oglesby links to Gehlen’s wartime intelligence sources.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 54,
+          "printed": 38
+        },
+        {
+          "pdfPage": 58,
+          "printed": 42
+        }
+      ]
+    },
+    {
+      "id": "william-donovan",
+      "name": "William Donovan",
+      "role": "OSS director",
+      "pages": [
+        55
+      ],
+      "description": "Oglesby describes an American intelligence leader named among Gehlen’s interlocutors.",
+      "aliases": [
+        "Wild Bill Donovan"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 55,
+          "printed": 39
+        }
+      ]
+    },
+    {
+      "id": "walter-bedell-smith",
+      "name": "Walter Bedell Smith",
+      "role": "General",
+      "pages": [
+        55
+      ],
+      "description": "Oglesby describes the general whose command transport carried Gehlen to Washington in the author’s account.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 55,
+          "printed": 39
+        }
+      ]
+    },
+    {
+      "id": "lee-harvey-oswald",
+      "name": "Lee Harvey Oswald",
+      "role": "Accused assassin",
+      "pages": [
+        96,
+        97,
+        119,
+        120,
+        122,
+        176
+      ],
+      "description": "Oglesby describes the accused gunman whose life and possible intelligence contacts Oglesby disputes; his role as a loyal CIA infiltrator is explicitly speculative.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 119,
+          "printed": 103
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 176,
+          "printed": 160
+        }
+      ]
+    },
+    {
+      "id": "marina-oswald",
+      "name": "Marina Oswald",
+      "role": "Oswald’s wife",
+      "pages": [
+        96,
+        121,
+        122
+      ],
+      "description": "Oglesby describes Oswald’s Russian wife accompanying him on his return to the United States.",
+      "aliases": [
+        "Marina Pruskova"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "id": "jack-ruby",
+      "name": "Jack Ruby",
+      "role": "Nightclub operator",
+      "pages": [
+        97,
+        130,
+        134,
+        151,
+        160
+      ],
+      "description": "Oglesby describes Oswald’s killer and a key witness whom Oglesby interprets as possibly attempting to reveal more than the commission elicited.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 130,
+          "printed": 114
+        },
+        {
+          "pdfPage": 134,
+          "printed": 118
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        },
+        {
+          "pdfPage": 160,
+          "printed": 144
+        }
+      ]
+    },
+    {
+      "id": "earl-warren",
+      "name": "Earl Warren",
+      "role": "Chief justice and commission chairman",
+      "pages": [
+        97,
+        120,
+        134,
+        163,
+        167
+      ],
+      "description": "Oglesby describes the chairman whose investigation and motives are critically assessed, with the nuclear-war-cover-up explanation expressly presented as a hypothesis.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 134,
+          "printed": 118
+        },
+        {
+          "pdfPage": 163,
+          "printed": 147
+        },
+        {
+          "pdfPage": 167,
+          "printed": 151
+        }
+      ]
+    },
+    {
+      "id": "gerald-ford",
+      "name": "Gerald Ford",
+      "role": "Commissioner and president",
+      "pages": [
+        124,
+        134,
+        147
+      ],
+      "description": "Oglesby describes a commissioner participating in secret deliberations and Ruby’s hearing, later the president pardoning Nixon.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 124,
+          "printed": 108
+        },
+        {
+          "pdfPage": 134,
+          "printed": 118
+        },
+        {
+          "pdfPage": 147,
+          "printed": 131
+        }
+      ]
+    },
+    {
+      "id": "arlen-specter",
+      "name": "Arlen Specter",
+      "role": "Commission counsel",
+      "pages": [
+        102,
+        135,
+        151,
+        157
+      ],
+      "description": "Oglesby describes the counsel associated with the single-bullet theory and Ruby’s examination.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 102,
+          "printed": 86
+        },
+        {
+          "pdfPage": 135,
+          "printed": 119
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        },
+        {
+          "pdfPage": 157,
+          "printed": 141
+        }
+      ]
+    },
+    {
+      "id": "lee-rankin",
+      "name": "J. Lee Rankin",
+      "role": "Commission chief counsel",
+      "pages": [
+        104,
+        120,
+        124
+      ],
+      "description": "Oglesby describes the lawyer managing the commission’s deliberation over allegations of Oswald intelligence ties.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "id": "harold-weisberg",
+      "name": "Harold Weisberg",
+      "role": "Assassination researcher",
+      "pages": [
+        98,
+        104,
+        124
+      ],
+      "description": "Oglesby describes a Warren critic whose litigation obtained records of ballistics analysis and secret commission sessions.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 98,
+          "printed": 82
+        },
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "id": "peter-dale-scott",
+      "name": "Peter Dale Scott",
+      "role": "Researcher",
+      "pages": [
+        120,
+        131
+      ],
+      "description": "Oglesby describes the researcher whose interpretations of Oswald’s discharge and Ruby’s crime connections Oglesby cites.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        }
+      ]
+    },
+    {
+      "id": "george-otoole",
+      "name": "George O’Toole",
+      "role": "Former intelligence officer and author",
+      "pages": [
+        117,
+        118,
+        119,
+        166
+      ],
+      "description": "Oglesby describes the advocate using voice-stress analysis to argue Oswald’s denials were truthful; this disputed technique is not validated by the archive.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 117,
+          "printed": 101
+        },
+        {
+          "pdfPage": 118,
+          "printed": 102
+        },
+        {
+          "pdfPage": 119,
+          "printed": 103
+        },
+        {
+          "pdfPage": 166,
+          "printed": 150
+        }
+      ]
+    },
+    {
+      "id": "george-de-mohrenschildt",
+      "name": "George de Mohrenschildt",
+      "role": "Oswald associate",
+      "pages": [
+        122,
+        175
+      ],
+      "description": "Oglesby describes an associate who befriended the Oswalds, whose intelligence affiliation is asserted by Oglesby and remains source-attributed.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 175,
+          "printed": 159
+        }
+      ]
+    },
+    {
+      "id": "clay-shaw",
+      "name": "Clay Shaw",
+      "role": "New Orleans businessman",
+      "pages": [
+        89,
+        122
+      ],
+      "description": "Oglesby describes the figure linked to Oswald and Ferrie through claims cited from Marchetti and witnesses; those affiliations remain allegations.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "id": "david-ferrie",
+      "name": "David Ferrie",
+      "role": "Pilot and anti-Castro participant",
+      "pages": [
+        89,
+        122
+      ],
+      "description": "Oglesby describes a figure linked in the text to guerrilla camps and Shaw.",
+      "aliases": [
+        "Dave Ferrie"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "id": "frank-sturgis",
+      "name": "Frank Sturgis",
+      "role": "Anti-Castro and Watergate operative",
+      "pages": [
+        89,
+        90,
+        95
+      ],
+      "description": "Oglesby describes a participant associated with the closed No Name Key base and later Watergate.",
+      "aliases": [
+        "Frank Fiorini"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 90,
+          "printed": 74
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        }
+      ]
+    },
+    {
+      "id": "jim-garrison",
+      "name": "Jim Garrison",
+      "role": "New Orleans district attorney",
+      "pages": [
+        89,
+        126,
+        127,
+        129
+      ],
+      "description": "Oglesby describes the investigator whose inquiries and depositions from witnesses Oglesby discusses.",
+      "aliases": [
+        "James Garrison"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 126,
+          "printed": 110
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        },
+        {
+          "pdfPage": 129,
+          "printed": 113
+        }
+      ]
+    },
+    {
+      "id": "rose-cherami",
+      "name": "Rose Cherami",
+      "role": "Witness",
+      "pages": [
+        125,
+        126,
+        127
+      ],
+      "description": "Oglesby describes a former Ruby nightclub worker whose alleged advance knowledge and statements about Ruby and Oswald are reported through investigators.",
+      "aliases": [
+        "Melba Christine Marcades"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 126,
+          "printed": 110
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        }
+      ]
+    },
+    {
+      "id": "francis-fruge",
+      "name": "Francis Fruge",
+      "role": "Louisiana police lieutenant",
+      "pages": [
+        125,
+        126,
+        127
+      ],
+      "description": "Oglesby describes the officer who encountered Cherami and later investigated her account and death.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 126,
+          "printed": 110
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        }
+      ]
+    },
+    {
+      "id": "julia-ann-mercer",
+      "name": "Julia Ann Mercer",
+      "role": "Witness",
+      "pages": [
+        127,
+        128,
+        129,
+        130
+      ],
+      "description": "Oglesby describes the witness who, in her deposition to Garrison, disputed official reports of her identification of a truck driver as Ruby.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 127,
+          "printed": 111
+        },
+        {
+          "pdfPage": 128,
+          "printed": 112
+        },
+        {
+          "pdfPage": 129,
+          "printed": 113
+        },
+        {
+          "pdfPage": 130,
+          "printed": 114
+        }
+      ]
+    },
+    {
+      "id": "lewis-mcwillie",
+      "name": "Lewis McWillie",
+      "role": "Casino operator",
+      "pages": [
+        130
+      ],
+      "description": "Oglesby describes a Havana and Las Vegas gambling figure who maintained contacts with Ruby.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 130,
+          "printed": 114
+        }
+      ]
+    },
+    {
+      "id": "joe-tonahill",
+      "name": "Joe Tonahill",
+      "role": "Ruby defense attorney",
+      "pages": [
+        132,
+        135,
+        152,
+        157
+      ],
+      "description": "Oglesby describes an attorney whose relationship with Ruby was openly hostile during commission questioning.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 132,
+          "printed": 116
+        },
+        {
+          "pdfPage": 135,
+          "printed": 119
+        },
+        {
+          "pdfPage": 152,
+          "printed": 136
+        },
+        {
+          "pdfPage": 157,
+          "printed": 141
+        }
+      ]
+    },
+    {
+      "id": "bell-herndon",
+      "name": "Bell P. Herndon",
+      "role": "FBI polygraph examiner",
+      "pages": [
+        150,
+        151,
+        157,
+        159
+      ],
+      "description": "Oglesby describes the examiner conducting Ruby’s lengthy July 1964 test and later discussing limits on its interpretation.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 150,
+          "printed": 134
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        },
+        {
+          "pdfPage": 157,
+          "printed": 141
+        },
+        {
+          "pdfPage": 159,
+          "printed": 143
+        }
+      ]
+    },
+    {
+      "id": "dorothy-kilgallen",
+      "name": "Dorothy Kilgallen",
+      "role": "Journalist",
+      "pages": [
+        161,
+        162
+      ],
+      "description": "Oglesby describes a columnist who obtained Ruby testimony and interviewed him privately, then died before developing a further claimed lead.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 161,
+          "printed": 145
+        },
+        {
+          "pdfPage": 162,
+          "printed": 146
+        }
+      ]
+    },
+    {
+      "id": "robert-mcnamara",
+      "name": "Robert McNamara",
+      "role": "Defense secretary",
+      "pages": [
+        84,
+        85,
+        90
+      ],
+      "description": "Oglesby describes the defense secretary associated with a withdrawal study and public announcement of plans to reduce American forces in Vietnam.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 84,
+          "printed": 68
+        },
+        {
+          "pdfPage": 85,
+          "printed": 69
+        },
+        {
+          "pdfPage": 90,
+          "printed": 74
+        }
+      ]
+    },
+    {
+      "id": "maxwell-taylor",
+      "name": "Maxwell Taylor",
+      "role": "General",
+      "pages": [
+        84,
+        85
+      ],
+      "description": "Oglesby describes the military leader whose mission with McNamara to Saigon preceded withdrawal announcements.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 84,
+          "printed": 68
+        },
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "id": "ngo-dinh-diem",
+      "name": "Ngo Dinh Diem",
+      "role": "South Vietnamese president",
+      "pages": [
+        85
+      ],
+      "description": "Oglesby describes the ruler overthrown and killed in November 1963; Oglesby distinguishes authorization of the coup from disputed authorization of murder.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "id": "duong-van-minh",
+      "name": "Duong Van Minh",
+      "role": "South Vietnamese general",
+      "pages": [
+        85
+      ],
+      "description": "Oglesby describes the general described as taking over after Diem’s fall and supporting negotiations.",
+      "aliases": [
+        "Big Minh"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "id": "clark-clifford",
+      "name": "Clark Clifford",
+      "role": "Defense secretary",
+      "pages": [
+        179,
+        180
+      ],
+      "description": "Oglesby describes a leading official whom Oglesby associates with the 1968 turn toward negotiations.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        },
+        {
+          "pdfPage": 180,
+          "printed": 164
+        }
+      ]
+    },
+    {
+      "id": "averell-harriman",
+      "name": "Averell Harriman",
+      "role": "Diplomat",
+      "pages": [
+        179
+      ],
+      "description": "Oglesby describes an official involved in setting up the Paris peace talks.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "id": "cyrus-vance",
+      "name": "Cyrus Vance",
+      "role": "Diplomat",
+      "pages": [
+        179
+      ],
+      "description": "Oglesby describes an official involved in peace talks and the Pueblo crisis.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "id": "george-ball",
+      "name": "George Ball",
+      "role": "Diplomat",
+      "pages": [
+        179,
+        180
+      ],
+      "description": "Oglesby describes a senior official assigned to the United Nations during the 1968 policy turn.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        },
+        {
+          "pdfPage": 180,
+          "printed": 164
+        }
+      ]
+    },
+    {
+      "id": "martin-luther-king",
+      "name": "Martin Luther King Jr.",
+      "role": "Civil-rights leader",
+      "pages": [
+        88,
+        181,
+        182
+      ],
+      "description": "Oglesby describes the leader murdered in April 1968, whose case Oglesby compares with disputed aspects of the Kennedy assassinations.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 181,
+          "printed": 165
+        },
+        {
+          "pdfPage": 182,
+          "printed": 166
+        }
+      ]
+    },
+    {
+      "id": "james-earl-ray",
+      "name": "James Earl Ray",
+      "role": "Convicted King assassin",
+      "pages": [
+        181,
+        182,
+        183
+      ],
+      "description": "Oglesby describes Ray’s guilty plea and subsequent assertions of innocence, which the author treats as reasons to seek a new investigation.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 181,
+          "printed": 165
+        },
+        {
+          "pdfPage": 182,
+          "printed": 166
+        },
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "id": "percy-foreman",
+      "name": "Percy Foreman",
+      "role": "Defense attorney",
+      "pages": [
+        182
+      ],
+      "description": "Oglesby describes the lawyer representing Ray and previously Ruby, whose legal tactics and book-rights interests the author criticizes.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 182,
+          "printed": 166
+        }
+      ]
+    },
+    {
+      "id": "coretta-scott-king",
+      "name": "Coretta Scott King",
+      "role": "Civil-rights advocate",
+      "pages": [
+        183
+      ],
+      "description": "Oglesby describes King’s widow supporting a new investigation, quoted as doubting that an impartial inquiry had occurred.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "id": "sirhan-sirhan",
+      "name": "Sirhan Sirhan",
+      "role": "Convicted Robert Kennedy assassin",
+      "pages": [
+        184
+      ],
+      "description": "Oglesby describes the accused gunman whose weapon and position Oglesby compares with disputed forensic evidence. The author’s alternate-shooter implication is an interpretation.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": 168
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "yankee-faction",
+      "name": "Yankees — Oglesby’s analytical grouping",
+      "pages": [
+        21,
+        22,
+        24,
+        25
+      ],
+      "description": "Oglesby describes an informal model of established Northeastern finance and Atlantic-oriented power, with exceptions rather than a fixed roster.",
+      "founders": [],
+      "members": [
+        "jfk",
+        "clark-clifford",
+        "averell-harriman"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 21,
+          "printed": 5
+        },
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 24,
+          "printed": 8
+        },
+        {
+          "pdfPage": 25,
+          "printed": 9
+        }
+      ]
+    },
+    {
+      "id": "cowboy-faction",
+      "name": "Cowboys — Oglesby’s analytical grouping",
+      "pages": [
+        21,
+        22,
+        24,
+        25
+      ],
+      "description": "Oglesby describes an informal model of Southwestern and Western entrepreneurial, military and Pacific-oriented power, not a formal organization.",
+      "founders": [],
+      "members": [
+        "hughes",
+        "nixon",
+        "lyndon-johnson",
+        "john-connally"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 21,
+          "printed": 5
+        },
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 24,
+          "printed": 8
+        },
+        {
+          "pdfPage": 25,
+          "printed": 9
+        }
+      ]
+    },
+    {
+      "id": "cia",
+      "name": "Central Intelligence Agency",
+      "pages": [
+        18,
+        36,
+        69,
+        168,
+        169
+      ],
+      "description": "Oglesby describes an intelligence organization with competing internal centers, explicitly distinguishing factions from the whole agency.",
+      "founders": [],
+      "members": [
+        "allen-dulles",
+        "richard-helms",
+        "howard-hunt"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 18,
+          "printed": 2
+        },
+        {
+          "pdfPage": 36,
+          "printed": 20
+        },
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 168,
+          "printed": 152
+        },
+        {
+          "pdfPage": 169,
+          "printed": 153
+        }
+      ]
+    },
+    {
+      "id": "fbi",
+      "name": "Federal Bureau of Investigation",
+      "pages": [
+        38,
+        104,
+        120,
+        183
+      ],
+      "description": "Oglesby describes the federal investigative agency and domestic counterintelligence actor criticized in the book.",
+      "founders": [],
+      "members": [
+        "hoover",
+        "richard-danner",
+        "patrick-gray",
+        "bell-herndon"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 38,
+          "printed": 22
+        },
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "id": "warren-commission",
+      "name": "Warren Commission",
+      "pages": [
+        96,
+        120,
+        124,
+        134,
+        163
+      ],
+      "description": "Oglesby describes the presidential assassination inquiry whose findings and procedures the author disputes.",
+      "founders": [],
+      "members": [
+        "earl-warren",
+        "gerald-ford",
+        "allen-dulles",
+        "arlen-specter",
+        "lee-rankin"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        },
+        {
+          "pdfPage": 134,
+          "printed": 118
+        },
+        {
+          "pdfPage": 163,
+          "printed": 147
+        }
+      ]
+    },
+    {
+      "id": "dallas-police",
+      "name": "Dallas Police Department",
+      "pages": [
+        97,
+        130,
+        131,
+        169
+      ],
+      "description": "Oglesby describes the municipal force involved in arresting Oswald, securing his custody and investigating the assassination.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 130,
+          "printed": 114
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        },
+        {
+          "pdfPage": 169,
+          "printed": 153
+        }
+      ]
+    },
+    {
+      "id": "cuban-revolutionary-council",
+      "name": "Cuban Revolutionary Council",
+      "pages": [
+        96,
+        122
+      ],
+      "description": "Oglesby describes an anti-Castro exile organization the author describes as CIA-created through Hunt.",
+      "founders": [],
+      "members": [
+        "howard-hunt"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "id": "fair-play-cuba",
+      "name": "Fair Play for Cuba Committee",
+      "pages": [
+        96,
+        122,
+        123
+      ],
+      "description": "Oglesby describes a pro-Castro organization whose New Orleans chapter was represented by Oswald in the book’s account.",
+      "founders": [],
+      "members": [
+        "lee-harvey-oswald"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "id": "carousel-club",
+      "name": "Carousel Club",
+      "pages": [
+        125,
+        127,
+        160
+      ],
+      "description": "Oglesby describes Ruby’s Dallas nightclub and a setting for alleged witness observations.",
+      "founders": [],
+      "members": [
+        "jack-ruby",
+        "rose-cherami"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        },
+        {
+          "pdfPage": 160,
+          "printed": 144
+        }
+      ]
+    },
+    {
+      "id": "texas-book-depository",
+      "name": "Texas School Book Depository",
+      "pages": [
+        99,
+        117,
+        123
+      ],
+      "description": "Oglesby describes Oswald’s workplace and the building identified in the commission reconstruction as the origin of shots.",
+      "founders": [],
+      "members": [
+        "lee-harvey-oswald"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 99,
+          "printed": 83
+        },
+        {
+          "pdfPage": 117,
+          "printed": 101
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "id": "lansky-syndicate",
+      "name": "Organized-crime Syndicate — Oglesby’s grouping",
+      "pages": [
+        45,
+        46,
+        47,
+        130
+      ],
+      "description": "Oglesby describes a network of criminal operations associated by the author with Lansky and Luciano, not a single formally incorporated organization.",
+      "founders": [],
+      "members": [
+        "meyer-lansky",
+        "lucky-luciano",
+        "john-roselli",
+        "lewis-mcwillie"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 45,
+          "printed": 29
+        },
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 47,
+          "printed": 31
+        },
+        {
+          "pdfPage": 130,
+          "printed": 114
+        }
+      ]
+    },
+    {
+      "id": "gehlen-organization",
+      "name": "Gehlen Organization",
+      "pages": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "description": "Oglesby describes the intelligence apparatus the author says moved from Nazi service into American and West German arrangements.",
+      "founders": [],
+      "members": [
+        "reinhard-gehlen",
+        "andrei-vlassov"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 54,
+          "printed": 38
+        },
+        {
+          "pdfPage": 55,
+          "printed": 39
+        },
+        {
+          "pdfPage": 56,
+          "printed": 40
+        },
+        {
+          "pdfPage": 57,
+          "printed": 41
+        }
+      ]
+    },
+    {
+      "id": "oss",
+      "name": "Office of Strategic Services",
+      "pages": [
+        48,
+        55,
+        57
+      ],
+      "description": "Oglesby describes the American wartime intelligence organization involved in the author’s account of postwar Gehlen incorporation.",
+      "founders": [],
+      "members": [
+        "william-donovan",
+        "allen-dulles"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 48,
+          "printed": 32
+        },
+        {
+          "pdfPage": 55,
+          "printed": 39
+        },
+        {
+          "pdfPage": 57,
+          "printed": 41
+        }
+      ]
+    },
+    {
+      "id": "oni",
+      "name": "Office of Naval Intelligence",
+      "pages": [
+        46,
+        123
+      ],
+      "description": "Oglesby describes the naval intelligence service connected to Operation Underworld origins and a CIA report about Oswald.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "id": "joint-chiefs",
+      "name": "Joint Chiefs of Staff",
+      "pages": [
+        83,
+        86,
+        90,
+        91
+      ],
+      "description": "Oglesby describes the senior military body central to disputes over intervention and defense policy.",
+      "founders": [],
+      "members": [
+        "maxwell-taylor"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 83,
+          "printed": 67
+        },
+        {
+          "pdfPage": 86,
+          "printed": 70
+        },
+        {
+          "pdfPage": 90,
+          "printed": 74
+        },
+        {
+          "pdfPage": 91,
+          "printed": 75
+        }
+      ]
+    },
+    {
+      "id": "defense-department",
+      "name": "United States Department of Defense",
+      "pages": [
+        90,
+        179
+      ],
+      "description": "Oglesby describes the defense apparatus at the center of the author’s account of policy struggles.",
+      "founders": [],
+      "members": [
+        "robert-mcnamara",
+        "clark-clifford"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 90,
+          "printed": 74
+        },
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "id": "state-department",
+      "name": "United States Department of State",
+      "pages": [
+        68,
+        79,
+        121,
+        123
+      ],
+      "description": "Oglesby describes the foreign-policy department dealing with Cuba and Oswald’s travel and citizenship.",
+      "founders": [],
+      "members": [
+        "george-ball",
+        "averell-harriman",
+        "cyrus-vance"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 68,
+          "printed": 52
+        },
+        {
+          "pdfPage": 79,
+          "printed": 63
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "id": "hughes-empire",
+      "name": "Hughes business interests",
+      "pages": [
+        21,
+        189,
+        190
+      ],
+      "description": "Oglesby describes the business network whose Watergate involvement Oglesby explores provisionally.",
+      "founders": [],
+      "members": [
+        "hughes",
+        "maheu"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 21,
+          "printed": 5
+        },
+        {
+          "pdfPage": 189,
+          "printed": 173
+        },
+        {
+          "pdfPage": 190,
+          "printed": 174
+        }
+      ]
+    },
+    {
+      "id": "chase-manhattan",
+      "name": "Chase Manhattan Bank",
+      "pages": [
+        21
+      ],
+      "description": "Oglesby describes a banking emblem for the author’s model of established Yankee financial power.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 21,
+          "printed": 5
+        }
+      ]
+    },
+    {
+      "id": "cfr",
+      "name": "Council on Foreign Relations",
+      "pages": [
+        22,
+        40,
+        41,
+        42
+      ],
+      "description": "Oglesby describes the international-affairs institution Oglesby reads through Quigley’s account of the Round Table and Eastern Establishment.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 40,
+          "printed": 24
+        },
+        {
+          "pdfPage": 41,
+          "printed": 25
+        },
+        {
+          "pdfPage": 42,
+          "printed": 26
+        }
+      ]
+    },
+    {
+      "id": "round-table",
+      "name": "Round Table movement",
+      "pages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "description": "Oglesby describes an English-speaking policy network described through Quigley, whose alleged American influence informs Oglesby’s model.",
+      "founders": [],
+      "members": [
+        "milner",
+        "rhodes",
+        "quigley"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 39,
+          "printed": 23
+        },
+        {
+          "pdfPage": 40,
+          "printed": 24
+        },
+        {
+          "pdfPage": 41,
+          "printed": 25
+        },
+        {
+          "pdfPage": 42,
+          "printed": 26
+        }
+      ]
+    },
+    {
+      "id": "john-birch-society",
+      "name": "John Birch Society",
+      "pages": [
+        39,
+        42,
+        168
+      ],
+      "description": "Oglesby describes a right-wing movement with an elite-conspiracy interpretation that Oglesby explicitly distinguishes from his competing-factions model.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 39,
+          "printed": 23
+        },
+        {
+          "pdfPage": 42,
+          "printed": 26
+        },
+        {
+          "pdfPage": 168,
+          "printed": 152
+        }
+      ]
+    },
+    {
+      "id": "aib",
+      "name": "Assassination Information Bureau",
+      "pages": [
+        173,
+        174
+      ],
+      "description": "Oglesby describes the research group advocating reopening the Kennedy investigation and a broader study of Oswald’s associations.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 173,
+          "printed": 157
+        },
+        {
+          "pdfPage": 174,
+          "printed": 158
+        }
+      ]
+    },
+    {
+      "id": "sds",
+      "name": "Students for a Democratic Society",
+      "pages": [
+        87
+      ],
+      "description": "Oglesby describes the student group organizing the April 1965 national march against the Vietnam War.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 87,
+          "printed": 71
+        }
+      ]
+    },
+    {
+      "id": "las-vegas-sun",
+      "name": "Las Vegas Sun",
+      "pages": [
+        189,
+        190
+      ],
+      "description": "Oglesby describes the newspaper whose editor Hank Greenspun held documents targeted by a reported burglary plot.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 189,
+          "printed": 173
+        },
+        {
+          "pdfPage": 190,
+          "printed": 174
+        }
+      ]
+    },
+    {
+      "id": "cbs",
+      "name": "CBS News",
+      "pages": [
+        106,
+        118,
+        165,
+        173,
+        174
+      ],
+      "description": "Oglesby describes the broadcaster whose assassination coverage and interviews Oglesby critically examines.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 106,
+          "printed": 90
+        },
+        {
+          "pdfPage": 118,
+          "printed": 102
+        },
+        {
+          "pdfPage": 165,
+          "printed": 149
+        },
+        {
+          "pdfPage": 173,
+          "printed": 157
+        },
+        {
+          "pdfPage": 174,
+          "printed": 158
+        }
+      ]
+    },
+    {
+      "id": "teamsters",
+      "name": "International Brotherhood of Teamsters",
+      "pages": [
+        89,
+        131
+      ],
+      "description": "Oglesby describes the union whose pension-fund and organized-crime connections were targets of Robert Kennedy’s investigations in the author’s account.",
+      "founders": [],
+      "members": [],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "yankee-lansky-batista",
+      "title": "Lansky visits Batista in Havana",
+      "date": "1934",
+      "precision": "year",
+      "pages": [
+        47,
+        53
+      ],
+      "description": "Oglesby describes Lansky and Batista forming liquor-supply and gambling arrangements in Havana; the chronology is the author’s account.",
+      "people": [
+        "meyer-lansky",
+        "fulgencio-batista"
+      ],
+      "organizations": [
+        "lansky-syndicate"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 47,
+          "printed": 31
+        },
+        {
+          "pdfPage": 53,
+          "printed": 37
+        }
+      ]
+    },
+    {
+      "id": "yankee-normandie",
+      "title": "Normandie fire and wartime intelligence bargain",
+      "date": "1942",
+      "precision": "year",
+      "pages": [
+        44,
+        45,
+        46
+      ],
+      "description": "Oglesby describes the liner fire as a catalyst for naval cooperation with organized crime; sabotage and bargain interpretations remain attributed.",
+      "people": [
+        "franklin-roosevelt",
+        "meyer-lansky",
+        "lucky-luciano"
+      ],
+      "organizations": [
+        "oni",
+        "lansky-syndicate"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 44,
+          "printed": 28
+        },
+        {
+          "pdfPage": 45,
+          "printed": 29
+        },
+        {
+          "pdfPage": 46,
+          "printed": 30
+        }
+      ]
+    },
+    {
+      "id": "yankee-sicily",
+      "title": "Allied landing and Sicilian Mafia cooperation",
+      "date": "1943",
+      "precision": "year",
+      "pages": [
+        47
+      ],
+      "description": "Oglesby describes the landing in Sicily and an alleged use of Mafia local support; claimed effects on Mafia restoration are his interpretation.",
+      "people": [],
+      "organizations": [
+        "lansky-syndicate"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 47,
+          "printed": 31
+        }
+      ]
+    },
+    {
+      "id": "yankee-gehlen-cache",
+      "title": "Gehlen hides wartime intelligence archives",
+      "date": "1945-04",
+      "precision": "month",
+      "pages": [
+        54,
+        55
+      ],
+      "description": "Oglesby describes Gehlen’s aides selecting and burying intelligence records before negotiating with the Americans.",
+      "people": [
+        "reinhard-gehlen"
+      ],
+      "organizations": [
+        "gehlen-organization"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 54,
+          "printed": 38
+        },
+        {
+          "pdfPage": 55,
+          "printed": 39
+        }
+      ]
+    },
+    {
+      "id": "yankee-gehlen-washington",
+      "title": "Gehlen arrives in Washington",
+      "date": "1945-08-22",
+      "precision": "day",
+      "pages": [
+        55,
+        56,
+        57
+      ],
+      "description": "Oglesby describes Gehlen arriving for talks with American intelligence leaders about employing his network; specific conditions are source-reported.",
+      "people": [
+        "reinhard-gehlen",
+        "allen-dulles",
+        "william-donovan",
+        "walter-bedell-smith"
+      ],
+      "organizations": [
+        "gehlen-organization",
+        "oss"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 55,
+          "printed": 39
+        },
+        {
+          "pdfPage": 56,
+          "printed": 40
+        },
+        {
+          "pdfPage": 57,
+          "printed": 41
+        }
+      ]
+    },
+    {
+      "id": "yankee-danner-nixon",
+      "title": "Danner meets Nixon at Smathers gathering",
+      "date": "1947",
+      "precision": "year",
+      "pages": [
+        50
+      ],
+      "description": "Oglesby describes Danner first meeting Nixon at a party given by the newly elected Smathers.",
+      "people": [
+        "richard-danner",
+        "nixon",
+        "george-smathers"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        }
+      ]
+    },
+    {
+      "id": "yankee-ruby-dallas",
+      "title": "Ruby moves to Dallas",
+      "date": "1947",
+      "precision": "year",
+      "pages": [
+        130,
+        131
+      ],
+      "description": "Oglesby describes Ruby arriving in Dallas in the same year as a Chicago criminal group; the suggested takeover connection is an allegation attributed to witnesses.",
+      "people": [
+        "jack-ruby"
+      ],
+      "organizations": [
+        "lansky-syndicate"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 130,
+          "printed": 114
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        }
+      ]
+    },
+    {
+      "id": "yankee-oswald-discharge",
+      "title": "Oswald seeks early Marine discharge",
+      "date": "1959-09",
+      "precision": "month",
+      "pages": [
+        119,
+        120,
+        121
+      ],
+      "description": "Oglesby describes Oswald obtaining an early hardship discharge and then traveling toward the Soviet Union; the covert-mission explanation is a hypothesis.",
+      "people": [
+        "lee-harvey-oswald"
+      ],
+      "organizations": [
+        "cia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 119,
+          "printed": 103
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        }
+      ]
+    },
+    {
+      "id": "yankee-kennedy-election",
+      "title": "Kennedy–Johnson coalition wins presidency",
+      "date": "1960",
+      "precision": "year",
+      "pages": [
+        65,
+        71,
+        170
+      ],
+      "description": "Oglesby describes Kennedy defeating Nixon with Johnson as running mate; he interprets both tickets through his regional faction model.",
+      "people": [
+        "jfk",
+        "lyndon-johnson",
+        "nixon"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 65,
+          "printed": 49
+        },
+        {
+          "pdfPage": 71,
+          "printed": 55
+        },
+        {
+          "pdfPage": 170,
+          "printed": 154
+        }
+      ]
+    },
+    {
+      "id": "yankee-bay-pigs",
+      "title": "Bay of Pigs invasion fails",
+      "date": "1961-04",
+      "precision": "month",
+      "pages": [
+        64,
+        65,
+        67,
+        68,
+        69,
+        78,
+        79
+      ],
+      "description": "Oglesby describes the invasion failing amid disputes over support, which he interprets as internal policy conflict rather than a unified presidential project.",
+      "people": [
+        "jfk",
+        "nixon",
+        "allen-dulles",
+        "howard-hunt",
+        "fidel-castro"
+      ],
+      "organizations": [
+        "cia",
+        "cuban-revolutionary-council"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 64,
+          "printed": 48
+        },
+        {
+          "pdfPage": 65,
+          "printed": 49
+        },
+        {
+          "pdfPage": 67,
+          "printed": 51
+        },
+        {
+          "pdfPage": 68,
+          "printed": 52
+        },
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 78,
+          "printed": 62
+        },
+        {
+          "pdfPage": 79,
+          "printed": 63
+        }
+      ]
+    },
+    {
+      "id": "yankee-szulc-interview",
+      "title": "Kennedy discusses assassination proposal with Szulc",
+      "date": "1961-11",
+      "precision": "month",
+      "pages": [
+        68
+      ],
+      "description": "Oglesby describes Szulc’s later account of Kennedy testing his response to assassinating Castro and then expressing opposition; this is reported recollection.",
+      "people": [
+        "jfk",
+        "fidel-castro"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 68,
+          "printed": 52
+        }
+      ]
+    },
+    {
+      "id": "yankee-oswald-return",
+      "title": "Oswald returns from Soviet Union",
+      "date": "1962",
+      "precision": "year",
+      "pages": [
+        96,
+        121,
+        122
+      ],
+      "description": "Oglesby describes Oswald and Marina returning with State Department assistance and later encountering anti-Communist associates.",
+      "people": [
+        "lee-harvey-oswald",
+        "marina-oswald",
+        "george-de-mohrenschildt"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "id": "yankee-missile-crisis",
+      "title": "Cuban Missile Crisis intensifies internal disputes",
+      "date": "1962-10",
+      "precision": "month",
+      "pages": [
+        65,
+        91,
+        176
+      ],
+      "description": "Oglesby describes the missile confrontation and the pressures on Kennedy; the military-overthrow concern appears through a cited memoir and is not established independently.",
+      "people": [
+        "jfk",
+        "robert-kennedy",
+        "fidel-castro"
+      ],
+      "organizations": [
+        "joint-chiefs"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 65,
+          "printed": 49
+        },
+        {
+          "pdfPage": 91,
+          "printed": 75
+        },
+        {
+          "pdfPage": 176,
+          "printed": 160
+        }
+      ]
+    },
+    {
+      "id": "yankee-oil-depletion",
+      "title": "Kennedy proposes ending oil-depletion allowance",
+      "date": "1963-01",
+      "precision": "month",
+      "pages": [
+        88
+      ],
+      "description": "Oglesby describes the proposed change provoking oil-industry opposition; any linkage to assassination motives is Oglesby’s interpretation.",
+      "people": [
+        "jfk"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 88,
+          "printed": 72
+        }
+      ]
+    },
+    {
+      "id": "yankee-raids-stop",
+      "title": "Kennedy announces end to raids on Cuba",
+      "date": "1963-04-01",
+      "precision": "day",
+      "pages": [
+        89
+      ],
+      "description": "Oglesby describes the announcement stopping American-based raids and a police report of anger among exiles.",
+      "people": [
+        "jfk",
+        "fidel-castro"
+      ],
+      "organizations": [
+        "cia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        }
+      ]
+    },
+    {
+      "id": "yankee-oswald-new-orleans",
+      "title": "Oswald moves to New Orleans",
+      "date": "1963-04",
+      "precision": "month",
+      "pages": [
+        122
+      ],
+      "description": "Oglesby describes the Oswalds moving to New Orleans and the author’s disputed account of associations with Shaw and Ferrie.",
+      "people": [
+        "lee-harvey-oswald",
+        "marina-oswald",
+        "clay-shaw",
+        "david-ferrie"
+      ],
+      "organizations": [
+        "fair-play-cuba",
+        "cuban-revolutionary-council"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "id": "yankee-oswald-arrest",
+      "title": "Oswald arrested during leaflet confrontation",
+      "date": "1963-08",
+      "precision": "month",
+      "pages": [
+        122,
+        123
+      ],
+      "description": "Oglesby describes an arrest after confrontation with anti-Castro Cubans and Oswald asking to speak to the FBI.",
+      "people": [
+        "lee-harvey-oswald"
+      ],
+      "organizations": [
+        "fair-play-cuba",
+        "fbi"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "id": "yankee-camps-closed",
+      "title": "Federal raids close anti-Castro camps",
+      "date": "1963-09",
+      "precision": "month",
+      "pages": [
+        89,
+        90,
+        175,
+        176
+      ],
+      "description": "Oglesby describes Kennedy ordering FBI action against guerrilla bases in Florida and Louisiana; the author’s links to Ferrie and Sturgis remain source claims.",
+      "people": [
+        "jfk",
+        "david-ferrie",
+        "frank-sturgis"
+      ],
+      "organizations": [
+        "fbi",
+        "cia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 90,
+          "printed": 74
+        },
+        {
+          "pdfPage": 175,
+          "printed": 159
+        },
+        {
+          "pdfPage": 176,
+          "printed": 160
+        }
+      ]
+    },
+    {
+      "id": "yankee-oswald-mexico",
+      "title": "Oswald’s reported Mexico City visit",
+      "date": "1963-09",
+      "precision": "month",
+      "pages": [
+        123,
+        124
+      ],
+      "description": "Oglesby describes the reported trip and embassy contacts, while questioning whether surveillance descriptions and impersonation claims identify Oswald reliably.",
+      "people": [
+        "lee-harvey-oswald",
+        "richard-helms"
+      ],
+      "organizations": [
+        "cia",
+        "state-department"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 123,
+          "printed": 107
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "id": "yankee-vietnam-withdrawal",
+      "title": "McNamara announces planned troop withdrawal",
+      "date": "1963-10-02",
+      "precision": "day",
+      "pages": [
+        84,
+        85
+      ],
+      "description": "Oglesby describes a plan to withdraw 1,000 Americans before year end; his conclusion about Kennedy’s intended long-term disengagement is an interpretation.",
+      "people": [
+        "jfk",
+        "robert-mcnamara",
+        "maxwell-taylor"
+      ],
+      "organizations": [
+        "defense-department"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 84,
+          "printed": 68
+        },
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "id": "yankee-diem-coup",
+      "title": "Diem government overthrown",
+      "date": "1963-11-01",
+      "precision": "day",
+      "pages": [
+        85
+      ],
+      "description": "Oglesby describes the November 1–2 overthrow and murders of Diem and Nhu, distinguishing coup authorization from uncertainty over authorization of murder.",
+      "people": [
+        "ngo-dinh-diem",
+        "duong-van-minh",
+        "jfk",
+        "howard-hunt"
+      ],
+      "organizations": [
+        "state-department"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "id": "yankee-cherami-found",
+      "title": "Cherami encountered on Louisiana roadside",
+      "date": "1963-11-20",
+      "precision": "day",
+      "pages": [
+        125,
+        126
+      ],
+      "description": "Oglesby describes Cherami found injured by Fruge and subsequently making reported statements about Ruby and the assassination; these are witness allegations.",
+      "people": [
+        "rose-cherami",
+        "francis-fruge",
+        "jack-ruby"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 126,
+          "printed": 110
+        }
+      ]
+    },
+    {
+      "id": "yankee-dallas",
+      "title": "Kennedy assassinated at Dealey Plaza",
+      "date": "1963-11-22",
+      "precision": "day",
+      "pages": [
+        97,
+        99,
+        101,
+        170,
+        173
+      ],
+      "description": "Oglesby describes Kennedy killed and Connally wounded in Dallas; the author disputes the commission reconstruction and advances a coup hypothesis.",
+      "people": [
+        "jfk",
+        "john-connally",
+        "lee-harvey-oswald"
+      ],
+      "organizations": [
+        "texas-book-depository",
+        "dallas-police"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 99,
+          "printed": 83
+        },
+        {
+          "pdfPage": 101,
+          "printed": 85
+        },
+        {
+          "pdfPage": 170,
+          "printed": 154
+        },
+        {
+          "pdfPage": 173,
+          "printed": 157
+        }
+      ]
+    },
+    {
+      "id": "yankee-ruby-oswald",
+      "title": "Ruby kills Oswald in police custody",
+      "date": "1963-11-24",
+      "precision": "day",
+      "pages": [
+        97,
+        151
+      ],
+      "description": "Oglesby describes Ruby shooting Oswald during a jail transfer; alleged conspiracy motives are the author’s interpretation.",
+      "people": [
+        "jack-ruby",
+        "lee-harvey-oswald"
+      ],
+      "organizations": [
+        "dallas-police"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        }
+      ]
+    },
+    {
+      "id": "yankee-warren-session-jan22",
+      "title": "Commission privately discusses Oswald and FBI",
+      "date": "1964-01-22",
+      "precision": "day",
+      "pages": [
+        124
+      ],
+      "description": "Oglesby describes a secret commission session later disclosed through litigation, including doubts about investigation handling.",
+      "people": [
+        "gerald-ford",
+        "allen-dulles",
+        "lee-rankin",
+        "harold-weisberg"
+      ],
+      "organizations": [
+        "warren-commission",
+        "fbi"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "id": "yankee-warren-session-jan27",
+      "title": "Commission discusses alleged Oswald informer ties",
+      "date": "1964-01-27",
+      "precision": "day",
+      "pages": [
+        120,
+        121
+      ],
+      "description": "Oglesby describes commissioners considering an allegation of FBI payments and discussing difficulties proving secret relationships.",
+      "people": [
+        "allen-dulles",
+        "lee-rankin",
+        "lee-harvey-oswald"
+      ],
+      "organizations": [
+        "warren-commission",
+        "fbi",
+        "cia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        }
+      ]
+    },
+    {
+      "id": "yankee-connally-testimony",
+      "title": "Connally disputes shared-bullet account",
+      "date": "1964-04-21",
+      "precision": "day",
+      "pages": [
+        102,
+        103
+      ],
+      "description": "Oglesby describes Connally testifying that he believed his wound came from a different shot than Kennedy’s first wound.",
+      "people": [
+        "john-connally",
+        "arlen-specter"
+      ],
+      "organizations": [
+        "warren-commission"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 102,
+          "printed": 86
+        },
+        {
+          "pdfPage": 103,
+          "printed": 87
+        }
+      ]
+    },
+    {
+      "id": "yankee-ruby-testimony",
+      "title": "Ruby testifies to Warren and Ford",
+      "date": "1964-06-07",
+      "precision": "day",
+      "pages": [
+        132,
+        134,
+        135,
+        147,
+        150
+      ],
+      "description": "Oglesby describes Ruby requesting transfer to Washington and a lie-detector test; Oglesby reads the ambiguous testimony as suggesting fears of a larger plot.",
+      "people": [
+        "jack-ruby",
+        "earl-warren",
+        "gerald-ford",
+        "joe-tonahill"
+      ],
+      "organizations": [
+        "warren-commission"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 132,
+          "printed": 116
+        },
+        {
+          "pdfPage": 134,
+          "printed": 118
+        },
+        {
+          "pdfPage": 135,
+          "printed": 119
+        },
+        {
+          "pdfPage": 147,
+          "printed": 131
+        },
+        {
+          "pdfPage": 150,
+          "printed": 134
+        }
+      ]
+    },
+    {
+      "id": "yankee-hoover-naa",
+      "title": "Hoover reports neutron-activation comparisons",
+      "date": "1964-07-08",
+      "precision": "day",
+      "pages": [
+        104,
+        105
+      ],
+      "description": "Oglesby describes Hoover’s letter about lead-fragment comparisons; the author’s categorical interpretation is a scientific claim requiring separate verification.",
+      "people": [
+        "hoover",
+        "lee-rankin"
+      ],
+      "organizations": [
+        "fbi",
+        "warren-commission"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 105,
+          "printed": 89
+        }
+      ]
+    },
+    {
+      "id": "yankee-ruby-polygraph",
+      "title": "Ruby undergoes lengthy FBI polygraph",
+      "date": "1964-07-18",
+      "precision": "day",
+      "pages": [
+        150,
+        151,
+        152,
+        157,
+        159
+      ],
+      "description": "Oglesby describes Ruby’s test and subsequent discussion of fatigue, observers and interpretive limits.",
+      "people": [
+        "jack-ruby",
+        "bell-herndon",
+        "joe-tonahill",
+        "arlen-specter"
+      ],
+      "organizations": [
+        "fbi",
+        "warren-commission"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 150,
+          "printed": 134
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        },
+        {
+          "pdfPage": 152,
+          "printed": 136
+        },
+        {
+          "pdfPage": 157,
+          "printed": 141
+        },
+        {
+          "pdfPage": 159,
+          "printed": 143
+        }
+      ]
+    },
+    {
+      "id": "yankee-sds-march",
+      "title": "SDS organizes national antiwar march",
+      "date": "1965-04",
+      "precision": "month",
+      "pages": [
+        87
+      ],
+      "description": "Oglesby describes twenty to twenty-five thousand people hearing student and civil-rights speakers at a Washington protest.",
+      "people": [],
+      "organizations": [
+        "sds"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 87,
+          "printed": 71
+        }
+      ]
+    },
+    {
+      "id": "yankee-cherami-death",
+      "title": "Cherami dies in Texas road incident",
+      "date": "1965-09",
+      "precision": "month",
+      "pages": [
+        126,
+        127
+      ],
+      "description": "Oglesby describes the death ruled accidental after a road collision; the author reports investigative doubts without establishing murder.",
+      "people": [
+        "rose-cherami",
+        "francis-fruge"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 126,
+          "printed": 110
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        }
+      ]
+    },
+    {
+      "id": "yankee-kilgallen-death",
+      "title": "Kilgallen dies before developing assassination lead",
+      "date": "1965-11",
+      "precision": "month",
+      "pages": [
+        161,
+        162
+      ],
+      "description": "Oglesby describes her death ruled accidental after she told associates about a potential lead; the disappearance of notes is reported as unresolved.",
+      "people": [
+        "dorothy-kilgallen",
+        "jack-ruby"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 161,
+          "printed": 145
+        },
+        {
+          "pdfPage": 162,
+          "printed": 146
+        }
+      ]
+    },
+    {
+      "id": "yankee-ruby-death",
+      "title": "Ruby dies in custody",
+      "date": "1967",
+      "precision": "year",
+      "pages": [
+        97,
+        162
+      ],
+      "description": "Oglesby describes Ruby’s death after illness, alongside his allegation that he was being poisoned; the allegation is not established.",
+      "people": [
+        "jack-ruby"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 162,
+          "printed": 146
+        }
+      ]
+    },
+    {
+      "id": "yankee-gold-crisis",
+      "title": "Gold-outflow crisis affects Vietnam policy debate",
+      "date": "1968-01",
+      "precision": "month",
+      "pages": [
+        177,
+        178,
+        179
+      ],
+      "description": "Oglesby describes the January–February crisis as exposing economic vulnerability and sharpening elite policy disputes.",
+      "people": [
+        "lyndon-johnson"
+      ],
+      "organizations": [
+        "yankee-faction",
+        "cowboy-faction"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 177,
+          "printed": 161
+        },
+        {
+          "pdfPage": 178,
+          "printed": 162
+        },
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "id": "yankee-johnson-withdrawal",
+      "title": "Johnson withdraws from presidential race",
+      "date": "1968-03-31",
+      "precision": "day",
+      "pages": [
+        179,
+        180
+      ],
+      "description": "Oglesby describes Johnson’s decision not to run and move toward negotiations, interpreted by the author as elite pressure rather than independently proven conspiracy.",
+      "people": [
+        "lyndon-johnson",
+        "clark-clifford",
+        "averell-harriman",
+        "cyrus-vance",
+        "george-ball"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        },
+        {
+          "pdfPage": 180,
+          "printed": 164
+        }
+      ]
+    },
+    {
+      "id": "yankee-king-assassination",
+      "title": "King assassinated",
+      "date": "1968-04-04",
+      "precision": "day",
+      "pages": [
+        181,
+        182,
+        183
+      ],
+      "description": "Oglesby describes King’s killing and disputed witness, ballistics and defense accounts, arguing for renewed investigation.",
+      "people": [
+        "martin-luther-king",
+        "james-earl-ray",
+        "coretta-scott-king",
+        "percy-foreman"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 181,
+          "printed": 165
+        },
+        {
+          "pdfPage": 182,
+          "printed": 166
+        },
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "id": "yankee-cointelpro-memos",
+      "title": "Hoover issues New Left counterintelligence memos",
+      "date": "1968-05-10",
+      "precision": "day",
+      "pages": [
+        183
+      ],
+      "description": "Oglesby describes memos directing efforts to expose and disrupt New Left organizations.",
+      "people": [
+        "hoover"
+      ],
+      "organizations": [
+        "fbi",
+        "sds"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "id": "yankee-rfk-assassination",
+      "title": "Robert Kennedy assassination disrupts election coalition",
+      "date": "1968-06",
+      "precision": "month",
+      "pages": [
+        184,
+        185
+      ],
+      "description": "Oglesby describes the assassination and contested forensic claims; he interprets its political effect as ending a possible change in Vietnam policy.",
+      "people": [
+        "robert-kennedy",
+        "sirhan-sirhan"
+      ],
+      "organizations": [],
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": 168
+        },
+        {
+          "pdfPage": 185,
+          "printed": 169
+        }
+      ]
+    },
+    {
+      "id": "yankee-bay-pigs-tapes",
+      "title": "Nixon discusses Bay of Pigs during Watergate cover-up",
+      "date": "1972-06-23",
+      "precision": "day",
+      "pages": [
+        63,
+        64
+      ],
+      "description": "Oglesby describes taped Oval Office discussions with Haldeman about Hunt and CIA connections; the broader hidden connection is a hypothesis.",
+      "people": [
+        "nixon",
+        "hr-haldeman",
+        "howard-hunt",
+        "richard-helms",
+        "patrick-gray"
+      ],
+      "organizations": [
+        "cia",
+        "fbi"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 63,
+          "printed": 47
+        },
+        {
+          "pdfPage": 64,
+          "printed": 48
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "source": "oglesby",
+      "target": "quigley",
+      "label": "intellectual influence",
+      "pages": [
+        22,
+        39
+      ],
+      "description": "According to Oglesby, the historian’s account of elite networks informed the book’s faction model.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 39,
+          "printed": 23
+        }
+      ]
+    },
+    {
+      "source": "jfk",
+      "target": "yankee-faction",
+      "label": "author’s faction classification",
+      "pages": [
+        22,
+        170
+      ],
+      "description": "According to Oglesby, Kennedy is classified as a left-wing Yankee in the author’s analytical model.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 170,
+          "printed": 154
+        }
+      ]
+    },
+    {
+      "source": "nixon",
+      "target": "cowboy-faction",
+      "label": "author’s faction classification",
+      "pages": [
+        22,
+        170
+      ],
+      "description": "According to Oglesby, Nixon is classified as a right-wing Cowboy.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 170,
+          "printed": 154
+        }
+      ]
+    },
+    {
+      "source": "hughes",
+      "target": "cowboy-faction",
+      "label": "author’s economic archetype",
+      "pages": [
+        21,
+        190
+      ],
+      "description": "According to Oglesby, Hughes embodies entrepreneurial Cowboy wealth in the model.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 21,
+          "printed": 5
+        },
+        {
+          "pdfPage": 190,
+          "printed": 174
+        }
+      ]
+    },
+    {
+      "source": "lyndon-johnson",
+      "target": "cowboy-faction",
+      "label": "author’s faction classification",
+      "pages": [
+        22,
+        92,
+        179
+      ],
+      "description": "According to Oglesby, Johnson is treated as a Cowboy-aligned president.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 92,
+          "printed": 76
+        },
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "source": "john-connally",
+      "target": "cowboy-faction",
+      "label": "author’s faction classification",
+      "pages": [
+        22,
+        88,
+        89
+      ],
+      "description": "According to Oglesby, Connally is placed within the Texas-oriented political grouping.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 22,
+          "printed": 6
+        },
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 89,
+          "printed": 73
+        }
+      ]
+    },
+    {
+      "source": "jfk",
+      "target": "lyndon-johnson",
+      "label": "electoral coalition and policy conflict",
+      "pages": [
+        71,
+        88,
+        92,
+        170
+      ],
+      "description": "According to Oglesby, the 1960 electoral partnership later faced disputes over Cuba, Vietnam and political control.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 71,
+          "printed": 55
+        },
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 92,
+          "printed": 76
+        },
+        {
+          "pdfPage": 170,
+          "printed": 154
+        }
+      ]
+    },
+    {
+      "source": "robert-kennedy",
+      "target": "lyndon-johnson",
+      "label": "political feud",
+      "pages": [
+        88,
+        181
+      ],
+      "description": "According to Oglesby, the two were rivals within the Democratic governing coalition.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 181,
+          "printed": 165
+        }
+      ]
+    },
+    {
+      "source": "john-connally",
+      "target": "jfk",
+      "label": "Texas visit advocacy",
+      "pages": [
+        88,
+        89,
+        173
+      ],
+      "description": "According to Oglesby, Connally pressed Kennedy to visit Texas to repair party divisions.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 88,
+          "printed": 72
+        },
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 173,
+          "printed": 157
+        }
+      ]
+    },
+    {
+      "source": "nixon",
+      "target": "hr-haldeman",
+      "label": "White House discussions",
+      "pages": [
+        63,
+        64
+      ],
+      "description": "According to Oglesby, the two discussed Hunt, the CIA and Bay of Pigs during recorded cover-up conversations.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 63,
+          "printed": 47
+        },
+        {
+          "pdfPage": 64,
+          "printed": 48
+        }
+      ]
+    },
+    {
+      "source": "nixon",
+      "target": "howard-hunt",
+      "label": "concern about concealed knowledge",
+      "pages": [
+        63,
+        64,
+        95
+      ],
+      "description": "According to Oglesby, Nixon’s statements indicate concern over what Hunt could expose, while its ultimate meaning remains speculative.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 63,
+          "printed": 47
+        },
+        {
+          "pdfPage": 64,
+          "printed": 48
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        }
+      ]
+    },
+    {
+      "source": "patrick-gray",
+      "target": "richard-helms",
+      "label": "reported agency consultation",
+      "pages": [
+        64
+      ],
+      "description": "According to Oglesby, Haldeman reported Gray contacting Helms about covert CIA connections.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 64,
+          "printed": 48
+        }
+      ]
+    },
+    {
+      "source": "howard-hunt",
+      "target": "cia",
+      "label": "intelligence service",
+      "pages": [
+        95,
+        122,
+        175
+      ],
+      "description": "According to Oglesby, Hunt was connected to Cuban exile operations and agency work.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 95,
+          "printed": 79
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 175,
+          "printed": 159
+        }
+      ]
+    },
+    {
+      "source": "howard-hunt",
+      "target": "cuban-revolutionary-council",
+      "label": "organization role",
+      "pages": [
+        122
+      ],
+      "description": "According to Oglesby, Hunt created the council as a CIA-backed grouping in the author’s account.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "source": "hughes",
+      "target": "maheu",
+      "label": "business employment",
+      "pages": [
+        69,
+        189
+      ],
+      "description": "According to Oglesby, Maheu served as a top Hughes aide.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 189,
+          "printed": 173
+        }
+      ]
+    },
+    {
+      "source": "maheu",
+      "target": "john-roselli",
+      "label": "CIA assassination intermediary",
+      "pages": [
+        69,
+        95
+      ],
+      "description": "According to Oglesby, Maheu contacted Roselli for an operation against Castro.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 69,
+          "printed": 53
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        }
+      ]
+    },
+    {
+      "source": "cia",
+      "target": "fidel-castro",
+      "label": "assassination schemes",
+      "pages": [
+        68,
+        69
+      ],
+      "description": "According to Oglesby, agency-linked activists sought to kill Castro; authorization and timing are disputed in the text.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 68,
+          "printed": 52
+        },
+        {
+          "pdfPage": 69,
+          "printed": 53
+        }
+      ]
+    },
+    {
+      "source": "john-roselli",
+      "target": "lansky-syndicate",
+      "label": "criminal network association",
+      "pages": [
+        95,
+        131
+      ],
+      "description": "According to Oglesby, Roselli is situated in the criminal network later linked to CIA anti-Castro activities.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 95,
+          "printed": 79
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        }
+      ]
+    },
+    {
+      "source": "meyer-lansky",
+      "target": "lucky-luciano",
+      "label": "organized-crime partnership",
+      "pages": [
+        45,
+        46
+      ],
+      "description": "According to Oglesby, Lansky and Luciano led interrelated criminal operations; the author discusses competing assessments of their roles.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 45,
+          "printed": 29
+        },
+        {
+          "pdfPage": 46,
+          "printed": 30
+        }
+      ]
+    },
+    {
+      "source": "meyer-lansky",
+      "target": "fulgencio-batista",
+      "label": "Cuban commercial and political partnership",
+      "pages": [
+        47,
+        48
+      ],
+      "description": "According to Oglesby, the two cooperated over liquor supplies, gambling and political messages.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 47,
+          "printed": 31
+        },
+        {
+          "pdfPage": 48,
+          "printed": 32
+        }
+      ]
+    },
+    {
+      "source": "franklin-roosevelt",
+      "target": "meyer-lansky",
+      "label": "wartime cooperation claimed",
+      "pages": [
+        46,
+        47
+      ],
+      "description": "According to Oglesby, the author interprets Operation Underworld as a political bargain extending beyond immediate dock security.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 47,
+          "printed": 31
+        }
+      ]
+    },
+    {
+      "source": "lucky-luciano",
+      "target": "oni",
+      "label": "wartime intelligence cooperation",
+      "pages": [
+        46,
+        47
+      ],
+      "description": "According to Oglesby, naval intelligence cooperated with the imprisoned criminal leader.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 46,
+          "printed": 30
+        },
+        {
+          "pdfPage": 47,
+          "printed": 31
+        }
+      ]
+    },
+    {
+      "source": "nixon",
+      "target": "bebe-rebozo",
+      "label": "personal association",
+      "pages": [
+        50,
+        51,
+        52
+      ],
+      "description": "According to Oglesby, Rebozo was a close Nixon associate; an early 1942 origin is proposed but not established.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        },
+        {
+          "pdfPage": 51,
+          "printed": 35
+        },
+        {
+          "pdfPage": 52,
+          "printed": 36
+        }
+      ]
+    },
+    {
+      "source": "george-smathers",
+      "target": "bebe-rebozo",
+      "label": "business partnership",
+      "pages": [
+        50,
+        51
+      ],
+      "description": "According to Oglesby, Smathers and Rebozo partnered in land and financial ventures.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        },
+        {
+          "pdfPage": 51,
+          "printed": 35
+        }
+      ]
+    },
+    {
+      "source": "richard-danner",
+      "target": "nixon",
+      "label": "social and financial intermediary",
+      "pages": [
+        50
+      ],
+      "description": "According to Oglesby, Danner met Nixon in 1947 and later delivered Hughes funds.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        }
+      ]
+    },
+    {
+      "source": "richard-danner",
+      "target": "fbi",
+      "label": "former service",
+      "pages": [
+        50
+      ],
+      "description": "According to Oglesby, Danner had previously worked for the Bureau.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 50,
+          "printed": 34
+        }
+      ]
+    },
+    {
+      "source": "reinhard-gehlen",
+      "target": "andrei-vlassov",
+      "label": "wartime intelligence connection",
+      "pages": [
+        54,
+        58
+      ],
+      "description": "According to Oglesby, the author connects Gehlen’s Soviet sources to Vlassov’s anti-Bolshevik network.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 54,
+          "printed": 38
+        },
+        {
+          "pdfPage": 58,
+          "printed": 42
+        }
+      ]
+    },
+    {
+      "source": "reinhard-gehlen",
+      "target": "allen-dulles",
+      "label": "postwar intelligence negotiation",
+      "pages": [
+        55,
+        56,
+        57
+      ],
+      "description": "According to Oglesby, Gehlen negotiated American sponsorship of his apparatus; institutional details require corroboration.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 55,
+          "printed": 39
+        },
+        {
+          "pdfPage": 56,
+          "printed": 40
+        },
+        {
+          "pdfPage": 57,
+          "printed": 41
+        }
+      ]
+    },
+    {
+      "source": "william-donovan",
+      "target": "oss",
+      "label": "leadership",
+      "pages": [
+        55
+      ],
+      "description": "According to Oglesby, Donovan led the wartime organization and participated in Gehlen discussions.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 55,
+          "printed": 39
+        }
+      ]
+    },
+    {
+      "source": "gehlen-organization",
+      "target": "cia",
+      "label": "postwar incorporation claimed",
+      "pages": [
+        57,
+        58
+      ],
+      "description": "According to Oglesby, the book claims the Gehlen apparatus became a core source on Russia and Eastern Europe.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 57,
+          "printed": 41
+        },
+        {
+          "pdfPage": 58,
+          "printed": 42
+        }
+      ]
+    },
+    {
+      "source": "lee-harvey-oswald",
+      "target": "marina-oswald",
+      "label": "marriage",
+      "pages": [
+        96,
+        121
+      ],
+      "description": "According to Oglesby, the two married in the Soviet Union and returned together.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        }
+      ]
+    },
+    {
+      "source": "lee-harvey-oswald",
+      "target": "cia",
+      "label": "possible covert role",
+      "pages": [
+        120,
+        175,
+        176
+      ],
+      "description": "According to Oglesby, the author hypothesizes a loyal CIA agent sent to penetrate renegade anti-Castro networks; he acknowledges uncertainty.",
+      "evidence": "author-hypothesis",
+      "printedPages": [
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 175,
+          "printed": 159
+        },
+        {
+          "pdfPage": 176,
+          "printed": 160
+        }
+      ]
+    },
+    {
+      "source": "lee-harvey-oswald",
+      "target": "fbi",
+      "label": "informant allegation",
+      "pages": [
+        120,
+        121,
+        124
+      ],
+      "description": "According to Oglesby, commissioners examined allegations of informer ties, officially denied by agency representatives.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "source": "george-de-mohrenschildt",
+      "target": "lee-harvey-oswald",
+      "label": "personal association",
+      "pages": [
+        122,
+        175
+      ],
+      "description": "According to Oglesby, de Mohrenschildt befriended the Oswalds; claimed intelligence implications are source-attributed.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 175,
+          "printed": 159
+        }
+      ]
+    },
+    {
+      "source": "clay-shaw",
+      "target": "lee-harvey-oswald",
+      "label": "association alleged",
+      "pages": [
+        122
+      ],
+      "description": "According to Oglesby, the author cites Marchetti and witness testimony for a disputed connection.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "source": "clay-shaw",
+      "target": "david-ferrie",
+      "label": "association alleged",
+      "pages": [
+        89,
+        122
+      ],
+      "description": "According to Oglesby, Shaw and Ferrie are linked through the author’s discussion of Garrison’s investigation.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "source": "david-ferrie",
+      "target": "cia",
+      "label": "anti-Castro camp links alleged",
+      "pages": [
+        89,
+        122
+      ],
+      "description": "According to Oglesby, Ferrie is associated with agency-linked guerrilla training activities.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        }
+      ]
+    },
+    {
+      "source": "frank-sturgis",
+      "target": "cia",
+      "label": "anti-Castro network association",
+      "pages": [
+        89,
+        90,
+        95
+      ],
+      "description": "According to Oglesby, Sturgis is placed among the invasion and staging-base participants.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 90,
+          "printed": 74
+        },
+        {
+          "pdfPage": 95,
+          "printed": 79
+        }
+      ]
+    },
+    {
+      "source": "lee-harvey-oswald",
+      "target": "fair-play-cuba",
+      "label": "New Orleans activism",
+      "pages": [
+        96,
+        122,
+        123
+      ],
+      "description": "According to Oglesby, Oswald circulated pro-Castro literature and operated the chapter described in the book.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 96,
+          "printed": 80
+        },
+        {
+          "pdfPage": 122,
+          "printed": 106
+        },
+        {
+          "pdfPage": 123,
+          "printed": 107
+        }
+      ]
+    },
+    {
+      "source": "jack-ruby",
+      "target": "lee-harvey-oswald",
+      "label": "killing",
+      "pages": [
+        97,
+        151
+      ],
+      "description": "According to Oglesby, Ruby shot Oswald during the transfer from Dallas custody.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 97,
+          "printed": 81
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        }
+      ]
+    },
+    {
+      "source": "jack-ruby",
+      "target": "dallas-police",
+      "label": "personal contacts and alleged liaison",
+      "pages": [
+        130,
+        131,
+        132
+      ],
+      "description": "According to Oglesby, Ruby knew many officers; an organized-crime payoff role is a research allegation cited by Oglesby.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 130,
+          "printed": 114
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        },
+        {
+          "pdfPage": 132,
+          "printed": 116
+        }
+      ]
+    },
+    {
+      "source": "jack-ruby",
+      "target": "lewis-mcwillie",
+      "label": "Cuban and casino contacts",
+      "pages": [
+        130
+      ],
+      "description": "According to Oglesby, Ruby traveled with McWillie, received calls and sent a pistol in 1959.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 130,
+          "printed": 114
+        }
+      ]
+    },
+    {
+      "source": "jack-ruby",
+      "target": "lansky-syndicate",
+      "label": "criminal associations",
+      "pages": [
+        130,
+        131,
+        132
+      ],
+      "description": "According to Oglesby, the book lists criminal contacts while contrasting the commission’s conclusion that a significant link was not established.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 130,
+          "printed": 114
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        },
+        {
+          "pdfPage": 132,
+          "printed": 116
+        }
+      ]
+    },
+    {
+      "source": "rose-cherami",
+      "target": "carousel-club",
+      "label": "employment",
+      "pages": [
+        125,
+        127
+      ],
+      "description": "According to Oglesby, Cherami worked as a stripper at Ruby’s club, reportedly verified by investigators.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        }
+      ]
+    },
+    {
+      "source": "rose-cherami",
+      "target": "jack-ruby",
+      "label": "claimed knowledge",
+      "pages": [
+        125,
+        126,
+        127
+      ],
+      "description": "According to Oglesby, Cherami’s alleged statements linked Ruby and Oswald; reported through investigators, not independently verified.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 126,
+          "printed": 110
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        }
+      ]
+    },
+    {
+      "source": "francis-fruge",
+      "target": "rose-cherami",
+      "label": "investigation",
+      "pages": [
+        125,
+        126,
+        127
+      ],
+      "description": "According to Oglesby, Fruge handled Cherami’s roadside encounter and later inquiries.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 125,
+          "printed": 109
+        },
+        {
+          "pdfPage": 126,
+          "printed": 110
+        },
+        {
+          "pdfPage": 127,
+          "printed": 111
+        }
+      ]
+    },
+    {
+      "source": "julia-ann-mercer",
+      "target": "jack-ruby",
+      "label": "witness identification allegation",
+      "pages": [
+        127,
+        128,
+        129
+      ],
+      "description": "According to Oglesby, Mercer asserted to Garrison that Ruby drove a truck she saw before the assassination and disputed official reports.",
+      "evidence": "allegation",
+      "printedPages": [
+        {
+          "pdfPage": 127,
+          "printed": 111
+        },
+        {
+          "pdfPage": 128,
+          "printed": 112
+        },
+        {
+          "pdfPage": 129,
+          "printed": 113
+        }
+      ]
+    },
+    {
+      "source": "jim-garrison",
+      "target": "julia-ann-mercer",
+      "label": "deposition",
+      "pages": [
+        127,
+        128,
+        129
+      ],
+      "description": "According to Oglesby, Garrison obtained Mercer’s 1968 account of the disputed identification.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 127,
+          "printed": 111
+        },
+        {
+          "pdfPage": 128,
+          "printed": 112
+        },
+        {
+          "pdfPage": 129,
+          "printed": 113
+        }
+      ]
+    },
+    {
+      "source": "earl-warren",
+      "target": "warren-commission",
+      "label": "chairmanship",
+      "pages": [
+        134,
+        163
+      ],
+      "description": "According to Oglesby, Warren chaired the presidential inquiry.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 134,
+          "printed": 118
+        },
+        {
+          "pdfPage": 163,
+          "printed": 147
+        }
+      ]
+    },
+    {
+      "source": "gerald-ford",
+      "target": "warren-commission",
+      "label": "membership",
+      "pages": [
+        124,
+        134
+      ],
+      "description": "According to Oglesby, Ford took part in deliberations and Ruby’s testimony.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 124,
+          "printed": 108
+        },
+        {
+          "pdfPage": 134,
+          "printed": 118
+        }
+      ]
+    },
+    {
+      "source": "allen-dulles",
+      "target": "warren-commission",
+      "label": "membership",
+      "pages": [
+        120,
+        121,
+        124
+      ],
+      "description": "According to Oglesby, Dulles discussed the limits of proving intelligence relationships.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 121,
+          "printed": 105
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "source": "arlen-specter",
+      "target": "warren-commission",
+      "label": "counsel and single-bullet theory",
+      "pages": [
+        102,
+        151
+      ],
+      "description": "According to Oglesby, Specter advanced the shared-bullet reconstruction and helped question Ruby.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 102,
+          "printed": 86
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        }
+      ]
+    },
+    {
+      "source": "lee-rankin",
+      "target": "warren-commission",
+      "label": "chief counsel",
+      "pages": [
+        104,
+        120,
+        124
+      ],
+      "description": "According to Oglesby, Rankin managed investigative questions and confidential sessions.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 120,
+          "printed": 104
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "source": "hoover",
+      "target": "warren-commission",
+      "label": "agency reports",
+      "pages": [
+        104,
+        105,
+        132
+      ],
+      "description": "According to Oglesby, Hoover sent reports concerning lead comparisons and possible Ruby informant activity.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 105,
+          "printed": 89
+        },
+        {
+          "pdfPage": 132,
+          "printed": 116
+        }
+      ]
+    },
+    {
+      "source": "harold-weisberg",
+      "target": "warren-commission",
+      "label": "records litigation",
+      "pages": [
+        104,
+        124
+      ],
+      "description": "According to Oglesby, Weisberg obtained previously concealed investigative records.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 104,
+          "printed": 88
+        },
+        {
+          "pdfPage": 124,
+          "printed": 108
+        }
+      ]
+    },
+    {
+      "source": "george-otoole",
+      "target": "lee-harvey-oswald",
+      "label": "voice-stress interpretation",
+      "pages": [
+        117,
+        118,
+        119
+      ],
+      "description": "According to Oglesby, O’Toole argued recordings showed truthful denials, a claim dependent on disputed methodology.",
+      "evidence": "author-reported-claim",
+      "printedPages": [
+        {
+          "pdfPage": 117,
+          "printed": 101
+        },
+        {
+          "pdfPage": 118,
+          "printed": 102
+        },
+        {
+          "pdfPage": 119,
+          "printed": 103
+        }
+      ]
+    },
+    {
+      "source": "joe-tonahill",
+      "target": "jack-ruby",
+      "label": "defense counsel",
+      "pages": [
+        132,
+        135,
+        152
+      ],
+      "description": "According to Oglesby, Tonahill represented Ruby but Ruby objected to his presence at questioning.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 132,
+          "printed": 116
+        },
+        {
+          "pdfPage": 135,
+          "printed": 119
+        },
+        {
+          "pdfPage": 152,
+          "printed": 136
+        }
+      ]
+    },
+    {
+      "source": "bell-herndon",
+      "target": "jack-ruby",
+      "label": "polygraph examination",
+      "pages": [
+        150,
+        151,
+        157,
+        159
+      ],
+      "description": "According to Oglesby, Herndon conducted and interpreted the long July 1964 test with acknowledged limitations.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 150,
+          "printed": 134
+        },
+        {
+          "pdfPage": 151,
+          "printed": 135
+        },
+        {
+          "pdfPage": 157,
+          "printed": 141
+        },
+        {
+          "pdfPage": 159,
+          "printed": 143
+        }
+      ]
+    },
+    {
+      "source": "dorothy-kilgallen",
+      "target": "jack-ruby",
+      "label": "journalism and interview",
+      "pages": [
+        161,
+        162
+      ],
+      "description": "According to Oglesby, Kilgallen obtained testimony and interviewed Ruby privately.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 161,
+          "printed": 145
+        },
+        {
+          "pdfPage": 162,
+          "printed": 146
+        }
+      ]
+    },
+    {
+      "source": "robert-kennedy",
+      "target": "teamsters",
+      "label": "investigative conflict",
+      "pages": [
+        89,
+        131
+      ],
+      "description": "According to Oglesby, Kennedy’s campaign against criminal links included the Teamsters and pension funds.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 89,
+          "printed": 73
+        },
+        {
+          "pdfPage": 131,
+          "printed": 115
+        }
+      ]
+    },
+    {
+      "source": "robert-mcnamara",
+      "target": "maxwell-taylor",
+      "label": "Vietnam policy mission",
+      "pages": [
+        84,
+        85
+      ],
+      "description": "According to Oglesby, the two went to Saigon before reporting on the prospects for withdrawal.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 84,
+          "printed": 68
+        },
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "source": "jfk",
+      "target": "ngo-dinh-diem",
+      "label": "coup-policy dispute",
+      "pages": [
+        85
+      ],
+      "description": "According to Oglesby, the author says Kennedy authorized the coup but acknowledges uncertainty about authorization of murder.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 85,
+          "printed": 69
+        }
+      ]
+    },
+    {
+      "source": "clark-clifford",
+      "target": "yankee-faction",
+      "label": "author’s faction classification",
+      "pages": [
+        179,
+        180
+      ],
+      "description": "According to Oglesby, Clifford is treated as a central figure in the faction supporting negotiations in 1968.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        },
+        {
+          "pdfPage": 180,
+          "printed": 164
+        }
+      ]
+    },
+    {
+      "source": "averell-harriman",
+      "target": "cyrus-vance",
+      "label": "Paris negotiations",
+      "pages": [
+        179
+      ],
+      "description": "According to Oglesby, the two helped establish peace talks.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 179,
+          "printed": 163
+        }
+      ]
+    },
+    {
+      "source": "hoover",
+      "target": "sds",
+      "label": "domestic counterintelligence targeting",
+      "pages": [
+        183
+      ],
+      "description": "According to Oglesby, the New Left-targeting directive applied to the political milieu in which SDS operated.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "source": "aib",
+      "target": "warren-commission",
+      "label": "criticism and reopening campaign",
+      "pages": [
+        173,
+        174
+      ],
+      "description": "According to Oglesby, the bureau advocated renewed investigation and rejected beginning with an assumption of Oswald guilt.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 173,
+          "printed": 157
+        },
+        {
+          "pdfPage": 174,
+          "printed": 158
+        }
+      ]
+    },
+    {
+      "source": "percy-foreman",
+      "target": "james-earl-ray",
+      "label": "defense representation",
+      "pages": [
+        182
+      ],
+      "description": "According to Oglesby, Foreman urged a guilty plea while participating in a book-rights arrangement; the criticism of its motive is the author’s.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 182,
+          "printed": 166
+        }
+      ]
+    },
+    {
+      "source": "percy-foreman",
+      "target": "jack-ruby",
+      "label": "former legal representation",
+      "pages": [
+        182
+      ],
+      "description": "According to Oglesby, Foreman also represented Ruby in the period discussed.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 182,
+          "printed": 166
+        }
+      ]
+    },
+    {
+      "source": "coretta-scott-king",
+      "target": "martin-luther-king",
+      "label": "marriage and investigation advocacy",
+      "pages": [
+        183
+      ],
+      "description": "According to Oglesby, King’s widow questioned the impartiality of the investigation.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "source": "james-earl-ray",
+      "target": "martin-luther-king",
+      "label": "conviction disputed by author",
+      "pages": [
+        181,
+        182,
+        183
+      ],
+      "description": "According to Oglesby, Ray pleaded guilty and later denied shooting King; Oglesby argues the case remains unresolved.",
+      "evidence": "source-reported",
+      "printedPages": [
+        {
+          "pdfPage": 181,
+          "printed": 165
+        },
+        {
+          "pdfPage": 182,
+          "printed": 166
+        },
+        {
+          "pdfPage": 183,
+          "printed": 167
+        }
+      ]
+    },
+    {
+      "source": "sirhan-sirhan",
+      "target": "robert-kennedy",
+      "label": "assassination case",
+      "pages": [
+        184
+      ],
+      "description": "According to Oglesby, Sirhan was the arrested gunman; the author argues forensic inconsistencies suggest further investigation.",
+      "evidence": "author-interpretation",
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": 168
+        }
+      ]
+    }
+  ]
+}

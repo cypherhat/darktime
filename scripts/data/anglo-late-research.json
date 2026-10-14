@@ -1,0 +1,3526 @@
+{
+  "scope": "PDF pages 184–306, chapters 10–13",
+  "attribution": "All descriptions paraphrase Carroll Quigley in The Anglo-American Establishment. Network-control assertions are author interpretations, not independently verified facts. PDF pages are exact 1-based file pages.",
+  "events": [
+    {
+      "id": "anglo-majestic-1919",
+      "title": "Hotel Majestic international-affairs meeting",
+      "date": "1919-05-30",
+      "precision": "day",
+      "pages": [
+        184,
+        185
+      ],
+      "description": "Quigley describes British and American peace-conference experts meeting to plan an institute and history of the Peace Conference; Tasker Bliss chaired at Robert Cecil’s suggestion.",
+      "people": [
+        "lionel-curtis",
+        "philip-kerr",
+        "robert-cecil",
+        "tasker-bliss"
+      ],
+      "organizations": [
+        "riia",
+        "inquiry"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": "182–183"
+        },
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        }
+      ]
+    },
+    {
+      "id": "anglo-peace-history",
+      "title": "History of the Peace Conference published",
+      "date": "1920",
+      "precision": "year",
+      "pages": [
+        185
+      ],
+      "description": "Quigley describes six volumes edited by Harold Temperley, financed initially by Thomas Lamont’s £2,000 gift, appearing from 1920 through 1924.",
+      "people": [
+        "harold-temperley",
+        "thomas-lamont"
+      ],
+      "organizations": [
+        "riia",
+        "jp-morgan"
+      ],
+      "endDate": "1924",
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        }
+      ]
+    },
+    {
+      "id": "anglo-chatham-house-gift",
+      "title": "Chatham House acquired for institute",
+      "date": "1923",
+      "precision": "year",
+      "pages": [
+        190
+      ],
+      "description": "Quigley describes Colonel R. W. Leonard buying the former Kinnaird house after Curtis interested him in the institute; an endowment commitment provoked an internal dispute.",
+      "people": [
+        "lionel-curtis",
+        "rw-leonard"
+      ],
+      "organizations": [
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 190,
+          "printed": "189"
+        }
+      ]
+    },
+    {
+      "id": "anglo-ipr-founded",
+      "title": "Pacific Relations institute organized, in author’s account",
+      "date": "1924-09",
+      "precision": "month",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes a private Pacific Basin study organization founded at Atlantic City in September 1924. This is the book’s dating, not independent verification.",
+      "people": [],
+      "organizations": [
+        "ipr"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "anglo-ipr-honolulu",
+      "title": "First listed IPR conference at Honolulu",
+      "date": "1925",
+      "precision": "year",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes the first of the listed international Pacific Relations conferences, followed by Honolulu in 1927 and Kyoto in 1929.",
+      "people": [
+        "fw-eggleston"
+      ],
+      "organizations": [
+        "ipr"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "anglo-stevenson-chair",
+      "title": "Stevenson endowment supports Survey and chair",
+      "date": "1925",
+      "precision": "year",
+      "pages": [
+        189
+      ],
+      "description": "Quigley describes Daniel Stevenson’s £20,000 endowment financing the international-affairs Survey and a London research chair held by Arnold Toynbee.",
+      "people": [
+        "daniel-stevenson",
+        "arnold-toynbee"
+      ],
+      "organizations": [
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 189,
+          "printed": "188"
+        }
+      ]
+    },
+    {
+      "id": "anglo-intellectual-institute",
+      "title": "Intellectual Cooperation institute transferred to League",
+      "date": "1926",
+      "precision": "year",
+      "pages": [
+        194
+      ],
+      "description": "Quigley describes the French government establishing the institute and handing it to the League; Alfred Zimmern served as deputy director from 1926 to 1930.",
+      "people": [
+        "alfred-zimmern",
+        "gilbert-murray"
+      ],
+      "organizations": [
+        "iiic",
+        "league-of-nations"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "anglo-international-affairs-public",
+      "title": "Institute journal opens to public subscription",
+      "date": "1927-01",
+      "precision": "month",
+      "pages": [
+        188
+      ],
+      "description": "Quigley describes the journal becoming available to public subscribers rather than members alone; it later took the name International Affairs.",
+      "people": [
+        "gathorne-hardy"
+      ],
+      "organizations": [
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        }
+      ]
+    },
+    {
+      "id": "anglo-dominion-institutes",
+      "title": "Canadian and Australian institutes formed",
+      "date": "1927",
+      "precision": "year",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes the earliest Dominion international-affairs institutes being created around local Round Table circles.",
+      "people": [
+        "robert-borden",
+        "fw-eggleston"
+      ],
+      "organizations": [
+        "canadian-iia",
+        "australian-iia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "anglo-pacific-council",
+      "title": "Pacific Council organized",
+      "date": "1927",
+      "precision": "year",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes a continuing central council formed between IPR meetings.",
+      "people": [],
+      "organizations": [
+        "ipr-pacific-council",
+        "ipr"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "anglo-bailey-endowment",
+      "title": "Abe Bailey promises perpetual annual funding",
+      "date": "1928",
+      "precision": "year",
+      "pages": [
+        191
+      ],
+      "description": "Quigley describes Bailey pledging £5,000 annually to the institute, conditioned on its membership being limited to British subjects.",
+      "people": [
+        "abe-bailey"
+      ],
+      "organizations": [
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        }
+      ]
+    },
+    {
+      "id": "anglo-berlin-studies",
+      "title": "International Studies Conferences begin in Berlin",
+      "date": "1928",
+      "precision": "year",
+      "pages": [
+        194
+      ],
+      "description": "Quigley describes Zimmern initiating annual international round-table meetings under the intellectual-cooperation institute.",
+      "people": [
+        "alfred-zimmern"
+      ],
+      "organizations": [
+        "international-studies-conferences",
+        "iiic"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "anglo-riia-information",
+      "title": "RIIA acquires Wheeler-Bennett information services",
+      "date": "1930",
+      "precision": "year",
+      "pages": [
+        188
+      ],
+      "description": "Quigley describes the institute paying £3,500 for John Wheeler-Bennett’s information services and making them its Information Department.",
+      "people": [
+        "john-wheeler-bennett"
+      ],
+      "organizations": [
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        }
+      ]
+    },
+    {
+      "id": "anglo-rockefeller-grant",
+      "title": "Rockefeller funds RIIA study groups",
+      "date": "1932",
+      "precision": "year",
+      "pages": [
+        190
+      ],
+      "description": "Quigley describes a grant of £8,000 a year for five years to develop study-group research, renewed for another five years in 1937.",
+      "people": [],
+      "organizations": [
+        "rockefeller-foundation",
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 190,
+          "printed": "189"
+        }
+      ]
+    },
+    {
+      "id": "anglo-toronto-conference",
+      "title": "Toronto Commonwealth relations conference",
+      "date": "1933",
+      "precision": "year",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes the first unofficial conference deciding to extend institutes to New Zealand, South Africa, India, and Newfoundland.",
+      "people": [
+        "alfred-zimmern"
+      ],
+      "organizations": [
+        "riia",
+        "new-zealand-iia",
+        "south-african-iia",
+        "indian-iia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "anglo-collective-security",
+      "title": "Chatham House collective-security conference",
+      "date": "1935",
+      "precision": "year",
+      "pages": [
+        195,
+        196
+      ],
+      "description": "Quigley describes 39 delegates from 14 countries assembling to discuss collective security; Meston presided and Allen Dulles chaired study meetings.",
+      "people": [
+        "james-meston",
+        "allen-dulles",
+        "arnold-toynbee"
+      ],
+      "organizations": [
+        "international-studies-conferences",
+        "riia",
+        "cfr"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 195,
+          "printed": "195"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "anglo-indian-institute",
+      "title": "Indian Institute of International Affairs established",
+      "date": "1936",
+      "precision": "year",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes the Indian institute being established at a meeting convened at the Viceroy’s house by Willingdon.",
+      "people": [
+        "willingdon",
+        "maurice-gwyer"
+      ],
+      "organizations": [
+        "indian-iia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "anglo-curtis-macadam-tour",
+      "title": "Curtis and Macadam visit international institutes",
+      "date": "1938",
+      "precision": "year",
+      "pages": [
+        193,
+        194
+      ],
+      "description": "Quigley describes Curtis and Macadam touring Australia, New Zealand and Canada and attending the Princeton Pacific Council meeting before separate American institutional visits.",
+      "people": [
+        "lionel-curtis",
+        "ivison-macadam"
+      ],
+      "organizations": [
+        "riia",
+        "ipr-pacific-council",
+        "cfr"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        },
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "anglo-riia-refugees",
+      "title": "RIIA refugee study published",
+      "date": "1939",
+      "precision": "year",
+      "pages": [
+        196
+      ],
+      "description": "Quigley describes a refugee research program begun in 1937 producing a report edited by John Hope Simpson, whom Quigley explicitly distinguishes from the Group.",
+      "people": [
+        "john-hope-simpson",
+        "neill-malcolm"
+      ],
+      "organizations": [
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "anglo-frps-established",
+      "title": "Foreign Research and Press Service formed",
+      "date": "1939",
+      "precision": "year",
+      "pages": [
+        196,
+        197
+      ],
+      "description": "Quigley describes Chatham House research resources moving to Oxford after war began, supporting government departments under Toynbee and Curtis.",
+      "people": [
+        "arnold-toynbee",
+        "lionel-curtis"
+      ],
+      "organizations": [
+        "frps",
+        "riia",
+        "foreign-office",
+        "all-souls"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        },
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "id": "anglo-frps-takeover",
+      "title": "Foreign Office takes over FRPS",
+      "date": "1943-04",
+      "precision": "month",
+      "pages": [
+        197
+      ],
+      "description": "Quigley describes FRPS merging with the Political Intelligence Department to form a Research Department, directed by Toynbee with Zimmern as deputy.",
+      "people": [
+        "anthony-eden",
+        "arnold-toynbee",
+        "alfred-zimmern"
+      ],
+      "organizations": [
+        "frps",
+        "foreign-office-research",
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "id": "anglo-indian-dyarchy-study",
+      "title": "Curtis forms India constitutional study group",
+      "date": "1911",
+      "precision": "year",
+      "pages": [
+        203,
+        204
+      ],
+      "description": "Quigley describes Curtis forming an unofficial London Round Table study circle on introducing responsible government to India; exact original membership is explicitly uncertain.",
+      "people": [
+        "lionel-curtis",
+        "philip-kerr",
+        "hal-fisher"
+      ],
+      "organizations": [
+        "round-table",
+        "india-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "anglo-montagu-declaration",
+      "title": "Montagu announces responsible-government policy",
+      "date": "1917-08",
+      "precision": "month",
+      "pages": [
+        203,
+        204
+      ],
+      "description": "Quigley describes Montagu announcing gradual development of responsible government in India, followed by the Montagu–Chelmsford Report.",
+      "people": [
+        "edwin-montagu",
+        "chelmsford"
+      ],
+      "organizations": [
+        "india-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "anglo-india-act-1919",
+      "title": "Government of India Act introduces dyarchy",
+      "date": "1919",
+      "precision": "year",
+      "pages": [
+        203,
+        204
+      ],
+      "description": "Quigley describes constitutional reform developed from the Montagu–Chelmsford proposals and amended by Selborne’s committee; Quigley stresses an unofficial Curtis circle in its intellectual background.",
+      "people": [
+        "edwin-montagu",
+        "chelmsford",
+        "lionel-curtis",
+        "selborne"
+      ],
+      "organizations": [
+        "india-office",
+        "round-table"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "anglo-irwin-declaration",
+      "title": "Irwin announces Dominion-status goal and conference",
+      "date": "1929-10-31",
+      "precision": "day",
+      "pages": [
+        216,
+        217
+      ],
+      "description": "Quigley describes the Viceroy announcing a Dominion-status goal and a Round Table Conference, provoking opposition in Britain.",
+      "people": [
+        "edward-wood"
+      ],
+      "organizations": [
+        "india-office",
+        "indian-round-table-conferences"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 216,
+          "printed": "217"
+        },
+        {
+          "pdfPage": 217,
+          "printed": "218"
+        }
+      ]
+    },
+    {
+      "id": "anglo-india-roundtable-first",
+      "title": "First Indian Round Table Conference",
+      "date": "1930-11",
+      "precision": "month",
+      "pages": [
+        201,
+        217,
+        218
+      ],
+      "description": "Quigley describes delegations from Britain, British India and the Indian States considering federation; Gandhi’s party did not participate.",
+      "people": [
+        "samuel-hoare",
+        "philip-kerr",
+        "rushbrook-williams",
+        "mohandas-gandhi"
+      ],
+      "organizations": [
+        "indian-round-table-conferences",
+        "indian-national-congress"
+      ],
+      "endDate": "1931-01",
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 217,
+          "printed": "218"
+        },
+        {
+          "pdfPage": 218,
+          "printed": "219"
+        }
+      ]
+    },
+    {
+      "id": "anglo-india-roundtable-second",
+      "title": "Second Indian Round Table Conference",
+      "date": "1931-09",
+      "precision": "month",
+      "pages": [
+        201
+      ],
+      "description": "Quigley describes a second conference with broadly similar delegations and additional members; Rushbrook Williams represented Nawanagar.",
+      "people": [
+        "rushbrook-williams",
+        "samuel-hoare",
+        "philip-kerr"
+      ],
+      "organizations": [
+        "indian-round-table-conferences"
+      ],
+      "endDate": "1931-12",
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        }
+      ]
+    },
+    {
+      "id": "anglo-india-roundtable-third",
+      "title": "Third Indian Round Table Conference",
+      "date": "1932-11",
+      "precision": "month",
+      "pages": [
+        201
+      ],
+      "description": "Quigley describes the third session without Labour representatives and with Hoare, Simon, Lothian and Halifax among the British delegates.",
+      "people": [
+        "samuel-hoare",
+        "john-simon",
+        "philip-kerr",
+        "edward-wood"
+      ],
+      "organizations": [
+        "indian-round-table-conferences"
+      ],
+      "endDate": "1932-12",
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        }
+      ]
+    },
+    {
+      "id": "anglo-india-bill-1935",
+      "title": "Hoare introduces Government of India Bill",
+      "date": "1935-02-06",
+      "precision": "day",
+      "pages": [
+        221
+      ],
+      "description": "Quigley describes Hoare introducing the bill in the Commons, with Churchill leading strong opposition.",
+      "people": [
+        "samuel-hoare",
+        "winston-churchill",
+        "malcolm-hailey"
+      ],
+      "organizations": [
+        "india-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 221,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "anglo-halifax-hitler",
+      "title": "Halifax meets Hitler at Berchtesgaden",
+      "date": "1937-11-19",
+      "precision": "day",
+      "pages": [
+        272,
+        273
+      ],
+      "description": "Quigley describes Halifax’s conversation with Hitler concerning European changes and a possible four-power understanding; Quigley analyzes the German memorandum and differing interpretations.",
+      "people": [
+        "edward-wood",
+        "adolf-hitler",
+        "neville-chamberlain"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 273,
+          "printed": "276"
+        }
+      ]
+    },
+    {
+      "id": "anglo-eden-replaced",
+      "title": "Halifax replaces Eden as Foreign Secretary",
+      "date": "1938-02",
+      "precision": "month",
+      "pages": [
+        271
+      ],
+      "description": "Quigley describes Halifax replacing Eden after disagreements over recognition of Italy’s conquest of Ethiopia.",
+      "people": [
+        "edward-wood",
+        "anthony-eden"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 271,
+          "printed": "274–275"
+        }
+      ]
+    },
+    {
+      "id": "anglo-lothian-ambassador",
+      "title": "Lothian becomes ambassador to United States",
+      "date": "1939",
+      "precision": "year",
+      "pages": [
+        300
+      ],
+      "description": "Quigley describes Lothian’s appointment as ambassador and the importance Quigley assigns to his American and Rhodes Scholarship connections.",
+      "people": [
+        "philip-kerr"
+      ],
+      "organizations": [
+        "british-embassy-washington",
+        "rhodes-trust"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        }
+      ]
+    },
+    {
+      "id": "anglo-lothian-death",
+      "title": "Lothian dies; Halifax chosen for Washington",
+      "date": "1940-12",
+      "precision": "month",
+      "pages": [
+        300,
+        301
+      ],
+      "description": "Quigley describes Lothian’s death leading to Halifax moving from the Foreign Office to the Washington ambassadorship while retaining War Cabinet status.",
+      "people": [
+        "philip-kerr",
+        "edward-wood"
+      ],
+      "organizations": [
+        "british-embassy-washington",
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        },
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "anglo-brand-america",
+      "title": "Brand begins wartime American service",
+      "date": "1941-03",
+      "precision": "month",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes Brand working in America through May 1946, first heading the British Food Mission and later representing the Treasury.",
+      "people": [
+        "robert-brand",
+        "adam-marris"
+      ],
+      "organizations": [
+        "british-food-mission",
+        "british-treasury",
+        "british-embassy-washington"
+      ],
+      "endDate": "1946-05",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "anglo-berlin-washington",
+      "title": "Isaiah Berlin joins Washington embassy",
+      "date": "1942",
+      "precision": "year",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes Berlin becoming First Secretary after working with Wheeler-Bennett in the Ministry of Information’s New York branch.",
+      "people": [
+        "isaiah-berlin",
+        "john-wheeler-bennett",
+        "adam-marris"
+      ],
+      "organizations": [
+        "british-embassy-washington",
+        "ministry-of-information"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "anglo-agenda-reconstruction",
+      "title": "Agenda journal founded for reconstruction",
+      "date": "1942",
+      "precision": "year",
+      "pages": [
+        305
+      ],
+      "description": "Quigley describes a quarterly reconstruction journal established at the end of 1942 under LSE auspices, edited by G. N. Clark with offices at Chatham House.",
+      "people": [
+        "gn-clark"
+      ],
+      "organizations": [
+        "agenda",
+        "lse",
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "anglo-salter-unrra",
+      "title": "Arthur Salter moves from shipping mission to UNRRA",
+      "date": "1944",
+      "precision": "year",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes Salter joining UNRRA as Senior Deputy Director General when the organization was established in the author’s account.",
+      "people": [
+        "arthur-salter"
+      ],
+      "organizations": [
+        "british-shipping-mission",
+        "unrra"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "anglo-labour-victory",
+      "title": "Labour victory alters postwar network influence",
+      "date": "1945",
+      "precision": "year",
+      "pages": [
+        305,
+        306
+      ],
+      "description": "Quigley describes the Labour government’s arrival disrupting the Group’s reconstruction influence; Quigley’s month is inconsistent with standard election chronology, so the event retains year precision.",
+      "people": [
+        "clement-attlee",
+        "douglas-jay"
+      ],
+      "organizations": [
+        "labour-party",
+        "riia"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "anglo-geneva-protocol-rejected",
+      "title": "Britain rejects Geneva Protocol",
+      "date": "1925-03",
+      "precision": "month",
+      "pages": [
+        260,
+        261
+      ],
+      "description": "Quigley describes Austen Chamberlain rejecting the protocol at the League Council, while Dove, Curtis, Kerr and Wilson Harris visited Geneva; Quigley treats rejection as a setback to collective security.",
+      "people": [
+        "austen-chamberlain",
+        "lionel-curtis",
+        "philip-kerr",
+        "john-dove"
+      ],
+      "organizations": [
+        "league-of-nations",
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 260,
+          "printed": "263"
+        },
+        {
+          "pdfPage": 261,
+          "printed": "264"
+        }
+      ]
+    },
+    {
+      "id": "anglo-locarno",
+      "title": "Locarno agreements reshape European guarantees",
+      "date": "1925",
+      "precision": "year",
+      "pages": [
+        261,
+        262
+      ],
+      "description": "Quigley describes the guarantees involving Germany, France, Belgium, Britain and Italy; he argues their legal structure weakened French support for eastern allies. The critical assessment is the author’s interpretation.",
+      "people": [
+        "austen-chamberlain",
+        "cecil-hurst",
+        "robert-cecil"
+      ],
+      "organizations": [
+        "foreign-office",
+        "league-of-nations"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 261,
+          "printed": "264"
+        },
+        {
+          "pdfPage": 262,
+          "printed": "265"
+        }
+      ]
+    },
+    {
+      "id": "anglo-naval-agreement",
+      "title": "Anglo-German Naval Agreement",
+      "date": "1935-06-18",
+      "precision": "day",
+      "pages": [
+        267
+      ],
+      "description": "Quigley describes Britain accepting a German navy up to 35 percent of British fleet size and up to parity in submarines; he condemns the effect on French strategic security.",
+      "people": [
+        "john-simon",
+        "adolf-hitler"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 267,
+          "printed": "270"
+        }
+      ]
+    },
+    {
+      "id": "anglo-rhineland",
+      "title": "Germany remilitarizes Rhineland",
+      "date": "1936-03",
+      "precision": "month",
+      "pages": [
+        262,
+        267,
+        271
+      ],
+      "description": "Quigley describes German remilitarization and Britain’s response, which he regards as a crucial appeasement turning point; Halifax accompanied Eden to the ensuing Paris discussions.",
+      "people": [
+        "adolf-hitler",
+        "edward-wood",
+        "anthony-eden"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 262,
+          "printed": "265"
+        },
+        {
+          "pdfPage": 267,
+          "printed": "270"
+        },
+        {
+          "pdfPage": 271,
+          "printed": "274–275"
+        }
+      ]
+    },
+    {
+      "id": "anglo-munich-crisis",
+      "title": "Munich crisis and Czechoslovak settlement",
+      "date": "1938-09",
+      "precision": "month",
+      "pages": [
+        282,
+        283
+      ],
+      "description": "Quigley describes Chamberlain’s September negotiations with Hitler and the settlement yielding Czechoslovak territory; he interprets British crisis publicity and diplomatic pressure as deliberate efforts to secure acquiescence.",
+      "people": [
+        "neville-chamberlain",
+        "adolf-hitler",
+        "edward-wood",
+        "robert-stopford"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 283,
+          "printed": "286"
+        }
+      ]
+    },
+    {
+      "id": "anglo-bohemia-moravia",
+      "title": "German occupation of Bohemia and Moravia",
+      "date": "1939-03",
+      "precision": "month",
+      "pages": [
+        289,
+        290,
+        293
+      ],
+      "description": "Quigley describes the occupation prompting a turn in the Group’s publicly expressed policy toward a grand alliance, which he contrasts with continued private appeasement by Chamberlain’s circle.",
+      "people": [
+        "adolf-hitler",
+        "neville-chamberlain",
+        "philip-kerr"
+      ],
+      "organizations": [
+        "round-table",
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 289,
+          "printed": "293"
+        },
+        {
+          "pdfPage": 293,
+          "printed": "297"
+        }
+      ]
+    },
+    {
+      "id": "anglo-polish-guarantee",
+      "title": "Britain guarantees Polish independence",
+      "date": "1939-03-31",
+      "precision": "day",
+      "pages": [
+        293
+      ],
+      "description": "Quigley describes Chamberlain’s unilateral guarantee, noting the distinction between independence and territorial integrity and criticizing the absence of immediate military implementation.",
+      "people": [
+        "neville-chamberlain"
+      ],
+      "organizations": [
+        "foreign-office"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 293,
+          "printed": "297"
+        }
+      ]
+    },
+    {
+      "id": "anglo-national-service",
+      "title": "National Service Act follows conscription campaign",
+      "date": "1939-04-26",
+      "precision": "day",
+      "pages": [
+        292
+      ],
+      "description": "Quigley describes the legislation resulting from a preparedness campaign associated with Amery, Grigg, Lothian and The Times.",
+      "people": [
+        "leopold-amery",
+        "edward-grigg",
+        "philip-kerr"
+      ],
+      "organizations": [
+        "the-times"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 292,
+          "printed": "296"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "riia",
+      "name": "Royal Institute of International Affairs (Chatham House)",
+      "pages": [
+        184,
+        185,
+        187,
+        190
+      ],
+      "description": "Quigley describes an international-affairs discussion, study and publication institute; he attributes decisive founding initiative and influence to Curtis and the Milner circle.",
+      "founders": [
+        "lionel-curtis",
+        "robert-cecil"
+      ],
+      "members": [
+        "james-meston",
+        "neill-malcolm",
+        "waldorf-astor",
+        "gathorne-hardy",
+        "arnold-toynbee"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": "182–183"
+        },
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        },
+        {
+          "pdfPage": 190,
+          "printed": "189"
+        }
+      ]
+    },
+    {
+      "id": "ipr",
+      "name": "Institute of Pacific Relations",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes a private organization studying Pacific Basin affairs through national units, conferences and a Pacific Council.",
+      "founders": [],
+      "members": [
+        "jerome-greene",
+        "fw-eggleston",
+        "lionel-curtis"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "ipr-pacific-council",
+      "name": "Pacific Council of the IPR",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes the continuing self-perpetuating central IPR body established in 1927.",
+      "founders": [],
+      "members": [
+        "jerome-greene",
+        "fw-eggleston",
+        "nw-rowell",
+        "lionel-curtis",
+        "james-allen",
+        "inazo-nitobe",
+        "dzt-yui"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "canadian-iia",
+      "name": "Canadian Institute of International Affairs",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes a Dominion institute founded in 1927 around Round Table participants.",
+      "founders": [],
+      "members": [
+        "robert-borden",
+        "nw-rowell",
+        "vincent-massey",
+        "percy-corbett"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "australian-iia",
+      "name": "Australian Institute of International Affairs",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes a Dominion institute with Eggleston among its founders and Thomas Bavin as president in 1934–1941.",
+      "founders": [
+        "fw-eggleston"
+      ],
+      "members": [
+        "thomas-bavin"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-iia",
+      "name": "New Zealand Institute of International Affairs",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes a Dominion institute headed by Downie Stewart from 1935 onward.",
+      "founders": [],
+      "members": [
+        "downie-stewart"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "south-african-iia",
+      "name": "South African Institute of International Affairs",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes a Dominion institute in which B. K. Long was an important participant.",
+      "founders": [],
+      "members": [
+        "bk-long"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "indian-iia",
+      "name": "Indian Institute of International Affairs",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes an institute set up in 1936 at Willingdon’s convened meeting.",
+      "founders": [
+        "willingdon"
+      ],
+      "members": [
+        "maurice-gwyer"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "cfr",
+      "name": "Council on Foreign Relations",
+      "pages": [
+        191,
+        192,
+        196
+      ],
+      "description": "Quigley describes a New York international-affairs organization closely related to Chatham House; his account attributes influence to Morgan-connected American experts.",
+      "founders": [],
+      "members": [
+        "allen-dulles"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        },
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "iiic",
+      "name": "International Institute of Intellectual Cooperation",
+      "pages": [
+        194
+      ],
+      "description": "Quigley describes a Paris executive institute handed to the League by France in 1926.",
+      "founders": [
+        "french-government"
+      ],
+      "members": [
+        "alfred-zimmern",
+        "gilbert-murray"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "icic",
+      "name": "International Committee on Intellectual Cooperation",
+      "pages": [
+        194
+      ],
+      "description": "Quigley describes an international advisory committee connected to the League, chaired by Murray from 1928 to 1945.",
+      "founders": [
+        "gilbert-murray"
+      ],
+      "members": [
+        "sarvepalli-radhakrishnan"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "international-studies-conferences",
+      "name": "International Studies Conferences",
+      "pages": [
+        194,
+        195,
+        196
+      ],
+      "description": "Quigley describes a network of national coordinating committees and international organizations assembling for thematic discussion.",
+      "founders": [
+        "alfred-zimmern"
+      ],
+      "members": [
+        "james-meston",
+        "allen-dulles",
+        "arnold-toynbee"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        },
+        {
+          "pdfPage": 195,
+          "printed": "195"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "rockefeller-foundation",
+      "name": "Rockefeller Foundation",
+      "pages": [
+        190
+      ],
+      "description": "Quigley describes a philanthropic foundation granting money to RIIA study groups; Greene was trustee and secretary in 1913–1917.",
+      "founders": [],
+      "members": [
+        "jerome-greene"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 190,
+          "printed": "189"
+        }
+      ]
+    },
+    {
+      "id": "frps",
+      "name": "Foreign Research and Press Service",
+      "pages": [
+        197
+      ],
+      "description": "Quigley describes a wartime Oxford research service answering government questions, reviewing foreign press and preparing studies.",
+      "founders": [],
+      "members": [
+        "arnold-toynbee",
+        "lionel-curtis",
+        "gn-clark",
+        "alfred-zimmern"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "id": "foreign-office-research",
+      "name": "Foreign Office Research Department",
+      "pages": [
+        197,
+        300
+      ],
+      "description": "Quigley describes the government research department resulting from the April 1943 FRPS merger.",
+      "founders": [],
+      "members": [
+        "arnold-toynbee",
+        "alfred-zimmern",
+        "john-wheeler-bennett"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        }
+      ]
+    },
+    {
+      "id": "indian-round-table-conferences",
+      "name": "Indian Round Table Conferences",
+      "pages": [
+        201,
+        217,
+        218
+      ],
+      "description": "Quigley describes three constitutional reform conferences bringing British, British Indian and princely-state delegates together.",
+      "founders": [],
+      "members": [
+        "samuel-hoare",
+        "john-simon",
+        "philip-kerr",
+        "edward-wood",
+        "rushbrook-williams"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 217,
+          "printed": "218"
+        },
+        {
+          "pdfPage": 218,
+          "printed": "219"
+        }
+      ]
+    },
+    {
+      "id": "india-office",
+      "name": "India Office",
+      "pages": [
+        199,
+        203,
+        204
+      ],
+      "description": "Quigley describes the British department overseeing Indian affairs and constitutional reform.",
+      "founders": [],
+      "members": [
+        "edwin-montagu",
+        "samuel-hoare",
+        "leopold-amery",
+        "william-duke",
+        "malcolm-seton"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "british-embassy-washington",
+      "name": "British Embassy in Washington",
+      "pages": [
+        300,
+        301,
+        302
+      ],
+      "description": "Quigley describes a wartime diplomatic center for British-American relations, staffed by numerous people Quigley connects to All Souls and the Milner circle.",
+      "founders": [],
+      "members": [
+        "philip-kerr",
+        "edward-wood",
+        "isaiah-berlin",
+        "adam-marris",
+        "john-foster",
+        "roger-makins",
+        "robert-stopford"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        },
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "british-food-mission",
+      "name": "British Food Mission",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes a British wartime mission in America headed for three years by Brand.",
+      "founders": [],
+      "members": [
+        "robert-brand"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "british-shipping-mission",
+      "name": "British Merchant Shipping Mission",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes a wartime American mission headed by Salter from 1941 until his move to UNRRA.",
+      "founders": [],
+      "members": [
+        "arthur-salter"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "unrra",
+      "name": "United Nations Relief and Rehabilitation Administration",
+      "pages": [
+        301,
+        302
+      ],
+      "description": "Quigley describes an international relief organization employing Salter as a senior deputy director general.",
+      "founders": [],
+      "members": [
+        "arthur-salter",
+        "roger-makins"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "ministry-of-information",
+      "name": "Ministry of Information",
+      "pages": [
+        303,
+        304
+      ],
+      "description": "Quigley describes a British wartime information ministry whose personnel Quigley associates with his network.",
+      "founders": [],
+      "members": [
+        "cyril-radcliffe",
+        "hv-hodson",
+        "john-wheeler-bennett",
+        "isaiah-berlin",
+        "edward-grigg",
+        "rushbrook-williams"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        },
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        }
+      ]
+    },
+    {
+      "id": "ministry-of-production",
+      "name": "Ministry of Production",
+      "pages": [
+        304,
+        305
+      ],
+      "description": "Quigley describes a British wartime economic mobilization ministry headed by Oliver Lyttelton in 1942–1945.",
+      "founders": [],
+      "members": [
+        "oliver-lyttelton",
+        "hv-hodson"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "ministry-of-economic-warfare",
+      "name": "Ministry of Economic Warfare",
+      "pages": [
+        304,
+        305
+      ],
+      "description": "Quigley describes an economic warfare ministry headed by Selborne in 1942–1945.",
+      "founders": [],
+      "members": [
+        "selborne-third",
+        "charles-harris",
+        "adam-marris"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "name": "Agenda",
+      "pages": [
+        197,
+        305
+      ],
+      "description": "Quigley describes a quarterly journal on postwar reconstruction with editorial offices at Chatham House.",
+      "founders": [],
+      "members": [
+        "gn-clark"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "gathorne-hardy",
+      "name": "G. M. Gathorne-Hardy",
+      "pages": [
+        185,
+        186,
+        188
+      ],
+      "description": "Quigley describes an honorary secretary of RIIA and its first journal editor.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        },
+        {
+          "pdfPage": 186,
+          "printed": "185"
+        },
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        }
+      ]
+    },
+    {
+      "id": "arnold-toynbee",
+      "name": "Arnold J. Toynbee",
+      "pages": [
+        189,
+        197,
+        300
+      ],
+      "description": "Quigley describes the Survey editor and international-history professor who directed FRPS and the Foreign Office research organization.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 189,
+          "printed": "188"
+        },
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        }
+      ]
+    },
+    {
+      "id": "neill-malcolm",
+      "name": "Sir Neill Malcolm",
+      "pages": [
+        185,
+        186,
+        196
+      ],
+      "description": "Quigley describes RIIA council chairman in 1926–1935 and High Commissioner for German Refugees in 1936–1938.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        },
+        {
+          "pdfPage": 186,
+          "printed": "185"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "jerome-greene",
+      "name": "Jerome D. Greene",
+      "pages": [
+        190,
+        193
+      ],
+      "description": "Quigley describes a banker and foundation trustee who chaired the Pacific Council in 1929–1932.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 190,
+          "printed": "189"
+        },
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "fw-eggleston",
+      "name": "Frederic W. Eggleston",
+      "pages": [
+        192,
+        193,
+        302
+      ],
+      "description": "Quigley describes an Australian institute founder, IPR conference leader and Australian minister in Washington in 1944–1946.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        },
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "ivison-macadam",
+      "name": "Ivison S. Macadam",
+      "pages": [
+        193,
+        194
+      ],
+      "description": "Quigley describes Chatham House secretary from 1929 who traveled with Curtis to overseas institutes in 1938.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        },
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "james-meston",
+      "name": "James Meston, Lord Meston",
+      "pages": [
+        185,
+        188,
+        196,
+        304
+      ],
+      "description": "Quigley describes RIIA chairman in 1920–1926, a conference president, and a director involved in cement firms.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        },
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        },
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        }
+      ]
+    },
+    {
+      "id": "waldorf-astor",
+      "name": "Waldorf Astor, Lord Astor",
+      "pages": [
+        185,
+        191,
+        197
+      ],
+      "description": "Quigley describes RIIA chairman from 1935 and a significant wartime benefactor.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        },
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        },
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "id": "john-wheeler-bennett",
+      "name": "John W. Wheeler-Bennett",
+      "pages": [
+        188,
+        189,
+        300,
+        303
+      ],
+      "description": "Quigley describes an information-services founder, RIIA officer and British information worker in wartime New York.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        },
+        {
+          "pdfPage": 189,
+          "printed": "188"
+        },
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "alfred-zimmern",
+      "name": "Sir Alfred Zimmern",
+      "pages": [
+        194,
+        197,
+        300
+      ],
+      "description": "Quigley describes an intellectual-cooperation administrator, conference organizer and Foreign Office research deputy.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        },
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        }
+      ]
+    },
+    {
+      "id": "gilbert-murray",
+      "name": "Gilbert Murray",
+      "pages": [
+        194,
+        196
+      ],
+      "description": "Quigley describes a founder and chairman of the League’s intellectual-cooperation committee.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "sarvepalli-radhakrishnan",
+      "name": "Sarvepalli Radhakrishnan",
+      "pages": [
+        194
+      ],
+      "description": "Quigley describes the Indian representative on the intellectual-cooperation committee in 1931–1939 and an Oxford professor and All Souls fellow.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "id": "edwin-montagu",
+      "name": "Edwin S. Montagu",
+      "pages": [
+        199,
+        203
+      ],
+      "description": "Quigley describes Secretary of State for India in 1917–1922 and co-author with Chelmsford of constitutional reform proposals.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        }
+      ]
+    },
+    {
+      "id": "chelmsford",
+      "name": "Lord Chelmsford",
+      "pages": [
+        199,
+        203,
+        204
+      ],
+      "description": "Quigley describes Viceroy in 1916–1921 and collaborator in the Montagu–Chelmsford reforms.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "samuel-hoare",
+      "name": "Sir Samuel Hoare",
+      "pages": [
+        199,
+        201,
+        219,
+        221
+      ],
+      "description": "Quigley describes Secretary of State for India in 1931–1935 and principal parliamentary advocate of the Government of India Act.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 219,
+          "printed": "220"
+        },
+        {
+          "pdfPage": 221,
+          "printed": "222"
+        }
+      ]
+    },
+    {
+      "id": "malcolm-hailey",
+      "name": "Malcolm Hailey, Lord Hailey",
+      "pages": [
+        200,
+        219
+      ],
+      "description": "Quigley describes an Indian administrator and Hoare’s key adviser while the constitutional bill proceeded.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 219,
+          "printed": "220"
+        }
+      ]
+    },
+    {
+      "id": "rushbrook-williams",
+      "name": "L. F. Rushbrook Williams",
+      "pages": [
+        201,
+        303
+      ],
+      "description": "Quigley describes an adviser and delegate for Indian princes, later a BBC Eastern Service director and Times editor.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "john-simon",
+      "name": "Sir John Simon",
+      "pages": [
+        200,
+        201
+      ],
+      "description": "Quigley describes chair of the Indian Statutory Commission and participant in constitutional reform conferences.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        }
+      ]
+    },
+    {
+      "id": "willingdon",
+      "name": "Lord Willingdon",
+      "pages": [
+        199,
+        192
+      ],
+      "description": "Quigley describes Viceroy in 1931–1936 who convened the founding meeting of the Indian international-affairs institute.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "edward-wood",
+      "name": "Edward Wood, Lord Halifax",
+      "pages": [
+        199,
+        271,
+        272,
+        300,
+        301
+      ],
+      "description": "Quigley describes Viceroy as Lord Irwin, later Foreign Secretary and wartime ambassador in Washington.",
+      "aliases": [
+        "Lord Irwin",
+        "Lord Halifax"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 271,
+          "printed": "274–275"
+        },
+        {
+          "pdfPage": 300,
+          "printed": "303–304"
+        },
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "adam-marris",
+      "name": "Adam D. Marris",
+      "pages": [
+        301,
+        305
+      ],
+      "description": "Quigley describes Brand’s protégé, Lazard employee and wartime British diplomat in Washington.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "isaiah-berlin",
+      "name": "Isaiah Berlin",
+      "pages": [
+        301,
+        303
+      ],
+      "description": "Quigley describes an All Souls fellow who worked in British information services in New York before joining the Washington embassy.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "arthur-salter",
+      "name": "Sir Arthur Salter",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes head of the British Merchant Shipping Mission and later a senior UNRRA official.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "roger-makins",
+      "name": "Roger Mellor Makins",
+      "pages": [
+        196,
+        302
+      ],
+      "description": "Quigley describes a diplomat involved in refugee bodies, wartime Mediterranean administration and the Washington embassy.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "hv-hodson",
+      "name": "H. V. Hodson",
+      "pages": [
+        188,
+        303,
+        305
+      ],
+      "description": "Quigley describes an RIIA economic writer and wartime official in information, Indian reform and production.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "cyril-radcliffe",
+      "name": "Cyril John Radcliffe",
+      "pages": [
+        303,
+        304
+      ],
+      "description": "Quigley describes an All Souls fellow and wartime Director General of the Ministry of Information.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        },
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        }
+      ]
+    },
+    {
+      "id": "gn-clark",
+      "name": "G. N. Clark",
+      "pages": [
+        197,
+        305
+      ],
+      "description": "Quigley describes a historian and Agenda editor whom Quigley calls close to the Group but not a member.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "douglas-jay",
+      "name": "Douglas P. T. Jay",
+      "pages": [
+        305
+      ],
+      "description": "Quigley describes an All Souls fellow and wartime economic administrator who became Attlee’s assistant and a Labour MP.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "percy-corbett",
+      "name": "Percy E. Corbett",
+      "pages": [
+        192,
+        303
+      ],
+      "description": "Quigley describes a Canadian academic, Pacific Council chairman in 1942 and wartime British Embassy lobbying participant.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "tasker-bliss",
+      "name": "General Tasker Bliss",
+      "pages": [
+        184
+      ],
+      "description": "Quigley describes the American delegate who chaired the Hotel Majestic meeting on 30 May 1919 at Robert Cecil’s suggestion.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": "182–183"
+        }
+      ]
+    },
+    {
+      "id": "harold-temperley",
+      "name": "Harold Temperley",
+      "pages": [
+        185
+      ],
+      "description": "Quigley describes a British participant at Hotel Majestic selected to edit the six-volume History of the Peace Conference.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        }
+      ]
+    },
+    {
+      "id": "thomas-lamont",
+      "name": "Thomas W. Lamont",
+      "pages": [
+        185
+      ],
+      "description": "Quigley describes a J. P. Morgan associate whose £2,000 gift financed the committee preparing a history of the Peace Conference.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        }
+      ]
+    },
+    {
+      "id": "rw-leonard",
+      "name": "Colonel R. W. Leonard",
+      "pages": [
+        190
+      ],
+      "description": "Quigley describes a Canadian donor who bought the house at 10 St James Square for the institute in 1923, conditional on an upkeep endowment.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 190,
+          "printed": "189"
+        }
+      ]
+    },
+    {
+      "id": "daniel-stevenson",
+      "name": "Sir Daniel Stevenson",
+      "pages": [
+        189
+      ],
+      "description": "Quigley describes the donor of the 1925 endowment financing the Survey and London research chair.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 189,
+          "printed": "188"
+        }
+      ]
+    },
+    {
+      "id": "robert-borden",
+      "name": "Sir Robert L. Borden",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes the first president of the Canadian international-affairs institute, serving in 1927–1931.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "allen-dulles",
+      "name": "Allen W. Dulles",
+      "pages": [
+        196
+      ],
+      "description": "Quigley describes a Council on Foreign Relations participant who chaired study meetings and gave opening and closing speeches at the 1935 collective-security conference.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "maurice-gwyer",
+      "name": "Sir Maurice Gwyer",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes an All Souls member who joined the council of the Indian Institute of International Affairs at its establishment in 1936.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "john-hope-simpson",
+      "name": "Sir John Hope Simpson",
+      "pages": [
+        196
+      ],
+      "description": "Quigley describes the editor of the institute’s 1939 refugee report; Quigley explicitly states he was not a member of the Group.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        }
+      ]
+    },
+    {
+      "id": "anthony-eden",
+      "name": "Anthony Eden",
+      "pages": [
+        197,
+        271
+      ],
+      "description": "Quigley describes Foreign Secretary who communicated the FRPS takeover to Astor and later differed from Halifax and Chamberlain over foreign policy.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 271,
+          "printed": "274–275"
+        }
+      ]
+    },
+    {
+      "id": "william-duke",
+      "name": "Sir William Duke",
+      "pages": [
+        203,
+        204
+      ],
+      "description": "Quigley describes a former Bengal governor, member of Curtis’s study circle from 1914 and India Office Permanent Under Secretary in 1920–1924.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "malcolm-seton",
+      "name": "Sir Malcolm Seton",
+      "pages": [
+        203,
+        204
+      ],
+      "description": "Quigley describes an India Office official joining Curtis’s study circle around 1913, subsequently Assistant and Deputy Under Secretary.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "mohandas-gandhi",
+      "name": "Mohandas Gandhi",
+      "pages": [
+        211,
+        218,
+        220
+      ],
+      "description": "Quigley describes the Indian nationalist leader whose party declined the first Round Table Conference on the terms offered.",
+      "aliases": [
+        "Mahatma Gandhi",
+        "Gandhi"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 218,
+          "printed": "219"
+        },
+        {
+          "pdfPage": 220,
+          "printed": "221"
+        }
+      ]
+    },
+    {
+      "id": "winston-churchill",
+      "name": "Winston Churchill",
+      "pages": [
+        218,
+        221,
+        283
+      ],
+      "description": "Quigley describes a leading parliamentary opponent of Indian constitutional reform and critic of government armament policy and appeasement.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 218,
+          "printed": "219"
+        },
+        {
+          "pdfPage": 221,
+          "printed": "222"
+        },
+        {
+          "pdfPage": 283,
+          "printed": "286"
+        }
+      ]
+    },
+    {
+      "id": "adolf-hitler",
+      "name": "Adolf Hitler",
+      "pages": [
+        262,
+        272,
+        273
+      ],
+      "description": "Quigley describes Germany’s leader whose diplomatic and military actions are central to the chapter’s criticism of appeasement.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 262,
+          "printed": "265"
+        },
+        {
+          "pdfPage": 273,
+          "printed": "276"
+        }
+      ]
+    },
+    {
+      "id": "neville-chamberlain",
+      "name": "Neville Chamberlain",
+      "pages": [
+        273,
+        282,
+        283,
+        293
+      ],
+      "description": "Quigley describes the British prime minister conducting negotiations with Hitler and issuing the 1939 Polish guarantee; Quigley distinguishes his policy circle from the Milner circle.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 273,
+          "printed": "276"
+        },
+        {
+          "pdfPage": 283,
+          "printed": "286"
+        },
+        {
+          "pdfPage": 293,
+          "printed": "297"
+        }
+      ]
+    },
+    {
+      "id": "john-foster",
+      "name": "John Galway Foster",
+      "pages": [
+        301,
+        302
+      ],
+      "description": "Quigley describes an All Souls fellow and private international law lecturer who served as First Secretary in Washington from 1939 and became a Conservative MP in 1945.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "robert-stopford",
+      "name": "Robert J. Stopford",
+      "pages": [
+        188,
+        196,
+        282,
+        302
+      ],
+      "description": "Quigley describes an RIIA reparations writer, technical adviser to the Runciman mission and financial counselor to the Washington embassy in 1940–1943.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 188,
+          "printed": "187"
+        },
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        },
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "oliver-lyttelton",
+      "name": "Oliver Lyttelton",
+      "pages": [
+        304
+      ],
+      "description": "Quigley describes an industrial executive, President of the Board of Trade in 1940–1941 and Minister of Production in 1942–1945.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        }
+      ]
+    },
+    {
+      "id": "selborne-third",
+      "name": "Lord Wolmer, third Earl of Selborne",
+      "pages": [
+        304
+      ],
+      "description": "Quigley describes the former Lord Wolmer, director of cement regulation in 1940–1942 and Minister of Economic Warfare in 1942–1945.",
+      "aliases": [
+        "Lord Wolmer",
+        "Third Lord Selborne"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        }
+      ]
+    },
+    {
+      "id": "charles-harris",
+      "name": "Charles R. S. Harris",
+      "pages": [
+        304,
+        305
+      ],
+      "description": "Quigley describes an All Souls fellow, former Times writer and Brand associate serving in economic warfare, diplomatic and military posts during the war.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "clement-attlee",
+      "name": "Clement Attlee",
+      "pages": [
+        221,
+        305
+      ],
+      "description": "Quigley describes a Labour critic of the India bill who became prime minister of the postwar Labour government.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 221,
+          "printed": "222"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "id": "nw-rowell",
+      "name": "N. W. Rowell",
+      "pages": [
+        192,
+        193
+      ],
+      "description": "Quigley describes the second president of the Canadian international-affairs institute and a member of the Pacific Council in 1930.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        },
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "james-allen",
+      "name": "Sir James Allen",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes New Zealand’s member of the Pacific Council in the 1930 membership list.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "inazo-nitobe",
+      "name": "I. Nitobe",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes Japan’s member of the Pacific Council in the 1930 membership list.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "dzt-yui",
+      "name": "D. Z. T. Yui",
+      "pages": [
+        193
+      ],
+      "description": "Quigley describes China’s member of the Pacific Council in the 1930 membership list.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "id": "thomas-bavin",
+      "name": "Sir Thomas Bavin",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes president of the Australian international-affairs institute in 1934–1941.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "downie-stewart",
+      "name": "W. Downie Stewart",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes president of the New Zealand international-affairs institute from 1935.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "bk-long",
+      "name": "B. K. Long",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes a former member of Milner’s Kindergarten active in the South African international-affairs institute.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "vincent-massey",
+      "name": "Vincent Massey",
+      "pages": [
+        192,
+        303
+      ],
+      "description": "Quigley describes a vice-president of the Canadian international-affairs institute and one of the principal Canadian participants in Quigley’s network account.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "edward-grigg",
+      "name": "Edward Grigg",
+      "pages": [
+        303
+      ],
+      "description": "Quigley describes Parliamentary Secretary to the wartime Ministry of Information until the 1940 cabinet revision, then serving in the War Office.",
+      "aliases": [
+        "Lord Altrincham"
+      ],
+      "printedPages": [
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "john-sparrow",
+      "name": "John H. A. Sparrow",
+      "pages": [
+        302
+      ],
+      "description": "Quigley describes an All Souls fellow on a confidential military mission in Washington in 1940 and attached to the War Office from 1942.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 302,
+          "printed": "306"
+        }
+      ]
+    },
+    {
+      "id": "leopold-amery",
+      "name": "Leopold Amery",
+      "pages": [
+        199,
+        268,
+        292
+      ],
+      "description": "Quigley describes Secretary of State for India in 1940–1945, an opponent of coercive League policy before the war and advocate of conscription in 1939.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 199,
+          "printed": "198–199"
+        },
+        {
+          "pdfPage": 268,
+          "printed": "271"
+        },
+        {
+          "pdfPage": 292,
+          "printed": "296"
+        }
+      ]
+    },
+    {
+      "id": "abe-bailey",
+      "name": "Sir Abe Bailey",
+      "pages": [
+        191
+      ],
+      "description": "Quigley describes a major RIIA founding benefactor whose gifts included £5,000 annually in perpetuity from 1928.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        }
+      ]
+    },
+    {
+      "id": "lionel-abrahams",
+      "name": "Sir Lionel Abrahams",
+      "pages": [
+        204
+      ],
+      "description": "Quigley describes an India Office Assistant Under Secretary who participated in Curtis’s constitutional study circle.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "id": "joseph-flavelle",
+      "name": "Sir Joseph Flavelle",
+      "pages": [
+        192
+      ],
+      "description": "Quigley describes a vice-president of the Canadian international-affairs institute and associate of the network in the First World War.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "id": "george-glazebrook",
+      "name": "George Parkin Glazebrook",
+      "pages": [
+        192,
+        303
+      ],
+      "description": "Quigley describes honorary secretary of the Canadian international-affairs institute and one of the principal Canadian network members in Quigley’s account.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        },
+        {
+          "pdfPage": 303,
+          "printed": "307"
+        }
+      ]
+    },
+    {
+      "id": "henry-price",
+      "name": "Sir Henry Price",
+      "pages": [
+        189,
+        191
+      ],
+      "description": "Quigley describes a donor who endowed a Chatham House economics chair in 1936 and gave £50,000 for library expansion in 1942.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 189,
+          "printed": "188"
+        },
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        }
+      ]
+    },
+    {
+      "id": "harold-butler",
+      "name": "Sir Harold Butler",
+      "pages": [
+        301
+      ],
+      "description": "Quigley describes a wartime minister in Washington from 1942 whose work chiefly concerned public relations.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "william-marris",
+      "name": "Sir William Marris",
+      "pages": [
+        203,
+        301
+      ],
+      "description": "Quigley describes Curtis’s associate in the development of Indian responsible-government ideas and father of Adam Marris.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "id": "cecil-hurst",
+      "name": "Sir Cecil Hurst",
+      "pages": [
+        185,
+        262
+      ],
+      "description": "Quigley describes a participant in planning the international-affairs institute and the legal drafter to whom Quigley attributes the structure of the Locarno agreements.",
+      "aliases": [],
+      "printedPages": [
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        },
+        {
+          "pdfPage": 262,
+          "printed": "265"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "source": "lionel-curtis",
+      "target": "riia",
+      "label": "founding initiative",
+      "pages": [
+        184,
+        185
+      ],
+      "description": "According to Quigley, Curtis provided the decisive initiative; Robert Cecil chaired the organizing committee.",
+      "printedPages": [
+        {
+          "pdfPage": 184,
+          "printed": "182–183"
+        },
+        {
+          "pdfPage": 185,
+          "printed": "184"
+        }
+      ]
+    },
+    {
+      "source": "abe-bailey",
+      "target": "riia",
+      "label": "funding",
+      "pages": [
+        191
+      ],
+      "description": "According to Quigley, Bailey supplied founding money and later a perpetual annual grant.",
+      "printedPages": [
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        }
+      ]
+    },
+    {
+      "source": "arnold-toynbee",
+      "target": "riia",
+      "label": "research and publications",
+      "pages": [
+        189,
+        197
+      ],
+      "description": "According to Quigley, Toynbee edited the Survey and led wartime research.",
+      "printedPages": [
+        {
+          "pdfPage": 189,
+          "printed": "188"
+        },
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "source": "riia",
+      "target": "cfr",
+      "label": "institutional cooperation",
+      "pages": [
+        191,
+        192
+      ],
+      "description": "According to Quigley, the institutes exchanged publications, books and personnel contacts; the branch characterization belongs to the author’s cited account.",
+      "printedPages": [
+        {
+          "pdfPage": 191,
+          "printed": "190"
+        },
+        {
+          "pdfPage": 192,
+          "printed": "191–192"
+        }
+      ]
+    },
+    {
+      "source": "ipr",
+      "target": "ipr-pacific-council",
+      "label": "governing body",
+      "pages": [
+        193
+      ],
+      "description": "According to Quigley, the Pacific Council supplied continuing central organization between meetings.",
+      "printedPages": [
+        {
+          "pdfPage": 193,
+          "printed": "193"
+        }
+      ]
+    },
+    {
+      "source": "gilbert-murray",
+      "target": "icic",
+      "label": "chairmanship",
+      "pages": [
+        194
+      ],
+      "description": "According to Quigley, Murray chaired the committee from 1928 to 1945.",
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "source": "alfred-zimmern",
+      "target": "iiic",
+      "label": "deputy directorship",
+      "pages": [
+        194
+      ],
+      "description": "According to Quigley, Zimmern was deputy director from 1926 to 1930.",
+      "printedPages": [
+        {
+          "pdfPage": 194,
+          "printed": "194"
+        }
+      ]
+    },
+    {
+      "source": "riia",
+      "target": "frps",
+      "label": "wartime research service",
+      "pages": [
+        196,
+        197
+      ],
+      "description": "According to Quigley, library, information and press resources formed the FRPS.",
+      "printedPages": [
+        {
+          "pdfPage": 196,
+          "printed": "196"
+        },
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "source": "frps",
+      "target": "foreign-office-research",
+      "label": "merged into",
+      "pages": [
+        197
+      ],
+      "description": "According to Quigley, FRPS was absorbed with the Political Intelligence Department in April 1943.",
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        }
+      ]
+    },
+    {
+      "source": "samuel-hoare",
+      "target": "malcolm-hailey",
+      "label": "policy advice",
+      "pages": [
+        219
+      ],
+      "description": "According to Quigley, Hailey was continuously available as Hoare’s principal adviser on the India bill.",
+      "printedPages": [
+        {
+          "pdfPage": 219,
+          "printed": "220"
+        }
+      ]
+    },
+    {
+      "source": "rushbrook-williams",
+      "target": "indian-round-table-conferences",
+      "label": "delegate and adviser",
+      "pages": [
+        201
+      ],
+      "description": "According to Quigley, Williams advised the states delegation and then represented Nawanagar.",
+      "printedPages": [
+        {
+          "pdfPage": 201,
+          "printed": "201"
+        }
+      ]
+    },
+    {
+      "source": "lionel-curtis",
+      "target": "round-table",
+      "label": "India constitutional study",
+      "pages": [
+        203,
+        204
+      ],
+      "description": "According to Quigley, Curtis convened an unofficial circle whose original membership the author says is uncertain.",
+      "printedPages": [
+        {
+          "pdfPage": 203,
+          "printed": "203"
+        },
+        {
+          "pdfPage": 204,
+          "printed": "204"
+        }
+      ]
+    },
+    {
+      "source": "edward-wood",
+      "target": "adolf-hitler",
+      "label": "diplomatic meeting",
+      "pages": [
+        272,
+        273
+      ],
+      "description": "According to Quigley, Halifax met Hitler on 19 November 1937; the policy interpretation is Quigley’s.",
+      "printedPages": [
+        {
+          "pdfPage": 273,
+          "printed": "276"
+        }
+      ]
+    },
+    {
+      "source": "robert-brand",
+      "target": "adam-marris",
+      "label": "mentorship",
+      "pages": [
+        301
+      ],
+      "description": "According to Quigley, Marris was Brand’s protégé and a Lazard colleague.",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "source": "adam-marris",
+      "target": "william-marris",
+      "label": "family",
+      "pages": [
+        301
+      ],
+      "description": "According to Quigley, Adam was the son of William Marris.",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "source": "isaiah-berlin",
+      "target": "john-wheeler-bennett",
+      "label": "wartime information work",
+      "pages": [
+        301
+      ],
+      "description": "According to Quigley, Berlin worked with Wheeler-Bennett in New York in 1941.",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "source": "arthur-salter",
+      "target": "unrra",
+      "label": "senior official",
+      "pages": [
+        301
+      ],
+      "description": "According to Quigley, Salter joined as Senior Deputy Director General.",
+      "printedPages": [
+        {
+          "pdfPage": 301,
+          "printed": "305"
+        }
+      ]
+    },
+    {
+      "source": "cyril-radcliffe",
+      "target": "ministry-of-information",
+      "label": "director general",
+      "pages": [
+        304
+      ],
+      "description": "According to Quigley, Radcliffe led the ministry for more than four wartime years.",
+      "printedPages": [
+        {
+          "pdfPage": 304,
+          "printed": "308"
+        }
+      ]
+    },
+    {
+      "source": "hv-hodson",
+      "target": "ministry-of-production",
+      "label": "administrative leadership",
+      "pages": [
+        305
+      ],
+      "description": "According to Quigley, Hodson became principal assistant secretary and head of its Non-Munitions Division.",
+      "printedPages": [
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "source": "gn-clark",
+      "target": "agenda",
+      "label": "editorship",
+      "pages": [
+        197,
+        305
+      ],
+      "description": "According to Quigley, Clark edited the reconstruction quarterly.",
+      "printedPages": [
+        {
+          "pdfPage": 197,
+          "printed": "197"
+        },
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    },
+    {
+      "source": "douglas-jay",
+      "target": "clement-attlee",
+      "label": "personal assistant",
+      "pages": [
+        305
+      ],
+      "description": "According to Quigley, Jay served as the prime minister’s personal assistant after Labour entered government.",
+      "printedPages": [
+        {
+          "pdfPage": 305,
+          "printed": "309"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Quigley dates founding of IPR to September 1924 (PDF 193); preserve attribution rather than present as verified founding date.",
+    "PDF 306 dates Labour electoral victory to August 1945; use year precision and note source chronology discrepancy, rather than an independently corrected day.",
+    "Printed numbering does not stay a constant offset from PDF pages; citations should use PDF page numbers."
+  ]
+}

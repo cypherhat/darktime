@@ -1,8 +1,31 @@
 # Dark Time
 
-A browser-only historical atlas: linked characters, organizations, events, and intersecting timelines. React + TypeScript + D3, bundled with Vite. No server, database, API keys, or account required by visitors. Data is bundled locally; the optional Google Fonts stylesheet falls back to local fonts.
+A browser-only, source-attributed historical atlas. Explore linked characters, organizations, events, professional affiliations and author-claimed influence through searchable directories, intersecting timelines and a focused connections graph.
 
-## Develop
+Live: https://cypherhat.github.io/darktime/
+
+## Collections
+
+The archive contains **357 people, 158 organizations, 221 events, 694 relationships and 26 timeline threads**, plus five explicitly cited links between events. Shared identities are counted once; collection counts overlap.
+
+- **Gemstone letters**: 25 people, 9 organizations, 18 events. Selective extraction of the transcription attributed to Bruce Porter Roberts, including retrospective claims. The transcription has missing material, conflicting dates and amounts, and a truncated ending.
+- **Carroll Quigley, The Anglo-American Establishment**: 170 people, 70 organizations, 90 events. Selected passages from all thirteen chapters and the tentative appendix roster. Quigley’s reported institutional roles are distinguished from inferred network membership and bracketed conjectures.
+- **Peter Dale Scott, The State, the Deep State, and the Wall Street Overworld**: 72 people, 40 organizations, 37 events. Article and notes reviewed; important denials, memoir qualifications and publication-date discrepancies are preserved.
+- **Carl Oglesby, The Yankee and Cowboy War**: 111 people, 49 organizations, 76 events. Selected records across the narrative, revised preface and appendix. His faction model, alternative accounts, official findings and denials retain their attribution. OCR uncertainty is noted.
+
+These are substantive attributed digests, not exhaustive indexes of every passing reference. The books’ interpretation of an event is not independent corroboration. Citations use **1-based PDF file pages**; printed-page references are included where discernible. The original PDFs in `docs/` and `sources/` remain local research files and are not redistributed by the website. All event narratives are embedded static assets, with no outbound source links required.
+
+## Browser-only architecture
+
+React, TypeScript and D3, built by Vite and served by GitHub Pages. No backend, database, secrets or visitor accounts. Source bundles load only when selected; long event narratives load when a record is opened. Timeline and graph code also load on demand. Directories and relationship inventories are paginated. The graph defaults to a core overview or a selected entity’s neighborhood.
+
+Select arbitrary source combinations with the **Choose sources to overlay** checkboxes. Vertical connectors identify a single event shared across threads. Dashed arcs join chronological events through a shared cited participant across sources; solid arrows represent source-claimed influence or organizational continuation. A shared person does not establish causal influence. Source attribution remains visible in event narratives and relationship records. The Quigley–Gemstone overlay has an explicit shared Churchill identity; Roberts’ 1932 alliance story remains a separately identified allegation.
+
+Timelines provide UTC dates, year-bearing tick labels, smooth pan/zoom, period and participant filters, precision/duration bars, readable full-title labels, staggered numbered markers, hover/focus previews, and a matching event list. Clicking a marker opens substantive source paragraphs and explains the point’s relevance to its threads.
+
+Stable IDs support shareable URLs, e.g. `?collection=gemstone,anglo#election`. Previous `#nader` links still resolve. Export downloads the complete archive, including detailed narratives.
+
+## Develop and validate
 
 Use Node 22 or newer.
 
@@ -13,24 +36,24 @@ npm run check
 npm run build
 ```
 
-Deploy `dist/` to any static host. Relative asset paths and hash record links work on GitHub Pages subdirectories. `.github/workflows/pages.yml` validates and deploys main to GitHub Pages; enable **Settings → Pages → Source → GitHub Actions**.
+`npm run prepare:data` regenerates collection bundles, narrative bundles and the small catalog from the canonical `src/data/archive.json`. It runs automatically before development/build. `dist/` is a portable static site with relative asset URLs.
 
-## Expand the archive
+Browser checks use Playwright. On macOS, the configuration uses installed Google Chrome; override with `PLAYWRIGHT_CHROME_PATH`. On other platforms, install Playwright Chromium. With a dev server running on port 5173:
 
-The authoritative content file is `src/data/archive.json`. Keep IDs stable. Add source metadata, people, organizations, events, relationships, and lane definitions. Each record has page references and a dated description history. Organization entries record unresolved founders explicitly. Event precision distinguishes day, month, approximate and disputed dates. First-of-month values are plotting anchors, not claims of an exact day. Add a history entry when revising a description; preserve earlier revisions.
+```sh
+npm run test:browser
+```
 
-The initial dataset is a **selective extraction** from https://realgemstonefile.blogspot.com/, accessed October 14, 2026. It covers 22 people, 9 organizations and 17 dated passages across five threads. It does not exhaust every name or historical allusion. The supplied transcription contains missing passages and ends mid-sentence on page 26. All source claims are unverified here; historical calendar dates supplied as editorial context are noted in event descriptions. Conflicting amounts, times and dates are retained explicitly. Each record has a `citations` array with source IDs and page references. Add citations to additional sources as the collection grows; the legacy `pages` field refers to the initial source. For conflicting individual assertions, retain their attribution in the description.
+To test the production build, serve it on port 5174 and set `PLAYWRIGHT_BASE_URL=http://127.0.0.1:5174`. The tests cover lazy source loading, marker interaction, year labels, source narratives, pagination, multi-source overlays, old deep links, cross-source identities and mobile layout.
 
-## Timeline
+GitHub Actions validates and builds `main`, then deploys to Pages. Its `github-pages` environment allows `main`.
 
-D3 UTC time scales, SVG vector rendering, adaptive date ticks, touch/pinch and wheel zoom, drag pan, animated zoom controls, and keyboard-accessible event points. Zoom reaches day-level detail; labels are culled to prevent overlap. Vertical connectors identify the same event in several lanes, not evidence of causal relationships. Lane filters and text search narrow the plot; participants open linked profiles. Record detail URLs use stable hashes. Archive export downloads the complete JSON dataset.
+## Extend the archive
 
-## Content workflow
+Edit `src/data/archive.json`, the authoritative dataset. Keep IDs stable. Each record has citations, dated revisions, source-specific accounts and optional aliases. Each event also has source summaries with a lead summary, substantive paragraphs, timeline context and any precision note. Event date anchors never silently convert unknown dates into exact days. Organization members/associates may represent different types of relationship, identified through cited edges.
 
-1. Read new materials and register sources.
-2. Add or amend records and source-specific citations; keep uncertainty explicit.
-3. Update dated description histories.
-4. Run `npm run check` and `npm run build`.
-5. Commit and push to main to publish.
+Use distinct identities for people with similar names. Merge only when the text establishes the identity, and retain source-specific accounts instead of overwriting them. Add `eventLinks` only when a source actually asserts the relationship. The renderer does not infer causal links from chronological proximity.
 
-`scripts/seed.py` documents the initial extraction and regenerates that first dataset only. Do not run it over an expanded collection.
+For a new collection, register source metadata, associate its lane definitions with the source ID and add its records/citations. The build discovers generated source/narrative bundles automatically. Run the validator, build and browser checks before committing.
+
+The ingestion scripts and `scripts/data/` research artifacts document this initial extraction. `scripts/seed.py` regenerates the first Gemstone seed only and must **not** be run over an expanded collection. `ingest-anglo.py`, `merge-research.py`, `apply-summaries.py` and `add-overlay-evidence.py` record the staged additions; the canonical archive remains authoritative for subsequent manual revisions.
