@@ -162,7 +162,9 @@
     "security-international",
     "ctia",
     "trilateral",
-    "dnc"
+    "dnc",
+    "guaranty-trust",
+    "general-dynamics"
   ],
   "relationships": [
     {
@@ -172,7 +174,7 @@
       "pages": [
         64
       ],
-      "description": "Oglesby identifies Nixon, while vice president, as the chief political officer on the National Security Council Special Group involved in conceiving and planning the Cuban invasion. This does not establish Nixon’s continuing operational role after leaving office.",
+      "description": "Oglesby identifies Nixon, while vice president, as the chief political officer on the National Security Council Special Group involved in conceiving and planning the Cuban invasion. This does not establish Nixon\u2019s continuing operational role after leaving office.",
       "evidence": "source-reported"
     },
     {
@@ -183,7 +185,7 @@
         69,
         95
       ],
-      "description": "Oglesby describes the CIA using Hughes aide Maheu to obtain Roselli’s services against Castro. The timing of authorization and Kennedy’s knowledge are explicitly uncertain in the source.",
+      "description": "Oglesby describes the CIA using Hughes aide Maheu to obtain Roselli\u2019s services against Castro. The timing of authorization and Kennedy\u2019s knowledge are explicitly uncertain in the source.",
       "evidence": "source-reported"
     },
     {
@@ -193,7 +195,7 @@
       "pages": [
         224
       ],
-      "description": "Oglesby describes Maheu entering Hughes’s employment after FBI work in Chicago and a private security career, distinct from his later CIA intermediary role.",
+      "description": "Oglesby describes Maheu entering Hughes\u2019s employment after FBI work in Chicago and a private security career, distinct from his later CIA intermediary role.",
       "evidence": "source-reported"
     },
     {
@@ -204,7 +206,7 @@
         38,
         183
       ],
-      "description": "Oglesby identifies Hoover with the bureau’s leadership and reproduces instructions to disrupt New Left organizations. This specifies the directorship and program responsibility beyond a generic institutional association.",
+      "description": "Oglesby identifies Hoover with the bureau\u2019s leadership and reproduces instructions to disrupt New Left organizations. This specifies the directorship and program responsibility beyond a generic institutional association.",
       "evidence": "source-reported"
     },
     {
@@ -215,7 +217,7 @@
         104,
         105
       ],
-      "description": "Oglesby reproduces Hoover’s July 8,1964 letter to Rankin concerning neutron-activation results. The author disputes the presentation of its significance; the edge records the documented communication rather than endorsing that forensic interpretation.",
+      "description": "Oglesby reproduces Hoover\u2019s July 8,1964 letter to Rankin concerning neutron-activation results. The author disputes the presentation of its significance; the edge records the documented communication rather than endorsing that forensic interpretation.",
       "evidence": "source-reported"
     },
     {
@@ -225,7 +227,7 @@
       "pages": [
         163
       ],
-      "description": "Oglesby recounts Johnson persuading Warren to accept the assassination-inquiry appointment. The further suggestion that national-security pressure explained a cover-up is the author’s hypothesis, not part of this appointment edge.",
+      "description": "Oglesby recounts Johnson persuading Warren to accept the assassination-inquiry appointment. The further suggestion that national-security pressure explained a cover-up is the author\u2019s hypothesis, not part of this appointment edge.",
       "evidence": "source-reported"
     },
     {
@@ -235,7 +237,7 @@
       "pages": [
         175
       ],
-      "description": "Oglesby describes Kennedy firing Allen Dulles and replacing him with John McCone after the invasion failed. The text’s additional breakaway-faction theory remains distinct from this administrative action.",
+      "description": "Oglesby describes Kennedy firing Allen Dulles and replacing him with John McCone after the invasion failed. The text\u2019s additional breakaway-faction theory remains distinct from this administrative action.",
       "evidence": "source-reported"
     },
     {
@@ -245,7 +247,7 @@
       "pages": [
         175
       ],
-      "description": "Oglesby describes Kennedy’s dismissal of Dulles following the Bay of Pigs and the appointment of McCone. This role transition does not itself establish a later assassination conspiracy.",
+      "description": "Oglesby describes Kennedy\u2019s dismissal of Dulles following the Bay of Pigs and the appointment of McCone. This role transition does not itself establish a later assassination conspiracy.",
       "evidence": "source-reported"
     },
     {
@@ -256,7 +258,7 @@
         55,
         57
       ],
-      "description": "Oglesby places the postwar Gehlen arrangement under Dulles’s Secret Intelligence Branch of the OSS. This gives a specific operational responsibility beyond the existing generic OSS affiliation.",
+      "description": "Oglesby places the postwar Gehlen arrangement under Dulles\u2019s Secret Intelligence Branch of the OSS. This gives a specific operational responsibility beyond the existing generic OSS affiliation.",
       "evidence": "source-reported"
     },
     {
@@ -266,7 +268,7 @@
       "pages": [
         55
       ],
-      "description": "Oglesby identifies Donovan and Dulles among Gehlen’s initial American interlocutors in the secret 1945 discussions.",
+      "description": "Oglesby identifies Donovan and Dulles among Gehlen\u2019s initial American interlocutors in the secret 1945 discussions.",
       "evidence": "source-reported"
     },
     {
@@ -276,7 +278,7 @@
       "pages": [
         55
       ],
-      "description": "Oglesby states that Gehlen was flown to Washington on August 22,1945 in Smith’s command transport. This records the logistical connection; it does not claim Smith personally conducted the negotiations.",
+      "description": "Oglesby states that Gehlen was flown to Washington on August 22,1945 in Smith\u2019s command transport. This records the logistical connection; it does not claim Smith personally conducted the negotiations.",
       "evidence": "source-reported"
     },
     {
@@ -286,7 +288,7 @@
       "pages": [
         122
       ],
-      "description": "Oglesby calls de Mohrenschildt an officer of the wartime Gehlen-Vlassov operation. The affiliation remains the author’s assertion rather than an independently corroborated service record.",
+      "description": "Oglesby calls de Mohrenschildt an officer of the wartime Gehlen-Vlassov operation. The affiliation remains the author\u2019s assertion rather than an independently corroborated service record.",
       "evidence": "author-interpretation"
     },
     {
@@ -296,17 +298,17 @@
       "pages": [
         122
       ],
-      "description": "Oglesby attributes Shaw’s identification as a CIA officer to Victor Marchetti. The edge preserves the asserted source and does not turn an allegation into an established covert-service finding.",
+      "description": "Oglesby attributes Shaw\u2019s identification as a CIA officer to Victor Marchetti. The edge preserves the asserted source and does not turn an allegation into an established covert-service finding.",
       "evidence": "author-interpretation"
     },
     {
       "fromId": "cuban-revolutionary-council",
       "toId": "cia",
-      "label": "Agency-created organization in Oglesby’s account",
+      "label": "Agency-created organization in Oglesby\u2019s account",
       "pages": [
         122
       ],
-      "description": "Oglesby describes the Council as a CIA creation assembled by Howard Hunt. The relationship records the author’s institutional claim and is separate from the unsupported inference that Oswald’s printed address proves office occupancy.",
+      "description": "Oglesby describes the Council as a CIA creation assembled by Howard Hunt. The relationship records the author\u2019s institutional claim and is separate from the unsupported inference that Oswald\u2019s printed address proves office occupancy.",
       "evidence": "author-interpretation"
     },
     {
@@ -327,7 +329,7 @@
         99,
         117
       ],
-      "description": "Oglesby describes the Book Depository as Oswald’s workplace and discusses observations by other employees. Employment does not by itself settle the contested shooting reconstruction.",
+      "description": "Oglesby describes the Book Depository as Oswald\u2019s workplace and discusses observations by other employees. Employment does not by itself settle the contested shooting reconstruction.",
       "evidence": "source-reported"
     },
     {
@@ -339,7 +341,7 @@
         127,
         160
       ],
-      "description": "Oglesby identifies the Carousel as Ruby’s nightclub, providing the business role beyond a generic association. Witness claims about Ruby and Oswald meeting there remain separately qualified.",
+      "description": "Oglesby identifies the Carousel as Ruby\u2019s nightclub, providing the business role beyond a generic association. Witness claims about Ruby and Oswald meeting there remain separately qualified.",
       "evidence": "source-reported"
     },
     {
@@ -349,7 +351,7 @@
       "pages": [
         117
       ],
-      "description": "Oglesby identifies O’Toole as an ex-CIA officer when introducing his voice-stress analysis. That occupational background does not validate the disputed analytical technique.",
+      "description": "Oglesby identifies O\u2019Toole as an ex-CIA officer when introducing his voice-stress analysis. That occupational background does not validate the disputed analytical technique.",
       "evidence": "source-reported"
     },
     {
@@ -359,7 +361,7 @@
       "pages": [
         118
       ],
-      "description": "Oglesby states that O’Toole found an Oswald recording in the CBS archive for his analysis. This records a research-material transaction, not employment or institutional sponsorship of his conclusions.",
+      "description": "Oglesby states that O\u2019Toole found an Oswald recording in the CBS archive for his analysis. This records a research-material transaction, not employment or institutional sponsorship of his conclusions.",
       "evidence": "source-reported"
     },
     {
@@ -370,7 +372,7 @@
         150,
         157
       ],
-      "description": "Oglesby identifies Herndon as the FBI’s principal lie-detection specialist during Ruby’s examination and discusses his later qualifications about test length and fatigue.",
+      "description": "Oglesby identifies Herndon as the FBI\u2019s principal lie-detection specialist during Ruby\u2019s examination and discusses his later qualifications about test length and fatigue.",
       "evidence": "source-reported"
     },
     {
@@ -402,7 +404,7 @@
       "pages": [
         90
       ],
-      "description": "Oglesby quotes Halberstam’s account of McNamara’s intense nuclear-disarmament arguments with the Joint Chiefs, presenting an institutional policy dispute rather than faction membership.",
+      "description": "Oglesby quotes Halberstam\u2019s account of McNamara\u2019s intense nuclear-disarmament arguments with the Joint Chiefs, presenting an institutional policy dispute rather than faction membership.",
       "evidence": "source-reported"
     },
     {
@@ -412,7 +414,7 @@
       "pages": [
         179
       ],
-      "description": "Oglesby identifies Clifford as defense secretary during the turn toward negotiations. The author’s stronger description of him as the effective national executive is interpretive and is not treated as a formal transfer of presidential powers.",
+      "description": "Oglesby identifies Clifford as defense secretary during the turn toward negotiations. The author\u2019s stronger description of him as the effective national executive is interpretive and is not treated as a formal transfer of presidential powers.",
       "evidence": "source-reported"
     },
     {
@@ -429,33 +431,33 @@
     {
       "fromId": "cyrus-vance",
       "toId": "yankee-faction",
-      "label": "Author’s 1968 faction classification",
+      "label": "Author\u2019s 1968 faction classification",
       "pages": [
         179
       ],
-      "description": "Oglesby calls Vance a leading Yankee figure in the officials’ movement toward negotiations. This is an analytical classification, not formal organizational membership.",
+      "description": "Oglesby calls Vance a leading Yankee figure in the officials\u2019 movement toward negotiations. This is an analytical classification, not formal organizational membership.",
       "evidence": "author-interpretation"
     },
     {
       "fromId": "george-ball",
       "toId": "yankee-faction",
-      "label": "Author’s 1968 faction classification",
+      "label": "Author\u2019s 1968 faction classification",
       "pages": [
         179,
         180
       ],
-      "description": "Oglesby places Ball among leading Yankee figures at Johnson’s 1968 policy turn. The classification belongs to the author’s model rather than an enrolled organization.",
+      "description": "Oglesby places Ball among leading Yankee figures at Johnson\u2019s 1968 policy turn. The classification belongs to the author\u2019s model rather than an enrolled organization.",
       "evidence": "author-interpretation"
     },
     {
       "fromId": "john-sonnett",
       "toId": "twa",
-      "label": "Airline’s litigation counsel against Hughes",
+      "label": "Airline\u2019s litigation counsel against Hughes",
       "pages": [
         214,
         215
       ],
-      "description": "Oglesby describes Sonnett pursuing the TWA antitrust theory against Hughes and argues that the Supreme Court ultimately accepted Davis’s jurisdictional objection instead.",
+      "description": "Oglesby describes Sonnett pursuing the TWA antitrust theory against Hughes and argues that the Supreme Court ultimately accepted Davis\u2019s jurisdictional objection instead.",
       "evidence": "source-reported"
     },
     {
@@ -466,7 +468,7 @@
         214,
         224
       ],
-      "description": "Oglesby describes Davis defending Hughes in the airline litigation from 1960. This lawyer-client role is distinct from Davis’s later leadership of Toolco’s confrontation with Maheu.",
+      "description": "Oglesby describes Davis defending Hughes in the airline litigation from 1960. This lawyer-client role is distinct from Davis\u2019s later leadership of Toolco\u2019s confrontation with Maheu.",
       "evidence": "source-reported"
     },
     {
@@ -479,7 +481,7 @@
         230,
         233
       ],
-      "description": "Oglesby identifies Davis as Toolco’s chief counsel and the attorney whose client formally dismissed Maheu. The edge specifies corporate legal authority beyond a generic association.",
+      "description": "Oglesby identifies Davis as Toolco\u2019s chief counsel and the attorney whose client formally dismissed Maheu. The edge specifies corporate legal authority beyond a generic association.",
       "evidence": "source-reported"
     },
     {
@@ -499,7 +501,7 @@
       "pages": [
         201
       ],
-      "description": "Oglesby describes Dietrich cutting Hughes Aircraft’s proposed revolving credit fund from 35 million dollars to 25 million, triggering a dispute with division management. Their accusation that he sought to seize control remains their accusation, not a proven motive.",
+      "description": "Oglesby describes Dietrich cutting Hughes Aircraft\u2019s proposed revolving credit fund from 35 million dollars to 25 million, triggering a dispute with division management. Their accusation that he sought to seize control remains their accusation, not a proven motive.",
       "evidence": "source-reported"
     },
     {
@@ -509,7 +511,7 @@
       "pages": [
         201
       ],
-      "description": "Oglesby identifies Hughes Tool Company as the parent organization to which Hughes Aircraft managers were accountable and recounts their disagreement with Toolco’s financial control.",
+      "description": "Oglesby identifies Hughes Tool Company as the parent organization to which Hughes Aircraft managers were accountable and recounts their disagreement with Toolco\u2019s financial control.",
       "evidence": "source-reported"
     },
     {
@@ -550,7 +552,7 @@
       "pages": [
         213
       ],
-      "description": "Oglesby describes Toolco’s plan to buy jets and lease them to TWA, which lenders’ restrictions on deliveries from Hughes disrupted. The edge identifies the intercompany transaction plan rather than claiming it was fully executed.",
+      "description": "Oglesby describes Toolco\u2019s plan to buy jets and lease them to TWA, which lenders\u2019 restrictions on deliveries from Hughes disrupted. The edge identifies the intercompany transaction plan rather than claiming it was fully executed.",
       "evidence": "source-reported"
     },
     {
@@ -560,7 +562,7 @@
       "pages": [
         218
       ],
-      "description": "Oglesby reports that Hughes contributed 150,000 dollars to Nixon’s 1968 campaign, with part kept covert. The source’s discussion of motives and later Watergate implications remains separate from the reported contribution.",
+      "description": "Oglesby reports that Hughes contributed 150,000 dollars to Nixon\u2019s 1968 campaign, with part kept covert. The source\u2019s discussion of motives and later Watergate implications remains separate from the reported contribution.",
       "evidence": "source-reported"
     },
     {
@@ -571,18 +573,18 @@
         218,
         219
       ],
-      "description": "Oglesby reports Hughes’s 25,000-dollar gift to Robert Kennedy’s estate after the assassination. The author considers possible links with recruitment of Kennedy aides but acknowledges that the motives and extent of joint projects are unknown.",
+      "description": "Oglesby reports Hughes\u2019s 25,000-dollar gift to Robert Kennedy\u2019s estate after the assassination. The author considers possible links with recruitment of Kennedy aides but acknowledges that the motives and extent of joint projects are unknown.",
       "evidence": "source-reported"
     },
     {
       "fromId": "larry-obrien",
       "toId": "hughes",
-      "label": "Consulting contract through O’Brien Associates",
+      "label": "Consulting contract through O\u2019Brien Associates",
       "pages": [
         218,
         219
       ],
-      "description": "Oglesby states that O’Brien Associates accepted a consulting contract with Hughes-Maheu after the June 1968 approach. He explicitly says his attempts to establish the work’s full scope were unsuccessful.",
+      "description": "Oglesby states that O\u2019Brien Associates accepted a consulting contract with Hughes-Maheu after the June 1968 approach. He explicitly says his attempts to establish the work\u2019s full scope were unsuccessful.",
       "evidence": "source-reported"
     },
     {
@@ -593,7 +595,7 @@
         218,
         219
       ],
-      "description": "Oglesby reproduces Maheu’s memo arranging discussions with O’Brien after Robert Kennedy’s death and reports a subsequent consulting contract. The edge does not adopt speculation that O’Brien’s knowledge caused the Watergate burglary.",
+      "description": "Oglesby reproduces Maheu\u2019s memo arranging discussions with O\u2019Brien after Robert Kennedy\u2019s death and reports a subsequent consulting contract. The edge does not adopt speculation that O\u2019Brien\u2019s knowledge caused the Watergate burglary.",
       "evidence": "source-reported"
     },
     {
@@ -604,7 +606,7 @@
         217,
         231
       ],
-      "description": "Oglesby describes Hooper leading Hughes’s private Nevada security force and being unaware of the departure from the Desert Inn penthouse.",
+      "description": "Oglesby describes Hooper leading Hughes\u2019s private Nevada security force and being unaware of the departure from the Desert Inn penthouse.",
       "evidence": "source-reported"
     },
     {
@@ -625,7 +627,7 @@
         222,
         224
       ],
-      "description": "Oglesby describes Meier joining Hughes’s Nevada operations in 1968, recommending mining and real-estate purchases. The ensuing fraud charges and conflicting accounts of resignation versus dismissal remain qualified rather than folded into the employment fact.",
+      "description": "Oglesby describes Meier joining Hughes\u2019s Nevada operations in 1968, recommending mining and real-estate purchases. The ensuing fraud charges and conflicting accounts of resignation versus dismissal remain qualified rather than folded into the employment fact.",
       "evidence": "source-reported"
     },
     {
@@ -636,7 +638,7 @@
         228,
         230
       ],
-      "description": "Oglesby describes Gay’s role in the Hughes personal-aide system and the board’s use of those aides to obtain a proxy and cut Maheu’s communications. The proxy’s authenticity was disputed.",
+      "description": "Oglesby describes Gay\u2019s role in the Hughes personal-aide system and the board\u2019s use of those aides to obtain a proxy and cut Maheu\u2019s communications. The proxy\u2019s authenticity was disputed.",
       "evidence": "source-reported"
     },
     {
@@ -658,7 +660,7 @@
         230,
         238
       ],
-      "description": "Oglesby identifies Eckersley as a leader of Hughes’s personal guard and says he notarized the proxy giving the Davis group powers of attorney. Authenticity was disputed; the edge records his reported role rather than resolving that dispute.",
+      "description": "Oglesby identifies Eckersley as a leader of Hughes\u2019s personal guard and says he notarized the proxy giving the Davis group powers of attorney. Authenticity was disputed; the edge records his reported role rather than resolving that dispute.",
       "evidence": "source-reported"
     },
     {
@@ -670,7 +672,7 @@
         231,
         238
       ],
-      "description": "Oglesby identifies Myler as a personal aide, witness and custodian of the disputed Hughes proxy, later presented to court. The source recounts opposed authenticity opinions and the court’s acceptance of the Davis side.",
+      "description": "Oglesby identifies Myler as a personal aide, witness and custodian of the disputed Hughes proxy, later presented to court. The source recounts opposed authenticity opinions and the court\u2019s acceptance of the Davis side.",
       "evidence": "source-reported"
     },
     {
@@ -681,7 +683,7 @@
         227,
         233
       ],
-      "description": "Oglesby names Edward P. Morgan as Maheu’s friend and lawyer, including his participation in the formal dismissal meeting. This is the lawyer Edward P. Morgan, not the banker John Pierpont Morgan.",
+      "description": "Oglesby names Edward P. Morgan as Maheu\u2019s friend and lawyer, including his participation in the formal dismissal meeting. This is the lawyer Edward P. Morgan, not the banker John Pierpont Morgan.",
       "evidence": "source-reported"
     },
     {
@@ -697,11 +699,11 @@
     {
       "fromId": "maheu",
       "toId": "clark-clifford",
-      "label": "Consults Clifford’s firm about TWA litigation",
+      "label": "Consults Clifford\u2019s firm about TWA litigation",
       "pages": [
         227
       ],
-      "description": "Oglesby describes Maheu approaching Clifford’s law firm among four firms for advice on salvaging the TWA dispute. This records a legal consultation, not evidence of a covert political alliance.",
+      "description": "Oglesby describes Maheu approaching Clifford\u2019s law firm among four firms for advice on salvaging the TWA dispute. This records a legal consultation, not evidence of a covert political alliance.",
       "evidence": "source-reported"
     },
     {
@@ -712,7 +714,7 @@
         231,
         232
       ],
-      "description": "Oglesby describes Golden’s Secret Service assignment to Vice President Nixon in 1957 and later leave from Lockheed to direct Nixon campaign security. The author’s proposed connection to the 1970 Hughes struggle remains an open investigative question.",
+      "description": "Oglesby describes Golden\u2019s Secret Service assignment to Vice President Nixon in 1957 and later leave from Lockheed to direct Nixon campaign security. The author\u2019s proposed connection to the 1970 Hughes struggle remains an open investigative question.",
       "evidence": "source-reported"
     },
     {
@@ -722,7 +724,7 @@
       "pages": [
         232
       ],
-      "description": "Oglesby describes Golden becoming Resorts International’s deputy security director on Paradise Island after Nixon’s election.",
+      "description": "Oglesby describes Golden becoming Resorts International\u2019s deputy security director on Paradise Island after Nixon\u2019s election.",
       "evidence": "source-reported"
     },
     {
@@ -732,7 +734,7 @@
       "pages": [
         232
       ],
-      "description": "Oglesby describes Golden as a founding Intertel officer and vice-president at the time of Hughes’s 1970 Bahamas move, giving a specific role beyond the existing generic affiliation.",
+      "description": "Oglesby describes Golden as a founding Intertel officer and vice-president at the time of Hughes\u2019s 1970 Bahamas move, giving a specific role beyond the existing generic affiliation.",
       "evidence": "source-reported"
     },
     {
@@ -742,7 +744,7 @@
       "pages": [
         232
       ],
-      "description": "Oglesby states that Golden later joined the Hughes Las Vegas staff. No date is supplied for this transition, and the author’s speculation about Nixon’s influence is not treated as established responsibility.",
+      "description": "Oglesby states that Golden later joined the Hughes Las Vegas staff. No date is supplied for this transition, and the author\u2019s speculation about Nixon\u2019s influence is not treated as established responsibility.",
       "evidence": "source-reported"
     },
     {
@@ -812,7 +814,7 @@
       "pages": [
         240
       ],
-      "description": "Oglesby states that the firm helped raise roughly 10 million dollars for Nixon’s 1972 campaign. This reported campaign relationship is distinct from the separately cited CIA-cover relationship.",
+      "description": "Oglesby states that the firm helped raise roughly 10 million dollars for Nixon\u2019s 1972 campaign. This reported campaign relationship is distinct from the separately cited CIA-cover relationship.",
       "evidence": "source-reported"
     },
     {
@@ -822,7 +824,7 @@
       "pages": [
         240
       ],
-      "description": "Oglesby recounts McCord’s testimony that Liddy described Hughes money passing through Bennett, including an initial 50,000 dollars and a later 100,000-dollar payment. This is a reported testimony chain rather than a directly verified ledger transaction.",
+      "description": "Oglesby recounts McCord\u2019s testimony that Liddy described Hughes money passing through Bennett, including an initial 50,000 dollars and a later 100,000-dollar payment. This is a reported testimony chain rather than a directly verified ledger transaction.",
       "evidence": "author-interpretation"
     },
     {
@@ -833,7 +835,7 @@
         243,
         321
       ],
-      "description": "Oglesby describes Alch as McCord’s CREEP-appointed lawyer. Alch denied McCord’s separate allegations about manufacturing a CIA defense, which are not inferred from the appointment.",
+      "description": "Oglesby describes Alch as McCord\u2019s CREEP-appointed lawyer. Alch denied McCord\u2019s separate allegations about manufacturing a CIA defense, which are not inferred from the appointment.",
       "evidence": "source-reported"
     },
     {
@@ -843,17 +845,17 @@
       "pages": [
         243
       ],
-      "description": "Oglesby reproduces McCord’s account that Alch had just come from Bittman’s office before discussing trial silence and clemency. The account is source-attributed and does not establish Bittman authorized each statement Alch allegedly made.",
+      "description": "Oglesby reproduces McCord\u2019s account that Alch had just come from Bittman\u2019s office before discussing trial silence and clemency. The account is source-attributed and does not establish Bittman authorized each statement Alch allegedly made.",
       "evidence": "author-interpretation"
     },
     {
       "fromId": "dorothy-hunt",
       "toId": "bernard-barker",
-      "label": "Defendants’ financial-support contact",
+      "label": "Defendants\u2019 financial-support contact",
       "pages": [
         244
       ],
-      "description": "Oglesby quotes Barker describing Dorothy Hunt instructing him to meet her and telling him she would be his contact for assistance. The edge records that reported support role without treating it as proof of the author’s wider control theory.",
+      "description": "Oglesby quotes Barker describing Dorothy Hunt instructing him to meet her and telling him she would be his contact for assistance. The edge records that reported support role without treating it as proof of the author\u2019s wider control theory.",
       "evidence": "source-reported"
     },
     {
@@ -864,7 +866,7 @@
         243,
         244
       ],
-      "description": "Oglesby recounts McCord’s refusal to take further money from Dorothy Hunt because he regarded it as a means of keeping defendants quiet. That interpretation is McCord’s account; the reported funding relationship does not independently prove every proposed motive.",
+      "description": "Oglesby recounts McCord\u2019s refusal to take further money from Dorothy Hunt because he regarded it as a means of keeping defendants quiet. That interpretation is McCord\u2019s account; the reported funding relationship does not independently prove every proposed motive.",
       "evidence": "source-reported"
     },
     {
@@ -876,7 +878,7 @@
         253,
         254
       ],
-      "description": "Oglesby reproduces Ruckelshaus’s response as acting FBI director to Reed’s questions about the crash investigation. The answer says the bureau investigated possible federal offenses and initially did not know Dorothy Hunt was aboard.",
+      "description": "Oglesby reproduces Ruckelshaus\u2019s response as acting FBI director to Reed\u2019s questions about the crash investigation. The answer says the bureau investigated possible federal offenses and initially did not know Dorothy Hunt was aboard.",
       "evidence": "source-reported"
     },
     {
@@ -889,7 +891,7 @@
         253,
         254
       ],
-      "description": "Oglesby reproduces the NTSB request for explanations of unusual early FBI actions and the FBI’s jurisdictional response. The existence of the exchange is distinct from the author’s sabotage suspicions.",
+      "description": "Oglesby reproduces the NTSB request for explanations of unusual early FBI actions and the FBI\u2019s jurisdictional response. The existence of the exchange is distinct from the author\u2019s sabotage suspicions.",
       "evidence": "source-reported"
     },
     {
@@ -909,7 +911,7 @@
       "pages": [
         257
       ],
-      "description": "Oglesby states that Butterfield served Nixon as White House liaison with the CIA. This does not imply that he was a CIA officer or establish the author’s interpretation of the later FAA assignment.",
+      "description": "Oglesby states that Butterfield served Nixon as White House liaison with the CIA. This does not imply that he was a CIA officer or establish the author\u2019s interpretation of the later FAA assignment.",
       "evidence": "source-reported"
     },
     {
@@ -919,7 +921,7 @@
       "pages": [
         257
       ],
-      "description": "Oglesby describes Butterfield as a Haldeman associate from UCLA and mentions the wives’ shared sorority connection. The edge records the aide/personal association, not a covert chain of command inferred solely from a social tie.",
+      "description": "Oglesby describes Butterfield as a Haldeman associate from UCLA and mentions the wives\u2019 shared sorority connection. The edge records the aide/personal association, not a covert chain of command inferred solely from a social tie.",
       "evidence": "source-reported"
     },
     {
@@ -929,7 +931,7 @@
       "pages": [
         257
       ],
-      "description": "Oglesby identifies Chapin as a key Haldeman aide before his departure for United’s Chicago office.",
+      "description": "Oglesby identifies Chapin as a key Haldeman aide before his departure for United\u2019s Chicago office.",
       "evidence": "source-reported"
     },
     {
@@ -940,13 +942,13 @@
         259,
         260
       ],
-      "description": "Oglesby places Miller’s Bureau of Aviation Safety work within the NTSB investigation and recounts his dispute with general manager Spears. This specifies the organizational context without adopting the source’s inconsistent implication elsewhere that the bureau was an FAA unit.",
+      "description": "Oglesby places Miller\u2019s Bureau of Aviation Safety work within the NTSB investigation and recounts his dispute with general manager Spears. This specifies the organizational context without adopting the source\u2019s inconsistent implication elsewhere that the bureau was an FAA unit.",
       "evidence": "source-reported"
     },
     {
       "fromId": "richard-spears",
       "toId": "aviation-safety-bureau",
-      "label": "Replaces bureau leadership during Miller’s absence",
+      "label": "Replaces bureau leadership during Miller\u2019s absence",
       "pages": [
         259,
         260
@@ -962,7 +964,7 @@
         262,
         264
       ],
-      "description": "Oglesby discusses Whitehouse as the captain of United’s Flight 553 in the toxicology and crash-injury debate. Employment and command of the flight are distinct from disputed poisoning and sabotage hypotheses.",
+      "description": "Oglesby discusses Whitehouse as the captain of United\u2019s Flight 553 in the toxicology and crash-injury debate. Employment and command of the flight are distinct from disputed poisoning and sabotage hypotheses.",
       "evidence": "source-reported"
     },
     {
@@ -973,7 +975,7 @@
         313,
         314
       ],
-      "description": "Oglesby identifies Gaynor as a CIA agent when introducing McCord’s December 22 letter. The correspondence alone does not establish Gaynor secretly directed the Watergate operation.",
+      "description": "Oglesby identifies Gaynor as a CIA agent when introducing McCord\u2019s December 22 letter. The correspondence alone does not establish Gaynor secretly directed the Watergate operation.",
       "evidence": "source-reported"
     },
     {
@@ -984,7 +986,7 @@
         301,
         303
       ],
-      "description": "Oglesby reproduces McCord’s resume describing reserve rank and command of a wartime information-and-security detachment. This is a specific military affiliation, distinct from the disputed theory that his 1970 CIA retirement was false.",
+      "description": "Oglesby reproduces McCord\u2019s resume describing reserve rank and command of a wartime information-and-security detachment. This is a specific military affiliation, distinct from the disputed theory that his 1970 CIA retirement was false.",
       "evidence": "source-reported"
     },
     {
@@ -994,7 +996,7 @@
       "pages": [
         320
       ],
-      "description": "Oglesby describes Fensterwald as associated with Garrison’s investigation and treats CTIA as an information and public-relations instrument around that campaign. The source does not establish a formal employment contract.",
+      "description": "Oglesby describes Fensterwald as associated with Garrison\u2019s investigation and treats CTIA as an information and public-relations instrument around that campaign. The source does not establish a formal employment contract.",
       "evidence": "source-reported"
     },
     {
@@ -1004,7 +1006,7 @@
       "pages": [
         320
       ],
-      "description": "Oglesby suggests the committee was formed partly as a public-relations instrument for Garrison’s operation. The presumed purpose is the author’s interpretation, not a documented organizational charter clause.",
+      "description": "Oglesby suggests the committee was formed partly as a public-relations instrument for Garrison\u2019s operation. The presumed purpose is the author\u2019s interpretation, not a documented organizational charter clause.",
       "evidence": "author-interpretation"
     },
     {
@@ -1015,17 +1017,17 @@
         322,
         323
       ],
-      "description": "Oglesby recounts Bob Smith’s explanation that Russell endorsed security-company paychecks to CTIA and received equal personal checks from Fensterwald. The transactions are distinct from Alch’s disputed claim that McCord had made prior contributions.",
+      "description": "Oglesby recounts Bob Smith\u2019s explanation that Russell endorsed security-company paychecks to CTIA and received equal personal checks from Fensterwald. The transactions are distinct from Alch\u2019s disputed claim that McCord had made prior contributions.",
       "evidence": "source-reported"
     },
     {
       "fromId": "lou-russell",
       "toId": "nixon",
-      "label": "Earlier investigative service alleged in an aide’s note",
+      "label": "Earlier investigative service alleged in an aide\u2019s note",
       "pages": [
         323
       ],
-      "description": "Oglesby quotes an unnamed former CTIA aide claiming Russell was Nixon’s chief investigator during the Hiss affair. This is an attributed note and is not promoted to a verified personnel record.",
+      "description": "Oglesby quotes an unnamed former CTIA aide claiming Russell was Nixon\u2019s chief investigator during the Hiss affair. This is an attributed note and is not promoted to a verified personnel record.",
       "evidence": "author-interpretation"
     },
     {
@@ -1036,17 +1038,17 @@
         319,
         320
       ],
-      "description": "Oglesby describes McCord’s March 19 letter to Judge Sirica identifying White House and campaign involvement. The judicial recipient relationship is distinct from the author’s theory that McCord was carrying out a continuing CIA mission.",
+      "description": "Oglesby describes McCord\u2019s March 19 letter to Judge Sirica identifying White House and campaign involvement. The judicial recipient relationship is distinct from the author\u2019s theory that McCord was carrying out a continuing CIA mission.",
       "evidence": "source-reported"
     },
     {
       "fromId": "trilateral",
       "toId": "bilderberg",
-      "label": "Author’s network-offshoot interpretation",
+      "label": "Author\u2019s network-offshoot interpretation",
       "pages": [
         325
       ],
-      "description": "Oglesby calls the Trilateral Commission an offshoot of the Bilderberg Group, Round Table and CFR. This is the author’s elite-network interpretation, not proof that the bodies share a legal parent or fixed membership.",
+      "description": "Oglesby calls the Trilateral Commission an offshoot of the Bilderberg Group, Round Table and CFR. This is the author\u2019s elite-network interpretation, not proof that the bodies share a legal parent or fixed membership.",
       "evidence": "author-interpretation"
     },
     {
@@ -1056,7 +1058,7 @@
       "pages": [
         325
       ],
-      "description": "Oglesby identifies Rockefeller as forming the Commission in 1973 on Brzezinski’s advice, supplying a specific founding role beyond generic affiliation.",
+      "description": "Oglesby identifies Rockefeller as forming the Commission in 1973 on Brzezinski\u2019s advice, supplying a specific founding role beyond generic affiliation.",
       "evidence": "source-reported"
     },
     {
@@ -1066,7 +1068,7 @@
       "pages": [
         326
       ],
-      "description": "Oglesby lists Carter’s appointment of Brzezinski as national security adviser among appointments of Trilateral members. Membership and appointment are stated roles; the wider establishment-control explanation is interpretive.",
+      "description": "Oglesby lists Carter\u2019s appointment of Brzezinski as national security adviser among appointments of Trilateral members. Membership and appointment are stated roles; the wider establishment-control explanation is interpretive.",
       "evidence": "source-reported"
     },
     {
@@ -1076,7 +1078,7 @@
       "pages": [
         326
       ],
-      "description": "Oglesby lists Brown’s appointment as secretary of defense in Carter’s initial administration alongside his Trilateral membership.",
+      "description": "Oglesby lists Brown\u2019s appointment as secretary of defense in Carter\u2019s initial administration alongside his Trilateral membership.",
       "evidence": "source-reported"
     },
     {
@@ -1096,7 +1098,7 @@
       "pages": [
         326
       ],
-      "description": "Oglesby names Vance as Carter’s secretary of state and a Trilateral member. The appointment is distinct from the author’s claims about elite influence over the presidency.",
+      "description": "Oglesby names Vance as Carter\u2019s secretary of state and a Trilateral member. The appointment is distinct from the author\u2019s claims about elite influence over the presidency.",
       "evidence": "source-reported"
     },
     {
@@ -1106,7 +1108,7 @@
       "pages": [
         326
       ],
-      "description": "Oglesby identifies Blumenthal as Carter’s treasury secretary among the listed Trilateral appointments. No new Treasury organization is required to represent this explicit appointment edge.",
+      "description": "Oglesby identifies Blumenthal as Carter\u2019s treasury secretary among the listed Trilateral appointments. No new Treasury organization is required to represent this explicit appointment edge.",
       "evidence": "source-reported"
     },
     {
@@ -1116,7 +1118,7 @@
       "pages": [
         326
       ],
-      "description": "Oglesby lists Young’s appointment as ambassador to the United Nations in Carter’s administration.",
+      "description": "Oglesby lists Young\u2019s appointment as ambassador to the United Nations in Carter\u2019s administration.",
       "evidence": "source-reported"
     },
     {
@@ -1126,7 +1128,7 @@
       "pages": [
         326
       ],
-      "description": "Oglesby lists Young as the United States ambassador to the United Nations after Carter’s appointment; this is a national diplomatic posting, not membership in UN administration.",
+      "description": "Oglesby lists Young as the United States ambassador to the United Nations after Carter\u2019s appointment; this is a national diplomatic posting, not membership in UN administration.",
       "evidence": "source-reported"
     },
     {
@@ -1152,11 +1154,11 @@
     {
       "fromId": "milner",
       "toId": "rhodes-trust",
-      "label": "Dominant trustee in 1905–1925",
+      "label": "Dominant trustee in 1905\u20131925",
       "pages": [
         40
       ],
-      "description": "Oglesby’s summary of Quigley identifies Milner as the dominant Rhodes Trust trustee during 1905–1925 and connects that role with Round Table formation.",
+      "description": "Oglesby\u2019s summary of Quigley identifies Milner as the dominant Rhodes Trust trustee during 1905\u20131925 and connects that role with Round Table formation.",
       "evidence": "source-reported"
     },
     {
@@ -1166,7 +1168,7 @@
       "pages": [
         40
       ],
-      "description": "Oglesby’s summary of Quigley lists George Louis Beer among the American Round Table group active by 1915. This is a source-reported roster link, distinct from a claim of formal public membership.",
+      "description": "Oglesby\u2019s summary of Quigley lists George Louis Beer among the American Round Table group active by 1915. This is a source-reported roster link, distinct from a claim of formal public membership.",
       "evidence": "source-reported"
     },
     {
@@ -1176,7 +1178,7 @@
       "pages": [
         40
       ],
-      "description": "Oglesby’s account quoting Quigley lists Frank Aydelotte in the American Round Table group by 1915.",
+      "description": "Oglesby\u2019s account quoting Quigley lists Frank Aydelotte in the American Round Table group by 1915.",
       "evidence": "source-reported"
     },
     {
@@ -1196,17 +1198,17 @@
       "pages": [
         40
       ],
-      "description": "Oglesby’s Quigley-based account lists Jerome D. Greene among the American Round Table participants.",
+      "description": "Oglesby\u2019s Quigley-based account lists Jerome D. Greene among the American Round Table participants.",
       "evidence": "source-reported"
     },
     {
       "fromId": "jp-morgan",
       "toId": "cfr",
-      "label": "Banking circle’s dominance interpreted",
+      "label": "Banking circle\u2019s dominance interpreted",
       "pages": [
         40
       ],
-      "description": "Oglesby’s summary of Quigley describes Morgan men dominating the CFR. This is the cited author’s account of financial influence rather than a formal corporate ownership relationship.",
+      "description": "Oglesby\u2019s summary of Quigley describes Morgan men dominating the CFR. This is the cited author\u2019s account of financial influence rather than a formal corporate ownership relationship.",
       "evidence": "author-interpretation"
     },
     {
@@ -1226,7 +1228,7 @@
       "pages": [
         40
       ],
-      "description": "Oglesby’s Quigley-based account calls the CFR the New York counterpart of the public-facing institute linked with the local Round Table group. This is an asserted network relationship rather than formal corporate control.",
+      "description": "Oglesby\u2019s Quigley-based account calls the CFR the New York counterpart of the public-facing institute linked with the local Round Table group. This is an asserted network relationship rather than formal corporate control.",
       "evidence": "author-interpretation"
     },
     {
@@ -1246,7 +1248,7 @@
       "pages": [
         206
       ],
-      "description": "Oglesby discusses David Rockefeller’s power through an interlocking corporate structure extending beyond Chase Manhattan. This records the banking-network association the text makes; it does not invent a specific bank office from a passage that does not name one.",
+      "description": "Oglesby discusses David Rockefeller\u2019s power through an interlocking corporate structure extending beyond Chase Manhattan. This records the banking-network association the text makes; it does not invent a specific bank office from a passage that does not name one.",
       "evidence": "author-interpretation"
     },
     {
@@ -1279,7 +1281,7 @@
         207,
         213
       ],
-      "description": "Oglesby names Irving Trust in the consortium and describes its representative’s insistence on acceptance of the Dillon, Read plan. The edge is specific to the financing struggle described.",
+      "description": "Oglesby names Irving Trust in the consortium and describes its representative\u2019s insistence on acceptance of the Dillon, Read plan. The edge is specific to the financing struggle described.",
       "evidence": "source-reported"
     },
     {
@@ -1300,18 +1302,28 @@
         245,
         246
       ],
-      "description": "Oglesby quotes McCord’s account explicitly naming Bittman as Hunt’s attorney and transmitting a threatened disclosure to campaign counsel. The book also describes him in the cover-up payment chain; those reported actions remain source-qualified.",
+      "description": "Oglesby quotes McCord\u2019s account explicitly naming Bittman as Hunt\u2019s attorney and transmitting a threatened disclosure to campaign counsel. The book also describes him in the cover-up payment chain; those reported actions remain source-qualified.",
       "evidence": "source-reported"
     },
     {
       "fromId": "hughes",
       "toId": "bebe-rebozo",
-      "label": "Hughes cash delivered and held in Rebozo’s account",
+      "label": "Hughes cash delivered and held in Rebozo\u2019s account",
       "pages": [
         208
       ],
-      "description": "Oglesby recounts the disputed 100,000-dollar Hughes cash transfer of 1969–1970 and Rebozo’s account that he held it for three years and returned it. The edge preserves the reported transaction and return claim without choosing a covert purpose.",
+      "description": "Oglesby recounts the disputed 100,000-dollar Hughes cash transfer of 1969\u20131970 and Rebozo\u2019s account that he held it for three years and returned it. The edge preserves the reported transaction and return claim without choosing a covert purpose.",
       "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "guaranty-trust",
+      "toId": "general-dynamics",
+      "label": "Conditional ownership comparison",
+      "description": "Oglesby\u2019s Chapter 1 note says Morgan Guarantee Trust and Chemical Bank may own General Dynamics, then contrasts northeastern financial ownership with Sunbelt plant locations. The conditional language is preserved; this passage gives no ownership percentage or directorship.",
+      "pages": [
+        355
+      ],
+      "evidence": "Conditional claim in Oglesby\u2019s comparative argument; not independently verified"
     }
   ],
   "profileUpdates": [
@@ -1320,20 +1332,20 @@
       "pages": [
         40
       ],
-      "description": "Oglesby, summarizing Quigley, describes Cecil Rhodes’s English-speaking federation aims and early support for the Round Table through his associates and the Rhodes Trust. The account distinguishes that legacy from the later institutes and American banking networks."
+      "description": "Oglesby, summarizing Quigley, describes Cecil Rhodes\u2019s English-speaking federation aims and early support for the Round Table through his associates and the Rhodes Trust. The account distinguishes that legacy from the later institutes and American banking networks."
     },
     {
       "id": "milner",
       "pages": [
         40
       ],
-      "description": "Oglesby’s Quigley-based account identifies Milner as the dominant Rhodes Trust trustee of 1905–1925 and connects his initiatives with Round Table formation and recruitment of British experts at the Paris Peace Conference."
+      "description": "Oglesby\u2019s Quigley-based account identifies Milner as the dominant Rhodes Trust trustee of 1905\u20131925 and connects his initiatives with Round Table formation and recruitment of British experts at the Paris Peace Conference."
     }
   ],
   "unresolved": [
     {
       "id": "john-meier",
-      "reason": "PDF p 222 explicitly names prior Rand Corporation and Nixon environmental-task-force affiliations, and pp 222–224 name Toledo Mining employment. None of those organizations has an existing canonical ID in this audit; the Hughes employment edge is added, while these require separate entity intake.",
+      "reason": "PDF p 222 explicitly names prior Rand Corporation and Nixon environmental-task-force affiliations, and pp 222\u2013224 name Toledo Mining employment. None of those organizations has an existing canonical ID in this audit; the Hughes employment edge is added, while these require separate entity intake.",
       "pages": [
         222,
         224
@@ -1349,7 +1361,7 @@
     },
     {
       "id": "james-mccord",
-      "reason": "PDF pp 301–304 list universities, the Republican National Committee and a second genealogy company not present as canonical IDs. Air Force and existing security-company roles are graphed; CIA ongoing-service and double-agent theories remain disputed rather than inferred from retirement credentials.",
+      "reason": "PDF pp 301\u2013304 list universities, the Republican National Committee and a second genealogy company not present as canonical IDs. Air Force and existing security-company roles are graphed; CIA ongoing-service and double-agent theories remain disputed rather than inferred from retirement credentials.",
       "pages": [
         301,
         303,
@@ -1358,7 +1370,7 @@
     },
     {
       "id": "lou-russell",
-      "reason": "The unnamed aide’s note on p 323 names General Security Services and the Hiss-era investigative role; that company lacks a canonical ID. The note’s Nixon link is retained as an attributed allegation and the existing CTIA/security-company transactions are separately graphed.",
+      "reason": "The unnamed aide\u2019s note on p 323 names General Security Services and the Hiss-era investigative role; that company lacks a canonical ID. The note\u2019s Nixon link is retained as an attributed allegation and the existing CTIA/security-company transactions are separately graphed.",
       "pages": [
         322,
         323
@@ -1373,14 +1385,14 @@
     },
     {
       "id": "duong-van-minh",
-      "reason": "PDF p 85 describes Minh’s regime replacing Diem and supporting negotiations. This establishes political succession, not a direct affiliation or patronage edge to Diem, Kennedy or the CIA; no such edge is inferred.",
+      "reason": "PDF p 85 describes Minh\u2019s regime replacing Diem and supporting negotiations. This establishes political succession, not a direct affiliation or patronage edge to Diem, Kennedy or the CIA; no such edge is inferred.",
       "pages": [
         85
       ]
     },
     {
       "id": "cbs",
-      "reason": "Source passages describe broadcaster coverage, interviews and holdings. The O’Toole archive-material relationship is added, but criticism of coverage does not establish CIA control or a covert organizational affiliation.",
+      "reason": "Source passages describe broadcaster coverage, interviews and holdings. The O\u2019Toole archive-material relationship is added, but criticism of coverage does not establish CIA control or a covert organizational affiliation.",
       "pages": [
         106,
         118,
@@ -1391,7 +1403,7 @@
     },
     {
       "id": "aviation-safety-bureau",
-      "reason": "PDF p 258 calls the BAS an FAA investigative arm while pp 259–260 describe it in NTSB management. To avoid encoding an inconsistent agency hierarchy, direct BAS→FAA parentage is withheld; Miller’s NTSB investigation context is represented instead.",
+      "reason": "PDF p 258 calls the BAS an FAA investigative arm while pp 259\u2013260 describe it in NTSB management. To avoid encoding an inconsistent agency hierarchy, direct BAS\u2192FAA parentage is withheld; Miller\u2019s NTSB investigation context is represented instead.",
       "pages": [
         258,
         259,
@@ -1400,12 +1412,12 @@
     },
     {
       "id": "paul-laxalt",
-      "reason": "The cited passages contain praise of Hughes’s economic importance and identification of a telephone caller, but do not establish employment, sponsorship or company control. No political-influence edge is invented from those comments.",
+      "reason": "The cited passages contain praise of Hughes\u2019s economic importance and identification of a telephone caller, but do not establish employment, sponsorship or company control. No political-influence edge is invented from those comments.",
       "pages": [
         218,
         238
       ]
     }
   ],
-  "summary": "Reviewed all 162 Yankee-source people and organizations, comparing their source-specific profiles, related events and existing graph edges with affiliation passages across 157 cited PDF pages. Added missing institutional, employment, client, financing, appointment and investigative links; refined generic edges only where a specific role adds information. Source-reported roles, witness allegations, disputed accounts and Oglesby’s analytical faction classifications remain distinguished. Mere shared addresses, meeting attendance and coexistence in a narrative are not promoted into control or influence claims."
+  "summary": "Reviewed all 162 Yankee-source people and organizations, comparing their source-specific profiles, related events and existing graph edges with affiliation passages across 157 cited PDF pages. Added missing institutional, employment, client, financing, appointment and investigative links; refined generic edges only where a specific role adds information. Source-reported roles, witness allegations, disputed accounts and Oglesby\u2019s analytical faction classifications remain distinguished. Mere shared addresses, meeting attendance and coexistence in a narrative are not promoted into control or influence claims."
 }

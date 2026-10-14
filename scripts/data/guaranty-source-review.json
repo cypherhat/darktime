@@ -1,0 +1,135 @@
+{
+  "searchTerms": [
+    "Guaranty",
+    "Guarantee Trust",
+    "Morgan Guarantee"
+  ],
+  "coverage": {
+    "anglo": "No matching institution passage found in extracted text.",
+    "scott": "No matching institution passage found in extracted text.",
+    "yankee": "PDF page 355, printed page 339: visually verified conditional General Dynamics ownership comparison.",
+    "tragedy": "PDF pages 58, 449, 812: subsidiary, banking nexus and merger/absorption."
+  },
+  "identityNote": "Guaranty Trust is tracked as a continuing institution through its Morgan merger; Oglesby\u2019s Morgan Guarantee Trust spelling is retained as an alias. The source does not establish a holding percentage.",
+  "networkNote": "The Morgan nexus is an explicitly author-defined grouping. Member banks are linked through this grouping rather than fabricating bilateral ownership or personal affiliations.",
+  "relationships": [
+    {
+      "id": "tragedy-guaranty-review-network-jp-morgan",
+      "fromId": "jp-morgan",
+      "toId": "morgan-banking-nexus",
+      "label": "Named banking-network participant",
+      "description": "Quigley explicitly names this institution in the Morgan banking nexus on PDF page 449. The edge records participation in his described network; it does not assert a direct ownership relationship with every other participant.",
+      "pages": [
+        449
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            449
+          ]
+        }
+      ],
+      "evidence": "Quigley\u2019s analytical grouping; not a formal corporate roster"
+    },
+    {
+      "id": "tragedy-guaranty-review-network-guaranty-trust",
+      "fromId": "guaranty-trust",
+      "toId": "morgan-banking-nexus",
+      "label": "Named banking-network participant",
+      "description": "Quigley explicitly names this institution in the Morgan banking nexus on PDF page 449. The edge records participation in his described network; it does not assert a direct ownership relationship with every other participant.",
+      "pages": [
+        449
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            449
+          ]
+        }
+      ],
+      "evidence": "Quigley\u2019s analytical grouping; not a formal corporate roster"
+    },
+    {
+      "id": "tragedy-guaranty-review-network-bankers-trust",
+      "fromId": "bankers-trust",
+      "toId": "morgan-banking-nexus",
+      "label": "Named banking-network participant",
+      "description": "Quigley explicitly names this institution in the Morgan banking nexus on PDF page 449. The edge records participation in his described network; it does not assert a direct ownership relationship with every other participant.",
+      "pages": [
+        449
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            449
+          ]
+        }
+      ],
+      "evidence": "Quigley\u2019s analytical grouping; not a formal corporate roster"
+    },
+    {
+      "id": "tragedy-guaranty-review-network-industry-att",
+      "fromId": "morgan-banking-nexus",
+      "toId": "att",
+      "label": "Collective corporate influence attributed to nexus",
+      "description": "Quigley includes this business among firms influenced by the whole Morgan banking nexus. The source does not assign its control separately to Guaranty Trust or every bank listed.",
+      "pages": [
+        449,
+        450
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            449,
+            450
+          ]
+        }
+      ],
+      "evidence": "Collective influence asserted by Quigley"
+    },
+    {
+      "id": "tragedy-guaranty-review-network-industry-us-steel",
+      "fromId": "morgan-banking-nexus",
+      "toId": "us-steel",
+      "label": "Collective corporate influence attributed to nexus",
+      "description": "Quigley includes this business among firms influenced by the whole Morgan banking nexus. The source does not assign its control separately to Guaranty Trust or every bank listed.",
+      "pages": [
+        449,
+        450
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            449,
+            450
+          ]
+        }
+      ],
+      "evidence": "Collective influence asserted by Quigley"
+    },
+    {
+      "id": "yankee-guaranty-review-general-dynamics",
+      "fromId": "guaranty-trust",
+      "toId": "general-dynamics",
+      "label": "Conditional ownership comparison",
+      "description": "Oglesby\u2019s Chapter 1 note says Morgan Guarantee Trust and Chemical Bank may own General Dynamics, then contrasts northeastern financial ownership with Sunbelt plant locations. The conditional language is preserved; this passage gives no ownership percentage or directorship.",
+      "pages": [
+        355
+      ],
+      "citations": [
+        {
+          "sourceId": "yankee",
+          "pages": [
+            355
+          ]
+        }
+      ],
+      "evidence": "Conditional claim in Oglesby\u2019s comparative argument; not independently verified"
+    }
+  ]
+}

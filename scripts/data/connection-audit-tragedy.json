@@ -330,7 +330,8 @@
     "union-african-states",
     "eastern-establishment-quigley",
     "cuban-exile-executive-committee",
-    "rockefeller-foundation"
+    "rockefeller-foundation",
+    "morgan-banking-nexus"
   ],
   "relationships": [
     {
@@ -348,9 +349,11 @@
       "toId": "guaranty-trust",
       "label": "Commercial subsidiary and merger partner",
       "pages": [
-        58
+        58,
+        449,
+        812
       ],
-      "description": "Quigley calls Guaranty Trust Morgan\u2019s most important commercial-bank subsidiary and dates their merger to April 24, 1959.",
+      "description": "Quigley calls Guaranty Trust Morgan\u2019s principal commercial-bank subsidiary, includes it in a wider banking nexus, and describes the April 24, 1959 merger as ending Morgan\u2019s separate existence. His later account characterizes this as absorption into the banking subsidiary.",
       "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
     },
     {
@@ -839,6 +842,58 @@
       ],
       "description": "Quigley describes Greene\u2019s Rockefeller Foundation trusteeship among his philanthropic and institutional posts; the later passage describes his return to these circles after 1934.",
       "evidence": "Attributed to Quigley\u2019s body text; not independently verified."
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "morgan-banking-nexus",
+      "label": "Named banking-network participant",
+      "description": "Quigley explicitly names this institution in the Morgan banking nexus on PDF page 449. The edge records participation in his described network; it does not assert a direct ownership relationship with every other participant.",
+      "pages": [
+        449
+      ],
+      "evidence": "Quigley\u2019s analytical grouping; not a formal corporate roster"
+    },
+    {
+      "fromId": "guaranty-trust",
+      "toId": "morgan-banking-nexus",
+      "label": "Named banking-network participant",
+      "description": "Quigley explicitly names this institution in the Morgan banking nexus on PDF page 449. The edge records participation in his described network; it does not assert a direct ownership relationship with every other participant.",
+      "pages": [
+        449
+      ],
+      "evidence": "Quigley\u2019s analytical grouping; not a formal corporate roster"
+    },
+    {
+      "fromId": "bankers-trust",
+      "toId": "morgan-banking-nexus",
+      "label": "Named banking-network participant",
+      "description": "Quigley explicitly names this institution in the Morgan banking nexus on PDF page 449. The edge records participation in his described network; it does not assert a direct ownership relationship with every other participant.",
+      "pages": [
+        449
+      ],
+      "evidence": "Quigley\u2019s analytical grouping; not a formal corporate roster"
+    },
+    {
+      "fromId": "morgan-banking-nexus",
+      "toId": "att",
+      "label": "Collective corporate influence attributed to nexus",
+      "description": "Quigley includes this business among firms influenced by the whole Morgan banking nexus. The source does not assign its control separately to Guaranty Trust or every bank listed.",
+      "pages": [
+        449,
+        450
+      ],
+      "evidence": "Collective influence asserted by Quigley"
+    },
+    {
+      "fromId": "morgan-banking-nexus",
+      "toId": "us-steel",
+      "label": "Collective corporate influence attributed to nexus",
+      "description": "Quigley includes this business among firms influenced by the whole Morgan banking nexus. The source does not assign its control separately to Guaranty Trust or every bank listed.",
+      "pages": [
+        449,
+        450
+      ],
+      "evidence": "Collective influence asserted by Quigley"
     }
   ],
   "profileUpdates": [

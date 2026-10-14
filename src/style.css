@@ -1619,9 +1619,14 @@ select {
   color: #c4b085;
 }
 
-/* One document scroll; timeline navigation uses the diagram's pan/zoom. */
+/* The content uses document scrolling; the fixed navigation scrolls independently. */
 .sidebar {
-  overflow: visible;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.sidebar > * {
+  flex-shrink: 0;
 }
 .sidebar-note summary,
 .thread-controls > summary,
@@ -1637,13 +1642,10 @@ select {
   padding: 12px 8px;
 }
 .sidebar-note[open] .collection-nav {
-  position: absolute;
-  left: 12px;
-  right: 12px;
+  position: static;
   background: #20261e;
   padding: 12px;
   border: 1px solid #59604c;
-  z-index: 20;
 }
 .sidebar-note p {
   display: none;
@@ -1919,4 +1921,27 @@ select {
 .entity-track-chips button {
   margin-left: 15px;
   font-size: 18px;
+}
+
+.global-source-controls {
+  position: sticky;
+  top: 0;
+  z-index: 9;
+  background: #171d17;
+  border-bottom: 1px solid #59604c;
+  padding: 10px 0;
+  box-shadow: 0 6px 12px #10141066;
+}
+.global-source-controls .collection-bar { margin: 0; padding: 0 0 10px; border: 0; }
+.global-source-controls .source-selection { margin: 0; gap: 12px 20px; padding: 10px 12px; }
+.global-source-controls .source-selection legend { font-size: 11px; color: #d3b889; }
+.global-source-controls > p { margin: 8px 0 0; font-size: 11px; color: #a9b39a; }
+.timeline-selection-bar { position: static; }
+.timeline-selection-bar:empty { display: none; }
+@media (max-width: 760px) {
+  .global-source-controls .source-selection { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .global-source-controls .source-selection label { font-size: 10px; }
+  .global-source-controls .source-selection label small { display: none; }
+  .global-source-controls .collection-bar { gap: 8px; }
+  .global-source-controls .collection-bar strong { font-size: 12px; }
 }

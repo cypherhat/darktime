@@ -260,13 +260,13 @@ test("timeline uses document scrolling and keeps source controls in view", async
   await expect(page.locator(".timeline svg")).toBeVisible();
   await page.locator(".timeline-layout").scrollIntoViewIfNeeded();
   const nestedScroll = await page
-    .locator(".timeline-layout, .chart-scroll, .sidebar")
+    .locator(".timeline-layout, .chart-scroll")
     .evaluateAll((elements) =>
       elements.some((el) => /auto|scroll/.test(getComputedStyle(el).overflowY)),
     );
   expect(nestedScroll).toBe(false);
   await page.evaluate(() => window.scrollBy(0, 700));
-  const bounds = await page.locator(".timeline-selection-bar").boundingBox();
+  const bounds = await page.locator(".global-source-controls").boundingBox();
   expect(bounds!.y).toBeGreaterThanOrEqual(0);
   expect(bounds!.y).toBeLessThan(50);
   await expect(
@@ -514,4 +514,42 @@ test("audited source affiliations appear in entity details", async ({page}) => {
     await expect(dialog).toContainText(label);
     await expect(dialog).toContainText("Source references");
   }
+});
+
+
+test("fixed navigation scrolls to every collection on short screens", async ({page}) => {
+  await page.setViewportSize({width:1440,height:640});
+  await page.goto("/?collection=tragedy");
+  await page.locator(".sidebar-note summary").click();
+  const sidebar=page.locator(".sidebar");
+  const last=page.locator(".collection-nav button").last();
+  await last.scrollIntoViewIfNeeded();
+  await expect(last).toBeInViewport();
+  expect(await sidebar.evaluate(el=>getComputedStyle(el).overflowY)).toBe("auto");
+  const bounds=await sidebar.boundingBox();
+  expect(bounds!.height).toBeLessThanOrEqual(640);
+  await page.screenshot({path:"tmp/pdfs/dark-time-navigation.png"});
+});
+
+test("global sources combine Guaranty connections and preserve graph focus", async ({page}) => {
+  await page.goto("/?collection=tragedy#guaranty-trust");
+  const dialog=page.getByRole("dialog",{name:"Guaranty Trust Company",exact:true});
+  await expect(dialog).toContainText("Named banking-network participant");
+  await expect(dialog).not.toContainText("Conditional ownership comparison");
+  await dialog.getByRole("button",{name:"Explore connections",exact:true}).click();
+  const sources=page.getByRole("region",{name:"Selected archive sources"});
+  await expect(sources).toBeVisible();
+  await sources.getByRole("checkbox",{name:"Include The Yankee and Cowboy War"}).check();
+  await expect(page.getByLabel("Connection focus")).toHaveValue("guaranty-trust");
+  await expect(page.locator(".workspace")).toContainText("Conditional ownership comparison");
+  await expect(page.locator(".workspace")).toContainText("General Dynamics");
+  await expect(page.locator(".workspace")).toContainText("Morgan banking nexus");
+  await page.locator(".workspace").scrollIntoViewIfNeeded();
+  const bounds=await sources.boundingBox();
+  expect(bounds!.y).toBeGreaterThanOrEqual(0);
+  expect(bounds!.y).toBeLessThan(50);
+  await page.screenshot({path:"tmp/pdfs/dark-time-guaranty-sources.png"});
+  await sources.getByRole("checkbox",{name:"Include The Yankee and Cowboy War"}).uncheck();
+  await expect(page.getByLabel("Connection focus")).toHaveValue("guaranty-trust");
+  await expect(page.locator(".workspace")).not.toContainText("Conditional ownership comparison");
 });

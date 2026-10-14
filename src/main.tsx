@@ -198,7 +198,6 @@ function App() {
         setActive(next.lanes.map((l) => l.id));
         setRange(null);
         setEntityFilter("");
-        setFocus("");
         setQuery("");
         setPage(0);
       })
@@ -605,6 +604,67 @@ function App() {
             <Download size={14} /> Export all collections
           </button>
         </header>
+        <section className="global-source-controls" aria-label="Selected archive sources">
+        <div className="collection-bar">
+          <div>
+            <span className="tiny-label">SELECT SOURCES</span>
+            <strong>
+              {scope === "all"
+                ? "All sources"
+                : source?.title || `${selectedSources.length} selected sources`}
+            </strong>
+          </div>
+          <select
+            aria-label="Select collection"
+            value={scope}
+            onChange={(e) => changeScope(e.target.value)}
+          >
+            <option value="all">All sources</option>
+            {scope.includes(",") && (
+              <option value={scope}>
+                {selectedSources.length} selected sources
+              </option>
+            )}
+            {catalog.sources.map((s) => (
+              <option key={s.id} value={s.id}>
+                {s.title}
+              </option>
+            ))}
+          </select>
+        </div>
+                    <fieldset className="source-selection">
+                      <legend>Sources for timelines and connections</legend>
+                      {catalog.sources.map((s) => (
+                        <label key={s.id}>
+                          <input
+                            type="checkbox"
+                            aria-label={`Include ${s.title}`}
+                            checked={selectedSources.includes(s.id)}
+                            disabled={
+                              selectedSources.length === 1 &&
+                              selectedSources.includes(s.id)
+                            }
+                            onChange={() => toggleSource(s.id)}
+                          />
+                          <span>
+                            {s.author === "Carroll Quigley"
+                              ? `Quigley · ${s.shortTitle || s.title}`
+                              : s.author === "Peter Dale Scott"
+                                ? "Peter Dale Scott"
+                                : "Carl Oglesby"}
+                            <small>
+                              {s.author === "Carroll Quigley"
+                                ? "Historical study"
+                                : s.id === "scott"
+                                  ? "Political analysis"
+                                  : "Interpretive account"}
+                            </small>
+                          </span>
+                        </label>
+                      ))}
+                    </fieldset>
+          <p>Selected sources apply to timelines, directories and connections.</p>
+        </section>
         <section className="intro">
           <div className="eyebrow">
             <span /> FOLLOW THE THREADS
@@ -639,33 +699,6 @@ function App() {
                   : "Search by name, title, alias, or description. Open a record to follow its affiliations and source-specific accounts."}
           </p>
         </section>
-        <div className="collection-bar">
-          <div>
-            <span className="tiny-label">CURRENT COLLECTION</span>
-            <strong>
-              {scope === "all"
-                ? "All collections"
-                : source?.title || `${selectedSources.length} selected sources`}
-            </strong>
-          </div>
-          <select
-            aria-label="Select collection"
-            value={scope}
-            onChange={(e) => changeScope(e.target.value)}
-          >
-            <option value="all">All collections</option>
-            {scope.includes(",") && (
-              <option value={scope}>
-                {selectedSources.length} selected sources
-              </option>
-            )}
-            {catalog.sources.map((s) => (
-              <option key={s.id} value={s.id}>
-                {s.title}
-              </option>
-            ))}
-          </select>
-        </div>
         <div className="stats">
           {[
             [counts.people, "CHARACTERS"],
@@ -912,42 +945,6 @@ function App() {
                   </div>
                 )}
                 <div className="timeline-selection-bar">
-                  <details className="source-picker" open>
-                    <summary>
-                      Sources to overlay · {selectedSources.length} selected
-                    </summary>
-                    <fieldset className="source-selection">
-                      <legend>Choose sources to overlay</legend>
-                      {catalog.sources.map((s) => (
-                        <label key={s.id}>
-                          <input
-                            type="checkbox"
-                            aria-label={`Include ${s.title}`}
-                            checked={selectedSources.includes(s.id)}
-                            disabled={
-                              selectedSources.length === 1 &&
-                              selectedSources.includes(s.id)
-                            }
-                            onChange={() => toggleSource(s.id)}
-                          />
-                          <span>
-                            {s.author === "Carroll Quigley"
-                              ? `Quigley · ${s.shortTitle || s.title}`
-                              : s.author === "Peter Dale Scott"
-                                ? "Peter Dale Scott"
-                                : "Carl Oglesby"}
-                            <small>
-                              {s.author === "Carroll Quigley"
-                                ? "Historical study"
-                                : s.id === "scott"
-                                  ? "Political analysis"
-                                  : "Interpretive account"}
-                            </small>
-                          </span>
-                        </label>
-                      ))}
-                    </fieldset>
-                  </details>
                   {highlighted && byId.get(highlighted) && (
                     <div className="selected-event-strip" aria-live="polite">
                       <strong>{byId.get(highlighted)!.name}</strong>
