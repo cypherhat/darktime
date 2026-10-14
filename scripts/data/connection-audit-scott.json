@@ -1,0 +1,1383 @@
+{
+  "sourceId": "scott",
+  "reviewedIds": [
+    "nixon",
+    "hughes",
+    "allen-dulles",
+    "winston-churchill",
+    "peter-dale-scott",
+    "mike-lofgren",
+    "dana-priest",
+    "william-arkin",
+    "tom-hayden",
+    "franklin-roosevelt",
+    "nelson-aldrich",
+    "paul-warburg",
+    "hoyt-vandenberg",
+    "william-h-jackson",
+    "frank-wisner",
+    "george-kennan",
+    "james-forrestal",
+    "irving-brown",
+    "jay-lovestone",
+    "pierre-ferri-pisani",
+    "yoshio-kodama",
+    "prince-bernhard",
+    "walter-bedell-smith",
+    "august-dasaad",
+    "alamsjah",
+    "sukarno",
+    "suharto",
+    "bob-hasan",
+    "ibnu-sutowo",
+    "john-foster-dulles",
+    "karl-wolff",
+    "dwight-eisenhower",
+    "harold-macmillan",
+    "arthur-dean",
+    "mohammad-mossadeq",
+    "harry-truman",
+    "averell-harriman",
+    "william-eddy",
+    "mike-mcconnell",
+    "edward-snowden",
+    "edward-lansdale",
+    "miles-copeland",
+    "gamal-nasser",
+    "adnan-khashoggi",
+    "larry-kolb",
+    "kamal-adham",
+    "edward-moss",
+    "bebe-rebozo",
+    "paul-helliwell",
+    "ep-barry",
+    "turki-bin-faisal",
+    "alexandre-de-marenches",
+    "henry-kissinger",
+    "richard-helms",
+    "theodore-shackley",
+    "james-angleton",
+    "william-colby",
+    "george-hw-bush",
+    "jimmy-carter",
+    "anwar-sadat",
+    "yitzhak-rabin",
+    "manucher-ghorbanifar",
+    "al-schwimmer",
+    "david-kimche",
+    "yaacov-nimrodi",
+    "ariel-sharon",
+    "jaafar-nimeiri",
+    "robert-mcfarlane",
+    "bruce-rappaport",
+    "alfred-hartmann",
+    "bandar-bin-sultan",
+    "richard-kerr",
+    "fbi",
+    "cia",
+    "cfr",
+    "nsa",
+    "sullivan-cromwell",
+    "federal-reserve",
+    "acue",
+    "opc",
+    "afl",
+    "eca",
+    "sea-supply",
+    "cat-air-america",
+    "paru",
+    "lockheed",
+    "bilderberg",
+    "rockwell-standard",
+    "diponegoro-division",
+    "stanvac",
+    "permina",
+    "seven-sisters",
+    "anglo-iranian",
+    "aramco",
+    "mi6",
+    "booz-allen",
+    "booz-company",
+    "carlyle",
+    "egyptian-mukhabarat",
+    "bcci",
+    "safari-resort",
+    "safari-alliance",
+    "sdece",
+    "castle-bank",
+    "paradise-bridge",
+    "first-international-bancshares",
+    "intermaritime",
+    "banque-commerce-placements",
+    "bank-england",
+    "riggs-bank",
+    "jj-cappucci",
+    "oss"
+  ],
+  "relationships": [
+    {
+      "fromId": "allen-dulles",
+      "toId": "sullivan-cromwell",
+      "label": "Lawyer during CIA planning",
+      "pages": [
+        3,
+        4
+      ],
+      "description": "Scott identifies Dulles as a Sullivan and Cromwell lawyer when Vandenberg recruited him in 1946 and while he advocated European covert operations; his formal CIA entry came in November 1950.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "cia",
+      "label": "Director and earlier agency planner",
+      "pages": [
+        3,
+        8,
+        9
+      ],
+      "description": "Scott distinguishes Dulles’s pre-agency planning role, formal entry in November 1950 and subsequent service as director, including the 1953 Iran operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "acue",
+      "label": "Established in early summer 1948",
+      "pages": [
+        3,
+        4
+      ],
+      "description": "Scott explicitly says Dulles set up the American Committee for a United Europe in early summer 1948. This is more specific than the existing association edge.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "oss",
+      "label": "OSS officer negotiating Italian surrender",
+      "pages": [
+        6,
+        22
+      ],
+      "description": "Scott describes Dulles as an OSS officer when negotiating with Karl Wolff in 1945, and characterizes his conduct as evading Washington’s restrictions.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "cfr",
+      "label": "Discussed Guatemala policy before directing it",
+      "pages": [
+        3
+      ],
+      "description": "Scott says Dulles discussed overthrow of the Arbenz government in New York at the CFR before orchestrating the policy at CIA; discussion does not alone establish a membership title.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "karl-wolff",
+      "label": "Negotiated conditional German surrender",
+      "pages": [
+        6,
+        22
+      ],
+      "description": "Scott describes the 1945 negotiations over German forces in Italy and attributes a breach of Roosevelt’s unconditional-surrender understanding to Dulles.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "george-kennan",
+      "label": "Co-devised covert Marshall Plan provision",
+      "pages": [
+        4
+      ],
+      "description": "Scott names Dulles, Kennan and Forrestal together in devising a secret provision allowing CIA political-warfare funding from reconstruction aid.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "james-forrestal",
+      "label": "Co-devised covert Marshall Plan provision",
+      "pages": [
+        4
+      ],
+      "description": "Scott names Forrestal with Dulles and Kennan in the covert funding arrangement; this is a specific collaborative action, not inferred social affiliation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "george-kennan",
+      "toId": "james-forrestal",
+      "label": "Collaborated on covert reconstruction-aid provision",
+      "pages": [
+        4
+      ],
+      "description": "Scott explicitly groups them with Dulles in planning the political-warfare funding provision.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "mi6",
+      "label": "Approved alternative British U-2 authorization arrangement",
+      "pages": [
+        6,
+        22
+      ],
+      "description": "Scott says Dulles secretly approved a 1957 plan with MI6 to allow the British prime minister to authorize flights rather than depend solely on Eisenhower’s approvals.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "harold-macmillan",
+      "toId": "mi6",
+      "label": "Prime-minister authorization role in U-2 arrangement",
+      "pages": [
+        6
+      ],
+      "description": "Macmillan is named as the British prime minister whose authority could be used in the plan; this does not imply that he was an intelligence-service employee.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "sullivan-cromwell",
+      "label": "Senior partner during oil-cartel defense",
+      "pages": [
+        7,
+        8
+      ],
+      "description": "Scott identifies Foster as senior partner when Arthur Dean resisted the government’s document demand, and notes the later conflict between his State Department role and his former law firm’s representation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "state-department",
+      "label": "Secretary of state under Eisenhower",
+      "pages": [
+        8
+      ],
+      "description": "Scott identifies the appointment and describes transfer of the oil-cartel antitrust case to State under Dulles.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sullivan-cromwell",
+      "toId": "seven-sisters",
+      "label": "Represented oil-cartel interests in antitrust dispute",
+      "pages": [
+        3,
+        7,
+        8
+      ],
+      "description": "Scott describes the firm’s defense of the oil majors’ cartel agreements. Representation is legal employment, not ownership of the companies.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "arthur-dean",
+      "toId": "sullivan-cromwell",
+      "label": "Oil-company lawyer at the firm",
+      "pages": [
+        7
+      ],
+      "description": "Scott identifies Dean as Exxon’s lawyer at Sullivan and Cromwell and quotes his national-security justification for withholding documents.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "william-h-jackson",
+      "toId": "allen-dulles",
+      "label": "Member of six-person CIA advisory group",
+      "pages": [
+        3
+      ],
+      "description": "Scott names Jackson among Dulles’s advisers; Jackson and Wisner subsequently joined CIA.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "frank-wisner",
+      "toId": "opc",
+      "label": "Head of expanded covert operations program",
+      "pages": [
+        4
+      ],
+      "description": "Scott says Wisner left Wall Street to oversee the enlarged program through the newly created OPC.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "jay-lovestone",
+      "toId": "afl",
+      "label": "AFL official supervising Irving Brown",
+      "pages": [
+        4
+      ],
+      "description": "The paragraph identifies Lovestone as an AFL official and Brown as his assistant.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "jay-lovestone",
+      "toId": "cia",
+      "label": "CIA asset in labor operations",
+      "pages": [
+        4
+      ],
+      "description": "Scott explicitly describes Lovestone as a CIA asset in the account of anti-Communist labor funding.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "pierre-ferri-pisani",
+      "toId": "cia",
+      "label": "Acted for CIA-linked labor operation",
+      "pages": [
+        4,
+        21
+      ],
+      "description": "Scott, citing Valentine, says Ferri-Pisani hired men to attack striking Communist dockworkers on behalf of Brown and CIA. This is an attributed operational claim, not a CIA employment title.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "yoshio-kodama",
+      "toId": "cia",
+      "label": "Described as chief Japanese asset",
+      "pages": [
+        5,
+        21,
+        22
+      ],
+      "description": "Scott quotes an assessment of Kodama as probably CIA’s chief asset in Japan and discusses his management of M-fund payouts. The article notes that CIA knew about the Lockheed payments but had not admitted involvement.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "lockheed",
+      "toId": "cia",
+      "label": "CIA-cleared U-2 contractor",
+      "pages": [
+        5,
+        22
+      ],
+      "description": "Scott explicitly identifies Lockheed as the U-2 builder and major CIA-cleared contractor. This does not establish CIA participation in every Lockheed payoff.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "prince-bernhard",
+      "toId": "bilderberg",
+      "label": "Organizer",
+      "pages": [
+        5
+      ],
+      "description": "Scott calls Bernhard the organizer of the Bilderberg Group, rather than merely an associate.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "prince-bernhard",
+      "toId": "allen-dulles",
+      "label": "Close friend",
+      "pages": [
+        5,
+        22
+      ],
+      "description": "Scott explicitly describes Bernhard as a close friend of CIA directors Dulles and Bedell Smith.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "prince-bernhard",
+      "toId": "walter-bedell-smith",
+      "label": "Close friend",
+      "pages": [
+        5,
+        22
+      ],
+      "description": "The friendship is explicitly stated in the Lockheed discussion; it does not demonstrate Smith’s participation in the payments.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "walter-bedell-smith",
+      "toId": "cia",
+      "label": "CIA director",
+      "pages": [
+        5
+      ],
+      "description": "Scott identifies Smith’s office when describing his friendship with Bernhard.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "august-dasaad",
+      "toId": "sukarno",
+      "label": "Long-time supporter",
+      "pages": [
+        5
+      ],
+      "description": "Scott explicitly describes Dasaad as a longstanding supporter of Sukarno before developing ties to Suharto’s circle.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alamsjah",
+      "toId": "lockheed",
+      "label": "Beneficiary of redirected Indonesian account",
+      "pages": [
+        5
+      ],
+      "description": "Scott names Alamsjah as beneficiary of the new Lockheed account established through Dasaad’s company in May 1965.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alamsjah",
+      "toId": "ibnu-sutowo",
+      "label": "Reported plotting allies against Sukarno",
+      "pages": [
+        6,
+        22
+      ],
+      "description": "Scott says Alamsjah was said to be allied with Sutowo in plotting against Sukarno; the wording is preserved as an attributed report.",
+      "evidence": "contested-account"
+    },
+    {
+      "fromId": "bob-hasan",
+      "toId": "rockwell-standard",
+      "label": "Aircraft-deal commission agent",
+      "pages": [
+        5,
+        6
+      ],
+      "description": "Scott identifies Hasan as commission agent on the agreement to supply 200 Aero-Commander aircraft to the Indonesian Army.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "rockwell-standard",
+      "toId": "diponegoro-division",
+      "label": "Aircraft supplied under Indonesian Army agreement",
+      "pages": [
+        5,
+        6,
+        22
+      ],
+      "description": "The body describes the July 1965 Army delivery agreement; endnote 38 says the aircraft went to the Diponegoro Division.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "bob-hasan",
+      "toId": "diponegoro-division",
+      "label": "Co-established shipping companies operated by division",
+      "pages": [
+        6
+      ],
+      "description": "Scott says Hasan and Suharto established two shipping companies to be operated by the Central Java division. The statement is about an operating arrangement, not membership in the division.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "suharto",
+      "toId": "diponegoro-division",
+      "label": "Co-established shipping companies operated by division",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly ties the jointly established shipping companies to Diponegoro’s operation; the edge does not infer an ownership share or military rank absent from the passage.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "ibnu-sutowo",
+      "toId": "permina",
+      "label": "Head of army oil company",
+      "pages": [
+        6
+      ],
+      "description": "Scott identifies Sutowo as Permina’s head and discusses the company’s financial role in the operations surrounding Sukarno’s removal.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sea-supply",
+      "toId": "cia",
+      "label": "CIA-controlled proprietary supply firm",
+      "pages": [
+        5,
+        13,
+        26
+      ],
+      "description": "Scott describes Sea Supply as proprietary; endnote 89 quotes its CIA-controlled front status and supply of weapons to Nationalist forces in Burma and Thai police.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sea-supply",
+      "toId": "paru",
+      "label": "Supply infrastructure for paramilitary force",
+      "pages": [
+        5
+      ],
+      "description": "Scott explicitly says Sea Supply provided infrastructure for a drug traffic supporting CIA-led PARU; the drug-related characterization remains attributed to Scott.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "paru",
+      "toId": "cia",
+      "label": "CIA-led paramilitary force",
+      "pages": [
+        5
+      ],
+      "description": "Scott expressly identifies the force as CIA-led; no independent formal employment or ownership status is implied.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sea-supply",
+      "toId": "kuomintang",
+      "label": "Supplied Nationalist Chinese troops in Burma",
+      "pages": [
+        26
+      ],
+      "description": "Endnote 89 quotes a report that Sea Supply supplied weapons and equipment to 10,000 Nationalist Chinese troops in Burma over almost ten years.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "paul-helliwell",
+      "toId": "sea-supply",
+      "label": "Helped establish and run CIA front",
+      "pages": [
+        13,
+        26
+      ],
+      "description": "The body says Helliwell set up the company for CIA; endnote 89 dates his involvement to 1951 and says he helped run it.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "paul-helliwell",
+      "toId": "cat-air-america",
+      "label": "Helped establish company for CIA",
+      "pages": [
+        13
+      ],
+      "description": "Scott explicitly names CAT, later Air America, among the companies Helliwell established for CIA operations.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "cat-air-america",
+      "toId": "cia",
+      "label": "Company established for CIA operations",
+      "pages": [
+        13
+      ],
+      "description": "Scott states that Helliwell established CAT for CIA and describes it as infrastructure for covert Southeast Asian operations.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "william-eddy",
+      "toId": "aramco",
+      "label": "Top adviser with undercover CIA role",
+      "pages": [
+        8,
+        24
+      ],
+      "description": "Scott says ARAMCO maintained undercover CIA personnel such as Eddy among top advisers until nationalization in 1980; this does not specify Eddy’s individual entire service interval.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "william-eddy",
+      "toId": "cia",
+      "label": "Undercover personnel while advising ARAMCO",
+      "pages": [
+        8
+      ],
+      "description": "The undercover CIA description is explicit in Scott’s account and is more specific than a general shared-event link.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "winston-churchill",
+      "toId": "harry-truman",
+      "label": "Appealed for CIA intervention in Iran; declined",
+      "pages": [
+        7,
+        23
+      ],
+      "description": "Scott says Truman declined Churchill’s direct personal appeal to involve CIA in overthrowing Mossadeq. This edge preserves the refusal rather than depicting a joint operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "harry-truman",
+      "toId": "averell-harriman",
+      "label": "Dispatched on Tehran negotiating mission",
+      "pages": [
+        7,
+        23
+      ],
+      "description": "Scott says Truman sent Harriman to seek a peaceful resolution of Mossadeq’s differences with London after declining covert intervention.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "averell-harriman",
+      "toId": "mohammad-mossadeq",
+      "label": "Attempted negotiated resolution in Tehran",
+      "pages": [
+        7,
+        23
+      ],
+      "description": "Scott describes the unsuccessful mission to resolve the Iranian premier’s conflict with Britain; this is a diplomatic transaction, not continuing alliance.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "seven-sisters",
+      "toId": "mohammad-mossadeq",
+      "label": "Opposed nationalization through export restrictions",
+      "pages": [
+        7,
+        23
+      ],
+      "description": "Scott attributes the 1951 boycott of Iranian oil to the majors; endnote 48 records Exxon’s corporate-history denial of conspiracy, so the claim is contested.",
+      "evidence": "contested-account"
+    },
+    {
+      "fromId": "dwight-eisenhower",
+      "toId": "cia",
+      "label": "Approved TP/AJAX operation against Mossadeq",
+      "pages": [
+        8,
+        23
+      ],
+      "description": "Scott dates final approval to July 22, 1953, and distinguishes it from earlier oil-company and MI6 efforts.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "anglo-iranian",
+      "toId": "seven-sisters",
+      "label": "Member of seven-company oil grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott includes Anglo-Iranian with five American firms and Royal Dutch Shell in the Seven Sisters. This composition link is distinct from the existing boycott-support edge.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "booz-allen",
+      "toId": "booz-company",
+      "label": "Commercial portfolio divided in 2008 split",
+      "pages": [
+        9
+      ],
+      "description": "Scott describes the original firm dividing into the US-government-focused Booz Allen Hamilton and the commercial/international Booz and Company. This is corporate succession, not a claim of ongoing parent ownership.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "mike-mcconnell",
+      "toId": "nsa",
+      "label": "Head before entering Booz Allen",
+      "pages": [
+        9
+      ],
+      "description": "Scott traces McConnell’s NSA leadership under Bush and Clinton, his move into Booz Allen, later DNI office and return to the firm.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "mike-mcconnell",
+      "toId": "booz-allen",
+      "label": "Executive vice president after government service",
+      "pages": [
+        9,
+        24
+      ],
+      "description": "The article identifies his executive vice presidency as the end of the described revolving-door sequence. March 2014 is the source vantage, not a historical appointment date.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "edward-snowden",
+      "toId": "nsa",
+      "label": "Accessed NSA records through contractor employment",
+      "pages": [
+        9
+      ],
+      "description": "Scott says Snowden, a Booz Allen employee, departed with NSA records. This edge is contractor access, not a claim that NSA directly employed him.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "edward-snowden",
+      "toId": "booz-allen",
+      "label": "Employee",
+      "pages": [
+        9
+      ],
+      "description": "Scott explicitly calls Snowden an employee of Booz Allen in discussing the contractor’s media links to NSA.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "booz-allen",
+      "toId": "nsa",
+      "label": "Contractor relationship illustrated by Snowden access",
+      "pages": [
+        9
+      ],
+      "description": "Scott discusses the private contractor’s NSA connection and the movement of McConnell between NSA and the firm.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "booz-allen",
+      "toId": "cia",
+      "label": "Joint overseas mission with Copeland",
+      "pages": [
+        9,
+        10,
+        24
+      ],
+      "description": "Scott calls the March 1953 Cairo assignment effectively a joint CIA–Booz Allen mission. The edge does not infer that all overseas assignments mentioned were covert operations.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "miles-copeland",
+      "toId": "booz-allen",
+      "label": "Employee then on unpaid leave during Khashoggi advisory work",
+      "pages": [
+        10,
+        12
+      ],
+      "description": "Scott distinguishes his resignation from CIA to join the consultancy from later leave to consult for oil companies and advise Khashoggi.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "miles-copeland",
+      "toId": "egyptian-mukhabarat",
+      "label": "Advised Nasser on establishing service",
+      "pages": [
+        10,
+        24
+      ],
+      "description": "Scott explicitly says Copeland advised Nasser on setting up the Mukhabarat; advice is not formal membership or operational control of the service.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "gamal-nasser",
+      "toId": "egyptian-mukhabarat",
+      "label": "Leader advised on establishment",
+      "pages": [
+        10
+      ],
+      "description": "The service was being established for Nasser’s government with Copeland’s advice; the source does not assign a separate founding date here.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "kamal-adham",
+      "toId": "bcci",
+      "label": "Major shareholder and part-owner",
+      "pages": [
+        12,
+        14
+      ],
+      "description": "Scott explicitly describes Adham’s BCCI shareholding, contrasting it with his intelligence and Khashoggi relationships.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "kamal-adham",
+      "toId": "cia",
+      "label": "Former principal contact in Arab Middle East",
+      "pages": [
+        12,
+        24
+      ],
+      "description": "Scott attributes this characterization to the Senate BCCI report; it is a contact role, not an allegation of formal CIA employment.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "edward-moss",
+      "toId": "cia",
+      "label": "Selected for covert political-action group",
+      "pages": [
+        12,
+        25
+      ],
+      "description": "Scott says CIA decided in November 1962 to use Moss for the Political Action Group of its Covert Action staff; the source supplies this operational role independently of Khashoggi’s later public-relations employment.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "edward-moss",
+      "toId": "safari-resort",
+      "label": "Chairman in the 1970s",
+      "pages": [
+        13
+      ],
+      "description": "Scott explicitly identifies Moss as chairman of the Kenyan club and describes his invitation to Khashoggi to become majority owner.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "adnan-khashoggi",
+      "toId": "safari-resort",
+      "label": "Majority owner invited by Moss",
+      "pages": [
+        13,
+        14
+      ],
+      "description": "The source identifies majority ownership of the property; it explicitly warns against confusing the resort with the intelligence alliance.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "nixon",
+      "toId": "bebe-rebozo",
+      "label": "Close confidant relationship",
+      "pages": [
+        12,
+        13
+      ],
+      "description": "Scott identifies Rebozo as Nixon’s close confidant. This personal relationship is separate from disputed stories of money carried to Nixon.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "ep-barry",
+      "toId": "oss",
+      "label": "Postwar Vienna counterintelligence chief",
+      "pages": [
+        13,
+        18,
+        26
+      ],
+      "description": "Scott identifies Barry as postwar head of OSS Counterintelligence X-2 in Vienna, associated with recovery of SS gold.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "ep-barry",
+      "toId": "intermaritime",
+      "label": "Major stockholder",
+      "pages": [
+        18,
+        27
+      ],
+      "description": "Scott explicitly calls Barry a major stockholder in Rappaport’s Inter Maritime Bank, distinct from a generic banking association.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "booz-allen",
+      "toId": "paradise-bridge",
+      "label": "Personnel held ownership interests",
+      "pages": [
+        13,
+        26
+      ],
+      "description": "Scott says individuals from Booz Allen formed part of the small ownership group. This is a personnel ownership connection, not a claim that the firm itself owned the company.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alexandre-de-marenches",
+      "toId": "sdece",
+      "label": "Intelligence-service chief",
+      "pages": [
+        14,
+        15
+      ],
+      "description": "The conventional account quoted by Scott identifies Marenches as chief of the French service.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alexandre-de-marenches",
+      "toId": "safari-alliance",
+      "label": "Reported originator",
+      "pages": [
+        14,
+        15
+      ],
+      "description": "Scott presents the usual origin story crediting Marenches, then contrasts Mamdani’s account of American official backing. The organizer claim is attributed, not treated as the only account.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "egyptian-mukhabarat",
+      "toId": "safari-alliance",
+      "label": "Egyptian intelligence component",
+      "pages": [
+        14
+      ],
+      "description": "The alliance is explicitly described as including Egypt’s intelligence service alongside France, Saudi Arabia, Morocco and Iran; this does not make the Kenyan resort that service’s parent.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sdece",
+      "toId": "safari-alliance",
+      "label": "French intelligence component",
+      "pages": [
+        14,
+        15
+      ],
+      "description": "Scott explicitly links the French service and its chief to the intelligence alliance; official origins and alleged later circumvention of limits are distinguished.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "william-colby",
+      "toId": "james-angleton",
+      "label": "Dismissed counterintelligence chief in 1974",
+      "pages": [
+        15
+      ],
+      "description": "Scott identifies Colby’s dismissal of Angleton as part of Trento’s account of the later private-network response.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "james-angleton",
+      "toId": "cia",
+      "label": "Counterintelligence chief until dismissal",
+      "pages": [
+        15
+      ],
+      "description": "The office and dismissal are explicit in the article; quotation of Angleton’s criticism is not proof of every subsequent private-network allegation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "richard-helms",
+      "toId": "theodore-shackley",
+      "label": "Reported private-network collaborators",
+      "pages": [
+        15,
+        16
+      ],
+      "description": "Scott quotes Trento alleging that Helms and Shackley worked with outsiders after Colby’s cooperation with Congress; the account is attributed and contested rather than a documented formal organization chart.",
+      "evidence": "contested-account"
+    },
+    {
+      "fromId": "george-hw-bush",
+      "toId": "carlyle",
+      "label": "Adviser",
+      "pages": [
+        9,
+        24
+      ],
+      "description": "Endnote 60 explicitly identifies Bush as a Carlyle adviser. It distinguishes George W. Bush’s Caterair board appointment, which is not transferred to this identity.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "george-hw-bush",
+      "toId": "first-international-bancshares",
+      "label": "Executive committee chairman after CIA service",
+      "pages": [
+        16
+      ],
+      "description": "Scott quotes Phillips that after leaving CIA in January 1977 Bush chaired the executive committee of First International Bancshares and its British subsidiary. This does not identify the subsidiary as BCCI.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "george-hw-bush",
+      "toId": "kamal-adham",
+      "label": "Worked closely in intelligence relations",
+      "pages": [
+        26
+      ],
+      "description": "Endnote 100 quotes Phillips on Bush’s close work with Adham, the Saudi intelligence head.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "anwar-sadat",
+      "toId": "yitzhak-rabin",
+      "label": "Message proposing meeting routed through Safari Club representative",
+      "pages": [
+        15
+      ],
+      "description": "Scott quotes Mamdani that Rabin’s letter to Sadat passed through the Moroccan representative and helped prepare the 1977 rapprochement.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "al-schwimmer",
+      "toId": "hank-greenspun",
+      "label": "Partners in early Israeli gun-running",
+      "pages": [
+        16,
+        27
+      ],
+      "description": "Scott says Greenspun introduced Schwimmer to Khashoggi and describes their earlier gun-running partnership.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "al-schwimmer",
+      "toId": "meyer-lansky",
+      "label": "Reported collaboration in Israeli gun-running",
+      "pages": [
+        27
+      ],
+      "description": "Endnote 107 cites Slater for collaboration among Greenspun, Schwimmer and Lansky; it separately says Helliwell may have participated, which is not added as a firm edge.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "hank-greenspun",
+      "toId": "meyer-lansky",
+      "label": "Reported collaboration in Israeli gun-running",
+      "pages": [
+        27
+      ],
+      "description": "The endnote explicitly groups these collaborators; the relationship is attributed to the cited account.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "hank-greenspun",
+      "toId": "adnan-khashoggi",
+      "label": "Introduced Khashoggi to Schwimmer",
+      "pages": [
+        16
+      ],
+      "description": "Scott identifies Greenspun’s introduction in Las Vegas as an earlier connection than the 1982 resort meeting.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "larry-kolb",
+      "toId": "adnan-khashoggi",
+      "label": "Collaborated on peace and Iran proposals",
+      "pages": [
+        11,
+        16,
+        17
+      ],
+      "description": "Scott describes Kolb’s assistance rewriting the peace plan and joint preparation with Copeland of papers carried by Khashoggi to McFarlane.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "larry-kolb",
+      "toId": "robert-mcfarlane",
+      "label": "Co-prepared paper conveyed by Khashoggi",
+      "pages": [
+        17
+      ],
+      "description": "Kolb and Copeland wrote the strategic proposal and gave it to Khashoggi to present to McFarlane; no direct meeting between Kolb and McFarlane is asserted.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "adnan-khashoggi",
+      "toId": "al-schwimmer",
+      "label": "Established contacts and arms-initiative collaboration",
+      "pages": [
+        16,
+        17
+      ],
+      "description": "Scott describes their earlier introduction by Greenspun, the 1982 meeting and participation in the 1985 Hamburg negotiations. The link is supported by explicit dealings rather than co-occurrence alone.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "ariel-sharon",
+      "toId": "jaafar-nimeiri",
+      "label": "Met at Kenyan resort in May 1982",
+      "pages": [
+        16
+      ],
+      "description": "Scott explicitly states the meeting of Israeli Defense Minister Sharon with President Nimeiri, alongside Nimrodi, Schwimmer and Kimche.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "david-kimche",
+      "toId": "jaafar-nimeiri",
+      "label": "Participant in May 1982 meeting",
+      "pages": [
+        16
+      ],
+      "description": "Scott names Kimche among the Israelis who met Sudan’s president; no resort ownership or club membership is inferred.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "yaacov-nimrodi",
+      "toId": "jaafar-nimeiri",
+      "label": "Participant in May 1982 meeting",
+      "pages": [
+        16
+      ],
+      "description": "The explicit meeting description establishes contact, but not a continuing institutional affiliation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "al-schwimmer",
+      "toId": "jaafar-nimeiri",
+      "label": "Participant in May 1982 meeting",
+      "pages": [
+        16
+      ],
+      "description": "Scott includes Schwimmer among the Israeli participants in the meeting with Nimeiri.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alfred-hartmann",
+      "toId": "bcci",
+      "label": "Board member",
+      "pages": [
+        18,
+        27
+      ],
+      "description": "Scott identifies Hartmann’s BCCI board position alongside his roles at the other two banks.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alfred-hartmann",
+      "toId": "intermaritime",
+      "label": "Vice-chairman",
+      "pages": [
+        18,
+        27
+      ],
+      "description": "Scott explicitly identifies Hartmann as vice-chairman of Rappaport’s Swiss bank, distinguishing this office from ownership.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "alfred-hartmann",
+      "toId": "banque-commerce-placements",
+      "label": "Head of Swiss subsidiary",
+      "pages": [
+        18,
+        27
+      ],
+      "description": "Scott identifies Hartmann as head of BCCI’s Swiss subsidiary.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "bcci",
+      "toId": "banque-commerce-placements",
+      "label": "Swiss subsidiary",
+      "pages": [
+        18
+      ],
+      "description": "Scott explicitly identifies Banque de Commerce et de Placements as BCCI’s Swiss subsidiary.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "intermaritime",
+      "toId": "bcci",
+      "label": "Interlocking executive through Hartmann",
+      "pages": [
+        18
+      ],
+      "description": "Hartmann’s simultaneous BCCI board membership and Intermaritime vice-chairmanship establish an executive interlock; the source does not say one bank owned the other.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "dana-priest",
+      "toId": "william-arkin",
+      "label": "Co-authored Top Secret America",
+      "pages": [
+        1,
+        19
+      ],
+      "description": "Scott identifies their joint book and quotes its account of expanding classified government; no agency affiliation is inferred from their research.",
+      "evidence": "author-account"
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "booz-allen",
+      "pages": [
+        9,
+        10,
+        12,
+        13
+      ],
+      "description": "Scott describes Booz Allen’s intelligence-contracting work, executive movement between company and government, the 2008 division separating its commercial portfolio, and Copeland’s Cairo mission and later unpaid leave. The article says individual personnel held Paradise Island Bridge ownership interests; it does not say Booz Allen itself owned the company. Carlyle majority ownership is described from the article’s 2014 vantage."
+    },
+    {
+      "id": "george-hw-bush",
+      "pages": [
+        15,
+        16,
+        24,
+        26
+      ],
+      "description": "Scott identifies Bush’s Carlyle advisory role and quotes Phillips on his chairmanship of First International Bancshares’ executive committee after leaving CIA. Claims about broader Safari Club and BCCI financing are attributed to Trento; the London-bank wording does not establish a BCCI chairmanship."
+    },
+    {
+      "id": "paradise-bridge",
+      "pages": [
+        13,
+        26
+      ],
+      "description": "Scott describes the Bridge Company as partly owned by a Benguet International officer and by individuals associated with Booz Allen, not the consultancy itself. Alleged transfers to Nixon and Rebozo are distinguished from Scott’s speculative suggestion that Nixon held a hidden interest."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "peter-dale-scott",
+      "reason": "Author biography explicitly identifies former Canadian diplomatic service and professorship at UC Berkeley, but neither employer is represented by a canonical ID; no substitute institution is inferred.",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "mike-lofgren",
+      "reason": "Quoted analyst; the article supplies no additional explicit employment or organization membership within the canonical entities. His analysis of Wall Street is not a membership relation.",
+      "pages": [
+        1,
+        2,
+        3,
+        9
+      ]
+    },
+    {
+      "id": "tom-hayden",
+      "reason": "Quoted commentator; no explicit employer, patron or organizational affiliation is supplied in the cited article passages.",
+      "pages": [
+        1,
+        2,
+        19
+      ]
+    },
+    {
+      "id": "franklin-roosevelt",
+      "reason": "1933 statement is addressed to Edward M. House, whose identity lacks a canonical ID. The quotation itself does not establish a financial-group membership.",
+      "pages": [
+        3,
+        20
+      ]
+    },
+    {
+      "id": "nelson-aldrich",
+      "reason": "Named participant in the 1910 meeting underlying the Federal Reserve proposal; this does not establish office or employment within the later Federal Reserve System.",
+      "pages": [
+        3,
+        20
+      ]
+    },
+    {
+      "id": "paul-warburg",
+      "reason": "Recollection establishes participation in the secret banking conference; the excerpt does not itself establish a later Federal Reserve office or the specific bank employing him.",
+      "pages": [
+        3,
+        20
+      ]
+    },
+    {
+      "id": "hoyt-vandenberg",
+      "reason": "His 1946 Director of Central Intelligence role preceded the CIA’s creation; the recruiting relationship is already captured, and assigning him a CIA directorship here would be anachronistic.",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "id": "pierre-ferri-pisani",
+      "reason": "Named connection to Antoine Guerini and drug-smuggling allegation, but Guerini is absent from canonical identities; operational CIA link added separately with attribution.",
+      "pages": [
+        4,
+        21
+      ]
+    },
+    {
+      "id": "yoshio-kodama",
+      "reason": "M-fund management is explicit, but the fund is absent from canonical IDs. The article preserves CIA’s non-admission of participation in Lockheed payoffs; no joint-payoff organization is invented.",
+      "pages": [
+        5,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "bob-hasan",
+      "reason": "Two shipping companies established with Suharto are unnamed; the operating arrangement with the division is represented without inventing company entities or ownership proportions.",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "id": "stanvac",
+      "reason": "Identified as a joint venture of Standard companies later called Exxon and Mobil; separate corporate identities are absent, and the article’s confusing Standard-company naming is not resolved by guessing.",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "id": "arthur-dean",
+      "reason": "Explicit Exxon attorney role cannot be linked to an individual Exxon ID because none exists. His firm and its collective oil-client role are represented; legal representation is not ownership.",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "id": "seven-sisters",
+      "reason": "Individual component companies mostly lack canonical IDs. AIOC composition added and Scott’s boycott claim qualified by the Exxon corporate-history denial in endnote 48.",
+      "pages": [
+        6,
+        7,
+        23
+      ]
+    },
+    {
+      "id": "edward-lansdale",
+      "reason": "Land-redistribution activity and anti-Huk objective are explicit; the paragraph does not establish employment by Booz Allen and offers no explicit agency appointment for Lansdale here.",
+      "pages": [
+        9,
+        24
+      ]
+    },
+    {
+      "id": "edward-moss",
+      "reason": "Explicit mistress and in-law connections involve Julia, Dino and Eddie Cellini, absent from canonical IDs. These are not substituted with Meyer Lansky merely because his file is cited.",
+      "pages": [
+        12,
+        13,
+        25
+      ]
+    },
+    {
+      "id": "paradise-bridge",
+      "reason": "Ownership is attributed to a Benguet officer and individual Booz Allen personnel, not Booz Allen as a corporation. Benguet and Robert Riegle lack IDs; Nixon’s alleged hidden interest is speculative and the Castle Bank account owner is not identified beyond a matching name.",
+      "pages": [
+        13,
+        26
+      ]
+    },
+    {
+      "id": "castle-bank",
+      "reason": "Operation Tradewinds found an account under the name Richard M. Nixon, expressly not otherwise identified; no firm presidential account-ownership edge is added.",
+      "pages": [
+        13,
+        26
+      ]
+    },
+    {
+      "id": "turki-bin-faisal",
+      "reason": "Quoted as former Saudi intelligence chief, but no separate Saudi intelligence institution ID exists. A retrospective explanation of the Safari Club does not prove personal founding membership.",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "george-hw-bush",
+      "reason": "Trento’s London bank chairman assertion has an unclear antecedent and differs from the explicit Phillips passage about First International Bancshares. No BCCI chairmanship is assigned; the specifically identified committee office is added.",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "miles-copeland",
+      "reason": "Endnotes 103 and 105 explicitly say no published evidence establishes his participation in Safari Club covert operations; no Copeland–alliance affiliation is added.",
+      "pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "bcci",
+      "reason": "Source describes its political-influence functions and financing, but ambiguous Bush/London wording is not converted into a directorship. Existing financing and CIA-use edges remain attributed.",
+      "pages": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "jj-cappucci",
+      "reason": "Owned by Shackley; the Egyptian Army advisory franchise is explicit but no Egyptian Army ID exists. Copeland’s earlier advisory work does not prove he owned or was employed by this company.",
+      "pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "bandar-bin-sultan",
+      "reason": "Reported al-Yamamah money traveled through a Saudi Embassy Riggs account; no individual Bandar account ownership is asserted and the embassy lacks a canonical ID.",
+      "pages": [
+        18,
+        27
+      ]
+    },
+    {
+      "id": "riggs-bank",
+      "reason": "Bank hosted the Saudi Embassy account, not necessarily a personal Bandar account. Embassy counterparty absent from canonical identities.",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "id": "adnan-khashoggi",
+      "reason": "Endnote 83 includes differing donation dates and Kolb’s unequivocal denial of the Nixon briefcase story; existing contested-access edge is preserved rather than strengthened into proven payment. Proposed Trireme investment lacks Richard Perle and company IDs.",
+      "pages": [
+        13,
+        25
+      ]
+    },
+    {
+      "id": "jfk",
+      "reason": "Endnote 80 attributes the 1950s Khashoggi friendship and sexual-activity story to Kolb; not among the 112 Scott profiles and too peripheral to add a new-source personal claim without root review.",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "id": "paul-helliwell",
+      "reason": "His possible participation in Israeli gun-running is explicitly tentative; no firm relationship to Greenspun, Schwimmer or Lansky is created from the endnote.",
+      "pages": [
+        27
+      ]
+    }
+  ],
+  "summary": "All 112 existing Scott-source people and organizations reviewed against all 27 PDF pages, including endnotes. Added missing explicit employment, office, ownership, founding, financial, advisory and transaction links and replaced vague associated-with semantics with separately cited specific roles where needed. Source assertions remain attributed; contested memoir and corruption claims retain qualification. No affiliation inferred from being quoted, appearing in the same paragraph, geographical proximity or event attendance alone. Article-publication dates are not used as dates of historical roles. Unknown counterparties and ambiguous institutional identifications are listed for review rather than invented."
+}

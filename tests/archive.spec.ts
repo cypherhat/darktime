@@ -501,3 +501,17 @@ test("AT&T's source-described Morgan connection is visible and navigable", async
   await expect(page.getByLabel("Connection focus")).toHaveValue("att");
   await expect(page.locator(".workspace")).toContainText("Control attributed to Morgan interests");
 });
+
+test("audited source affiliations appear in entity details", async ({page}) => {
+  for (const [source, id, name, label] of [
+    ["tragedy", "us-steel", "United States Steel", "Control attributed to Morgan interests"],
+    ["tragedy", "ipr", "Institute of Pacific Relations", "Constitution writer and council officer"],
+    ["scott", "allen-dulles", "Allen W. Dulles", "Lawyer during CIA planning"],
+    ["yankee", "maheu", "Robert Maheu", "Intermediary engaging Roselli for the Castro plot"],
+  ]) {
+    await page.goto(`/?collection=${source}#${id}`);
+    const dialog=page.getByRole("dialog",{name,exact:true});
+    await expect(dialog).toContainText(label);
+    await expect(dialog).toContainText("Source references");
+  }
+});

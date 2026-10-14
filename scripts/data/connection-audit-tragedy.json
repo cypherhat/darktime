@@ -1,0 +1,1337 @@
+{
+  "sourceId": "tragedy",
+  "reviewedIds": [
+    "hoover",
+    "jfk",
+    "rhodes",
+    "milner",
+    "stead",
+    "esher",
+    "balfour",
+    "arnold-toynbee",
+    "george-parkin",
+    "gell",
+    "albert-grey",
+    "rosebery",
+    "rothschild",
+    "beit",
+    "bailey",
+    "jameson",
+    "smuts",
+    "selborne",
+    "duncan",
+    "brand",
+    "kerr",
+    "curtis",
+    "amery",
+    "fisher",
+    "halifax",
+    "waldorf-astor",
+    "feetham",
+    "basil-long",
+    "hankey",
+    "florashaw",
+    "lugard",
+    "harry-johnston",
+    "robert-cecil",
+    "lloyd-george",
+    "joseph-chamberlain",
+    "curzon",
+    "ruskin",
+    "henry-birchenough",
+    "ormsby-gore",
+    "samuel-hoare",
+    "jerome-greene",
+    "thomas-lamont",
+    "allen-dulles",
+    "anthony-eden",
+    "mohandas-gandhi",
+    "winston-churchill",
+    "adolf-hitler",
+    "neville-chamberlain",
+    "clement-attlee",
+    "cecil-hurst",
+    "franklin-roosevelt",
+    "james-forrestal",
+    "john-foster-dulles",
+    "dwight-eisenhower",
+    "mohammad-mossadeq",
+    "harry-truman",
+    "gamal-nasser",
+    "fidel-castro",
+    "fulgencio-batista",
+    "william-paterson",
+    "george-peabody",
+    "j-p-morgan",
+    "william-rockefeller",
+    "william-c-whitney",
+    "grover-cleveland",
+    "mark-hanna",
+    "william-mckinley",
+    "william-jennings-bryan",
+    "theodore-roosevelt",
+    "henry-cabot-lodge",
+    "woodrow-wilson",
+    "william-howard-taft",
+    "william-randolph-hearst",
+    "john-w-davis",
+    "dwight-morrow",
+    "benjamin-disraeli",
+    "evelyn-baring",
+    "henry-kitchener",
+    "paul-kruger",
+    "louis-botha",
+    "j-b-m-hertzog",
+    "allan-octavian-hume",
+    "lord-dufferin",
+    "gopal-krishna-gokhale",
+    "bal-gangadhar-tilak",
+    "reginald-dyer",
+    "eamon-de-valera",
+    "arthur-griffith",
+    "michael-collins",
+    "otto-von-bismarck",
+    "wilhelm-ii",
+    "ernest-cassel",
+    "edward-vii",
+    "richard-haldane",
+    "charles-masterman",
+    "gilbert-parker",
+    "frederick-e-smith",
+    "robert-hart",
+    "edgar-vincent",
+    "matthew-perry",
+    "sun-yat-sen",
+    "georges-clemenceau",
+    "vittorio-orlando",
+    "john-maynard-keynes",
+    "charles-dawes",
+    "owen-young",
+    "montagu-norman",
+    "benjamin-strong",
+    "hjalmar-schacht",
+    "charles-rist",
+    "herbert-hoover",
+    "andrew-mellon",
+    "ramsay-macdonald",
+    "philip-snowden",
+    "stanley-baldwin",
+    "aristide-briand",
+    "gustav-stresemann",
+    "mustafa-kemal",
+    "reginald-mckenna",
+    "henry-davison",
+    "alfred-mond",
+    "john-l-lewis",
+    "frank-kellogg",
+    "joseph-stalin",
+    "benito-mussolini",
+    "chiang-kai-shek",
+    "mao-zedong",
+    "zhou-enlai",
+    "vyacheslav-molotov",
+    "joachim-von-ribbentrop",
+    "pierre-laval",
+    "engelbert-dollfuss",
+    "kurt-schuschnigg",
+    "franz-von-papen",
+    "francisco-franco",
+    "douglas-jerrold",
+    "hugh-pollard",
+    "leon-blum",
+    "edvard-benes",
+    "edouard-daladier",
+    "philippe-petain",
+    "george-marshall",
+    "ernest-bevin",
+    "james-byrnes",
+    "henry-stimson",
+    "robert-oppenheimer",
+    "leo-szilard",
+    "bernard-baruch",
+    "david-lilienthal",
+    "dean-acheson",
+    "josip-broz-tito",
+    "klement-gottwald",
+    "andrei-zhdanov",
+    "lucius-clay",
+    "paul-nitze",
+    "curtis-lemay",
+    "ira-eaker",
+    "harold-george",
+    "hirohito",
+    "hideki-tojo",
+    "chester-nimitz",
+    "alcide-de-gasperi",
+    "konrad-adenauer",
+    "lewis-strauss",
+    "edward-teller",
+    "stanislaw-ulam",
+    "douglas-macarthur",
+    "nikita-khrushchev",
+    "georgi-malenkov",
+    "lavrenti-beria",
+    "nikolai-bulganin",
+    "georgi-zhukov",
+    "imre-nagy",
+    "janos-kadar",
+    "william-l-borden",
+    "thomas-watson-sr",
+    "nicholas-murray-butler",
+    "frank-tiarks",
+    "h-norman-schwarzkopf",
+    "loy-henderson",
+    "mohammad-reza-shah",
+    "david-ben-gurion",
+    "muhammad-naguib",
+    "king-farouk",
+    "king-hussein",
+    "john-glubb",
+    "dag-hammarskjold",
+    "jacobo-arbenz",
+    "carlos-castillo-armas",
+    "anastas-mikoyan",
+    "charles-de-gaulle",
+    "kwame-nkrumah",
+    "sekou-toure",
+    "george-padmore",
+    "felix-houphouet-boigny",
+    "david-ormsby-gore",
+    "fbi",
+    "cia",
+    "milner-group",
+    "kindergarten",
+    "round-table",
+    "round-table-journal",
+    "rhodes-trust",
+    "oxford-university",
+    "toynbee-hall",
+    "bsac",
+    "the-state",
+    "times",
+    "pall-mall-gazette",
+    "lazard",
+    "cliveden-circle",
+    "war-cabinet",
+    "imperial-war-cabinet",
+    "committee-defence",
+    "colonial-office",
+    "league-of-nations",
+    "foreign-office",
+    "jp-morgan",
+    "lse",
+    "labour-party",
+    "indian-national-congress",
+    "french-government",
+    "riia",
+    "ipr",
+    "cfr",
+    "sullivan-cromwell",
+    "federal-reserve",
+    "seven-sisters",
+    "anglo-iranian",
+    "bank-england",
+    "joint-chiefs",
+    "defense-department",
+    "state-department",
+    "hughes-tool",
+    "guaranty-trust",
+    "rothschild-banking-houses",
+    "us-steel",
+    "att",
+    "new-republic",
+    "republican-party",
+    "democratic-party",
+    "de-beers",
+    "consolidated-gold-fields",
+    "suez-canal-company",
+    "british-east-africa-company",
+    "south-african-union",
+    "british-cabinet-secretariat",
+    "servants-india-society",
+    "muslim-league",
+    "sinn-fein",
+    "irish-free-state",
+    "war-propaganda-bureau",
+    "british-press-bureau",
+    "chinese-maritime-customs",
+    "ottoman-financial-administration",
+    "genro",
+    "mitsui",
+    "mitsubishi",
+    "japanese-diet",
+    "bis",
+    "federal-reserve-new-york",
+    "bank-france",
+    "reichsbank",
+    "bankers-trust",
+    "kuhn-loeb",
+    "credit-anstalt",
+    "conservative-party",
+    "liberal-party",
+    "trades-union-congress",
+    "imperial-chemical-industries",
+    "federation-british-industries",
+    "national-industrial-council",
+    "international-labour-office",
+    "permanent-court-international-justice",
+    "little-entente",
+    "conference-ambassadors",
+    "reparations-commission",
+    "exchange-equalization-account",
+    "reconstruction-finance-corporation",
+    "cio",
+    "united-mine-workers",
+    "midland-bank",
+    "kuomintang",
+    "chinese-communist-party",
+    "soviet-government",
+    "german-nazi-government",
+    "italian-fascist-government",
+    "japanese-imperial-government",
+    "vichy-government",
+    "nonintervention-committee",
+    "united-nations",
+    "international-monetary-fund",
+    "world-bank",
+    "atomic-energy-commission",
+    "un-atomic-energy-commission",
+    "cominform",
+    "nato",
+    "national-security-council",
+    "strategic-air-command",
+    "federation-atomic-scientists",
+    "yugoslav-partisans",
+    "german-socialist-unity-party",
+    "policy-planning-staff",
+    "aec-general-advisory-committee",
+    "us-air-force",
+    "los-alamos",
+    "livermore-laboratory",
+    "lincoln-laboratory",
+    "seato",
+    "cento",
+    "warsaw-pact",
+    "soviet-communist-party",
+    "columbia-university",
+    "ibm",
+    "schroeder-bank-new-york",
+    "schroeder-bank-london",
+    "imperial-iranian-gendarmerie",
+    "egypt-free-officers",
+    "arab-legion",
+    "un-emergency-force",
+    "united-arab-republic",
+    "united-fruit",
+    "oas",
+    "july-26-movement",
+    "convention-peoples-party",
+    "african-malagasy-union",
+    "union-african-states",
+    "eastern-establishment-quigley",
+    "cuban-exile-executive-committee",
+    "rockefeller-foundation"
+  ],
+  "relationships": [
+    {
+      "fromId": "jp-morgan",
+      "toId": "us-steel",
+      "label": "Control attributed to Morgan interests",
+      "pages": [
+        76
+      ],
+      "description": "Quigley identifies United States Steel as Morgan-controlled when discussing billion-dollar corporations in 1909.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "guaranty-trust",
+      "label": "Commercial subsidiary and merger partner",
+      "pages": [
+        58
+      ],
+      "description": "Quigley calls Guaranty Trust Morgan\u2019s most important commercial-bank subsidiary and dates their merger to April 24, 1959.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "george-peabody",
+      "toId": "jp-morgan",
+      "label": "Founder of predecessor partnership",
+      "pages": [
+        58
+      ],
+      "description": "Quigley traces the firm to George Peabody and Company, founded in London in 1838. This is a predecessor relationship, not a claim that Peabody founded the later incorporated entity.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "hoover",
+      "toId": "fbi",
+      "label": "FBI official receiving Borden letter",
+      "pages": [
+        824
+      ],
+      "description": "Quigley identifies Hoover with the FBI as the recipient of Borden\u2019s accusation against Oppenheimer; the passage does not show that Hoover originated or proved it.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "william-l-borden",
+      "toId": "hoover",
+      "label": "Submitted accusation letter",
+      "pages": [
+        824
+      ],
+      "description": "Quigley dates Borden\u2019s letter to Hoover to November 7, 1953 and criticizes its allegations as a biased recycling of old material.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "william-l-borden",
+      "toId": "robert-oppenheimer",
+      "label": "Accusation criticized by Quigley",
+      "pages": [
+        824
+      ],
+      "description": "Quigley reports Borden\u2019s accusation of probable Soviet agency while explicitly criticizing the accusation. This link records the attack, not evidence of espionage.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "robert-oppenheimer",
+      "toId": "los-alamos",
+      "label": "Laboratory head",
+      "pages": [
+        737,
+        824
+      ],
+      "description": "Quigley identifies Oppenheimer as head of Los Alamos and describes Groves appointing him despite known derogatory information. The two passages differ in the appointment year, so no exact date is asserted here.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "stanislaw-ulam",
+      "toId": "edward-teller",
+      "label": "Thermonuclear design suggestion",
+      "pages": [
+        798
+      ],
+      "description": "Quigley credits Ulam with a February 1951 suggestion to Teller that led to the successful thermonuclear design.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "rosebery",
+      "toId": "rhodes-trust",
+      "label": "Trustee under Rhodes\u2019s final will",
+      "pages": [
+        124
+      ],
+      "description": "Quigley says Rosebery became a trustee under Rhodes\u2019s last will after the Uganda negotiations.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "rosebery",
+      "toId": "milner-group",
+      "label": "Joined Rhodes\u2019s secret group",
+      "pages": [
+        124
+      ],
+      "description": "Quigley says Rosebery replaced his father-in-law Rothschild in Rhodes\u2019s secret group; this is the author\u2019s account of an informal circle.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "rosebery",
+      "toId": "liberal-party",
+      "label": "Imperialist within Liberal Party",
+      "pages": [
+        119
+      ],
+      "description": "Quigley identifies Rosebery as a Liberal imperialist opposed to the party\u2019s Little Englander wing.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "rhodes",
+      "toId": "liberal-party",
+      "label": "Conditional financial contribution",
+      "pages": [
+        124
+      ],
+      "description": "Quigley says Rhodes contributed money in return for a promise that the party would not abandon Egypt; the passage supplies no amount for this contribution.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "selborne",
+      "toId": "kindergarten",
+      "label": "Continued use of Milner\u2019s administrators",
+      "pages": [
+        127
+      ],
+      "description": "Quigley says Selborne took over and continued to use the Kindergarten after succeeding Milner in 1905.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "curtis",
+      "toId": "riia",
+      "label": "Actual founder in Quigley\u2019s account",
+      "pages": [
+        491
+      ],
+      "description": "Quigley calls Curtis the actual founder of Chatham House while distinguishing him from its financial supporters.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "waldorf-astor",
+      "toId": "times",
+      "label": "Astor family ownership",
+      "pages": [
+        122
+      ],
+      "description": "Quigley attributes ownership of The Times since 1922 to the Astor family. The person link represents Waldorf\u2019s family interests, not sole individual ownership.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "waldorf-astor",
+      "toId": "riia",
+      "label": "Astor family financial support",
+      "pages": [
+        122,
+        491
+      ],
+      "description": "Quigley names the Astor family among Chatham House\u2019s chief financial supporters; this does not specify Waldorf alone as the donor.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "milner-group",
+      "toId": "times",
+      "label": "Control and influence asserted by Quigley",
+      "pages": [
+        122
+      ],
+      "description": "Quigley attributes domination and later control of The Times to the Rhodes\u2013Milner group, with an exception for 1919\u20131922. This is his analytical claim about influence.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "rhodes-trust",
+      "toId": "round-table-journal",
+      "label": "Financial support",
+      "pages": [
+        491
+      ],
+      "description": "Quigley names the Rhodes Trust and Abe Bailey as suppliers of money to the journal.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "kerr",
+      "toId": "round-table-journal",
+      "label": "Editor",
+      "pages": [
+        491
+      ],
+      "description": "Quigley identifies Lothian, Philip Kerr, as the journal\u2019s editor.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "ipr",
+      "toId": "riia",
+      "label": "Interlocking national institutes",
+      "pages": [
+        122,
+        492
+      ],
+      "description": "Quigley describes British-dominion IPR units as interlocking with international-affairs institutes and later calls national institutes autonomous branches. This does not make the worldwide IPR a single subsidiary of Chatham House.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "ipr",
+      "label": "Constitution writer and council officer",
+      "pages": [
+        792
+      ],
+      "description": "Quigley says Greene wrote the 1926 constitution, channelled funds, and held American Council treasurer and chair posts and International Council chairmanship.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "cfr",
+      "label": "Early establishment participant",
+      "pages": [
+        792
+      ],
+      "description": "Quigley identifies Greene as an early figure in establishing the Council on Foreign Relations after the Paris Peace Conference.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "reparations-commission",
+      "label": "Secretary at Paris Peace Conference",
+      "pages": [
+        792
+      ],
+      "description": "Quigley says Greene served as secretary to the Reparations Commission in 1919.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "toynbee-hall",
+      "label": "Resident and contact with Round Table",
+      "pages": [
+        792
+      ],
+      "description": "Quigley says Greene lived at Toynbee Hall while stationed in London in 1918 and met the Round Table group through that residence.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "curtis",
+      "label": "Assistance securing professorship",
+      "pages": [
+        792
+      ],
+      "description": "Quigley says Greene wrote to Curtis after losing his investment-banking job and obtained a two-year international-relations professorship at Aberystwyth.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "league-of-nations",
+      "label": "Covenant drafter",
+      "pages": [
+        250
+      ],
+      "description": "Quigley credits Hurst with wording critical Covenant articles. This is a drafting role, not evidence of employment in the Secretariat.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "league-of-nations",
+      "toId": "international-labour-office",
+      "label": "Semi-autonomous attached organization",
+      "pages": [
+        251
+      ],
+      "description": "Quigley lists the International Labor Office as a semi-autonomous organization attached to the League.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "league-of-nations",
+      "toId": "permanent-court-international-justice",
+      "label": "Semi-autonomous attached organization",
+      "pages": [
+        251
+      ],
+      "description": "Quigley lists the Permanent Court as a semi-autonomous organization attached to the League.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "henry-davison",
+      "toId": "benjamin-strong",
+      "label": "Career patron",
+      "pages": [
+        280
+      ],
+      "description": "Quigley says Davison advanced Strong at Bankers Trust and used him as Morgan\u2019s agent after the 1907 crash.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "bankers-trust",
+      "label": "Secretary and vice-president predecessor",
+      "pages": [
+        280
+      ],
+      "description": "Quigley identifies Lamont as Strong\u2019s predecessor in the secretary and vice-president posts.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "kuhn-loeb",
+      "toId": "benjamin-strong",
+      "label": "Joint nomination for Federal Reserve post",
+      "pages": [
+        280
+      ],
+      "description": "Quigley says Strong became New York Federal Reserve governor as the joint nominee of Morgan and Kuhn, Loeb in 1914; this does not establish ownership of the Federal Reserve.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "benjamin-strong",
+      "label": "Joint nomination and career support",
+      "pages": [
+        280
+      ],
+      "description": "Quigley describes Morgan support for Strong\u2019s career and joint nomination with Kuhn, Loeb for the New York Federal Reserve governorship.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "montagu-norman",
+      "toId": "benjamin-strong",
+      "label": "Central-bank policy cooperation",
+      "pages": [
+        280
+      ],
+      "description": "Quigley describes a cooperation agreement after their first meeting in 1916 and subsequent correspondence and shared vacations.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "james-byrnes",
+      "toId": "state-department",
+      "label": "Secretary of state",
+      "pages": [
+        689
+      ],
+      "description": "Quigley identifies Byrnes as Truman\u2019s secretary of state in 1945.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "ernest-bevin",
+      "toId": "foreign-office",
+      "label": "British foreign secretary",
+      "pages": [
+        689
+      ],
+      "description": "Quigley identifies Bevin as the new foreign secretary who replaced Eden at Potsdam in July 1945.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "clement-attlee",
+      "toId": "labour-party",
+      "label": "Prime minister after Labour victory",
+      "pages": [
+        689
+      ],
+      "description": "Quigley connects Attlee\u2019s premiership with Labour\u2019s 1945 election victory and his replacement of Churchill at Potsdam.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "leon-blum",
+      "toId": "french-government",
+      "label": "French premier",
+      "pages": [
+        505
+      ],
+      "description": "Quigley identifies Blum as the French premier who proposed a nonintervention agreement concerning Spain.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "french-government",
+      "toId": "nonintervention-committee",
+      "label": "Proposed nonintervention agreement",
+      "pages": [
+        505
+      ],
+      "description": "Quigley describes the French proposal and subsequent international agreement and supervision efforts; this records a policy initiative, not ownership of the committee.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "charles-de-gaulle",
+      "toId": "french-government",
+      "label": "President of Fifth Republic",
+      "pages": [
+        911
+      ],
+      "description": "Quigley identifies De Gaulle as the first president of the Fifth Republic, inaugurated in January 1959.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "charles-de-gaulle",
+      "toId": "nato",
+      "label": "Dispute over command and consultation",
+      "pages": [
+        911
+      ],
+      "description": "Quigley describes De Gaulle\u2019s rejected proposal for a tripartite directorate and limits on French participation in integrated command. The passage does not say France left the alliance.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "french-government",
+      "toId": "nato",
+      "label": "Participation and command disputes",
+      "pages": [
+        911
+      ],
+      "description": "Quigley describes France\u2019s NATO commitments and disputes about the Mediterranean fleet, nuclear basing and integrated air defense in 1958\u20131959.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "mohammad-mossadeq",
+      "toId": "cia",
+      "label": "Overthrow operation attributed to CIA",
+      "pages": [
+        880,
+        881
+      ],
+      "description": "Quigley attributes the campaign against Mossadegh to the CIA under Allen Dulles; this is the author\u2019s account of the coup, not an affiliation of Mossadegh with the agency.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "mohammad-mossadeq",
+      "toId": "anglo-iranian",
+      "label": "Oil dispute and opposition",
+      "pages": [
+        880,
+        881
+      ],
+      "description": "Quigley places AIOC among the forces opposing Mossadegh and describes the oil settlement after his overthrow.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "mohammad-mossadeq",
+      "toId": "mohammad-reza-shah",
+      "label": "Coup and struggle for authority",
+      "pages": [
+        880,
+        881
+      ],
+      "description": "Quigley describes the shah\u2019s dismissal order, flight and return after Mossadegh\u2019s defeat in August 1953.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "frank-tiarks",
+      "label": "Banking association",
+      "pages": [
+        880
+      ],
+      "description": "Quigley calls Dulles an old associate of Tiarks and specifies their respective Schroeder banking roles.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "cia",
+      "toId": "cuban-exile-executive-committee",
+      "label": "Excluded and detained during invasion",
+      "pages": [
+        942
+      ],
+      "description": "Quigley says the CIA kept the unnamed refugee executive committee locked up without communication during the invasion week. This is an adversarial operational relationship, not committee membership.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "joint-chiefs",
+      "toId": "cia",
+      "label": "Approved CIA invasion plan",
+      "pages": [
+        942
+      ],
+      "description": "Quigley says the Joint Chiefs approved the CIA-directed Bay of Pigs invasion plan.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "jfk",
+      "toId": "joint-chiefs",
+      "label": "Accepted approved invasion plan",
+      "pages": [
+        942
+      ],
+      "description": "Quigley says Kennedy accepted the plan after the Joint Chiefs\u2019 approval and CIA assurances; this records a decision chain, not organizational membership.",
+      "evidence": "Attributed to the supplied Tragedy and Hope body text; not independently verified."
+    },
+    {
+      "fromId": "rockefeller-foundation",
+      "toId": "ipr",
+      "label": "Foundation funding",
+      "pages": [
+        783
+      ],
+      "description": "Quigley says roughly half of the IPR and American Council budgets over 1925\u20131950 came from the Carnegie and Rockefeller foundations. This does not allocate that half between the two foundations.",
+      "evidence": "Attributed to Quigley\u2019s body text; not independently verified."
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "rockefeller-foundation",
+      "label": "Trustee",
+      "pages": [
+        791,
+        792
+      ],
+      "description": "Quigley describes Greene\u2019s Rockefeller Foundation trusteeship among his philanthropic and institutional posts; the later passage describes his return to these circles after 1934.",
+      "evidence": "Attributed to Quigley\u2019s body text; not independently verified."
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "rockefeller-foundation",
+      "pages": [
+        783,
+        791,
+        792
+      ],
+      "description": "Quigley identifies the Rockefeller Foundation as an IPR funder and names Jerome Greene among its trustees. His interpretation of interlocking foundation and financial influence is distinct from the specific funding and trustee roles."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "balfour",
+      "pages": [
+        120,
+        121,
+        135
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "fisher",
+      "pages": [
+        491,
+        492
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "halifax",
+      "pages": [
+        534,
+        535,
+        545,
+        548,
+        550,
+        551
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "robert-cecil",
+      "pages": [
+        257,
+        258
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "joseph-chamberlain",
+      "pages": [
+        119,
+        126,
+        191
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "curzon",
+      "pages": [
+        119,
+        148
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "anthony-eden",
+      "pages": [
+        485,
+        633,
+        650,
+        689
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "fulgencio-batista",
+      "pages": [
+        939,
+        940
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "william-rockefeller",
+      "pages": [
+        77
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "william-c-whitney",
+      "pages": [
+        77
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "henry-cabot-lodge",
+      "pages": [
+        79
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "william-randolph-hearst",
+      "pages": [
+        79,
+        258
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "benjamin-disraeli",
+      "pages": [
+        119,
+        123
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "evelyn-baring",
+      "pages": [
+        123
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "henry-kitchener",
+      "pages": [
+        123,
+        124,
+        189
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "paul-kruger",
+      "pages": [
+        125,
+        126
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "j-b-m-hertzog",
+      "pages": [
+        127,
+        128
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "lord-dufferin",
+      "pages": [
+        147
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "reginald-dyer",
+      "pages": [
+        154
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "otto-von-bismarck",
+      "pages": [
+        187,
+        188
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "wilhelm-ii",
+      "pages": [
+        187,
+        188,
+        191
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "richard-haldane",
+      "pages": [
+        192
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "matthew-perry",
+      "pages": [
+        173
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "georges-clemenceau",
+      "pages": [
+        232,
+        233,
+        235,
+        239
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "vittorio-orlando",
+      "pages": [
+        233,
+        234
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "john-maynard-keynes",
+      "pages": [
+        243
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "herbert-hoover",
+      "pages": [
+        268,
+        298
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "andrew-mellon",
+      "pages": [
+        268,
+        450
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "aristide-briand",
+      "pages": [
+        248,
+        253
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "gustav-stresemann",
+      "pages": [
+        248,
+        253
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "mustafa-kemal",
+      "pages": [
+        237,
+        238
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "frank-kellogg",
+      "pages": [
+        253,
+        254
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "engelbert-dollfuss",
+      "pages": [
+        482,
+        483
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "edvard-benes",
+      "pages": [
+        535,
+        537,
+        749
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "edouard-daladier",
+      "pages": [
+        534,
+        535,
+        537
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "lucius-clay",
+      "pages": [
+        739,
+        752,
+        759
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "chester-nimitz",
+      "pages": [
+        624
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "alcide-de-gasperi",
+      "pages": [
+        751
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "konrad-adenauer",
+      "pages": [
+        763
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "douglas-macarthur",
+      "pages": [
+        803,
+        805,
+        808,
+        957
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "lavrenti-beria",
+      "pages": [
+        836,
+        837
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "janos-kadar",
+      "pages": [
+        853
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "david-ben-gurion",
+      "pages": [
+        885,
+        887
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "king-farouk",
+      "pages": [
+        889,
+        890,
+        891,
+        892
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "cliveden-circle",
+      "pages": [
+        490,
+        491,
+        550
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "war-cabinet",
+      "pages": [
+        574,
+        579,
+        602,
+        603,
+        628,
+        650,
+        652
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "federal-reserve",
+      "pages": [
+        60,
+        62,
+        64,
+        80
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "new-republic",
+      "pages": [
+        80
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "muslim-league",
+      "pages": [
+        148
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "japanese-diet",
+      "pages": [
+        175,
+        176
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "credit-anstalt",
+      "pages": [
+        268,
+        298
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "little-entente",
+      "pages": [
+        245
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "conference-ambassadors",
+      "pages": [
+        233,
+        239
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "exchange-equalization-account",
+      "pages": [
+        301
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "reconstruction-finance-corporation",
+      "pages": [
+        302
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "international-monetary-fund",
+      "pages": [
+        667
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "world-bank",
+      "pages": [
+        667
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "german-socialist-unity-party",
+      "pages": [
+        745,
+        751
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    },
+    {
+      "id": "seato",
+      "pages": [
+        822,
+        902
+      ],
+      "reason": "No additional named relationship established in this review beyond existing source links and event participation; co-occurrence and thematic descriptions are not treated as affiliations."
+    }
+  ],
+  "summary": "Profile and existing-edge inventory reviewed for all 329 source-associated identities. Targeted body-text rereading repairs explicit roles and institutional links. Remaining isolated identities are recorded for further passage-level work; this is not a claim that every affiliation in the 1090-page book is exhausted."
+}

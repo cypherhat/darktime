@@ -1,0 +1,2435 @@
+{
+  "sourceId": "anglo",
+  "reviewedIds": [
+    "quigley",
+    "rhodes",
+    "milner",
+    "stead",
+    "esher",
+    "salisbury",
+    "balfour",
+    "goschen",
+    "arnold-toynbee",
+    "arnold-j-toynbee",
+    "george-parkin",
+    "gell",
+    "brassey",
+    "albert-grey",
+    "edward-grey",
+    "rosebery",
+    "rothschild",
+    "beit",
+    "bailey",
+    "jameson",
+    "smuts",
+    "selborne",
+    "duncan",
+    "brand",
+    "kerr",
+    "curtis",
+    "dawson",
+    "amery",
+    "grigg",
+    "fisher",
+    "halifax",
+    "waldorf-astor",
+    "nancy-astor",
+    "john-jacob-astor",
+    "hichens",
+    "feetham",
+    "dougal-malcolm",
+    "dove",
+    "basil-long",
+    "basil-williams",
+    "meston",
+    "marris",
+    "coupland",
+    "zimmern",
+    "hankey",
+    "florashaw",
+    "lugard",
+    "george-buckle",
+    "northcliffe",
+    "monypenny",
+    "chilrol",
+    "fiddes",
+    "walrond",
+    "buchan",
+    "holland",
+    "arthur-glazebrook",
+    "george-glazebrook",
+    "massey",
+    "corbett",
+    "beer",
+    "anson",
+    "michael-glazebrook",
+    "raleigh",
+    "barnett",
+    "hugh-wyndham",
+    "edward-cook",
+    "harry-johnston",
+    "hawksley",
+    "garrett",
+    "robert-cecil",
+    "asquith",
+    "lloyd-george",
+    "joseph-chamberlain",
+    "curzon",
+    "violet-milner",
+    "edward-cecil",
+    "maguire",
+    "michell",
+    "egerton",
+    "jowett",
+    "ruskin",
+    "james-allen",
+    "downie-stewart",
+    "henry-birchenough",
+    "arthur-smith",
+    "alfred-lyttelton",
+    "malcolm-hailey",
+    "rushbrook-williams",
+    "hv-hodson",
+    "harlow",
+    "fabian-ware",
+    "gilbert-murray",
+    "headlam-morley",
+    "chelmsford",
+    "arthur-salter",
+    "steel-maitland",
+    "ormsby-gore",
+    "edith-lyttelton",
+    "hwc-davis",
+    "john-simon",
+    "samuel-hoare",
+    "wilson-harris",
+    "francis-clarke",
+    "wgs-adams",
+    "wk-hancock",
+    "ernest-woodward",
+    "harold-butler",
+    "kenneth-bell",
+    "donald-somervell",
+    "maurice-gwyer",
+    "charles-harris",
+    "edward-peacock",
+    "cyril-radcliffe",
+    "john-wheeler-bennett",
+    "robert-stopford",
+    "barrington-ward",
+    "kenneth-wheare",
+    "edward-carr",
+    "malcolm-macdonald",
+    "godfrey-elton",
+    "neill-malcolm",
+    "willingdon",
+    "isaiah-berlin",
+    "roger-makins",
+    "arthur-willert",
+    "ivison-macadam",
+    "joseph-flavelle",
+    "frank-aydelotte",
+    "jerome-greene",
+    "clarence-streit",
+    "james-rose-innes",
+    "thomas-bavin",
+    "fw-eggleston",
+    "dudley-braham",
+    "arthur-atkinson",
+    "helmuth-moltke",
+    "adam-trott",
+    "gathorne-hardy",
+    "sarvepalli-radhakrishnan",
+    "edwin-montagu",
+    "adam-marris",
+    "gn-clark",
+    "douglas-jay",
+    "tasker-bliss",
+    "harold-temperley",
+    "thomas-lamont",
+    "rw-leonard",
+    "daniel-stevenson",
+    "robert-borden",
+    "allen-dulles",
+    "john-hope-simpson",
+    "anthony-eden",
+    "william-duke",
+    "malcolm-seton",
+    "mohandas-gandhi",
+    "winston-churchill",
+    "adolf-hitler",
+    "neville-chamberlain",
+    "john-foster",
+    "oliver-lyttelton",
+    "selborne-third",
+    "clement-attlee",
+    "nw-rowell",
+    "inazo-nitobe",
+    "dzt-yui",
+    "john-sparrow",
+    "lionel-abrahams",
+    "henry-price",
+    "cecil-hurst",
+    "austen-chamberlain",
+    "milner-group",
+    "society-elect",
+    "association-helpers",
+    "cecil-bloc",
+    "kindergarten",
+    "round-table",
+    "round-table-journal",
+    "rhodes-trust",
+    "beit-trust",
+    "all-souls",
+    "balliol",
+    "new-college",
+    "oxford-university",
+    "toynbee-hall",
+    "bsac",
+    "closer-union",
+    "intercolonial-council",
+    "central-sa-railways",
+    "the-state",
+    "times",
+    "cape-times",
+    "johannesburg-star",
+    "pall-mall-gazette",
+    "review-reviews",
+    "imperial-federation-league",
+    "lazard",
+    "lloyds-bank",
+    "cliveden-circle",
+    "war-cabinet",
+    "imperial-war-cabinet",
+    "committee-defence",
+    "colonial-office",
+    "league-of-nations",
+    "mandates-commission",
+    "peel-commission",
+    "irish-boundary-commission",
+    "psychical-research",
+    "foreign-office",
+    "inquiry",
+    "jp-morgan",
+    "british-treasury",
+    "lse",
+    "labour-party",
+    "indian-national-congress",
+    "french-government",
+    "riia",
+    "ipr",
+    "ipr-pacific-council",
+    "canadian-iia",
+    "australian-iia",
+    "new-zealand-iia",
+    "south-african-iia",
+    "indian-iia",
+    "cfr",
+    "iiic",
+    "icic",
+    "international-studies-conferences",
+    "rockefeller-foundation",
+    "frps",
+    "foreign-office-research",
+    "indian-round-table-conferences",
+    "india-office",
+    "british-embassy-washington",
+    "british-food-mission",
+    "british-shipping-mission",
+    "unrra",
+    "ministry-of-information",
+    "ministry-of-production",
+    "ministry-of-economic-warfare",
+    "agenda"
+  ],
+  "relationships": [
+    {
+      "fromId": "rhodes",
+      "toId": "oxford-university",
+      "label": "Oriel undergraduate",
+      "pages": [
+        14,
+        36
+      ],
+      "description": "Quigley identifies Rhodes as an Oriel contemporary of Milner at Oxford.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "george-parkin",
+      "toId": "times",
+      "label": "Newspaper correspondent",
+      "pages": [
+        13
+      ],
+      "description": "Parkin served as The Times special correspondent at Ottawa in 1894 and its Canadian correspondent while Principal of Upper Canada College; the association continued after his Rhodes Trust appointment.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "goschen",
+      "toId": "bank-england",
+      "label": "Corporate directorship",
+      "pages": [
+        16
+      ],
+      "description": "Quigley explicitly identifies George Goschen as a director of the Bank of England.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-grey",
+      "toId": "oxford-university",
+      "label": "Chancellor of Oxford University",
+      "pages": [
+        101
+      ],
+      "description": "Grey of Fallodon is listed as Chancellor of Oxford University from 1928 to 1933.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "egerton",
+      "toId": "oxford-university",
+      "label": "Academic chair or professorship",
+      "pages": [
+        91
+      ],
+      "description": "Egerton held the Beit Professorship in Colonial History at Oxford in 1905–1920.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "egerton",
+      "toId": "all-souls",
+      "label": "College fellowship",
+      "pages": [
+        91
+      ],
+      "description": "Egerton received an All Souls fellowship with the Beit Chair in 1905 and remained a Fellow until his death in 1927.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "egerton",
+      "toId": "round-table",
+      "label": "Institutional membership or participation",
+      "pages": [
+        91
+      ],
+      "description": "Quigley explicitly identifies Egerton as a member of the Round Table Group.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "egerton",
+      "toId": "cecil-bloc",
+      "label": "Cecil Bloc affiliation attributed by Quigley",
+      "pages": [
+        91
+      ],
+      "description": "Quigley places Egerton in the Cecil Bloc; this is the author’s network interpretation.",
+      "evidence": "Author’s network interpretation"
+    },
+    {
+      "fromId": "egerton",
+      "toId": "milner-group",
+      "label": "Institutional membership or participation",
+      "pages": [
+        91
+      ],
+      "description": "Quigley describes Egerton as a member of the Milner Group until his death, while distinguishing this inference from his academic appointment.",
+      "evidence": "Author’s network interpretation"
+    },
+    {
+      "fromId": "ruskin",
+      "toId": "arnold-toynbee",
+      "label": "Teaching and intellectual influence",
+      "pages": [
+        14,
+        15
+      ],
+      "description": "Quigley states that Toynbee’s social-service ideas derived from Ruskin’s teaching and that Toynbee became an ardent disciple.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ruskin",
+      "toId": "milner",
+      "label": "Teaching and intellectual influence",
+      "pages": [
+        14,
+        15
+      ],
+      "description": "Quigley states that Milner’s social-service ideas derived from Ruskin’s teaching and that Milner became an ardent disciple.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ruskin",
+      "toId": "oxford-university",
+      "label": "Academic chair or professorship",
+      "pages": [
+        14
+      ],
+      "description": "Ruskin is identified as a professor at Oxford during Toynbee and Milner’s undergraduate years.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "henry-birchenough",
+      "toId": "bsac",
+      "label": "Corporate directorship",
+      "pages": [
+        17
+      ],
+      "description": "Birchenough became a British South Africa Company director in 1905 and president in 1925.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "henry-birchenough",
+      "toId": "beit-trust",
+      "label": "Trusteeship",
+      "pages": [
+        17
+      ],
+      "description": "Quigley identifies Birchenough as a trustee of the Beit Fund beginning in 1920.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "henry-birchenough",
+      "toId": "milner",
+      "label": "Personal friendship or shared household",
+      "pages": [
+        17
+      ],
+      "description": "Birchenough was Milner’s roommate during his Gazette period; Quigley describes their continuing personal contact.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-cook",
+      "toId": "new-college",
+      "label": "Undergraduate",
+      "pages": [
+        17
+      ],
+      "description": "Cook was an undergraduate at New College in 1879 when he entered the Toynbee-Milner circle.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "garrett",
+      "toId": "pall-mall-gazette",
+      "label": "Assistant to Stead and Cook",
+      "pages": [
+        17
+      ],
+      "description": "Garrett was assistant to Stead and Cook on the Pall Mall Gazette in 1887–1892.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "maguire",
+      "toId": "all-souls",
+      "label": "College fellowship",
+      "pages": [
+        51
+      ],
+      "description": "Quigley expressly identifies Rochfort Maguire as a Fellow of All Souls.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edith-lyttelton",
+      "toId": "alfred-lyttelton",
+      "label": "Reported marriage",
+      "pages": [
+        22
+      ],
+      "description": "Edith Balfour was Alfred Lyttelton’s second wife.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edith-lyttelton",
+      "toId": "oliver-lyttelton",
+      "label": "Reported parent and child",
+      "pages": [
+        22
+      ],
+      "description": "Oliver Lyttelton is identified as the son of Edith and Alfred Lyttelton.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edith-lyttelton",
+      "toId": "league-of-nations",
+      "label": "Source-described professional role",
+      "pages": [
+        22
+      ],
+      "description": "Edith Lyttelton served as a substitute delegate to the League Assembly for five sessions in 1923–1931.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "robert-cecil",
+      "toId": "foreign-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        20
+      ],
+      "description": "Robert Cecil served as Parliamentary Under Secretary for Foreign Affairs in 1915–1916 and Assistant Secretary in 1918.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "alfred-lyttelton",
+      "toId": "colonial-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        21
+      ],
+      "description": "Alfred Lyttelton was Colonial Secretary in 1903–1906.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "balfour",
+      "toId": "british-treasury",
+      "label": "Source-described professional role",
+      "pages": [
+        21
+      ],
+      "description": "Balfour served as First Lord of the Treasury in Salisbury’s government, 1895–1902; this is the named government office, not an assertion that he conducted all departmental financial business.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "balfour",
+      "toId": "foreign-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        147
+      ],
+      "description": "Balfour was Secretary of State in the Foreign Office in 1916–1919.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "curzon",
+      "toId": "foreign-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        27,
+        147
+      ],
+      "description": "Curzon served as Under Secretary in 1895–1898 and Foreign Secretary in 1919–1924.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "curzon",
+      "toId": "india-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        27
+      ],
+      "description": "Curzon was Under Secretary in the India Office in 1891–1892.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "headlam-morley",
+      "toId": "foreign-office",
+      "label": "Source-described professional role",
+      "pages": [
+        28,
+        29
+      ],
+      "description": "James Headlam-Morley worked in the Foreign Office under Milner and Curzon in 1918–1928.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "headlam-morley",
+      "toId": "buchan",
+      "label": "Source-described professional role",
+      "pages": [
+        28
+      ],
+      "description": "Quigley places Headlam-Morley in the Department of Information under John Buchan in 1917–1918.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-simon",
+      "toId": "foreign-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        31
+      ],
+      "description": "John Simon was Foreign Secretary in 1931–1935.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-simon",
+      "toId": "british-treasury",
+      "label": "Source-described professional role",
+      "pages": [
+        31
+      ],
+      "description": "John Simon was Chancellor of the Exchequer in 1937–1940.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-smith",
+      "toId": "balliol",
+      "label": "Master of Balliol",
+      "pages": [
+        99
+      ],
+      "description": "A. L. Smith was Master of Balliol from 1916 to his death in 1924.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-smith",
+      "toId": "round-table",
+      "label": "Source-described professional role",
+      "pages": [
+        99
+      ],
+      "description": "Quigley identifies A. L. Smith as a collaborator with the Round Table Group after 1910.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-smith",
+      "toId": "brassey",
+      "label": "Personal friendship or shared household",
+      "pages": [
+        99
+      ],
+      "description": "Quigley describes Smith as Brassey’s close friend and says Brassey reorganized Balliol’s financial structure through Smith in 1904.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "brassey",
+      "toId": "balliol",
+      "label": "College fellowship",
+      "pages": [
+        99,
+        100
+      ],
+      "description": "Brassey reorganized the foundation’s finances in 1904 through A. L. Smith and is listed among Balliol’s Fellows or Honorary Fellows.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "basil-williams",
+      "toId": "times",
+      "label": "Newspaper correspondent",
+      "pages": [
+        61
+      ],
+      "description": "Williams wrote a volume of The Times History of the South African War and served as the paper’s special correspondent at the union-making convention.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "buchan",
+      "toId": "times",
+      "label": "Newspaper correspondent",
+      "pages": [
+        61
+      ],
+      "description": "Buchan was a correspondent for The Times during the First World War.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-peacock",
+      "toId": "bank-england",
+      "label": "Corporate directorship",
+      "pages": [
+        90
+      ],
+      "description": "Peacock was a director of the Bank of England from 1921 to 1946.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-peacock",
+      "toId": "british-treasury",
+      "label": "Institutional representative",
+      "pages": [
+        90
+      ],
+      "description": "Peacock acted as British Treasury representative in Washington during the Second World War.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "toynbee-hall",
+      "label": "Resident in 1918",
+      "pages": [
+        190
+      ],
+      "description": "Greene became a resident of Toynbee Hall while in London in 1918.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "reparations-commission",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        190
+      ],
+      "description": "Greene was secretary to the Reparations Commission of the Peace Conference in 1919.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-salter",
+      "toId": "reparations-commission",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        97,
+        190
+      ],
+      "description": "Salter succeeded Greene and served as general secretary of the Reparations Commission in 1920–1922.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-salter",
+      "toId": "league-of-nations",
+      "label": "Source-described professional role",
+      "pages": [
+        97
+      ],
+      "description": "Salter directed the League’s Economic and Finance Section in the interwar period.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "steel-maitland",
+      "toId": "colonial-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        98
+      ],
+      "description": "Steel-Maitland was Parliamentary Under Secretary for Colonies in 1915–1917.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "steel-maitland",
+      "toId": "foreign-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        98
+      ],
+      "description": "Steel-Maitland was Joint Parliamentary Under Secretary in the Foreign Office in 1917–1919, heading overseas trade work.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "hwc-davis",
+      "toId": "foreign-office",
+      "label": "Source-described professional role",
+      "pages": [
+        96
+      ],
+      "description": "Davis organized the War Trade Intelligence Department of the Ministry of Blockade in the Foreign Office in 1915.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "maurice-gwyer",
+      "toId": "british-treasury",
+      "label": "Source-described professional role",
+      "pages": [
+        96
+      ],
+      "description": "Gwyer was Procurator-General and Solicitor to the Treasury in 1926–1933, then First Parliamentary Counsel in 1934–1937.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "harold-butler",
+      "toId": "foreign-office",
+      "label": "Source-described professional role",
+      "pages": [
+        95
+      ],
+      "description": "Butler served in the Foreign Trade Department of the Foreign Office in 1914–1917.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "harold-butler",
+      "toId": "international-labour-office",
+      "label": "Source-described professional role",
+      "pages": [
+        95,
+        96
+      ],
+      "description": "Butler served as deputy director in 1920–1932 and director in 1932–1938 of the International Labour Office.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "rushbrook-williams",
+      "toId": "league-of-nations",
+      "label": "Source-described professional role",
+      "pages": [
+        98
+      ],
+      "description": "Rushbrook Williams was a substitute delegate to the League Assembly in 1925.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ernest-woodward",
+      "toId": "oxford-university",
+      "label": "Academic chair or professorship",
+      "pages": [
+        99
+      ],
+      "description": "Woodward succeeded Zimmern as Montague Burton Professor of International Relations in 1944.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "sarvepalli-radhakrishnan",
+      "toId": "all-souls",
+      "label": "College fellowship",
+      "pages": [
+        194
+      ],
+      "description": "Radhakrishnan became a Fellow of All Souls in 1944.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "sarvepalli-radhakrishnan",
+      "toId": "oxford-university",
+      "label": "Academic chair or professorship",
+      "pages": [
+        194
+      ],
+      "description": "Radhakrishnan became Spalding Professor of Eastern Religions and Ethics at Oxford in 1936.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "wgs-adams",
+      "toId": "lloyd-george",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        95
+      ],
+      "description": "Adams was a secretary to Lloyd George in 1916–1919.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "wgs-adams",
+      "toId": "war-cabinet",
+      "label": "Editorial or publication work",
+      "pages": [
+        95
+      ],
+      "description": "Adams edited the War Cabinet Reports in 1917–1918.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "james-allen",
+      "toId": "riia",
+      "label": "Institutional membership or participation",
+      "pages": [
+        120
+      ],
+      "description": "James Allen is expressly identified as a member of the Royal Institute of International Affairs.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "anthony-eden",
+      "toId": "foreign-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        197
+      ],
+      "description": "Eden is identified as Foreign Secretary when he communicated the proposed FRPS government takeover to Astor at the end of 1942.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "austen-chamberlain",
+      "toId": "india-office",
+      "label": "Source-described professional role",
+      "pages": [
+        145,
+        147
+      ],
+      "description": "Austen Chamberlain held the India Office position in the wartime coalitions.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "lionel-abrahams",
+      "toId": "india-office",
+      "label": "Secretarial or ministerial appointment",
+      "pages": [
+        204
+      ],
+      "description": "Abrahams is identified as Assistant Under Secretary in the India Office and a participant in Curtis’s study circle.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "douglas-jay",
+      "toId": "labour-party",
+      "label": "Parliamentary party affiliation",
+      "pages": [
+        305
+      ],
+      "description": "Jay became a Labour Member of Parliament in 1946.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "douglas-jay",
+      "toId": "times",
+      "label": "Newspaper staff appointment",
+      "pages": [
+        305
+      ],
+      "description": "Jay worked on the staff of The Times in the 1929–1937 period.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "clement-attlee",
+      "toId": "labour-party",
+      "label": "Source-described professional role",
+      "pages": [
+        305
+      ],
+      "description": "Attlee is named as prime minister of the Labour government formed in 1945.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "mohandas-gandhi",
+      "toId": "indian-national-congress",
+      "label": "Institutional membership or participation",
+      "pages": [
+        211
+      ],
+      "description": "Quigley discusses Gandhi’s leadership in determining Congress participation or boycott of governing institutions and constitutional talks.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "gn-clark",
+      "toId": "all-souls",
+      "label": "Institutional membership or participation",
+      "pages": [
+        305
+      ],
+      "description": "Clark was a member of All Souls from 1912.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-sparrow",
+      "toId": "all-souls",
+      "label": "College fellowship",
+      "pages": [
+        302
+      ],
+      "description": "Sparrow became a Fellow of All Souls in 1929.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-sparrow",
+      "toId": "new-college",
+      "label": "Graduate",
+      "pages": [
+        302
+      ],
+      "description": "Sparrow graduated from New College by 1927.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-sparrow",
+      "toId": "oxford-university",
+      "label": "Source-described professional role",
+      "pages": [
+        302
+      ],
+      "description": "Sparrow was lecturer in Law at Oxford beginning in 1930.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-foster",
+      "toId": "oxford-university",
+      "label": "Source-described professional role",
+      "pages": [
+        302
+      ],
+      "description": "Foster was lecturer in Private International Law at Oxford in 1935–1939, according to the narrative on pages 301–302.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "corbett",
+      "toId": "ipr-pacific-council",
+      "label": "Pacific Council chair",
+      "pages": [
+        303
+      ],
+      "description": "Corbett chaired the IPR Pacific Council in 1942.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "corbett",
+      "toId": "ipr",
+      "label": "Institutional membership or participation",
+      "pages": [
+        303
+      ],
+      "description": "Quigley expressly describes Corbett’s participation in the Institute of Pacific Relations.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "corbett",
+      "toId": "british-embassy-washington",
+      "label": "Wartime lobbying for embassy",
+      "pages": [
+        303
+      ],
+      "description": "During the war Corbett engaged in lobbying for the British Embassy among academic, Rhodes Scholarship and government circles; this is lobbying work, not diplomatic employment.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "duncan",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        55
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Patrick Duncan as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "walrond",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        55
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Main Swete Osmond Walrond as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "monypenny",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        55
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies William Flavelle Monypenny as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "dove",
+      "toId": "new-college",
+      "label": "Undergraduate at New College",
+      "pages": [
+        55,
+        56
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies John Dove as undergraduate at new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "basil-williams",
+      "toId": "new-college",
+      "label": "Undergraduate at New College",
+      "pages": [
+        55,
+        56
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Basil Williams as undergraduate at new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hugh-wyndham",
+      "toId": "new-college",
+      "label": "Undergraduate at New College",
+      "pages": [
+        55,
+        56
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Hugh Archibald Wyndham as undergraduate at new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "grigg",
+      "toId": "new-college",
+      "label": "Undergraduate at New College",
+      "pages": [
+        55,
+        56
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Edward Grigg as undergraduate at new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "curtis",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        55
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Lionel Curtis as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "basil-williams",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        55
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Basil Williams as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "wgs-adams",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies William George Stewart Adams as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "kenneth-bell",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Kenneth N. Bell as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "harold-butler",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Harold Butler as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "francis-clarke",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Francis Clarke as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hwc-davis",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Henry William Carless Davis as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "john-foster",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies John Galway Foster as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "maurice-gwyer",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Maurice L. Gwyer as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "wk-hancock",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies William Keith Hancock as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "charles-harris",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Charles R. S. Harris as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hv-hodson",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Henry Vincent Hodson as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "roger-makins",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Roger M. Makins as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "cyril-radcliffe",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Cyril J. Radcliffe as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "arthur-salter",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Arthur Salter as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "donald-somervell",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Donald B. Somervell as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "steel-maitland",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Arthur Steel-Maitland as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "rushbrook-williams",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Laurence F. Rushbrook Williams as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "ernest-woodward",
+      "toId": "all-souls",
+      "label": "Fellow of All Souls",
+      "pages": [
+        24,
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Ernest Llewellyn Woodward as fellow of all souls. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "wgs-adams",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies William George Stewart Adams as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "kenneth-bell",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Kenneth N. Bell as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "harold-butler",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Harold Butler as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "francis-clarke",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Francis Clarke as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "corbett",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Percy Ellwood Corbett as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hwc-davis",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Henry William Carless Davis as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "wk-hancock",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies William Keith Hancock as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hv-hodson",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Henry Vincent Hodson as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "steel-maitland",
+      "toId": "balliol",
+      "label": "Undergraduate at Balliol",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Arthur Steel-Maitland as undergraduate at balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "john-foster",
+      "toId": "new-college",
+      "label": "Undergraduate at New College",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies John Galway Foster as undergraduate at new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "cyril-radcliffe",
+      "toId": "new-college",
+      "label": "Undergraduate at New College",
+      "pages": [
+        95
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Cyril J. Radcliffe as undergraduate at new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "curzon",
+      "toId": "balliol",
+      "label": "Fellow or Honorary Fellow of Balliol",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies George Nathaniel Curzon as fellow or honorary fellow of balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "edward-grey",
+      "toId": "balliol",
+      "label": "Fellow or Honorary Fellow of Balliol",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Edward Grey as fellow or honorary fellow of balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "massey",
+      "toId": "balliol",
+      "label": "Fellow or Honorary Fellow of Balliol",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Vincent Massey as fellow or honorary fellow of balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "arnold-j-toynbee",
+      "toId": "balliol",
+      "label": "Fellow or Honorary Fellow of Balliol",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Arnold J. Toynbee as fellow or honorary fellow of balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "ernest-woodward",
+      "toId": "balliol",
+      "label": "Fellow or Honorary Fellow of Balliol",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Ernest Llewellyn Woodward as fellow or honorary fellow of balliol. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "isaiah-berlin",
+      "toId": "new-college",
+      "label": "Fellow or Honorary Fellow of New College",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Isaiah Berlin as fellow or honorary fellow of new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "samuel-hoare",
+      "toId": "new-college",
+      "label": "Fellow or Honorary Fellow of New College",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Samuel J. G. Hoare as fellow or honorary fellow of new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "gilbert-murray",
+      "toId": "new-college",
+      "label": "Fellow or Honorary Fellow of New College",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Gilbert Murray as fellow or honorary fellow of new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "new-college",
+      "label": "Fellow or Honorary Fellow of New College",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies William G. A. Ormsby-Gore as fellow or honorary fellow of new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "zimmern",
+      "toId": "new-college",
+      "label": "Fellow or Honorary Fellow of New College",
+      "pages": [
+        100
+      ],
+      "description": "Quigley’s institutional table or explicit fellowship list identifies Alfred Eckhard Zimmern as fellow or honorary fellow of new college. College affiliation is distinct from the book’s tentative political-network classification.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "tasker-bliss",
+      "toId": "riia",
+      "label": "Chaired 1919 institute-planning conference",
+      "pages": [
+        184
+      ],
+      "description": "Bliss chaired the Hotel Majestic joint British-American conference of 30 May 1919 at Robert Cecil’s suggestion; this is a founding conference role, not proof of later Institute membership.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "tasker-bliss",
+      "toId": "robert-cecil",
+      "label": "Proposed chair of founding conference",
+      "pages": [
+        184
+      ],
+      "description": "Robert Cecil suggested that Tasker Bliss chair the Hotel Majestic conference.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "riia",
+      "label": "Participated in institute planning",
+      "pages": [
+        185
+      ],
+      "description": "Hurst attended the Hotel Majestic meeting and is named by an alternative founding account on the committee selecting members.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "harold-temperley",
+      "toId": "riia",
+      "label": "Founding committee and Peace Conference history editor",
+      "pages": [
+        185
+      ],
+      "description": "Temperley attended the Hotel Majestic meeting, sat on the organization’s founding committee and edited its six-volume History of the Peace Conference.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "dawson",
+      "toId": "riia",
+      "label": "Founding committee participant",
+      "pages": [
+        185
+      ],
+      "description": "Dawson attended Hotel Majestic and served on the committee that drew up the British organization’s constitution and prospective membership.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "headlam-morley",
+      "toId": "riia",
+      "label": "Planning participant and council member",
+      "pages": [
+        185,
+        186
+      ],
+      "description": "Headlam-Morley attended Hotel Majestic and was elected to the Institute council in 1923.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "arthur-smith",
+      "toId": "riia",
+      "label": "Founding organization committee member",
+      "pages": [
+        185
+      ],
+      "description": "A. L. Smith is expressly listed on the British organization’s founding committee.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "jp-morgan",
+      "label": "Morgan firm associate",
+      "pages": [
+        185
+      ],
+      "description": "Quigley identifies the donor Thomas W. Lamont as being of J. P. Morgan and Company.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "riia",
+      "label": "Financed Peace Conference history",
+      "pages": [
+        185
+      ],
+      "description": "Lamont’s £2,000 gift financed the committee preparing the Peace Conference history, published under RIIA auspices.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "rw-leonard",
+      "toId": "riia",
+      "label": "Donated Chatham House home",
+      "pages": [
+        190
+      ],
+      "description": "In 1923 Leonard purchased the building at 10 St James Square for the Institute, requiring an upkeep endowment yielding at least £10,000 a year.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "daniel-stevenson",
+      "toId": "riia",
+      "label": "Endowed Survey and research chair",
+      "pages": [
+        189
+      ],
+      "description": "Stevenson’s £20,000 endowment in 1925 financed the Survey of International Affairs and its associated London research chair.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "henry-price",
+      "toId": "riia",
+      "label": "Endowed economics chair and library expansion",
+      "pages": [
+        189,
+        191
+      ],
+      "description": "Price gave £20,000 for a seven-year International Economics chair in 1936 and £50,000 to acquire the adjoining building for library expansion in 1942.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "john-hope-simpson",
+      "toId": "riia",
+      "label": "Edited Institute refugee report",
+      "pages": [
+        196
+      ],
+      "description": "Hope Simpson edited the Institute’s massive 1939 refugee report. Quigley explicitly says he was not a Milner Group member.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "rockefeller-foundation",
+      "toId": "riia",
+      "label": "Study-group research grants",
+      "pages": [
+        190
+      ],
+      "description": "The Foundation granted £8,000 annually for five years from 1932 to advance the Institute study-group method; the grant was renewed for five years in 1937.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "bank-england",
+      "toId": "riia",
+      "label": "Donor and annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "The Bank gave £600 in 1926 and appears among institutions pledging annual grants in 1929.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "imperial-chemical-industries",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "Imperial Chemical Industries is expressly listed among companies pledging annual grants to the Institute in 1929.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "midland-bank",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "Midland Bank is expressly listed among the banks pledging annual grants in 1929.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "lazard",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "Lazard Brothers is expressly listed among institutions pledging annual grants in 1929.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "lloyds-bank",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "Lloyd’s Bank is expressly listed among institutions pledging annual grants in 1929.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "bsac",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "The British South Africa Company is expressly listed among companies pledging annual grants in 1929.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "cfr",
+      "label": "Partners and associates prominent in governance",
+      "pages": [
+        192
+      ],
+      "description": "Quigley says CFR officer and director lists were heavily populated by Morgan partners, employees and associates. This is the author’s interpretation of personnel overlap and influence, not a claim of corporate ownership.",
+      "evidence": "Author’s network interpretation"
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "inquiry",
+      "label": "Institutional influence described by Quigley",
+      "pages": [
+        184
+      ],
+      "description": "Quigley says the American Inquiry experts came largely from universities and institutions dominated by Morgan interests. This broad influence claim is attributed to the author, not converted into individual employment.",
+      "evidence": "Author’s network interpretation"
+    },
+    {
+      "fromId": "iiic",
+      "toId": "icic",
+      "label": "Executive organ of committee",
+      "pages": [
+        194
+      ],
+      "description": "Quigley describes the Paris institute as the executive organ of the international intellectual-cooperation committee.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "iiic",
+      "toId": "international-studies-conferences",
+      "label": "Sponsored annual discussion conferences",
+      "pages": [
+        194
+      ],
+      "description": "Zimmern organized annual international discussion meetings under the Institute’s auspices beginning in 1928.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "riia",
+      "toId": "international-studies-conferences",
+      "label": "Nominated British coordinating committee members",
+      "pages": [
+        194,
+        195
+      ],
+      "description": "RIIA was one of four bodies naming members of the British Coordinating Committee for International Studies, and could appoint three representatives. This does not identify RIIA and that committee as the same organization.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "frps",
+      "toId": "balliol",
+      "label": "Oxford host and joint financier",
+      "pages": [
+        197
+      ],
+      "description": "FRPS collections and personnel were established in Balliol, All Souls and Rhodes House; Balliol jointly financed the project.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "frps",
+      "toId": "all-souls",
+      "label": "Oxford host and joint financier",
+      "pages": [
+        197
+      ],
+      "description": "All Souls hosted parts of FRPS and jointly financed the project with Balliol, the Treasury and Chatham House.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "frps",
+      "toId": "british-treasury",
+      "label": "Joint financier",
+      "pages": [
+        197
+      ],
+      "description": "The Treasury jointly financed FRPS with All Souls, Balliol and Chatham House.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "foreign-office-research",
+      "toId": "foreign-office",
+      "label": "Department of the Foreign Office",
+      "pages": [
+        197
+      ],
+      "description": "The new Research Department belonged to the Foreign Office after the 1943 merger.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "agenda",
+      "toId": "lse",
+      "label": "Founded under LSE auspices",
+      "pages": [
+        197,
+        305
+      ],
+      "description": "Quigley says Agenda was technically founded under the London School of Economics’ auspices at the end of 1942.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "agenda",
+      "toId": "riia",
+      "label": "Editorial offices at Chatham House",
+      "pages": [
+        305
+      ],
+      "description": "Agenda’s editorial offices were located in Chatham House. Hosting does not itself establish journal ownership.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "gn-clark",
+      "toId": "riia",
+      "label": "Council member during war",
+      "pages": [
+        197
+      ],
+      "description": "Clark is expressly described as a wartime Chatham House council member, while Quigley says he was close to the Group but not a member.",
+      "evidence": "Reported institutional relationship"
+    },
+    {
+      "fromId": "wilson-harris",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Wilson Harris among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "edward-carr",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Edward Hallett Carr among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "harold-butler",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Harold Butler among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hv-hodson",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Henry Vincent Hodson among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hugh-wyndham",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Hugh Archibald Wyndham among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names William G. A. Ormsby-Gore among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "austen-chamberlain",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Austen Chamberlain among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "malcolm-macdonald",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Malcolm MacDonald among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "arthur-salter",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Arthur Salter among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "ernest-woodward",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Ernest Llewellyn Woodward among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "edith-lyttelton",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Edith Lyttelton among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "malcolm-hailey",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names Malcolm Hailey among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "john-wheeler-bennett",
+      "toId": "riia",
+      "label": "Institute council member",
+      "pages": [
+        186
+      ],
+      "description": "Quigley explicitly names John W. Wheeler-Bennett among members of the Institute council; this does not assert membership of the Milner Group.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "roger-makins",
+      "toId": "foreign-office",
+      "label": "Diplomatic adviser and Assistant Under Secretary",
+      "pages": [
+        302
+      ],
+      "description": "Makins served as an adviser on League affairs in 1937 and 1939 and became Assistant Under Secretary in the Foreign Office in 1947.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "john-foster",
+      "toId": "conservative-party",
+      "label": "Conservative MP elected in 1945",
+      "pages": [
+        302
+      ],
+      "description": "Foster won a Conservative parliamentary seat in 1945.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "isaiah-berlin",
+      "toId": "fisher",
+      "label": "Close personal friendship",
+      "pages": [
+        301
+      ],
+      "description": "Quigley expressly describes Berlin as a close friend of Fisher and his wife.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "arthur-salter",
+      "toId": "halifax",
+      "label": "Close friendship from Oxford years",
+      "pages": [
+        301
+      ],
+      "description": "Quigley says Salter’s close personal relations with Halifax dated back to their student years at Oxford.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "riia",
+      "toId": "foreign-office",
+      "label": "Wartime research and advisory relationship",
+      "pages": [
+        196,
+        197
+      ],
+      "description": "RIIA began advising the Foreign Office unofficially during the 1938 Czechoslovak crisis, and its research organization became formally integrated into wartime government work.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "frps",
+      "toId": "foreign-office",
+      "label": "Government research and financial support",
+      "pages": [
+        197
+      ],
+      "description": "FRPS answered government international-affairs questions and received £53,000 from the Foreign Office in fiscal 1940–1941, according to Eden’s parliamentary answer.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "lse",
+      "toId": "international-studies-conferences",
+      "label": "Nominated British coordinating committee members",
+      "pages": [
+        194
+      ],
+      "description": "LSE was one of four bodies naming members of the British Coordinating Committee for International Studies. This is a procedural relationship, not evidence that all LSE staff belonged to the political network.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "ipr",
+      "toId": "international-studies-conferences",
+      "label": "International member organization",
+      "pages": [
+        194
+      ],
+      "description": "The IPR is named among the five international organizations participating in the International Studies Conferences.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "austen-chamberlain",
+      "toId": "international-studies-conferences",
+      "label": "Opening speaker at 1935 conference",
+      "pages": [
+        196
+      ],
+      "description": "Austen Chamberlain gave an opening speech at the 1935 London meeting on collective security.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "fw-eggleston",
+      "toId": "international-studies-conferences",
+      "label": "Australian memorandum coauthor",
+      "pages": [
+        196
+      ],
+      "description": "Eggleston coauthored Australia’s memorandum on population growth for the 1936–1937 sessions on peaceful change.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "hichens",
+      "toId": "riia",
+      "label": "Institute member",
+      "pages": [
+        58
+      ],
+      "description": "Quigley expressly identifies Hichens as a member of the RIIA when discussing his Carnegie United Kingdom Trust executive role.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "league-of-nations",
+      "toId": "international-labour-office",
+      "label": "Associated labor institution",
+      "pages": [
+        96
+      ],
+      "description": "Quigley describes the International Labour Office as an institution of the League in the account of Harold Butler’s directorship.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "all-souls",
+      "toId": "oxford-university",
+      "label": "Constituent Oxford college",
+      "pages": [
+        24
+      ],
+      "description": "The text expressly describes All Souls as one of the Oxford colleges.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "new-college",
+      "toId": "oxford-university",
+      "label": "Constituent Oxford college",
+      "pages": [
+        100
+      ],
+      "description": "Quigley situates New College alongside Balliol and All Souls within the academic and administrative life of Oxford University.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "balliol",
+      "toId": "oxford-university",
+      "label": "Constituent Oxford college",
+      "pages": [
+        100
+      ],
+      "description": "Quigley situates Balliol alongside New College and All Souls within Oxford University.",
+      "evidence": "Reported institutional affiliation"
+    },
+    {
+      "fromId": "harlow",
+      "toId": "oxford-university",
+      "label": "Beit Lecturer in Colonial History",
+      "pages": [
+        92
+      ],
+      "description": "Quigley lists Harlow as Oxford’s Beit Lecturer in Colonial History in 1930–1935.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "kenneth-wheare",
+      "toId": "oxford-university",
+      "label": "Beit Lecturer in Colonial History",
+      "pages": [
+        92
+      ],
+      "description": "Quigley lists Wheare as Oxford’s Beit Lecturer in Colonial History in 1935–1940.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "kenneth-bell",
+      "toId": "oxford-university",
+      "label": "Beit Lecturer in Colonial History",
+      "pages": [
+        92,
+        95
+      ],
+      "description": "Bell held Oxford’s Beit Lectureship in Colonial History in 1924–1927.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "barrington-ward",
+      "toId": "times",
+      "label": "Assistant editor and later editor",
+      "pages": [
+        99
+      ],
+      "description": "R. M. Barrington-Ward was assistant editor in 1927–1941 and succeeded Dawson as editor in 1941.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "hwc-davis",
+      "toId": "oxford-university",
+      "label": "Regius Professor of Modern History",
+      "pages": [
+        96
+      ],
+      "description": "Davis returned from Manchester to Oxford in 1925 as Regius Professor of Modern History, succeeding Charles Firth.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "frps",
+      "toId": "oxford-university",
+      "label": "Wartime research based at Oxford",
+      "pages": [
+        197
+      ],
+      "description": "The Institute’s research collections and personnel were transferred to Oxford and established in Balliol, All Souls and Rhodes House as FRPS.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "league-of-nations",
+      "label": "Covenant legal drafting attributed by Quigley",
+      "pages": [
+        262
+      ],
+      "description": "Quigley attributes the wording of crucial League Covenant articles to Hurst, comparing their legal loopholes with those he says Hurst drafted into the Locarno Pacts. This is the author’s appraisal of treaty drafting, not an assertion of League employment.",
+      "evidence": "Author’s interpretation of legal drafting"
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "henry-birchenough",
+      "description": "Quigley identifies Birchenough as Milner’s former roommate, a British South Africa Company director from 1905 and president from 1925, and a Beit Fund trustee from 1920. These reported appointments are distinct from his tentative Society of the Elect placement in the appendix.",
+      "pages": [
+        17,
+        18,
+        308
+      ]
+    },
+    {
+      "id": "arthur-smith",
+      "description": "Master of Balliol from 1916 until 1924; Quigley describes his close friendship with Brassey and collaboration with the Round Table after 1910. The Society of the Elect roster remains Quigley’s tentative political classification.",
+      "pages": [
+        99,
+        100,
+        308
+      ]
+    },
+    {
+      "id": "harlow",
+      "description": "Named by Quigley as Beit Lecturer in Colonial History at Oxford in 1930–1935. His inner-circle placement in the appendix is tentative; an academic appointment does not independently prove that political classification.",
+      "pages": [
+        92,
+        309
+      ]
+    },
+    {
+      "id": "hwc-davis",
+      "description": "Quigley identifies Davis as an All Souls and Balliol fellow, medieval historian, organizer of the Foreign Office War Trade Intelligence Department, and later Regius Professor of Modern History at Oxford. His tentative outer-circle roster classification is separate from these reported roles.",
+      "pages": [
+        95,
+        96,
+        101,
+        309
+      ]
+    },
+    {
+      "id": "wgs-adams",
+      "description": "All Souls fellow from 1910 and Warden in 1933–1945, Gladstone Professor in 1912–1933, and secretary to Lloyd George in 1916–1919. Quigley distinguishes these appointments from his Milner Group classification.",
+      "pages": [
+        94,
+        95,
+        309
+      ]
+    },
+    {
+      "id": "kenneth-bell",
+      "description": "All Souls fellow in 1907–1914, Balliol fellow and tutor in 1919–1941, and Beit Lecturer in Colonial History in 1924–1927. His political-network placement derives from Quigley’s tentative appendix and interpretive account.",
+      "pages": [
+        95,
+        309
+      ]
+    },
+    {
+      "id": "donald-somervell",
+      "description": "Quigley describes Somervell as an All Souls fellow who entered Parliament in 1931 and served as Solicitor General, Attorney General, Home Secretary and then Lord Justice of Appeal. His outer-circle appendix placement remains the author’s classification.",
+      "pages": [
+        95,
+        97,
+        309
+      ]
+    },
+    {
+      "id": "edward-peacock",
+      "description": "Quigley identifies Peacock as a Rhodes Trustee, Bank of England director in 1921–1946, and wartime British Treasury representative in Washington. He expressly leaves uncertain whether Peacock represented Milner Group interests, despite close Canadian personal connections and the appendix listing.",
+      "pages": [
+        90,
+        310
+      ]
+    },
+    {
+      "id": "ernest-woodward",
+      "description": "Quigley describes Woodward’s All Souls fellowship, Balliol fellowship, New College teaching, Chatham House council service and appointment as Montague Burton Professor in 1944. His outer-circle network placement is interpretive rather than implied by any one academic role.",
+      "pages": [
+        98,
+        99,
+        309
+      ]
+    },
+    {
+      "id": "barrington-ward",
+      "description": "Quigley describes R. M. Barrington-Ward as assistant editor of The Times in 1927–1941 and Dawson’s successor as editor in 1941. His brother married A. L. Smith’s daughter; this must not be converted into a marriage involving the editor himself. His appendix classification remains tentative.",
+      "pages": [
+        99,
+        310
+      ]
+    },
+    {
+      "id": "steel-maitland",
+      "description": "Quigley identifies Steel-Maitland as an All Souls fellow, Colonial Office Parliamentary Under Secretary in 1915–1917, overseas-trade official jointly in the Foreign Office and Board of Trade in 1917–1919, and Minister of Labour in 1924–1929. These are actual reported offices, distinct from the appendix classification.",
+      "pages": [
+        95,
+        98,
+        309
+      ]
+    },
+    {
+      "id": "wilson-harris",
+      "description": "Quigley records Harris’s election to the RIIA council in 1924 and his participation in the Institute’s early discussion meetings. His outer-circle appendix placement remains tentative.",
+      "pages": [
+        186,
+        187,
+        309
+      ]
+    },
+    {
+      "id": "malcolm-macdonald",
+      "description": "Quigley names MacDonald among RIIA council members and dates his election to 1933. The separate outer-circle roster classification does not establish formal membership in a secret organization.",
+      "pages": [
+        186,
+        310
+      ]
+    },
+    {
+      "id": "egerton",
+      "description": "Oxford’s Beit Professor of Colonial History in 1905–1920 and an All Souls fellow until 1927. Quigley expressly places him in the Cecil Bloc, Round Table and Milner Group, while his academic appointment and fellowship provide distinct institutional links.",
+      "pages": [
+        91
+      ]
+    },
+    {
+      "id": "bank-england",
+      "description": "Quigley identifies Goschen and Peacock as Bank of England directors and records the Bank’s 1926 gift to RIIA and inclusion in 1929 annual-grant pledges. These specific ties do not establish that the Milner Group owned or controlled the Bank.",
+      "pages": [
+        16,
+        90,
+        191
+      ]
+    },
+    {
+      "id": "imperial-chemical-industries",
+      "description": "Named among the corporations pledging annual grants to RIIA in 1929. The cited list supports a donor relationship, without specifying the amount or asserting political control of the company.",
+      "pages": [
+        191
+      ]
+    },
+    {
+      "id": "midland-bank",
+      "description": "Named among the banks pledging annual grants to RIIA in 1929. The cited list supports a funding relationship, without specifying the amount or political control of the bank.",
+      "pages": [
+        191
+      ]
+    },
+    {
+      "id": "international-labour-office",
+      "description": "Quigley describes the League-associated International Labour Office through Harold Butler’s deputy directorship in 1920–1932 and directorship in 1932–1938. The institutional appointment supports an explicit affiliation rather than only an event co-occurrence.",
+      "pages": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "reparations-commission",
+      "description": "Quigley identifies Greene as secretary to the Peace Conference Reparations Commission in 1919 and Salter as his successor in 1920–1922. The record refers to the Allied reparations administration and its staff roles.",
+      "pages": [
+        97,
+        190
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "hichens",
+      "reason": "Body names additional directorships and trust roles in Cammell Laird, London Northwestern Railway/London Midland and Scottish Railway, Commonwealth Trust Company, Carnegie United Kingdom Trust and Birkbeck College. Those institutions lack canonical IDs in the audit snapshot; no edges were fabricated by equating them with other foundations or trusts.",
+      "pages": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "milner",
+      "reason": "Page304 explicitly identifies a Rio Tinto directorship, but Rio Tinto lacks a canonical organization ID in the audit snapshot. Added no substitute mining-company edge.",
+      "pages": [
+        304
+      ]
+    },
+    {
+      "id": "dougal-malcolm",
+      "reason": "Page304 names Nchanga Consolidated Copper Mines; pages58/186 name British North Borneo Company, where Dougal is vice-president. Neither organization has a canonical ID in the snapshot.",
+      "pages": [
+        58,
+        186,
+        304
+      ]
+    },
+    {
+      "id": "gell",
+      "reason": "Page304 names directorships at Huelva Copper and Zinc Corporation. Both are absent from canonical identities, so they remain explicit entity-expansion candidates.",
+      "pages": [
+        304
+      ]
+    },
+    {
+      "id": "oliver-lyttelton",
+      "reason": "Page304 identifies management of British Metal Corporation and directorship at Metallgesellschaft. Neither entity has a canonical ID, so no inferred substitute edge was added.",
+      "pages": [
+        304
+      ]
+    },
+    {
+      "id": "meston",
+      "reason": "Page304 names Associated Portland Cement Manufacturers and British Portland Cement Manufacturers. Neither entity exists in the audit snapshot; these are distinct firms, not interchangeable with the Ministry of Production.",
+      "pages": [
+        304
+      ]
+    },
+    {
+      "id": "samuel-hoare",
+      "reason": "Page304 describes a Birmingham Aluminum Casting Company directorship and broader Hoare-family tin holdings. Missing organization IDs and the distinction between personal directorship and family investment prevented invented edges.",
+      "pages": [
+        304
+      ]
+    },
+    {
+      "id": "riia",
+      "reason": "Page191 lists further bank and company annual-grant pledgers absent from canonical identities, including Baring Brothers, Barclays, Hambros, Vickers-Armstrong, Westminster Bank, Reuters, Lever Brothers, Central Mining and Whitehall Securities. Existing identifiable pledgers were linked; the remaining names need distinct source-cited organization records.",
+      "pages": [
+        191
+      ]
+    },
+    {
+      "id": "francis-clarke",
+      "reason": "Appendix brackets political-network membership as conjectural. The All Souls and Balliol table supports college affiliations but does not upgrade the tentative Milner Group membership.",
+      "pages": [
+        95,
+        307,
+        309
+      ]
+    },
+    {
+      "id": "kenneth-wheare",
+      "reason": "Appendix brackets political-network membership as conjectural. Beit lectureship evidence does not establish the secret-society role; the existing tentative edge is retained.",
+      "pages": [
+        92,
+        307,
+        310
+      ]
+    },
+    {
+      "id": "joseph-flavelle",
+      "reason": "Appendix brackets Milner Group membership. His reported Canadian institute vice-presidency is separately supported, but it does not remove the political-membership qualification.",
+      "pages": [
+        192,
+        307,
+        310
+      ]
+    },
+    {
+      "id": "clarence-streit",
+      "reason": "Appendix brackets membership and the supplied roster spells the name Steit. The existing identity mapping is retained; no new formal office or affiliation was inferred.",
+      "pages": [
+        307,
+        310
+      ]
+    },
+    {
+      "id": "james-rose-innes",
+      "reason": "Appendix brackets political-network membership. No additional institutional role was established from the record’s cited roster passage.",
+      "pages": [
+        307,
+        310
+      ]
+    },
+    {
+      "id": "dudley-braham",
+      "reason": "Appendix brackets political-network membership. No additional institutional role was established from the record’s cited roster passage.",
+      "pages": [
+        307,
+        310
+      ]
+    },
+    {
+      "id": "edward-cook",
+      "reason": "The Society of the Elect entry is bracketed as conjectural. Newspaper employment and New College attendance are distinct supported affiliations and do not establish secret-society initiation.",
+      "pages": [
+        17,
+        307
+      ]
+    },
+    {
+      "id": "alfred-lyttelton",
+      "reason": "The Society of the Elect entry is bracketed as conjectural. His Colonial Secretary office and marriage are distinct supported affiliations, not proof of initiation.",
+      "pages": [
+        21,
+        22,
+        307,
+        308
+      ]
+    },
+    {
+      "id": "rothschild",
+      "reason": "Rhodes named Rothschild in earlier wills, but the final seven trustees listed on page37 omit him. A historical will-trustee relationship must not be presented as membership of the operational post1902 Rhodes Trust board. Existing tentative political roster affiliation retained.",
+      "pages": [
+        37,
+        42,
+        49,
+        307
+      ]
+    }
+  ],
+  "summary": "Audited all 240 Anglo-American Establishment profiles against cited passages, existing source-qualified relationships and related event records. Checked the tentative appendix separately from concrete appointments, corporate directorships, fellowships, donations, committee roles and institutional mergers. Additions use explicit body statements; co-occurrence and shared institutional membership are not treated as personal relationships. Existing generic association edges are retained without redundant specific-role edges for the same pair. Unresolved entries document bounded identity and qualification gaps."
+}

@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import raw from "../src/data/archive.json";
 import type { Archive, Citation } from "../src/types";
 const data = raw as Archive;
@@ -130,3 +131,19 @@ assert.equal(
 console.log(
   `Archive valid: ${data.people.length} people, ${data.organizations.length} organizations, ${data.events.length} substantive event narratives, ${data.relationships.length} cited relationships, ${data.eventLinks?.length} attributed event links.`,
 );
+
+// Every accepted audit finding must survive subsequent imports and data edits.
+for (const sourceId of sources.keys()) {
+  const audit = JSON.parse(readFileSync(new URL(`./data/connection-audit-${sourceId}.json`, import.meta.url), "utf8")) as {
+    reviewedIds: string[];
+    relationships: {fromId:string;toId:string;label:string;pages:number[]}[];
+  };
+  for (const id of audit.reviewedIds) assert(ids.has(id), `Audit refers to missing record ${id}`);
+  for (const finding of audit.relationships) {
+    assert(data.relationships.some(r =>
+      r.fromId === finding.fromId && r.toId === finding.toId && r.label === finding.label &&
+      r.description && r.citations.some(c => c.sourceId === sourceId && finding.pages.every(p => c.pages.includes(p)))
+    ), `Missing audited affiliation: ${sourceId} ${finding.fromId} → ${finding.toId}: ${finding.label}`);
+  }
+}
+console.log("All accepted PDF connection-audit findings retained with descriptions and citations.");
