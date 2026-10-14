@@ -21,6 +21,12 @@ Use stable person and organization IDs across sources only when the context esta
 
 Run `scripts/scan_mentions.py --archive <archive.json> --pages-dir <page-json-dir> --output-dir <review-dir>` to generate candidates independently of current citations. It never creates edges. Generated acronym candidates are case-sensitive leads and can collide with other institutions; do not approve them as aliases until the source resolves them. Search common short forms and acronyms too (for example, CIA or an individual’s name without a middle initial). Add source-supported alias variants with `--aliases <variants.json>` when OCR, punctuation or renamed institutions require them. The alias file maps entity IDs to arrays of **candidate strings**, not approved identity merges.
 
+## Iterate until discovery stabilizes
+
+Use `scripts/iterate_references.py` for the persistent widening loop described in [iteration and review](references/iteration-loop.md). Run all configured rule levels, then require **two consecutive passes with no new passage references** before declaring discovery stable. Review candidates between passes; feed newly resolved identities, aliases and evidenced equivalences back into the inputs. Any change to those inputs, source text or the engine resets the widening and quiet-pass counters. A pass limit is a checkpoint, never a completion certificate.
+
+Discovery stability and completed evidence review are separate gates. Do not call indexing complete while candidates are pending or unresolved. Search cannot discover every unnamed identity or repair unreadable text; continue section reading and feed its new identities into another cycle.
+
 ## Review a connection
 
 Read the matching passage plus enough surrounding text and notes to establish subject, counterpart, relation, time and qualification. Save a source-specific finding with both endpoint IDs, a useful role label, substantive account, PDF pages and evidence status.

@@ -1,0 +1,87 @@
+{
+  "passNumber": 8,
+  "revision": "1b88b7587369d2f53f5693b3c6b1ed37387a2e1d45529918ebbc5f604b19638f",
+  "ruleLevel": 6,
+  "rules": [
+    "registered names and reviewed aliases",
+    "short names, institution base names and case-sensitive acronym leads",
+    "surnames, personal initials and corporate suffix variants",
+    "line-wrap dehyphenation and compact multiword OCR matching",
+    "bounded OCR character confusions",
+    "single-edit long tokens with an exact contextual name anchor"
+  ],
+  "newReferences": 0,
+  "activeReferences": 17035,
+  "deduplicatedReferences": 0,
+  "splitReferences": 0,
+  "quietPasses": 2,
+  "searchSaturated": true,
+  "pendingReview": 17035,
+  "unresolved": 0,
+  "reviewComplete": false,
+  "timestamp": "2026-10-14T19:58:58.042739+00:00",
+  "passHistory": [
+    {
+      "passNumber": 1,
+      "ruleLevel": 1,
+      "newReferences": 4769,
+      "quietPasses": 0,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 2,
+      "ruleLevel": 2,
+      "newReferences": 1297,
+      "quietPasses": 0,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 3,
+      "ruleLevel": 3,
+      "newReferences": 10864,
+      "quietPasses": 0,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 4,
+      "ruleLevel": 4,
+      "newReferences": 72,
+      "quietPasses": 0,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 5,
+      "ruleLevel": 5,
+      "newReferences": 2,
+      "quietPasses": 0,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 6,
+      "ruleLevel": 6,
+      "newReferences": 31,
+      "quietPasses": 0,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 7,
+      "ruleLevel": 6,
+      "newReferences": 0,
+      "quietPasses": 1,
+      "searchSaturated": false
+    },
+    {
+      "passNumber": 8,
+      "ruleLevel": 6,
+      "newReferences": 0,
+      "quietPasses": 2,
+      "searchSaturated": true
+    }
+  ],
+  "engineVersion": 1,
+  "engineHash": "1c58fab6f9c6b347fbf494c327edc00fe3c9f89dbf358c153836035f475647b1",
+  "entitiesScreened": 764,
+  "sourcesScreened": 4,
+  "pagesScreened": 1849,
+  "limitation": "Two quiet passes establish saturation under these inputs and rules, not exhaustive historical indexing. Candidate passages still require evidence review."
+}

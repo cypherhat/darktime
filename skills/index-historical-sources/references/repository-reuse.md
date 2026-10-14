@@ -8,7 +8,7 @@ Example from the destination repository (use the actual revision date):
 
 ```sh
 python3 skills/index-historical-sources/scripts/prepare_pdf.py docs/book.pdf --source-id book --title "Book title" --author "Author" --output-dir tmp/pdfs
-python3 skills/index-historical-sources/scripts/scan_mentions.py --archive src/data/archive.json --pages-dir tmp/pdfs --output-dir tmp/review
+python3 skills/index-historical-sources/scripts/iterate_references.py --archive src/data/archive.json --pages-dir tmp/pdfs --state-dir tmp/index-iterations --until-stable
 python3 skills/index-historical-sources/scripts/merge_findings.py --archive src/data/archive.json --finding tmp/review/book-review.json --revision-date 2026-10-14
 python3 skills/index-historical-sources/scripts/validate_index.py src/data/archive.json
 ```
@@ -27,3 +27,5 @@ If cloning the application as well as the skill, adapt these project-specific pa
 When refreshing an established corpus, preserve existing IDs and source accounts. A revised edition with shifted pages gets its own source ID and page map. Add new evidence rather than replacing a disputed account with an unqualified synthesis.
 
 A completion report should state separately: text extraction coverage, automated screening coverage, manual passage review, accepted affiliations, rejected collisions, unresolved work, and application/deployment verification. Counts and a successful build do not certify historical truth or exhaustive extraction.
+
+Use [the iteration loop](iteration-loop.md) to resume discovery, review its queue, and supply approved identity equivalences. Keep the state directory ignored; it contains source excerpts.
