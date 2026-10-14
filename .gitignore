@@ -6,3 +6,5 @@ dist/
 /tmp/
 test-results/
 playwright-report/
+
+__pycache__/

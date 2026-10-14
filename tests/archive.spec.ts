@@ -553,3 +553,21 @@ test("global sources combine Guaranty connections and preserve graph focus", asy
   await expect(page.getByLabel("Connection focus")).toHaveValue("guaranty-trust");
   await expect(page.locator(".workspace")).not.toContainText("Conditional ownership comparison");
 });
+
+test("source-wide review reveals roles outside earlier profile citations", async ({page}) => {
+  for (const [source,id,name,label] of [
+    ["anglo","selborne","William Waldegrave Palmer","Bank director"],
+    ["scott","imperial-chemical-industries","Imperial Chemical Industries","Chairman named in Dulles correspondence"],
+    ["yankee","walter-lippmann","Walter Lippmann","American participant identified in the source"],
+    ["tragedy","new-republic","The New Republic","Cofounder"],
+  ]) {
+    await page.goto(`/?collection=${source}#${id}`);
+    await expect(page.getByRole("dialog",{name,exact:true})).toContainText(label);
+  }
+  await page.goto("/?collection=tragedy#willard-straight");
+  const person=page.getByRole("dialog",{name:"Willard Straight",exact:true});
+  await expect(person).toContainText("1913");
+  await person.getByRole("button",{name:"View timeline",exact:true}).click();
+  await expect(page.locator(".timeline svg")).toContainText("Willard and Dorothy Straight found The New Republic");
+  await expect(page.locator(".timeline svg")).toContainText("Becomes Morgan partner");
+});

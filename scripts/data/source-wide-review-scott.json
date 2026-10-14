@@ -1,0 +1,2076 @@
+{
+  "sourceId": "scott",
+  "reviewedIds": [
+    "nixon",
+    "mitchell",
+    "hughes",
+    "maheu",
+    "hoover",
+    "jfk",
+    "quigley",
+    "rhodes",
+    "milner",
+    "stead",
+    "esher",
+    "salisbury",
+    "balfour",
+    "goschen",
+    "arnold-toynbee",
+    "arnold-j-toynbee",
+    "george-parkin",
+    "gell",
+    "brassey",
+    "albert-grey",
+    "edward-grey",
+    "rosebery",
+    "rothschild",
+    "beit",
+    "bailey",
+    "jameson",
+    "smuts",
+    "selborne",
+    "duncan",
+    "brand",
+    "kerr",
+    "curtis",
+    "dawson",
+    "amery",
+    "grigg",
+    "fisher",
+    "halifax",
+    "waldorf-astor",
+    "nancy-astor",
+    "john-jacob-astor",
+    "hichens",
+    "feetham",
+    "dougal-malcolm",
+    "dove",
+    "basil-long",
+    "basil-williams",
+    "meston",
+    "marris",
+    "coupland",
+    "zimmern",
+    "hankey",
+    "florashaw",
+    "lugard",
+    "george-buckle",
+    "northcliffe",
+    "monypenny",
+    "chilrol",
+    "fiddes",
+    "walrond",
+    "buchan",
+    "holland",
+    "arthur-glazebrook",
+    "george-glazebrook",
+    "massey",
+    "corbett",
+    "beer",
+    "anson",
+    "michael-glazebrook",
+    "raleigh",
+    "barnett",
+    "hugh-wyndham",
+    "edward-cook",
+    "harry-johnston",
+    "hawksley",
+    "garrett",
+    "robert-cecil",
+    "asquith",
+    "lloyd-george",
+    "joseph-chamberlain",
+    "curzon",
+    "violet-milner",
+    "edward-cecil",
+    "maguire",
+    "michell",
+    "egerton",
+    "jowett",
+    "ruskin",
+    "james-allen",
+    "downie-stewart",
+    "henry-birchenough",
+    "arthur-smith",
+    "alfred-lyttelton",
+    "malcolm-hailey",
+    "rushbrook-williams",
+    "hv-hodson",
+    "harlow",
+    "fabian-ware",
+    "gilbert-murray",
+    "headlam-morley",
+    "chelmsford",
+    "arthur-salter",
+    "steel-maitland",
+    "ormsby-gore",
+    "edith-lyttelton",
+    "hwc-davis",
+    "john-simon",
+    "samuel-hoare",
+    "wilson-harris",
+    "francis-clarke",
+    "wgs-adams",
+    "wk-hancock",
+    "ernest-woodward",
+    "harold-butler",
+    "kenneth-bell",
+    "donald-somervell",
+    "maurice-gwyer",
+    "charles-harris",
+    "edward-peacock",
+    "cyril-radcliffe",
+    "john-wheeler-bennett",
+    "robert-stopford",
+    "barrington-ward",
+    "kenneth-wheare",
+    "edward-carr",
+    "malcolm-macdonald",
+    "godfrey-elton",
+    "neill-malcolm",
+    "willingdon",
+    "isaiah-berlin",
+    "roger-makins",
+    "arthur-willert",
+    "ivison-macadam",
+    "joseph-flavelle",
+    "frank-aydelotte",
+    "jerome-greene",
+    "clarence-streit",
+    "james-rose-innes",
+    "thomas-bavin",
+    "fw-eggleston",
+    "dudley-braham",
+    "arthur-atkinson",
+    "helmuth-moltke",
+    "adam-trott",
+    "gathorne-hardy",
+    "sarvepalli-radhakrishnan",
+    "edwin-montagu",
+    "adam-marris",
+    "gn-clark",
+    "douglas-jay",
+    "tasker-bliss",
+    "harold-temperley",
+    "thomas-lamont",
+    "rw-leonard",
+    "daniel-stevenson",
+    "robert-borden",
+    "allen-dulles",
+    "john-hope-simpson",
+    "anthony-eden",
+    "william-duke",
+    "malcolm-seton",
+    "mohandas-gandhi",
+    "winston-churchill",
+    "adolf-hitler",
+    "neville-chamberlain",
+    "john-foster",
+    "oliver-lyttelton",
+    "selborne-third",
+    "clement-attlee",
+    "nw-rowell",
+    "inazo-nitobe",
+    "dzt-yui",
+    "john-sparrow",
+    "lionel-abrahams",
+    "henry-price",
+    "cecil-hurst",
+    "austen-chamberlain",
+    "peter-dale-scott",
+    "mike-lofgren",
+    "dana-priest",
+    "william-arkin",
+    "tom-hayden",
+    "franklin-roosevelt",
+    "nelson-aldrich",
+    "paul-warburg",
+    "hoyt-vandenberg",
+    "william-h-jackson",
+    "frank-wisner",
+    "george-kennan",
+    "james-forrestal",
+    "irving-brown",
+    "jay-lovestone",
+    "pierre-ferri-pisani",
+    "yoshio-kodama",
+    "prince-bernhard",
+    "walter-bedell-smith",
+    "august-dasaad",
+    "alamsjah",
+    "sukarno",
+    "suharto",
+    "bob-hasan",
+    "ibnu-sutowo",
+    "john-foster-dulles",
+    "karl-wolff",
+    "dwight-eisenhower",
+    "harold-macmillan",
+    "arthur-dean",
+    "mohammad-mossadeq",
+    "harry-truman",
+    "averell-harriman",
+    "william-eddy",
+    "mike-mcconnell",
+    "edward-snowden",
+    "edward-lansdale",
+    "miles-copeland",
+    "gamal-nasser",
+    "adnan-khashoggi",
+    "larry-kolb",
+    "kamal-adham",
+    "edward-moss",
+    "bebe-rebozo",
+    "paul-helliwell",
+    "ep-barry",
+    "turki-bin-faisal",
+    "alexandre-de-marenches",
+    "henry-kissinger",
+    "richard-helms",
+    "theodore-shackley",
+    "james-angleton",
+    "william-colby",
+    "george-hw-bush",
+    "jimmy-carter",
+    "anwar-sadat",
+    "yitzhak-rabin",
+    "manucher-ghorbanifar",
+    "al-schwimmer",
+    "david-kimche",
+    "yaacov-nimrodi",
+    "ariel-sharon",
+    "jaafar-nimeiri",
+    "robert-mcfarlane",
+    "bruce-rappaport",
+    "alfred-hartmann",
+    "bandar-bin-sultan",
+    "richard-kerr",
+    "oglesby",
+    "lyndon-johnson",
+    "robert-kennedy",
+    "john-connally",
+    "howard-hunt",
+    "hr-haldeman",
+    "patrick-gray",
+    "fidel-castro",
+    "john-roselli",
+    "meyer-lansky",
+    "lucky-luciano",
+    "fulgencio-batista",
+    "richard-danner",
+    "george-smathers",
+    "reinhard-gehlen",
+    "andrei-vlassov",
+    "william-donovan",
+    "oswald",
+    "marina-oswald",
+    "jack-ruby",
+    "earl-warren",
+    "gerald-ford",
+    "arlen-specter",
+    "lee-rankin",
+    "harold-weisberg",
+    "george-otoole",
+    "george-de-mohrenschildt",
+    "clay-shaw",
+    "david-ferrie",
+    "frank-sturgis",
+    "jim-garrison",
+    "rose-cherami",
+    "francis-fruge",
+    "julia-ann-mercer",
+    "lewis-mcwillie",
+    "joe-tonahill",
+    "bell-herndon",
+    "dorothy-kilgallen",
+    "robert-mcnamara",
+    "maxwell-taylor",
+    "ngo-dinh-diem",
+    "duong-van-minh",
+    "clark-clifford",
+    "cyrus-vance",
+    "george-ball",
+    "martin-luther-king",
+    "james-earl-ray",
+    "percy-foreman",
+    "coretta-scott-king",
+    "sirhan-sirhan",
+    "chester-davis",
+    "noah-dietrich",
+    "john-sonnett",
+    "william-o-douglas",
+    "charles-metzner",
+    "herbert-brownell",
+    "hank-greenspun",
+    "jack-hooper",
+    "paul-laxalt",
+    "larry-obrien",
+    "john-meier",
+    "bill-gay",
+    "howard-eckersley",
+    "levar-myler",
+    "james-golden",
+    "edward-morgan",
+    "robert-bennett",
+    "ralph-winte",
+    "gordon-liddy",
+    "james-mccord",
+    "dorothy-hunt",
+    "gerald-alch",
+    "william-bittman",
+    "sherman-skolnick",
+    "alex-bottos",
+    "john-reed",
+    "william-ruckelshaus",
+    "egil-krogh",
+    "alexander-butterfield",
+    "dwight-chapin",
+    "richard-spears",
+    "co-miller",
+    "ronald-dorfman",
+    "wendell-whitehouse",
+    "paul-gaynor",
+    "jack-caulfield",
+    "bernard-fensterwald",
+    "lou-russell",
+    "david-rockefeller",
+    "zbigniew-brzezinski",
+    "walter-mondale",
+    "harold-brown",
+    "michael-blumenthal",
+    "andrew-young",
+    "bernard-barker",
+    "john-sirica",
+    "william-paterson",
+    "george-peabody",
+    "j-p-morgan",
+    "william-rockefeller",
+    "william-c-whitney",
+    "grover-cleveland",
+    "mark-hanna",
+    "william-mckinley",
+    "william-jennings-bryan",
+    "theodore-roosevelt",
+    "henry-cabot-lodge",
+    "woodrow-wilson",
+    "william-howard-taft",
+    "william-randolph-hearst",
+    "john-w-davis",
+    "dwight-morrow",
+    "benjamin-disraeli",
+    "evelyn-baring",
+    "henry-kitchener",
+    "paul-kruger",
+    "louis-botha",
+    "j-b-m-hertzog",
+    "allan-octavian-hume",
+    "lord-dufferin",
+    "gopal-krishna-gokhale",
+    "bal-gangadhar-tilak",
+    "reginald-dyer",
+    "eamon-de-valera",
+    "arthur-griffith",
+    "michael-collins",
+    "otto-von-bismarck",
+    "wilhelm-ii",
+    "ernest-cassel",
+    "edward-vii",
+    "richard-haldane",
+    "charles-masterman",
+    "gilbert-parker",
+    "frederick-e-smith",
+    "robert-hart",
+    "edgar-vincent",
+    "matthew-perry",
+    "sun-yat-sen",
+    "georges-clemenceau",
+    "vittorio-orlando",
+    "john-maynard-keynes",
+    "charles-dawes",
+    "owen-young",
+    "montagu-norman",
+    "benjamin-strong",
+    "hjalmar-schacht",
+    "charles-rist",
+    "herbert-hoover",
+    "andrew-mellon",
+    "ramsay-macdonald",
+    "philip-snowden",
+    "stanley-baldwin",
+    "aristide-briand",
+    "gustav-stresemann",
+    "mustafa-kemal",
+    "reginald-mckenna",
+    "henry-davison",
+    "alfred-mond",
+    "john-l-lewis",
+    "frank-kellogg",
+    "joseph-stalin",
+    "benito-mussolini",
+    "chiang-kai-shek",
+    "mao-zedong",
+    "zhou-enlai",
+    "vyacheslav-molotov",
+    "joachim-von-ribbentrop",
+    "pierre-laval",
+    "engelbert-dollfuss",
+    "kurt-schuschnigg",
+    "franz-von-papen",
+    "francisco-franco",
+    "douglas-jerrold",
+    "hugh-pollard",
+    "leon-blum",
+    "edvard-benes",
+    "edouard-daladier",
+    "philippe-petain",
+    "george-marshall",
+    "ernest-bevin",
+    "james-byrnes",
+    "henry-stimson",
+    "robert-oppenheimer",
+    "leo-szilard",
+    "bernard-baruch",
+    "david-lilienthal",
+    "dean-acheson",
+    "josip-broz-tito",
+    "klement-gottwald",
+    "andrei-zhdanov",
+    "lucius-clay",
+    "paul-nitze",
+    "curtis-lemay",
+    "ira-eaker",
+    "harold-george",
+    "hirohito",
+    "hideki-tojo",
+    "chester-nimitz",
+    "alcide-de-gasperi",
+    "konrad-adenauer",
+    "lewis-strauss",
+    "edward-teller",
+    "stanislaw-ulam",
+    "douglas-macarthur",
+    "nikita-khrushchev",
+    "georgi-malenkov",
+    "lavrenti-beria",
+    "nikolai-bulganin",
+    "georgi-zhukov",
+    "imre-nagy",
+    "janos-kadar",
+    "william-l-borden",
+    "thomas-watson-sr",
+    "nicholas-murray-butler",
+    "frank-tiarks",
+    "h-norman-schwarzkopf",
+    "loy-henderson",
+    "mohammad-reza-shah",
+    "david-ben-gurion",
+    "muhammad-naguib",
+    "king-farouk",
+    "king-hussein",
+    "john-glubb",
+    "dag-hammarskjold",
+    "jacobo-arbenz",
+    "carlos-castillo-armas",
+    "anastas-mikoyan",
+    "charles-de-gaulle",
+    "kwame-nkrumah",
+    "sekou-toure",
+    "george-padmore",
+    "felix-houphouet-boigny",
+    "david-ormsby-gore",
+    "fbi",
+    "cia",
+    "hughes-empire",
+    "milner-group",
+    "society-elect",
+    "association-helpers",
+    "cecil-bloc",
+    "kindergarten",
+    "round-table",
+    "round-table-journal",
+    "rhodes-trust",
+    "beit-trust",
+    "all-souls",
+    "balliol",
+    "new-college",
+    "oxford-university",
+    "toynbee-hall",
+    "bsac",
+    "closer-union",
+    "intercolonial-council",
+    "central-sa-railways",
+    "the-state",
+    "times",
+    "cape-times",
+    "johannesburg-star",
+    "pall-mall-gazette",
+    "review-reviews",
+    "imperial-federation-league",
+    "lazard",
+    "lloyds-bank",
+    "cliveden-circle",
+    "war-cabinet",
+    "imperial-war-cabinet",
+    "committee-defence",
+    "colonial-office",
+    "league-of-nations",
+    "mandates-commission",
+    "peel-commission",
+    "irish-boundary-commission",
+    "psychical-research",
+    "foreign-office",
+    "inquiry",
+    "jp-morgan",
+    "british-treasury",
+    "lse",
+    "labour-party",
+    "indian-national-congress",
+    "french-government",
+    "riia",
+    "ipr",
+    "ipr-pacific-council",
+    "canadian-iia",
+    "australian-iia",
+    "new-zealand-iia",
+    "south-african-iia",
+    "indian-iia",
+    "cfr",
+    "iiic",
+    "icic",
+    "international-studies-conferences",
+    "rockefeller-foundation",
+    "frps",
+    "foreign-office-research",
+    "indian-round-table-conferences",
+    "india-office",
+    "british-embassy-washington",
+    "british-food-mission",
+    "british-shipping-mission",
+    "unrra",
+    "ministry-of-information",
+    "ministry-of-production",
+    "ministry-of-economic-warfare",
+    "agenda",
+    "nsa",
+    "sullivan-cromwell",
+    "federal-reserve",
+    "acue",
+    "opc",
+    "afl",
+    "eca",
+    "sea-supply",
+    "cat-air-america",
+    "paru",
+    "lockheed",
+    "bilderberg",
+    "rockwell-standard",
+    "diponegoro-division",
+    "stanvac",
+    "permina",
+    "seven-sisters",
+    "anglo-iranian",
+    "aramco",
+    "mi6",
+    "booz-allen",
+    "booz-company",
+    "carlyle",
+    "egyptian-mukhabarat",
+    "bcci",
+    "safari-resort",
+    "safari-alliance",
+    "sdece",
+    "castle-bank",
+    "paradise-bridge",
+    "first-international-bancshares",
+    "intermaritime",
+    "banque-commerce-placements",
+    "bank-england",
+    "riggs-bank",
+    "jj-cappucci",
+    "oss",
+    "yankee-faction",
+    "cowboy-faction",
+    "warren-commission",
+    "dallas-police",
+    "cuban-revolutionary-council",
+    "fair-play-cuba",
+    "carousel-club",
+    "texas-book-depository",
+    "lansky-syndicate",
+    "gehlen-organization",
+    "oni",
+    "joint-chiefs",
+    "defense-department",
+    "state-department",
+    "chase-manhattan",
+    "john-birch-society",
+    "aib",
+    "sds",
+    "las-vegas-sun",
+    "cbs",
+    "teamsters",
+    "hughes-tool",
+    "hughes-aircraft",
+    "twa",
+    "irving-trust",
+    "dillon-read",
+    "desert-inn",
+    "intertel",
+    "resorts-international",
+    "summa",
+    "mullen",
+    "creep",
+    "white-house-plumbers",
+    "ntsb",
+    "faa",
+    "dot",
+    "united-airlines",
+    "aviation-safety-bureau",
+    "security-international",
+    "ctia",
+    "trilateral",
+    "dnc",
+    "guaranty-trust",
+    "rothschild-banking-houses",
+    "us-steel",
+    "att",
+    "new-republic",
+    "republican-party",
+    "democratic-party",
+    "de-beers",
+    "consolidated-gold-fields",
+    "suez-canal-company",
+    "british-east-africa-company",
+    "south-african-union",
+    "british-cabinet-secretariat",
+    "servants-india-society",
+    "muslim-league",
+    "sinn-fein",
+    "irish-free-state",
+    "war-propaganda-bureau",
+    "british-press-bureau",
+    "chinese-maritime-customs",
+    "ottoman-financial-administration",
+    "genro",
+    "mitsui",
+    "mitsubishi",
+    "japanese-diet",
+    "bis",
+    "federal-reserve-new-york",
+    "bank-france",
+    "reichsbank",
+    "bankers-trust",
+    "kuhn-loeb",
+    "credit-anstalt",
+    "conservative-party",
+    "liberal-party",
+    "trades-union-congress",
+    "imperial-chemical-industries",
+    "federation-british-industries",
+    "national-industrial-council",
+    "international-labour-office",
+    "permanent-court-international-justice",
+    "little-entente",
+    "conference-ambassadors",
+    "reparations-commission",
+    "exchange-equalization-account",
+    "reconstruction-finance-corporation",
+    "cio",
+    "united-mine-workers",
+    "midland-bank",
+    "kuomintang",
+    "chinese-communist-party",
+    "soviet-government",
+    "german-nazi-government",
+    "italian-fascist-government",
+    "japanese-imperial-government",
+    "vichy-government",
+    "nonintervention-committee",
+    "united-nations",
+    "international-monetary-fund",
+    "world-bank",
+    "atomic-energy-commission",
+    "un-atomic-energy-commission",
+    "cominform",
+    "nato",
+    "national-security-council",
+    "strategic-air-command",
+    "federation-atomic-scientists",
+    "yugoslav-partisans",
+    "german-socialist-unity-party",
+    "policy-planning-staff",
+    "aec-general-advisory-committee",
+    "us-air-force",
+    "los-alamos",
+    "livermore-laboratory",
+    "lincoln-laboratory",
+    "seato",
+    "cento",
+    "warsaw-pact",
+    "soviet-communist-party",
+    "columbia-university",
+    "ibm",
+    "schroeder-bank-new-york",
+    "schroeder-bank-london",
+    "imperial-iranian-gendarmerie",
+    "egypt-free-officers",
+    "arab-legion",
+    "un-emergency-force",
+    "united-arab-republic",
+    "united-fruit",
+    "oas",
+    "july-26-movement",
+    "convention-peoples-party",
+    "african-malagasy-union",
+    "union-african-states",
+    "eastern-establishment-quigley",
+    "cuban-exile-executive-committee",
+    "morgan-banking-nexus",
+    "general-dynamics",
+    "robert-kindersley",
+    "goschen-second",
+    "lord-mcgowan",
+    "willard-straight",
+    "dorothy-payne-whitney",
+    "michael-straight",
+    "walter-lippmann",
+    "corliss-lamont",
+    "frederick-vanderbilt-field",
+    "owen-lattimore",
+    "philip-jessup",
+    "henry-cabot-lodge-jr",
+    "league-nations-union",
+    "baring-brothers",
+    "barclays-bank",
+    "hambros-bank",
+    "westminster-bank",
+    "standard-bank-south-africa",
+    "imperial-ottoman-bank",
+    "british-north-borneo-company",
+    "rio-tinto",
+    "un-war-crimes-commission",
+    "national-committee-free-europe",
+    "m-fund",
+    "exxon-standard-new-jersey",
+    "mobil-standard-new-york",
+    "standard-oil-california",
+    "gulf-oil",
+    "texaco",
+    "royal-dutch-shell",
+    "harvard-university",
+    "institute-advanced-study",
+    "carnegie-uk-trust",
+    "london-joint-stock-bank",
+    "new-york-post",
+    "chemical-bank",
+    "first-national-bank-boston",
+    "girard-trust"
+  ],
+  "relationships": [
+    {
+      "fromId": "lord-mcgowan",
+      "toId": "imperial-chemical-industries",
+      "label": "Chairman named in Dulles correspondence",
+      "pages": [
+        22
+      ],
+      "description": "Endnote 44 explicitly identifies the chairman receiving Dulles’s letter.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "lord-mcgowan",
+      "label": "Correspondent on international cartel policy",
+      "pages": [
+        6,
+        22
+      ],
+      "description": "The body quotes a 1930s letter defending business arrangements across political barriers; endnote 44 identifies its recipient. This is correspondence, not evidence of common ownership.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "national-committee-free-europe",
+      "label": "Executive committee chairman",
+      "pages": [
+        20,
+        21
+      ],
+      "description": "Endnote 20 expressly says Dulles also chaired this companion committee’s executive committee; this is distinct from his role in ACUE.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sullivan-cromwell",
+      "toId": "national-committee-free-europe",
+      "label": "Handled legal affairs",
+      "pages": [
+        21
+      ],
+      "description": "Scott’s note explicitly identifies the law firm as handling the committee’s legal affairs.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "yoshio-kodama",
+      "toId": "m-fund",
+      "label": "Administered payouts in the 1950s",
+      "pages": [
+        5
+      ],
+      "description": "Scott describes Kodama’s administration of the fund and separates this from the Lockheed payments he also distributed.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "cia",
+      "toId": "m-fund",
+      "label": "Reported American managers after occupation",
+      "pages": [
+        5
+      ],
+      "description": "Scott quotes the assessment that the fund’s American managers came from CIA after the end of the occupation. The historical manager claim remains attributed to his cited literature.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "nixon",
+      "toId": "m-fund",
+      "label": "Alleged transfer of control in 1960 bargain",
+      "pages": [
+        21
+      ],
+      "description": "Endnote 26 quotes Schlei that Nixon agreed to transfer control in connection with the security-treaty revision, and explicitly calls the electoral quid-pro-quo alleged. No proved campaign payment or fund ownership by Nixon is asserted.",
+      "evidence": "contested-account"
+    },
+    {
+      "fromId": "exxon-standard-new-jersey",
+      "toId": "seven-sisters",
+      "label": "Named company in seven-major grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly enumerates the companies composing the grouping. This composition relation is not an independently proved role in every collective operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "mobil-standard-new-york",
+      "toId": "seven-sisters",
+      "label": "Named company in seven-major grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly enumerates the companies composing the grouping. This composition relation is not an independently proved role in every collective operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "standard-oil-california",
+      "toId": "seven-sisters",
+      "label": "Named company in seven-major grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly enumerates the companies composing the grouping. This composition relation is not an independently proved role in every collective operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "gulf-oil",
+      "toId": "seven-sisters",
+      "label": "Named company in seven-major grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly enumerates the companies composing the grouping. This composition relation is not an independently proved role in every collective operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "texaco",
+      "toId": "seven-sisters",
+      "label": "Named company in seven-major grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly enumerates the companies composing the grouping. This composition relation is not an independently proved role in every collective operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "royal-dutch-shell",
+      "toId": "seven-sisters",
+      "label": "Named company in seven-major grouping",
+      "pages": [
+        6
+      ],
+      "description": "Scott explicitly enumerates the companies composing the grouping. This composition relation is not an independently proved role in every collective operation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "exxon-standard-new-jersey",
+      "toId": "stanvac",
+      "label": "Joint-venture participant described as later Exxon",
+      "pages": [
+        6
+      ],
+      "description": "Scott identifies Stanvac’s parent Standard companies through their later Exxon and Mobil names; no ownership percentages are supplied.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "mobil-standard-new-york",
+      "toId": "stanvac",
+      "label": "Joint-venture participant described as later Mobil",
+      "pages": [
+        6
+      ],
+      "description": "The paragraph expressly describes the Exxon–Mobil predecessor joint venture; its increased payments to Permina are a separate already modeled transaction.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "arthur-dean",
+      "toId": "exxon-standard-new-jersey",
+      "label": "Attorney in oil-cartel document dispute",
+      "pages": [
+        7
+      ],
+      "description": "Scott explicitly calls Dean Exxon’s lawyer when he resisted the government demand for documents.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "sullivan-cromwell",
+      "toId": "exxon-standard-new-jersey",
+      "label": "Legal representation through Arthur Dean",
+      "pages": [
+        7
+      ],
+      "description": "The paragraph locates Exxon attorney Dean at the firm; representation does not establish company ownership by the firm.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "franklin-roosevelt",
+      "toId": "joseph-stalin",
+      "label": "Yalta unconditional-surrender agreement",
+      "pages": [
+        6,
+        22
+      ],
+      "description": "Scott identifies their understanding as the policy breached, in his interpretation, by Dulles’s conditional-surrender negotiations. This is an explicit diplomatic agreement, not a general ideological affiliation.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "edward-moss",
+      "toId": "fidel-castro",
+      "label": "Political-action planning target",
+      "pages": [
+        12,
+        25
+      ],
+      "description": "Scott says Moss was selected in November 1962 for the CIA Political Action Group as part of planning to remove Castro. The role does not by itself prove Moss executed an assassination attempt.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "cia",
+      "toId": "fidel-castro",
+      "label": "Planned removal through covert action",
+      "pages": [
+        12,
+        25
+      ],
+      "description": "The article explicitly identifies planning to get rid of Castro; note 78 cites agency records and the Inspector General report on CIA–Mafia plots.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "adnan-khashoggi",
+      "toId": "jfk",
+      "label": "Reported friendship in the 1950s",
+      "pages": [
+        25
+      ],
+      "description": "Endnote 80 attributes to Larry Kolb a claim, said to have been corroborated by Khashoggi, of a 1950s friendship with John Kennedy. This is a secondary personal-account assertion, not independently verified membership or proof of institutional action.",
+      "evidence": "contested-account"
+    },
+    {
+      "fromId": "manucher-ghorbanifar",
+      "toId": "miles-copeland",
+      "label": "Hamburg meeting and Iran proposal",
+      "pages": [
+        16,
+        17
+      ],
+      "description": "Scott reports Copeland’s and Kolb’s accounts that Copeland met the Iranian arms dealer, then prepared an Iran-policy proposal. Copeland’s assertion that it was not about hostages or Contras remains distinguished from later outcomes.",
+      "evidence": "contested-account"
+    },
+    {
+      "fromId": "manucher-ghorbanifar",
+      "toId": "larry-kolb",
+      "label": "Hamburg negotiations witnessed by Kolb",
+      "pages": [
+        16,
+        17
+      ],
+      "description": "Kolb explicitly places himself with Ghorbanifar, Copeland, Khashoggi and Schwimmer at the 1985 meeting. This is an identified transaction meeting, not inferred shared-group membership.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "al-schwimmer",
+      "toId": "manucher-ghorbanifar",
+      "label": "Participant in Hamburg Iran-initiative meeting",
+      "pages": [
+        16,
+        17
+      ],
+      "description": "Scott gives Kolb’s explicit participant list in the negotiations; neither a permanent partnership nor agency employment is inferred.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "bruce-rappaport",
+      "toId": "bcci",
+      "label": "Swiss banking interlock described through Hartmann",
+      "pages": [
+        18,
+        27
+      ],
+      "description": "Scott connects Rappaport’s banking business to BCCI through Hartmann’s BCCI board seat, Intermaritime vice-chairmanship and BCCI subsidiary role; no personal BCCI board seat for Rappaport is asserted.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "national-security-council",
+      "toId": "cia",
+      "label": "Authorized 1948 Italian-election covert operation",
+      "pages": [
+        4,
+        21
+      ],
+      "description": "Scott says Dulles persuaded Washington to authorize the operation through both the NSC and CIA; this is a decision pathway, not a claim that NSC owned the agency.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "eca",
+      "toId": "cia",
+      "label": "Reported holder of off-budget covert-operation funds",
+      "pages": [
+        4
+      ],
+      "description": "Scott places ECA among cooperative organizations in whose hands CIA left off-book funds. His wording describes an apparent general practice rather than a quantified transfer on a specified date.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "fbi",
+      "toId": "cia",
+      "label": "Exchanged reports on Moss and Cellini allegations",
+      "pages": [
+        12,
+        25
+      ],
+      "description": "The body reports that FBI had advised CIA about Moss’s mistress and her brother; endnote 79 also describes CIA notifying FBI in December 1960 of Julia Cellini’s account of her brothers. This is an explicit interagency information exchange about allegations, not proof those allegations were substantiated.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "miles-copeland",
+      "toId": "cia",
+      "label": "Resigned officer returning in joint Cairo advisory mission",
+      "pages": [
+        10,
+        11
+      ],
+      "description": "Scott says Copeland resigned from CIA to join Booz Allen, then returned to Cairo in March 1953 in effectively a joint mission. Copeland’s later claims about off-record requests from friends at Langley remain distinct from documented formal employment.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "richard-helms",
+      "toId": "cia",
+      "label": "Former director in Safari Club account",
+      "pages": [
+        15,
+        16
+      ],
+      "description": "Scott’s quotations explicitly identify Helms as former DCI while describing his later Tehran role and attributed private-network cooperation. His former office does not independently verify all alleged Safari Club operations.",
+      "evidence": "author-account"
+    },
+    {
+      "fromId": "george-hw-bush",
+      "toId": "cia",
+      "label": "Agency head before leaving in January 1977",
+      "pages": [
+        15,
+        16
+      ],
+      "description": "The Trento passage identifies Bush as head of CIA; the Phillips passage separately places his departure in January 1977 before his banking committee role. These explicit offices are distinguished from disputed BCCI financing or chairmanship claims.",
+      "evidence": "author-account"
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "imperial-chemical-industries",
+      "description": "Scott’s endnote 44 identifies ICI through its chairman, Lord McGowan, the recipient of John Foster Dulles’s letter defending international business arrangements against political barriers. The correspondence establishes a specific personal and corporate contact, not common ownership between the law firm and ICI.",
+      "pages": [
+        6,
+        22
+      ]
+    },
+    {
+      "id": "jfk",
+      "description": "Scott’s note 80 cites Larry Kolb’s account of a 1950s friendship between John Kennedy and Khashoggi, reportedly corroborated by Khashoggi. The account remains a secondary personal claim; the separate Kennedy-assassination book titles in notes do not themselves establish affiliations.",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "id": "fidel-castro",
+      "description": "Scott identifies Castro as the target of November 1962 CIA political-action planning for which Edward Moss was to be used. Endnote 78 points to CIA records and an Inspector General report; the passage does not establish that every named operative carried out an attempted assassination.",
+      "pages": [
+        12,
+        25
+      ]
+    },
+    {
+      "id": "joseph-stalin",
+      "description": "Scott identifies Stalin and his party among contingent causes of the Cold War and describes Roosevelt’s Yalta understanding with Stalin on unconditional surrender when criticizing Dulles’s 1945 negotiations. These are a source interpretation and an identified diplomatic commitment, not financial-organization memberships.",
+      "pages": [
+        2,
+        6,
+        22
+      ]
+    },
+    {
+      "id": "hank-greenspun",
+      "description": "Scott identifies Greenspun as Schwimmer’s earlier partner in gun-running to the emerging Israeli state and the person who introduced Schwimmer to Khashoggi in Las Vegas. Note 107 cites Slater for collaboration involving Greenspun, Schwimmer and Lansky; Helliwell’s participation is only tentative.",
+      "pages": [
+        16,
+        27
+      ]
+    },
+    {
+      "id": "meyer-lansky",
+      "description": "Scott’s note 107 cites a collaboration involving Lansky, Schwimmer and Greenspun in Israeli gun-running. His name also appears as the title of a CIA security file in note 79; that filing reference alone does not establish personal operational control over Moss or the Cellinis.",
+      "pages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "nixon",
+      "description": "Scott discusses Khashoggi’s access to Nixon, his banking contact with Rebozo and disputed campaign-payment stories. Note 26 additionally quotes an alleged 1960 bargain concerning transfer of the Japanese M-fund’s control; its quid-pro-quo is expressly alleged. The 2014 publication date is not used as the date of these historical contacts.",
+      "pages": [
+        10,
+        12,
+        13,
+        21,
+        25
+      ]
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "id": "mitchell",
+      "pages": [
+        24
+      ],
+      "reason": "Surname identifies Timothy Mitchell, cited author of Carbon Democracy, not John Mitchell."
+    },
+    {
+      "id": "selborne",
+      "pages": [
+        23
+      ],
+      "reason": "The detected Palmer text identifies Robert Palmer Smith, an oil-industry author, not William Waldegrave Palmer."
+    },
+    {
+      "id": "kerr",
+      "pages": [
+        18
+      ],
+      "reason": "Richard Kerr is explicitly named as acting CIA director; this is not Philip Kerr/Lothian."
+    },
+    {
+      "id": "dougal-malcolm",
+      "pages": [
+        23
+      ],
+      "reason": "Malcolm occurs in cited book/editorial names, not Dougal Malcolm."
+    },
+    {
+      "id": "basil-long",
+      "pages": [
+        3,
+        5,
+        6,
+        12,
+        18,
+        25
+      ],
+      "reason": "Matches are the ordinary adjective/adverb long, not the South African journalist."
+    },
+    {
+      "id": "lloyd-george",
+      "pages": [
+        4,
+        15,
+        19,
+        21,
+        24
+      ],
+      "reason": "George identifies George Kennan or George Bush, not David Lloyd George."
+    },
+    {
+      "id": "james-allen",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13,
+        21,
+        22,
+        23,
+        24
+      ],
+      "reason": "Allen identifies Allen Dulles or the Booz Allen firm, not James Allen."
+    },
+    {
+      "id": "arthur-smith",
+      "pages": [
+        5,
+        23
+      ],
+      "reason": "Smith identifies Robert Palmer Smith or Walter Bedell Smith, not Arthur Lionel Smith."
+    },
+    {
+      "id": "john-simon",
+      "pages": [
+        24,
+        27
+      ],
+      "reason": "Simon occurs in Simon and Schuster publisher names, not John Simon."
+    },
+    {
+      "id": "malcolm-macdonald",
+      "pages": [
+        23
+      ],
+      "reason": "Scot Macdonald is the cited author of Rolling the Iron Dice, not Malcolm MacDonald."
+    },
+    {
+      "id": "neill-malcolm",
+      "pages": [
+        23
+      ],
+      "reason": "Malcolm occurs in cited book/editorial names, not Neill Malcolm."
+    },
+    {
+      "id": "isaiah-berlin",
+      "pages": [
+        3
+      ],
+      "reason": "Berlin denotes the city associated with Dulles’s visit, not Isaiah Berlin."
+    },
+    {
+      "id": "gn-clark",
+      "pages": [
+        23
+      ],
+      "reason": "William R. Clark is a cited author; initials and context do not match G. N. Clark."
+    },
+    {
+      "id": "rw-leonard",
+      "pages": [
+        27
+      ],
+      "reason": "Leonard Slater is the named cited author, not Colonel R. W. Leonard."
+    },
+    {
+      "id": "john-hope-simpson",
+      "pages": [
+        22
+      ],
+      "reason": "Bradley R. Simpson is the named Indonesia historian, not Sir John Hope Simpson."
+    },
+    {
+      "id": "john-foster",
+      "pages": [
+        6,
+        7,
+        8,
+        22,
+        23
+      ],
+      "reason": "Foster denotes John Foster Dulles in the body and bibliography, not John Galway Foster."
+    },
+    {
+      "id": "henry-price",
+      "pages": [
+        18,
+        26
+      ],
+      "reason": "Price occurs as an economic noun or in The Price of Fear title, not Henry Price."
+    },
+    {
+      "id": "lyndon-johnson",
+      "pages": [
+        21,
+        24
+      ],
+      "reason": "Johnson identifies Chalmers A. Johnson, cited historian, not Lyndon Johnson."
+    },
+    {
+      "id": "robert-kennedy",
+      "pages": [
+        24,
+        25
+      ],
+      "reason": "The personal friendship in note 80 identifies John Kennedy; other Kennedy hits are book titles, not Robert Kennedy affiliations."
+    },
+    {
+      "id": "coretta-scott-king",
+      "pages": [
+        12,
+        15,
+        24
+      ],
+      "reason": "King occurs in King Abdul-Aziz or King Faisal and Hill and Wang publisher context, not Coretta Scott King."
+    },
+    {
+      "id": "william-o-douglas",
+      "pages": [
+        21
+      ],
+      "reason": "Douglas Valentine is the named author of the labor/drug-smuggling account, not William O. Douglas."
+    },
+    {
+      "id": "robert-bennett",
+      "pages": [
+        23
+      ],
+      "reason": "Bennett H. Wall is the named corporate-history author, not Robert Bennett."
+    },
+    {
+      "id": "david-rockefeller",
+      "pages": [
+        3
+      ],
+      "reason": "The body explicitly says Nelson Rockefeller’s grandfather Nelson Aldrich; Rockefeller surname does not identify David Rockefeller."
+    },
+    {
+      "id": "harold-brown",
+      "pages": [
+        4,
+        19,
+        21,
+        24,
+        26,
+        27
+      ],
+      "reason": "Brown identifies Irving Brown, Senator Hank Brown or Anthony Cave Brown, not Harold Brown."
+    },
+    {
+      "id": "andrew-young",
+      "pages": [
+        10
+      ],
+      "reason": "Young describes Khashoggi’s age; no named Andrew Young occurs."
+    },
+    {
+      "id": "william-rockefeller",
+      "pages": [
+        3
+      ],
+      "reason": "The explicit Nelson Rockefeller reference does not identify William Rockefeller."
+    },
+    {
+      "id": "theodore-roosevelt",
+      "pages": [
+        3,
+        6,
+        22
+      ],
+      "reason": "Roosevelt explicitly identifies Franklin Roosevelt, not Theodore Roosevelt."
+    },
+    {
+      "id": "woodrow-wilson",
+      "pages": [
+        16,
+        21,
+        23
+      ],
+      "reason": "Wilson identifies Edwin Wilson or historian Wilson D. Miscamble, not Woodrow Wilson."
+    },
+    {
+      "id": "dwight-morrow",
+      "pages": [
+        22
+      ],
+      "reason": "Morrow is the publisher of Lisagor and Lipsius’s law-firm history, not Dwight Morrow."
+    },
+    {
+      "id": "frederick-e-smith",
+      "pages": [
+        5,
+        23
+      ],
+      "reason": "Smith identifies the oil author or Walter Bedell Smith, not Lord Birkenhead."
+    },
+    {
+      "id": "robert-hart",
+      "pages": [
+        25
+      ],
+      "reason": "Hart occurs within Senator Gary Hart’s name, not Robert Hart."
+    },
+    {
+      "id": "owen-young",
+      "pages": [
+        10
+      ],
+      "reason": "Young describes Khashoggi’s age; no named Owen Young occurs."
+    },
+    {
+      "id": "montagu-norman",
+      "pages": [
+        21
+      ],
+      "reason": "Norman Mailer is the named cited writer, not Montagu Norman."
+    },
+    {
+      "id": "benjamin-strong",
+      "pages": [
+        26
+      ],
+      "reason": "Strong is an adjective describing Bush’s relations; no Benjamin Strong identity is supplied."
+    },
+    {
+      "id": "andrew-mellon",
+      "pages": [
+        18
+      ],
+      "reason": "Mellon occurs in Bank of New York Mellon Corp; the modern company name does not identify Andrew Mellon."
+    },
+    {
+      "id": "ramsay-macdonald",
+      "pages": [
+        23
+      ],
+      "reason": "Scot Macdonald is a cited author; this does not identify Ramsay MacDonald."
+    },
+    {
+      "id": "philip-snowden",
+      "pages": [
+        9
+      ],
+      "reason": "Edward Snowden is explicitly named as Booz Allen’s employee, not Philip Snowden."
+    },
+    {
+      "id": "george-marshall",
+      "pages": [
+        4,
+        11,
+        17,
+        20,
+        21,
+        24
+      ],
+      "reason": "Marshall appears mainly in Marshall Plan labels, Jonathan Marshall’s citation or Andrew Gavin Marshall’s editor credit; this article does not supply a new specific personal office or transaction by General George Marshall."
+    },
+    {
+      "id": "harold-george",
+      "pages": [
+        4,
+        15,
+        19,
+        21,
+        24
+      ],
+      "reason": "George identifies Kennan, Bush or other given names, not Harold C. George."
+    },
+    {
+      "id": "the-state",
+      "pages": [
+        1,
+        2,
+        8,
+        27
+      ],
+      "reason": "The State is part of the article title, a general public-state expression or a citation; it does not identify the South African journal."
+    },
+    {
+      "id": "columbia-university",
+      "pages": [
+        23
+      ],
+      "reason": "Columbia University Press appears as publisher of Mary Ann Heiss’s book; publication does not establish university affiliation of the political actors."
+    },
+    {
+      "id": "paul-helliwell",
+      "pages": [
+        27
+      ],
+      "reason": "The note says Helliwell may have been part of Israeli gun-running; a firm collaboration edge is not justified by this tentative wording."
+    },
+    {
+      "id": "miles-copeland",
+      "pages": [
+        26,
+        27
+      ],
+      "reason": "Notes 103 and 105 explicitly state no published evidence establishes his participation in Safari Club covert operations; no such membership is inferred."
+    },
+    {
+      "id": "nixon",
+      "pages": [
+        13,
+        26
+      ],
+      "reason": "An unidentified Castle Bank customer named Richard M. Nixon is not established as the president; proposed hidden Bridge Company ownership is speculative."
+    },
+    {
+      "id": "george-hw-bush",
+      "pages": [
+        16
+      ],
+      "reason": "The London-bank wording has an ambiguous antecedent. Explicit First International Bancshares committee chairmanship is already captured; BCCI chairmanship is not established."
+    },
+    {
+      "id": "booz-allen",
+      "pages": [
+        13
+      ],
+      "reason": "The text assigns Bridge Company ownership to individual Booz Allen personnel, not the corporate firm itself."
+    },
+    {
+      "id": "schroeder-bank-new-york",
+      "pages": [
+        7
+      ],
+      "reason": "The J. Henry Schroder Banking Corporation occurs only in a photograph caption giving former Wall Street headquarters. This does not establish ownership, patronage or an operational relationship with Sullivan and Cromwell merely because both are shown."
+    },
+    {
+      "id": "jp-morgan",
+      "pages": [
+        18
+      ],
+      "reason": "JPMorgan Chase and Co is a modern group in a concentration study, not necessarily the same historical entity as J. P. Morgan and Company; mere list appearance establishes no affiliation."
+    },
+    {
+      "id": "chase-manhattan",
+      "pages": [
+        18
+      ],
+      "reason": "Modern JPMorgan Chase is listed, but no historical Chase Manhattan ownership or personnel relation is supplied; no legal identity chain is inferred from the name."
+    },
+    {
+      "id": "lord-mcgowan",
+      "pages": [
+        22
+      ],
+      "reason": "The source gives title and surname only; no fuller biographical name or founding date of ICI is inserted from outside the PDF."
+    },
+    {
+      "id": "standard-oil-california",
+      "pages": [
+        6
+      ],
+      "reason": "The sentence attaches Socony confusingly to Standard Oil of California. That label is not used as an alias or as grounds to merge California and New York companies."
+    },
+    {
+      "id": "frederick-vanderbilt-field",
+      "pages": [
+        15
+      ],
+      "reason": "The passage says America’s post-Watergate paralysis in the field of undercover activity. Field is a common noun, not Frederick Vanderbilt Field; no affiliation is established."
+    },
+    {
+      "id": "joint-chiefs",
+      "pages": [
+        21,
+        27
+      ],
+      "reason": "JCS appears only in the title of Amy Zegart’s cited book about the CIA, JCS and NSC; this citation does not establish a Joint Chiefs role in the specific Italian-election funding operation."
+    },
+    {
+      "id": "ctia",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27
+      ],
+      "reason": "The generated abbreviation CIA is not an approved alias for the Committee to Investigate Assassinations. These passages explicitly concern the Central Intelligence Agency; no CTIA affiliation is established."
+    },
+    {
+      "id": "democratic-party",
+      "pages": [
+        18
+      ],
+      "reason": "The reference is to the Italian Christian Democratic Party receiving alleged funds via a Vatican priest, not the United States Democratic Party."
+    },
+    {
+      "id": "federation-british-industries",
+      "pages": [
+        12,
+        18,
+        25
+      ],
+      "reason": "FBI refers to the Federal Bureau of Investigation in reports about Moss and Cellini and failures to act on BCCI warnings, not the Federation of British Industries."
+    },
+    {
+      "id": "national-security-council",
+      "pages": [
+        27
+      ],
+      "reason": "NSC on page 27 occurs in the title of Zegart’s cited book. The operational NSC–CIA authorization relationship is supported by page 4 and already captured; the bibliography supplies no additional affiliation."
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "lord-mcgowan",
+      "name": "Lord McGowan",
+      "kind": "person",
+      "role": "Chairman of Imperial Chemical Industries and Dulles correspondent",
+      "description": "Scott’s endnote 44 identifies Lord McGowan as ICI chairman and recipient of John Foster Dulles’s 1930s letter defending international business arrangements. The supplied article gives his title and surname, not a fuller biographical name.",
+      "pages": [
+        6,
+        22
+      ],
+      "aliases": [],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6,
+            22
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott’s endnote 44 identifies Lord McGowan as ICI chairman and recipient of John Foster Dulles’s 1930s letter defending international business arrangements. The supplied article gives his title and surname, not a fuller biographical name.",
+          "role": "Chairman of Imperial Chemical Industries and Dulles correspondent"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ]
+    }
+  ],
+  "newOrganizations": [
+    {
+      "id": "national-committee-free-europe",
+      "name": "National Committee for a Free Europe",
+      "kind": "organization",
+      "role": "Committee for operations behind the Iron Curtain",
+      "description": "Endnote 20 identifies a companion to ACUE, chaired at executive-committee level by Allen Dulles; Sullivan and Cromwell handled its legal affairs. The source specifies the committee’s behind-the-Iron-Curtain scope, without assigning a precise founding date here.",
+      "pages": [
+        20,
+        21
+      ],
+      "aliases": [
+        "National Committee for a Free Europe"
+      ],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Endnote 20 identifies a companion to ACUE, chaired at executive-committee level by Allen Dulles; Sullivan and Cromwell handled its legal affairs. The source specifies the committee’s behind-the-Iron-Curtain scope, without assigning a precise founding date here.",
+          "role": "Committee for operations behind the Iron Curtain"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "m-fund",
+      "name": "M-Fund",
+      "kind": "organization",
+      "role": "Secret Japanese political-financing fund described by Scott",
+      "description": "Scott describes a large postwar US-established fund in Japan, administered in the 1950s by Kodama and later managed by CIA personnel. A quoted memorandum alleges a 1960 bargain concerning Nixon’s transfer of control; alleged looted-gold origins are distinguished from established ownership. This is a fund record, not a formally incorporated company.",
+      "pages": [
+        4,
+        5,
+        21
+      ],
+      "aliases": [
+        "M Fund"
+      ],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            4,
+            5,
+            21
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott describes a large postwar US-established fund in Japan, administered in the 1950s by Kodama and later managed by CIA personnel. A quoted memorandum alleges a 1960 bargain concerning Nixon’s transfer of control; alleged looted-gold origins are distinguished from established ownership. This is a fund record, not a formally incorporated company.",
+          "role": "Secret Japanese political-financing fund described by Scott"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "exxon-standard-new-jersey",
+      "name": "Standard Oil of New Jersey / Exxon",
+      "kind": "organization",
+      "role": "Oil company and Seven Sisters participant",
+      "description": "Scott explicitly identifies Standard Oil of New Jersey as the company later called Exxon, names Arthur Dean as its lawyer and discusses the company’s corporate-history denial of a conspiracy to boycott Iranian oil. Individual company claims are separated from the article’s collective Seven Sisters interpretation.",
+      "pages": [
+        6,
+        7,
+        23
+      ],
+      "aliases": [
+        "Standard Oil Company (New Jersey)",
+        "Standard Oil of New Jersey",
+        "Exxon",
+        "Exxon Corporation"
+      ],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6,
+            7,
+            23
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott explicitly identifies Standard Oil of New Jersey as the company later called Exxon, names Arthur Dean as its lawyer and discusses the company’s corporate-history denial of a conspiracy to boycott Iranian oil. Individual company claims are separated from the article’s collective Seven Sisters interpretation.",
+          "role": "Oil company and Seven Sisters participant"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "mobil-standard-new-york",
+      "name": "Standard Oil of New York / Mobil",
+      "kind": "organization",
+      "role": "Oil company and Stanvac joint-venture participant",
+      "description": "Scott names Standard Oil Company of New York in the American oil group and describes Stanvac as a joint venture of Standard companies later known as Exxon and Mobil. The article’s separate attachment of Socony to Standard Oil of California is confusing and is not adopted as a California-company alias.",
+      "pages": [
+        6
+      ],
+      "aliases": [
+        "Standard Oil Company of New York",
+        "Mobil"
+      ],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott names Standard Oil Company of New York in the American oil group and describes Stanvac as a joint venture of Standard companies later known as Exxon and Mobil. The article’s separate attachment of Socony to Standard Oil of California is confusing and is not adopted as a California-company alias.",
+          "role": "Oil company and Stanvac joint-venture participant"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "standard-oil-california",
+      "name": "Standard Oil of California",
+      "kind": "organization",
+      "role": "American oil major in Scott’s Seven Sisters enumeration",
+      "description": "Scott names Standard Oil of California among the five American companies in the seven-company grouping. The same sentence incorrectly or confusingly attaches the name Socony; this account records the named California company without merging it with Standard Oil of New York.",
+      "pages": [
+        6
+      ],
+      "aliases": [
+        "Standard Oil Company of California"
+      ],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott names Standard Oil of California among the five American companies in the seven-company grouping. The same sentence incorrectly or confusingly attaches the name Socony; this account records the named California company without merging it with Standard Oil of New York.",
+          "role": "American oil major in Scott’s Seven Sisters enumeration"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "gulf-oil",
+      "name": "Gulf Oil",
+      "kind": "organization",
+      "role": "American oil major in Scott’s Seven Sisters enumeration",
+      "description": "Scott names Gulf Oil among the five American oil companies that, with Royal Dutch Shell and Anglo-Iranian, made up the Seven Sisters grouping. The passage supplies group composition, not an individual Gulf role in every alleged action of that collective.",
+      "pages": [
+        6
+      ],
+      "aliases": [
+        "Gulf Oil Corporation"
+      ],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott names Gulf Oil among the five American oil companies that, with Royal Dutch Shell and Anglo-Iranian, made up the Seven Sisters grouping. The passage supplies group composition, not an individual Gulf role in every alleged action of that collective.",
+          "role": "American oil major in Scott’s Seven Sisters enumeration"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "texaco",
+      "name": "Texaco",
+      "kind": "organization",
+      "role": "American oil major in Scott’s Seven Sisters enumeration",
+      "description": "Scott names Texaco as one of the five American companies in the oil grouping discussed in relation to global distribution and the Truman antitrust action. Its membership is distinct from separate claims that all firms conspired in the Iranian boycott.",
+      "pages": [
+        6
+      ],
+      "aliases": [],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott names Texaco as one of the five American companies in the oil grouping discussed in relation to global distribution and the Truman antitrust action. Its membership is distinct from separate claims that all firms conspired in the Iranian boycott.",
+          "role": "American oil major in Scott’s Seven Sisters enumeration"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "royal-dutch-shell",
+      "name": "Royal Dutch Shell",
+      "kind": "organization",
+      "role": "Oil major in Scott’s Seven Sisters enumeration",
+      "description": "Scott includes Royal Dutch Shell alongside Anglo-Iranian and the five American majors in the Seven Sisters. The source discusses collective export and distribution power but does not assign a specific Shell ownership stake in every venture described.",
+      "pages": [
+        6
+      ],
+      "aliases": [],
+      "citations": [
+        {
+          "sourceId": "scott",
+          "pages": [
+            6
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "scott",
+          "description": "Scott includes Royal Dutch Shell alongside Anglo-Iranian and the five American majors in the Seven Sisters. The source discusses collective export and distribution power but does not assign a specific Shell ownership stake in every venture described.",
+          "role": "Oil major in Scott’s Seven Sisters enumeration"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added from source-wide reread of Scott PDF, with page-cited roles."
+        }
+      ],
+      "founders": "Not established by the cited article.",
+      "founderIds": [],
+      "members": []
+    }
+  ],
+  "additionalAliases": [
+    {
+      "id": "yoshio-kodama",
+      "aliases": [
+        "Kodama Yoshio",
+        "Yoshi Kodama"
+      ]
+    },
+    {
+      "id": "bob-hasan",
+      "aliases": [
+        "Bob Hassan"
+      ]
+    },
+    {
+      "id": "sea-supply",
+      "aliases": [
+        "Sea Supply Corp.",
+        "Sea Supply Corporation"
+      ]
+    },
+    {
+      "id": "cat-air-america",
+      "aliases": [
+        "CAT Inc."
+      ]
+    },
+    {
+      "id": "fbi",
+      "aliases": [
+        "FBI"
+      ]
+    },
+    {
+      "id": "cia",
+      "aliases": [
+        "CIA"
+      ]
+    },
+    {
+      "id": "bcci",
+      "aliases": [
+        "BCCI"
+      ]
+    }
+  ],
+  "summary": "Independent source-wide reread of all 27 pages, including photographs, captions, bibliography and all 123 endnotes, checked against the complete 764-identity catalog after a further 38-identity delta review rather than only existing Scott profiles. Literal-name, alias and all-surname leads were identity-resolved in context. This pass identifies additional cross-source people, an ICI chairman/correspondent, the Free Europe committee, Japanese M-fund administration and named oil-company relationships omitted by the earlier profile-centered audit. Publisher names, place names, ambiguous people and mere mentions were rejected. Existing specific Scott edges are retained rather than duplicated. New records are limited to explicitly named institutional or personal counterparties needed for specific affiliations.",
+  "coverage": {
+    "pagesReviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "limits": "A manual reread plus normalized text leads supports a source-wide review, not an assertion that every possible connection in every wording has been exhaustively extracted. The supplied article is an attributed secondary argument; notes contain contested claims and denials. Unnamed shipping firms, undisambiguated bank customers, unspecified agency contacts and tentative associations remain unmodeled. Organizational succession is limited to the lineages explicitly described; the article’s erroneous or confusing Standard Oil/Socony nomenclature is flagged rather than silently corrected. The 38 identities introduced by the merged source-wide artifacts were subsequently screened against the complete Scott text; the only new uncited surname lead, Field on page 15, is a common-noun false match.",
+    "shortFormReview": {
+      "candidateIdsReviewed": [
+        "fbi",
+        "cia",
+        "bcci",
+        "joint-chiefs",
+        "ctia",
+        "democratic-party",
+        "federation-british-industries",
+        "national-security-council"
+      ],
+      "pageLeadCount": 43,
+      "method": "Initial-free names, corporate base names and generated case-sensitive acronym leads were checked against the actual source passages. Generated acronym candidates were not adopted until identity-resolved. Four further specific roles/information exchanges found; CTIA/CIA, Federation/FBI, US Democratic/Italian Christian Democratic collisions and bibliography-only JCS/NSC were rejected. Additional BCCI pages are conclusion or supporting citations and do not establish new affiliation beyond existing modeled records."
+    }
+  }
+}

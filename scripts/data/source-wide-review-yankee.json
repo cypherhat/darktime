@@ -1,0 +1,3114 @@
+{
+  "sourceId": "yankee",
+  "reviewedIds": [
+    "nixon",
+    "mitchell",
+    "hughes",
+    "maheu",
+    "hoover",
+    "jfk",
+    "quigley",
+    "rhodes",
+    "milner",
+    "stead",
+    "esher",
+    "salisbury",
+    "balfour",
+    "goschen",
+    "arnold-toynbee",
+    "arnold-j-toynbee",
+    "george-parkin",
+    "gell",
+    "brassey",
+    "albert-grey",
+    "edward-grey",
+    "rosebery",
+    "rothschild",
+    "beit",
+    "bailey",
+    "jameson",
+    "smuts",
+    "selborne",
+    "duncan",
+    "brand",
+    "kerr",
+    "curtis",
+    "dawson",
+    "amery",
+    "grigg",
+    "fisher",
+    "halifax",
+    "waldorf-astor",
+    "nancy-astor",
+    "john-jacob-astor",
+    "hichens",
+    "feetham",
+    "dougal-malcolm",
+    "dove",
+    "basil-long",
+    "basil-williams",
+    "meston",
+    "marris",
+    "coupland",
+    "zimmern",
+    "hankey",
+    "florashaw",
+    "lugard",
+    "george-buckle",
+    "northcliffe",
+    "monypenny",
+    "chilrol",
+    "fiddes",
+    "walrond",
+    "buchan",
+    "holland",
+    "arthur-glazebrook",
+    "george-glazebrook",
+    "massey",
+    "corbett",
+    "beer",
+    "anson",
+    "michael-glazebrook",
+    "raleigh",
+    "barnett",
+    "hugh-wyndham",
+    "edward-cook",
+    "harry-johnston",
+    "hawksley",
+    "garrett",
+    "robert-cecil",
+    "asquith",
+    "lloyd-george",
+    "joseph-chamberlain",
+    "curzon",
+    "violet-milner",
+    "edward-cecil",
+    "maguire",
+    "michell",
+    "egerton",
+    "jowett",
+    "ruskin",
+    "james-allen",
+    "downie-stewart",
+    "henry-birchenough",
+    "arthur-smith",
+    "alfred-lyttelton",
+    "malcolm-hailey",
+    "rushbrook-williams",
+    "hv-hodson",
+    "harlow",
+    "fabian-ware",
+    "gilbert-murray",
+    "headlam-morley",
+    "chelmsford",
+    "arthur-salter",
+    "steel-maitland",
+    "ormsby-gore",
+    "edith-lyttelton",
+    "hwc-davis",
+    "john-simon",
+    "samuel-hoare",
+    "wilson-harris",
+    "francis-clarke",
+    "wgs-adams",
+    "wk-hancock",
+    "ernest-woodward",
+    "harold-butler",
+    "kenneth-bell",
+    "donald-somervell",
+    "maurice-gwyer",
+    "charles-harris",
+    "edward-peacock",
+    "cyril-radcliffe",
+    "john-wheeler-bennett",
+    "robert-stopford",
+    "barrington-ward",
+    "kenneth-wheare",
+    "edward-carr",
+    "malcolm-macdonald",
+    "godfrey-elton",
+    "neill-malcolm",
+    "willingdon",
+    "isaiah-berlin",
+    "roger-makins",
+    "arthur-willert",
+    "ivison-macadam",
+    "joseph-flavelle",
+    "frank-aydelotte",
+    "jerome-greene",
+    "clarence-streit",
+    "james-rose-innes",
+    "thomas-bavin",
+    "fw-eggleston",
+    "dudley-braham",
+    "arthur-atkinson",
+    "helmuth-moltke",
+    "adam-trott",
+    "gathorne-hardy",
+    "sarvepalli-radhakrishnan",
+    "edwin-montagu",
+    "adam-marris",
+    "gn-clark",
+    "douglas-jay",
+    "tasker-bliss",
+    "harold-temperley",
+    "thomas-lamont",
+    "rw-leonard",
+    "daniel-stevenson",
+    "robert-borden",
+    "allen-dulles",
+    "john-hope-simpson",
+    "anthony-eden",
+    "william-duke",
+    "malcolm-seton",
+    "mohandas-gandhi",
+    "winston-churchill",
+    "adolf-hitler",
+    "neville-chamberlain",
+    "john-foster",
+    "oliver-lyttelton",
+    "selborne-third",
+    "clement-attlee",
+    "nw-rowell",
+    "inazo-nitobe",
+    "dzt-yui",
+    "john-sparrow",
+    "lionel-abrahams",
+    "henry-price",
+    "cecil-hurst",
+    "austen-chamberlain",
+    "peter-dale-scott",
+    "mike-lofgren",
+    "dana-priest",
+    "william-arkin",
+    "tom-hayden",
+    "franklin-roosevelt",
+    "nelson-aldrich",
+    "paul-warburg",
+    "hoyt-vandenberg",
+    "william-h-jackson",
+    "frank-wisner",
+    "george-kennan",
+    "james-forrestal",
+    "irving-brown",
+    "jay-lovestone",
+    "pierre-ferri-pisani",
+    "yoshio-kodama",
+    "prince-bernhard",
+    "walter-bedell-smith",
+    "august-dasaad",
+    "alamsjah",
+    "sukarno",
+    "suharto",
+    "bob-hasan",
+    "ibnu-sutowo",
+    "john-foster-dulles",
+    "karl-wolff",
+    "dwight-eisenhower",
+    "harold-macmillan",
+    "arthur-dean",
+    "mohammad-mossadeq",
+    "harry-truman",
+    "averell-harriman",
+    "william-eddy",
+    "mike-mcconnell",
+    "edward-snowden",
+    "edward-lansdale",
+    "miles-copeland",
+    "gamal-nasser",
+    "adnan-khashoggi",
+    "larry-kolb",
+    "kamal-adham",
+    "edward-moss",
+    "bebe-rebozo",
+    "paul-helliwell",
+    "ep-barry",
+    "turki-bin-faisal",
+    "alexandre-de-marenches",
+    "henry-kissinger",
+    "richard-helms",
+    "theodore-shackley",
+    "james-angleton",
+    "william-colby",
+    "george-hw-bush",
+    "jimmy-carter",
+    "anwar-sadat",
+    "yitzhak-rabin",
+    "manucher-ghorbanifar",
+    "al-schwimmer",
+    "david-kimche",
+    "yaacov-nimrodi",
+    "ariel-sharon",
+    "jaafar-nimeiri",
+    "robert-mcfarlane",
+    "bruce-rappaport",
+    "alfred-hartmann",
+    "bandar-bin-sultan",
+    "richard-kerr",
+    "oglesby",
+    "lyndon-johnson",
+    "robert-kennedy",
+    "john-connally",
+    "howard-hunt",
+    "hr-haldeman",
+    "patrick-gray",
+    "fidel-castro",
+    "john-roselli",
+    "meyer-lansky",
+    "lucky-luciano",
+    "fulgencio-batista",
+    "richard-danner",
+    "george-smathers",
+    "reinhard-gehlen",
+    "andrei-vlassov",
+    "william-donovan",
+    "oswald",
+    "marina-oswald",
+    "jack-ruby",
+    "earl-warren",
+    "gerald-ford",
+    "arlen-specter",
+    "lee-rankin",
+    "harold-weisberg",
+    "george-otoole",
+    "george-de-mohrenschildt",
+    "clay-shaw",
+    "david-ferrie",
+    "frank-sturgis",
+    "jim-garrison",
+    "rose-cherami",
+    "francis-fruge",
+    "julia-ann-mercer",
+    "lewis-mcwillie",
+    "joe-tonahill",
+    "bell-herndon",
+    "dorothy-kilgallen",
+    "robert-mcnamara",
+    "maxwell-taylor",
+    "ngo-dinh-diem",
+    "duong-van-minh",
+    "clark-clifford",
+    "cyrus-vance",
+    "george-ball",
+    "martin-luther-king",
+    "james-earl-ray",
+    "percy-foreman",
+    "coretta-scott-king",
+    "sirhan-sirhan",
+    "chester-davis",
+    "noah-dietrich",
+    "john-sonnett",
+    "william-o-douglas",
+    "charles-metzner",
+    "herbert-brownell",
+    "hank-greenspun",
+    "jack-hooper",
+    "paul-laxalt",
+    "larry-obrien",
+    "john-meier",
+    "bill-gay",
+    "howard-eckersley",
+    "levar-myler",
+    "james-golden",
+    "edward-morgan",
+    "robert-bennett",
+    "ralph-winte",
+    "gordon-liddy",
+    "james-mccord",
+    "dorothy-hunt",
+    "gerald-alch",
+    "william-bittman",
+    "sherman-skolnick",
+    "alex-bottos",
+    "john-reed",
+    "william-ruckelshaus",
+    "egil-krogh",
+    "alexander-butterfield",
+    "dwight-chapin",
+    "richard-spears",
+    "co-miller",
+    "ronald-dorfman",
+    "wendell-whitehouse",
+    "paul-gaynor",
+    "jack-caulfield",
+    "bernard-fensterwald",
+    "lou-russell",
+    "david-rockefeller",
+    "zbigniew-brzezinski",
+    "walter-mondale",
+    "harold-brown",
+    "michael-blumenthal",
+    "andrew-young",
+    "bernard-barker",
+    "john-sirica",
+    "william-paterson",
+    "george-peabody",
+    "j-p-morgan",
+    "william-rockefeller",
+    "william-c-whitney",
+    "grover-cleveland",
+    "mark-hanna",
+    "william-mckinley",
+    "william-jennings-bryan",
+    "theodore-roosevelt",
+    "henry-cabot-lodge",
+    "woodrow-wilson",
+    "william-howard-taft",
+    "william-randolph-hearst",
+    "john-w-davis",
+    "dwight-morrow",
+    "benjamin-disraeli",
+    "evelyn-baring",
+    "henry-kitchener",
+    "paul-kruger",
+    "louis-botha",
+    "j-b-m-hertzog",
+    "allan-octavian-hume",
+    "lord-dufferin",
+    "gopal-krishna-gokhale",
+    "bal-gangadhar-tilak",
+    "reginald-dyer",
+    "eamon-de-valera",
+    "arthur-griffith",
+    "michael-collins",
+    "otto-von-bismarck",
+    "wilhelm-ii",
+    "ernest-cassel",
+    "edward-vii",
+    "richard-haldane",
+    "charles-masterman",
+    "gilbert-parker",
+    "frederick-e-smith",
+    "robert-hart",
+    "edgar-vincent",
+    "matthew-perry",
+    "sun-yat-sen",
+    "georges-clemenceau",
+    "vittorio-orlando",
+    "john-maynard-keynes",
+    "charles-dawes",
+    "owen-young",
+    "montagu-norman",
+    "benjamin-strong",
+    "hjalmar-schacht",
+    "charles-rist",
+    "herbert-hoover",
+    "andrew-mellon",
+    "ramsay-macdonald",
+    "philip-snowden",
+    "stanley-baldwin",
+    "aristide-briand",
+    "gustav-stresemann",
+    "mustafa-kemal",
+    "reginald-mckenna",
+    "henry-davison",
+    "alfred-mond",
+    "john-l-lewis",
+    "frank-kellogg",
+    "joseph-stalin",
+    "benito-mussolini",
+    "chiang-kai-shek",
+    "mao-zedong",
+    "zhou-enlai",
+    "vyacheslav-molotov",
+    "joachim-von-ribbentrop",
+    "pierre-laval",
+    "engelbert-dollfuss",
+    "kurt-schuschnigg",
+    "franz-von-papen",
+    "francisco-franco",
+    "douglas-jerrold",
+    "hugh-pollard",
+    "leon-blum",
+    "edvard-benes",
+    "edouard-daladier",
+    "philippe-petain",
+    "george-marshall",
+    "ernest-bevin",
+    "james-byrnes",
+    "henry-stimson",
+    "robert-oppenheimer",
+    "leo-szilard",
+    "bernard-baruch",
+    "david-lilienthal",
+    "dean-acheson",
+    "josip-broz-tito",
+    "klement-gottwald",
+    "andrei-zhdanov",
+    "lucius-clay",
+    "paul-nitze",
+    "curtis-lemay",
+    "ira-eaker",
+    "harold-george",
+    "hirohito",
+    "hideki-tojo",
+    "chester-nimitz",
+    "alcide-de-gasperi",
+    "konrad-adenauer",
+    "lewis-strauss",
+    "edward-teller",
+    "stanislaw-ulam",
+    "douglas-macarthur",
+    "nikita-khrushchev",
+    "georgi-malenkov",
+    "lavrenti-beria",
+    "nikolai-bulganin",
+    "georgi-zhukov",
+    "imre-nagy",
+    "janos-kadar",
+    "william-l-borden",
+    "thomas-watson-sr",
+    "nicholas-murray-butler",
+    "frank-tiarks",
+    "h-norman-schwarzkopf",
+    "loy-henderson",
+    "mohammad-reza-shah",
+    "david-ben-gurion",
+    "muhammad-naguib",
+    "king-farouk",
+    "king-hussein",
+    "john-glubb",
+    "dag-hammarskjold",
+    "jacobo-arbenz",
+    "carlos-castillo-armas",
+    "anastas-mikoyan",
+    "charles-de-gaulle",
+    "kwame-nkrumah",
+    "sekou-toure",
+    "george-padmore",
+    "felix-houphouet-boigny",
+    "david-ormsby-gore",
+    "fbi",
+    "cia",
+    "hughes-empire",
+    "milner-group",
+    "society-elect",
+    "association-helpers",
+    "cecil-bloc",
+    "kindergarten",
+    "round-table",
+    "round-table-journal",
+    "rhodes-trust",
+    "beit-trust",
+    "all-souls",
+    "balliol",
+    "new-college",
+    "oxford-university",
+    "toynbee-hall",
+    "bsac",
+    "closer-union",
+    "intercolonial-council",
+    "central-sa-railways",
+    "the-state",
+    "times",
+    "cape-times",
+    "johannesburg-star",
+    "pall-mall-gazette",
+    "review-reviews",
+    "imperial-federation-league",
+    "lazard",
+    "lloyds-bank",
+    "cliveden-circle",
+    "war-cabinet",
+    "imperial-war-cabinet",
+    "committee-defence",
+    "colonial-office",
+    "league-of-nations",
+    "mandates-commission",
+    "peel-commission",
+    "irish-boundary-commission",
+    "psychical-research",
+    "foreign-office",
+    "inquiry",
+    "jp-morgan",
+    "british-treasury",
+    "lse",
+    "labour-party",
+    "indian-national-congress",
+    "french-government",
+    "riia",
+    "ipr",
+    "ipr-pacific-council",
+    "canadian-iia",
+    "australian-iia",
+    "new-zealand-iia",
+    "south-african-iia",
+    "indian-iia",
+    "cfr",
+    "iiic",
+    "icic",
+    "international-studies-conferences",
+    "rockefeller-foundation",
+    "frps",
+    "foreign-office-research",
+    "indian-round-table-conferences",
+    "india-office",
+    "british-embassy-washington",
+    "british-food-mission",
+    "british-shipping-mission",
+    "unrra",
+    "ministry-of-information",
+    "ministry-of-production",
+    "ministry-of-economic-warfare",
+    "agenda",
+    "nsa",
+    "sullivan-cromwell",
+    "federal-reserve",
+    "acue",
+    "opc",
+    "afl",
+    "eca",
+    "sea-supply",
+    "cat-air-america",
+    "paru",
+    "lockheed",
+    "bilderberg",
+    "rockwell-standard",
+    "diponegoro-division",
+    "stanvac",
+    "permina",
+    "seven-sisters",
+    "anglo-iranian",
+    "aramco",
+    "mi6",
+    "booz-allen",
+    "booz-company",
+    "carlyle",
+    "egyptian-mukhabarat",
+    "bcci",
+    "safari-resort",
+    "safari-alliance",
+    "sdece",
+    "castle-bank",
+    "paradise-bridge",
+    "first-international-bancshares",
+    "intermaritime",
+    "banque-commerce-placements",
+    "bank-england",
+    "riggs-bank",
+    "jj-cappucci",
+    "oss",
+    "yankee-faction",
+    "cowboy-faction",
+    "warren-commission",
+    "dallas-police",
+    "cuban-revolutionary-council",
+    "fair-play-cuba",
+    "carousel-club",
+    "texas-book-depository",
+    "lansky-syndicate",
+    "gehlen-organization",
+    "oni",
+    "joint-chiefs",
+    "defense-department",
+    "state-department",
+    "chase-manhattan",
+    "john-birch-society",
+    "aib",
+    "sds",
+    "las-vegas-sun",
+    "cbs",
+    "teamsters",
+    "hughes-tool",
+    "hughes-aircraft",
+    "twa",
+    "irving-trust",
+    "dillon-read",
+    "desert-inn",
+    "intertel",
+    "resorts-international",
+    "summa",
+    "mullen",
+    "creep",
+    "white-house-plumbers",
+    "ntsb",
+    "faa",
+    "dot",
+    "united-airlines",
+    "aviation-safety-bureau",
+    "security-international",
+    "ctia",
+    "trilateral",
+    "dnc",
+    "guaranty-trust",
+    "rothschild-banking-houses",
+    "us-steel",
+    "att",
+    "new-republic",
+    "republican-party",
+    "democratic-party",
+    "de-beers",
+    "consolidated-gold-fields",
+    "suez-canal-company",
+    "british-east-africa-company",
+    "south-african-union",
+    "british-cabinet-secretariat",
+    "servants-india-society",
+    "muslim-league",
+    "sinn-fein",
+    "irish-free-state",
+    "war-propaganda-bureau",
+    "british-press-bureau",
+    "chinese-maritime-customs",
+    "ottoman-financial-administration",
+    "genro",
+    "mitsui",
+    "mitsubishi",
+    "japanese-diet",
+    "bis",
+    "federal-reserve-new-york",
+    "bank-france",
+    "reichsbank",
+    "bankers-trust",
+    "kuhn-loeb",
+    "credit-anstalt",
+    "conservative-party",
+    "liberal-party",
+    "trades-union-congress",
+    "imperial-chemical-industries",
+    "federation-british-industries",
+    "national-industrial-council",
+    "international-labour-office",
+    "permanent-court-international-justice",
+    "little-entente",
+    "conference-ambassadors",
+    "reparations-commission",
+    "exchange-equalization-account",
+    "reconstruction-finance-corporation",
+    "cio",
+    "united-mine-workers",
+    "midland-bank",
+    "kuomintang",
+    "chinese-communist-party",
+    "soviet-government",
+    "german-nazi-government",
+    "italian-fascist-government",
+    "japanese-imperial-government",
+    "vichy-government",
+    "nonintervention-committee",
+    "united-nations",
+    "international-monetary-fund",
+    "world-bank",
+    "atomic-energy-commission",
+    "un-atomic-energy-commission",
+    "cominform",
+    "nato",
+    "national-security-council",
+    "strategic-air-command",
+    "federation-atomic-scientists",
+    "yugoslav-partisans",
+    "german-socialist-unity-party",
+    "policy-planning-staff",
+    "aec-general-advisory-committee",
+    "us-air-force",
+    "los-alamos",
+    "livermore-laboratory",
+    "lincoln-laboratory",
+    "seato",
+    "cento",
+    "warsaw-pact",
+    "soviet-communist-party",
+    "columbia-university",
+    "ibm",
+    "schroeder-bank-new-york",
+    "schroeder-bank-london",
+    "imperial-iranian-gendarmerie",
+    "egypt-free-officers",
+    "arab-legion",
+    "un-emergency-force",
+    "united-arab-republic",
+    "united-fruit",
+    "oas",
+    "july-26-movement",
+    "convention-peoples-party",
+    "african-malagasy-union",
+    "union-african-states",
+    "eastern-establishment-quigley",
+    "cuban-exile-executive-committee",
+    "morgan-banking-nexus",
+    "general-dynamics",
+    "robert-kindersley",
+    "goschen-second",
+    "lord-mcgowan",
+    "willard-straight",
+    "dorothy-payne-whitney",
+    "michael-straight",
+    "walter-lippmann",
+    "corliss-lamont",
+    "frederick-vanderbilt-field",
+    "owen-lattimore",
+    "philip-jessup",
+    "henry-cabot-lodge-jr",
+    "league-nations-union",
+    "baring-brothers",
+    "barclays-bank",
+    "hambros-bank",
+    "westminster-bank",
+    "standard-bank-south-africa",
+    "imperial-ottoman-bank",
+    "british-north-borneo-company",
+    "rio-tinto",
+    "un-war-crimes-commission",
+    "national-committee-free-europe",
+    "m-fund",
+    "exxon-standard-new-jersey",
+    "mobil-standard-new-york",
+    "standard-oil-california",
+    "gulf-oil",
+    "texaco",
+    "royal-dutch-shell",
+    "harvard-university",
+    "institute-advanced-study",
+    "carnegie-uk-trust",
+    "london-joint-stock-bank",
+    "new-york-post",
+    "chemical-bank",
+    "first-national-bank-boston",
+    "girard-trust"
+  ],
+  "relationships": [
+    {
+      "fromId": "gerald-ford",
+      "toId": "bilderberg",
+      "label": "Founding member claimed by Oglesby",
+      "pages": [
+        330
+      ],
+      "description": "Oglesby explicitly calls Ford a founding Bilderberg member while discussing his acceptability to competing elite factions. This is retained as the source’s claimed membership and is not independent verification of a founding roster.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "oglesby",
+      "toId": "aib",
+      "label": "Member and associated researcher",
+      "pages": [
+        108,
+        379
+      ],
+      "description": "In the body Oglesby explicitly includes himself among Assassination Information Bureau members presenting the Zapruder film. The author biography separately states that he was associated with the bureau.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "oglesby",
+      "toId": "sds",
+      "label": "Early president",
+      "pages": [
+        379
+      ],
+      "description": "The author biography identifies Oglesby as an early president of Students for a Democratic Society. This is an explicit organizational role, not inferred from his general antiwar writing.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "miles-copeland",
+      "toId": "cia",
+      "label": "Retired official",
+      "pages": [
+        31,
+        300
+      ],
+      "description": "Oglesby explicitly introduces Copeland as a retired CIA official. His publications advocating surveillance and his allegations about Watergate are distinguished from that occupational affiliation.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "edward-lansdale",
+      "toId": "cia",
+      "label": "CIA affiliation in Prouty’s interpretation",
+      "pages": [
+        74
+      ],
+      "description": "Oglesby reports Prouty’s description of Lansdale among CIA-linked hard-nosed liberals influencing policy in Vietnam. The affiliation and characterization remain attributed to that cited account.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "maxwell-taylor",
+      "toId": "jfk",
+      "label": "Chief military adviser",
+      "pages": [
+        74
+      ],
+      "description": "Oglesby identifies Taylor as Kennedy’s chief military adviser in the discussion of Prouty’s criticism of Vietnam policy. This adds the adviser relationship beyond Taylor’s existing Joint Chiefs affiliation.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "david-lilienthal",
+      "toId": "atomic-energy-commission",
+      "label": "Commission chairman during1949–1950 controversy",
+      "pages": [
+        198
+      ],
+      "description": "Oglesby explicitly identifies Lilienthal as AEC chairman and recounts a senator’s accusation about atomic secrets, Lilienthal’s warning against military dominance and his resignation. The accusation is not encoded as a proven disclosure.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "harry-truman",
+      "toId": "atomic-energy-commission",
+      "label": "Orders thermonuclear development against commission advice",
+      "pages": [
+        198
+      ],
+      "description": "Oglesby describes Truman issuing the hydrogen-bomb go-ahead against AEC advice. The passage’s February 1,1950 date differs from Quigley’s January 31 account; the policy relationship is represented without silently reconciling the date.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "adolf-hitler",
+      "toId": "reinhard-gehlen",
+      "label": "Wartime intelligence command relationship",
+      "pages": [
+        31,
+        54,
+        55,
+        56
+      ],
+      "description": "Oglesby describes Gehlen as part of Hitler’s general staff and head of Soviet intelligence work. The source also recounts Gehlen proposing a role for Vlassov to Hitler, who rejected that proposal. This is a stated wartime relationship, not a postwar affiliation inferred from proximity.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "henry-kissinger",
+      "toId": "nixon",
+      "label": "Administration appointment and political alliance",
+      "pages": [
+        327
+      ],
+      "description": "Oglesby describes Nixon bringing Kissinger into government as an example of a president broadening support across his factional model. The appointment relationship is distinct from the author’s Yankee/Cowboy classifications.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "henry-kissinger",
+      "toId": "national-security-council",
+      "label": "National security leadership context",
+      "pages": [
+        258
+      ],
+      "description": "Oglesby refers to Kissinger’s National Security Council while comparing Haig’s joining it with Butterfield’s temporary military resignation. This is the source’s institutional identification, not evidence of a covert crash-related order.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "william-colby",
+      "toId": "cia",
+      "label": "Executive director/comptroller and later leadership",
+      "pages": [
+        297,
+        312
+      ],
+      "description": "The Baker-report discussion quoted by Oglesby identifies Colby as executive director/comptroller supervising a secret Watergate-related inquiry, and the subsequent text notes his rise to agency leadership. This specifies office and investigation responsibility rather than assuming he directed the burglary.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "harold-george",
+      "toId": "hughes-aircraft",
+      "label": "Management leader and subsequent resignation",
+      "pages": [
+        200,
+        201,
+        202
+      ],
+      "description": "Oglesby names former Air Transport Command chief General Harold George as a Hughes Aircraft manager alongside Ramo and Wooldridge and recounts his resignation in the dispute with Hughes. The existing Quigley profile gives a different middle initial; career and institutional context support the same identity, but that discrepancy is flagged.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "hughes-aircraft",
+      "toId": "us-air-force",
+      "label": "Contracting authority intervenes in management crisis",
+      "pages": [
+        201,
+        202
+      ],
+      "description": "Oglesby describes Hughes Aircraft management threatening to complain to the Air Force over credit restrictions and Secretary Talbott intervening to protect Air Force contracts. This procurement and intervention connection is distinct from generic Pentagon dependence.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "chester-davis",
+      "toId": "intertel",
+      "label": "Commands agents during the Nevada takeover",
+      "pages": [
+        234
+      ],
+      "description": "Oglesby explicitly describes Davis commanding Intertel agents to take control of cashiers’ cages during the Hughes Nevada takeover. The source’s wider abduction and coup interpretations remain distinct from the reported security deployment.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "intertel",
+      "toId": "hughes-tool",
+      "label": "Security deployment for the board-side takeover",
+      "pages": [
+        233,
+        234
+      ],
+      "description": "Oglesby places Intertel agents under Davis’s command as Toolco took over Hughes’s Nevada operations. This adds the particular corporate-client deployment beyond the general ownership relationship with Resorts International.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "robert-bennett",
+      "toId": "cia",
+      "label": "Case-officer reporting and shared attorney fees",
+      "pages": [
+        298
+      ],
+      "description": "Oglesby quotes the Baker report describing Bennett’s report to his CIA case officer and the agency’s acknowledgment of paying half of his grand-jury attorney fee. This documents the cited contact and payment claim without treating every allegation of prior Watergate knowledge as proved.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "robert-bennett",
+      "toId": "richard-helms",
+      "label": "Sensitive report transmitted through CIA case officer",
+      "pages": [
+        298
+      ],
+      "description": "Oglesby’s quoted Baker-report passage says the case officer’s account of Bennett’s Watergate information was carried to Helms on or before July 14,1972. The edge is a reported information channel, not proof Bennett and Helms jointly designed the burglary.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "james-mccord",
+      "toId": "mitchell",
+      "label": "Personal and family security entrusted to McCord",
+      "pages": [
+        306,
+        328
+      ],
+      "description": "Oglesby cites the Sunday Times team reporting that Mitchell entrusted his and his family’s security to McCord. This is an explicit client/protection relation; the author’s additional double-agent hypothesis remains contested.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "paul-gaynor",
+      "toId": "cia",
+      "label": "Security Research Staff investigation role",
+      "pages": [
+        296,
+        297
+      ],
+      "description": "Oglesby’s Baker-report discussion identifies Gaynor with the CIA Security Research Staff’s internal Watergate work and mentions his later retirement. This specific investigative role supplements the existing basic agency affiliation.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "clark-clifford",
+      "toId": "jimmy-carter",
+      "label": "Inner-adviser circle reported",
+      "pages": [
+        326,
+        327
+      ],
+      "description": "Oglesby lists Clifford among the Trilateral figures in Carter’s innermost adviser circle. The advisory association is source-reported and does not establish corporate ownership of the presidency.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "george-ball",
+      "toId": "jimmy-carter",
+      "label": "Inner-adviser circle reported",
+      "pages": [
+        326,
+        327
+      ],
+      "description": "Oglesby lists Ball among the additional Trilateral figures in Carter’s inner adviser circle. The book’s larger establishment-control explanation remains interpretive.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "hughes",
+      "toId": "nixon",
+      "label": "1957 loan and regulatory-benefit interpretation",
+      "pages": [
+        204
+      ],
+      "description": "Oglesby describes the 205,000-dollar loan benefiting Nixon’s brother Donald and enumerates favorable regulatory decisions for Hughes interests. The author presents a reciprocal-benefit explanation; the edge preserves that interpretation rather than asserting a proved bribe.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "hughes",
+      "toId": "twa",
+      "label": "Acquisition and large shareholding",
+      "pages": [
+        205
+      ],
+      "description": "Oglesby describes Hughes acquiring predecessor airlines in 1939, combining them into TWA and controlling 70 percent of its stock. This adds the explicit ownership and formation role to the earlier generic association; it does not settle the later dispute over management control.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "chemical-bank",
+      "toId": "general-dynamics",
+      "label": "Conditional ownership comparison",
+      "pages": [
+        355
+      ],
+      "description": "Oglesby writes that Chemical Bank and Morgan Guarantee Trust may own General Dynamics while most major plants lie in the Sunbelt. Conditional wording is preserved; no precise ownership percentage or independently verified holding is supplied.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "first-national-bank-boston",
+      "toId": "lockheed",
+      "label": "Conditional ownership comparison",
+      "pages": [
+        355
+      ],
+      "description": "Oglesby writes that First National Bank of Boston and Girard Trust may own Lockheed while its plants lie in California, Texas and Georgia. This is the source’s conditional financial-geography comparison, not a verified controlling-shareholder finding.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "girard-trust",
+      "toId": "lockheed",
+      "label": "Conditional ownership comparison",
+      "pages": [
+        355
+      ],
+      "description": "Oglesby names Girard Trust in the conditional Lockheed ownership comparison. The institution is distinct from New York’s Guaranty Trust, and the source supplies no shareholding percentage.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "henry-cabot-lodge-jr",
+      "toId": "nixon",
+      "label": "1960 presidential running mate",
+      "pages": [
+        170
+      ],
+      "description": "Oglesby explicitly describes the Massachusetts Lodge as Nixon’s running mate in 1960. This is the younger diplomat, not the earlier senator who advocated Cuban intervention before 1898.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "walter-lippmann",
+      "toId": "round-table",
+      "label": "American participant identified in the source",
+      "pages": [
+        40,
+        199
+      ],
+      "description": "Oglesby’s Quigley-based account lists Walter Lippmann in the American Round Table group and later calls him a secret Round Table member while recounting his criticism of Republican foreign policy. This is a source-reported roster claim, not an independently authenticated membership register.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "carnegie-uk-trust",
+      "toId": "round-table",
+      "label": "Financial contributions attributed through Quigley",
+      "pages": [
+        40
+      ],
+      "description": "Oglesby, quoting Quigley’s account, names Carnegie United Kingdom Trust among substantial contributors to the Round Table network from 1925 onward. The institutional funding claim is distinguished from personal membership and remains attributed to the cited source.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "gordon-liddy",
+      "toId": "fbi",
+      "label": "Former bureau service",
+      "pages": [
+        287
+      ],
+      "description": "Oglesby explicitly describes Liddy as formerly of the FBI while contrasting the Watergate participants’ backgrounds. Former employment is distinct from the contested claim that the agency directed either the burglary or the arrests.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "gehlen-organization",
+      "toId": "nato",
+      "label": "Alliance intelligence organization in Oglesby’s account",
+      "pages": [
+        57
+      ],
+      "description": "Oglesby claims the Gehlen organization became NATO’s official intelligence organization soon after the alliance formed. The institutional claim remains attributed and is not an independently verified monopoly over every NATO intelligence function.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "hughes-aircraft",
+      "toId": "twa",
+      "label": "Proposed loan from aircraft-company funds",
+      "pages": [
+        204
+      ],
+      "description": "Oglesby describes a government reversal allowing a 5-million-dollar Hughes loan to TWA from Hughes Aircraft funds. This records the approved financing proposal in the source’s regulatory-benefit account, without asserting that the loan was fully executed or proving the author’s broader quid-pro-quo theory.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "fbi",
+      "toId": "faa",
+      "label": "Crash-investigation tape assessment and agency notification",
+      "pages": [
+        254,
+        255
+      ],
+      "description": "In the Ruckelshaus letter quoted by Oglesby, FAA tower personnel invited an FBI agent to listen to crash-related tapes and agreed with his identification of the stall-warning sound, notifying FAA headquarters. The institutional exchange is distinct from the author’s later tape-tampering speculation.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "lyndon-johnson",
+      "toId": "joint-chiefs",
+      "label": "Vietnam bombing plans and presidential orders",
+      "pages": [
+        93
+      ],
+      "description": "Oglesby describes Johnson signing marching orders reflecting detailed JCS plans for bombing the North before the public escalation in 1965. This is the author’s account of planning and authorization, distinct from his separate theory about elite motives.",
+      "evidence": "author-interpretation"
+    },
+    {
+      "fromId": "jfk",
+      "toId": "democratic-party",
+      "label": "Democratic presidential coalition in1960",
+      "pages": [
+        170
+      ],
+      "description": "Oglesby explicitly places Kennedy’s 1960 coalition with Johnson within the Democratic Party. The electoral party relationship is distinct from the author’s Yankee/Cowboy model and theories about later violence.",
+      "evidence": "source-reported"
+    },
+    {
+      "fromId": "lyndon-johnson",
+      "toId": "democratic-party",
+      "label": "Democratic coalition partner",
+      "pages": [
+        170
+      ],
+      "description": "Oglesby describes Johnson as Kennedy’s 1960 coalition partner associated with the party’s right-wing elements. This records the stated party and electoral context without presenting an informal faction as a formal organization.",
+      "evidence": "source-reported"
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "miles-copeland",
+      "description": "Oglesby introduces Miles Copeland as a retired CIA official and analyzes his 1973 National Review argument for community surveillance. The later Watergate chapter contrasts Copeland’s claim that McCord trapped the burglars with agency testimony denying prior knowledge or a trap; neither claim is treated as established solely because Copeland once served in the CIA.",
+      "pages": [
+        31,
+        32,
+        33,
+        34,
+        300
+      ]
+    },
+    {
+      "id": "edward-lansdale",
+      "description": "Oglesby cites Prouty in identifying Edward Lansdale as a CIA-connected figure whose Vietnam policy role is contrasted with Ellsberg’s account. The text also says Ellsberg worked for Lansdale in Vietnam; the larger Secret Team theory remains Prouty’s and Oglesby’s interpretation.",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "id": "david-lilienthal",
+      "description": "Oglesby identifies Lilienthal as Atomic Energy Commission chairman during the controversy after the Soviet atomic explosion. He recounts an accusation about sharing secrets with Britain, Lilienthal’s opposition to military domination of foreign policy and his resignation; the espionage-related allegation remains an accusation.",
+      "pages": [
+        198
+      ]
+    },
+    {
+      "id": "harry-truman",
+      "description": "Oglesby places Truman’s announcement of the Soviet atomic explosion and decision to proceed with hydrogen-bomb development in the emerging struggle over nuclear strategy. The account says the thermonuclear order went against AEC advice and gives February 1,1950, a date differing from the January 31 passage in Quigley.",
+      "pages": [
+        198
+      ]
+    },
+    {
+      "id": "adolf-hitler",
+      "description": "In Oglesby’s narrative Hitler is the wartime political superior of Gehlen’s Soviet-intelligence apparatus. The book recounts his rejection of Gehlen’s proposal to appoint Vlassov to a projected government and Gehlen’s later effort to bargain with the Americans as Nazi Germany collapsed.",
+      "pages": [
+        31,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "id": "benito-mussolini",
+      "description": "Oglesby discusses Mussolini’s violent suppression of the Sicilian Mafia as background to the wartime American restoration of local criminal influence. This is an adversarial historical relationship; the passage does not make Mussolini a member of Lansky’s later American network.",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "id": "henry-kissinger",
+      "description": "Oglesby places Kissinger in Nixon’s administration and treats his inclusion as an example of cross-faction coalition building. Elsewhere the book refers to Kissinger’s National Security Council; speculative claims of covert responsibility are distinguished from those administrative associations.",
+      "pages": [
+        258,
+        327
+      ]
+    },
+    {
+      "id": "william-colby",
+      "description": "Oglesby’s Baker-report discussion identifies Colby as CIA executive director/comptroller during an internal Watergate-related inquiry. The book later notes his rise to agency leadership, while its theory about Nixon using appointments to purge rivals remains an interpretation rather than the definition of Colby’s office.",
+      "pages": [
+        297,
+        312
+      ]
+    },
+    {
+      "id": "harold-george",
+      "description": "Oglesby identifies General Harold George, formerly Air Transport Command chief, as a leader of Hughes Aircraft management. He recounts the struggle over research facilities, credit and owner control, followed by George’s resignation. The passage supplies no middle initial; the existing Quigley record’s initial should not be treated as independently confirmed by this source.",
+      "pages": [
+        200,
+        201,
+        202
+      ]
+    },
+    {
+      "id": "dwight-eisenhower",
+      "description": "Oglesby discusses Eisenhower’s role in the transition from training Cuban guerrillas to planning an invasion. The cited Haynes Johnson account questions how much Eisenhower participated and records Eisenhower’s own insistence that his administration had planned guerrilla training rather than an invasion; that disagreement is preserved.",
+      "pages": [
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "id": "herbert-hoover",
+      "description": "Oglesby recounts Herbert Hoover’sApril 1950 speech advocating removal of Communist states from the United Nations and contrasts it with Walter Lippmann’s criticism. This is the former president, not FBI director J. Edgar Hoover, and a policy proposal does not establish employment or membership in the UN.",
+      "pages": [
+        199
+      ]
+    },
+    {
+      "id": "tom-hayden",
+      "description": "Oglesby mentions Hayden while describing Robert Kennedy’s 1968 coalition extending toward New Politics activists, with the explicit qualification “if not Tom Hayden.” The passage does not establish Hayden joined the campaign or had a formal role in the coalition.",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "id": "eastern-establishment-quigley",
+      "description": "Oglesby quotes Quigley’s distinction between older eastern wealth and new Southwest and Far West wealth, then uses it to develop his own Yankee/Cowboy model. His discussion treats the Eastern Establishment as an informal social and financial network, not an incorporated body with a fixed membership roster.",
+      "pages": [
+        23,
+        25,
+        39
+      ]
+    },
+    {
+      "id": "oglesby",
+      "description": "The author’s biography identifies Oglesby as an early SDS president and an associate of the Assassination Information Bureau, and the body explicitly includes him among AIB members presenting the Zapruder film. His authorship and those stated institutional roles are distinct from the book’s contested theories of elite conflict.",
+      "pages": [
+        108,
+        379
+      ]
+    },
+    {
+      "id": "gerald-ford",
+      "description": "Oglesby discusses Ford’s commission membership and later role as an acceptable presidential successor across competing factions. A late passage also claims Ford was a founding Bilderberg member; that claimed founding status remains attributed to this source rather than independently verified.",
+      "pages": [
+        124,
+        134,
+        330
+      ]
+    },
+    {
+      "id": "walter-lippmann",
+      "pages": [
+        40,
+        199
+      ],
+      "description": "Oglesby’s summary of Quigley lists Lippmann among the American Round Table group and later describes him as a Yankee publicist and secret Round Table member. The book quotes his criticism of Republican anti-Communist rhetoric and opposition to European aid, preserving that political argument separately from the source-reported network affiliation."
+    },
+    {
+      "id": "carnegie-uk-trust",
+      "pages": [
+        40
+      ],
+      "description": "Oglesby’s Quigley-based account names Carnegie United Kingdom Trust among later financial contributors to the Round Table network. This is a specific institutional funding claim, not a statement that every Carnegie organization or trustee shared the same formal membership."
+    },
+    {
+      "id": "nato",
+      "pages": [
+        31,
+        57
+      ],
+      "description": "Oglesby discusses NATO in the postwar intelligence account and claims the Gehlen organization became an official alliance intelligence organization. The claim remains attributed; it does not establish that NATO and the CIA were the same body or that one source monopolized every intelligence service."
+    },
+    {
+      "id": "gordon-liddy",
+      "pages": [
+        240,
+        287,
+        308
+      ],
+      "description": "Oglesby identifies Liddy as a White House operative involved in proposed political burglaries and explicitly notes his earlier FBI service. His operational and funding contacts are separated from the author’s contested explanations of why the Watergate team was arrested."
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "id": "henry-cabot-lodge",
+      "pages": [
+        86,
+        170
+      ],
+      "reason": "These passages concern Henry Cabot Lodge Jr., Nixon’s1960 running mate and Vietnam diplomat, not the existing earlier senator connected with Theodore Roosevelt before1898. A distinct junior identity is supplied."
+    },
+    {
+      "id": "rothschild",
+      "pages": [
+        168
+      ],
+      "reason": "The text names a Rothschild family/financial grouping in a theory it attributes to the John Birch Society; it does not identify the canonical Nathan Mayer Rothschild as a participant or supply an individual role."
+    },
+    {
+      "id": "bailey",
+      "pages": [
+        364
+      ],
+      "reason": "George Bailey appears as a cited author; this is not Abe Bailey."
+    },
+    {
+      "id": "brand",
+      "pages": [
+        108
+      ],
+      "reason": "The occurrence is an ordinary word, not Robert Henry Brand."
+    },
+    {
+      "id": "halifax",
+      "pages": [
+        197
+      ],
+      "reason": "The occurrence is a place/other context, not Edward Frederick Lindley Wood, Lord Halifax."
+    },
+    {
+      "id": "dougal-malcolm",
+      "pages": [
+        70
+      ],
+      "reason": "Malcolm Smith Jr. is an author named in Nixon’s reading anecdote, not Dougal Malcolm."
+    },
+    {
+      "id": "dove",
+      "pages": [
+        92
+      ],
+      "reason": "Dove is political vocabulary here, not John Dove."
+    },
+    {
+      "id": "basil-long",
+      "pages": [
+        19,
+        20,
+        21,
+        25,
+        26,
+        29,
+        30,
+        46,
+        47,
+        51,
+        54,
+        55,
+        57,
+        61,
+        69,
+        73,
+        90,
+        93,
+        94,
+        109,
+        125,
+        128,
+        133,
+        137,
+        150,
+        152,
+        153,
+        155,
+        158,
+        160,
+        184,
+        196,
+        197,
+        200,
+        202,
+        205,
+        207,
+        211,
+        220,
+        221,
+        228,
+        235,
+        238,
+        281,
+        282,
+        285,
+        292,
+        294,
+        299,
+        307,
+        320,
+        330,
+        354,
+        368,
+        375
+      ],
+      "reason": "Long is ordinary prose throughout these matches, not Basil Kellett Long."
+    },
+    {
+      "id": "basil-williams",
+      "pages": [
+        25,
+        298,
+        355
+      ],
+      "reason": "The occurrences name other Williamses, including William Appleman Williams and Edward Bennett Williams, not Basil Williams."
+    },
+    {
+      "id": "florashaw",
+      "pages": [
+        89,
+        122,
+        320,
+        387
+      ],
+      "reason": "Clay Shaw is the New Orleans figure here, not Flora Shaw."
+    },
+    {
+      "id": "beer",
+      "pages": [
+        381
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "anson",
+      "pages": [
+        363
+      ],
+      "reason": "The note cites Robert Sam Anson, not William Anson."
+    },
+    {
+      "id": "edward-cook",
+      "pages": [
+        76,
+        147,
+        261,
+        265,
+        282,
+        312
+      ],
+      "reason": "Cook/Cook County and other surname contexts do not identify Edward Tyas Cook."
+    },
+    {
+      "id": "robert-cecil",
+      "pages": [
+        40,
+        387
+      ],
+      "reason": "Cecil Rhodes’s first name is not evidence of Robert Cecil."
+    },
+    {
+      "id": "lloyd-george",
+      "pages": [
+        9,
+        31,
+        34,
+        35,
+        36,
+        37,
+        38,
+        40,
+        47,
+        50,
+        52,
+        122,
+        153,
+        161,
+        168,
+        179,
+        182,
+        200,
+        201,
+        202,
+        238,
+        259,
+        266,
+        294,
+        300,
+        301,
+        321,
+        327,
+        361,
+        364,
+        375,
+        381,
+        382,
+        383,
+        385,
+        386,
+        387
+      ],
+      "reason": "George matches identify Andrew St. George, Harold George and other named people, not David Lloyd George."
+    },
+    {
+      "id": "joseph-chamberlain",
+      "pages": [
+        44
+      ],
+      "reason": "The Munich discussion concerns Neville Chamberlain, not Joseph Chamberlain."
+    },
+    {
+      "id": "violet-milner",
+      "pages": [
+        40
+      ],
+      "reason": "The source expressly identifies Lord Milner and his trusteeship; this is Alfred Milner, not Violet Milner."
+    },
+    {
+      "id": "edward-cecil",
+      "pages": [
+        40,
+        387
+      ],
+      "reason": "Cecil Rhodes’s first name is not evidence of Edward Cecil."
+    },
+    {
+      "id": "james-allen",
+      "pages": [
+        42,
+        55,
+        57,
+        58,
+        64,
+        72,
+        78,
+        120,
+        124,
+        175,
+        305,
+        333,
+        381,
+        383
+      ],
+      "reason": "Allen generally refers to Allen Dulles or a cited Gary Allen; it does not identify James Allen."
+    },
+    {
+      "id": "arthur-smith",
+      "pages": [
+        50,
+        55,
+        69,
+        70,
+        111,
+        262,
+        263,
+        266,
+        290,
+        322,
+        323,
+        356,
+        357,
+        387
+      ],
+      "reason": "Smith matches include Walter Bedell Smith, R.Harris Smith, Dana Smith and other namesakes; none establishes Arthur Lionel Smith."
+    },
+    {
+      "id": "rushbrook-williams",
+      "pages": [
+        25,
+        298,
+        355
+      ],
+      "reason": "The occurrences name other Williamses, including William Appleman Williams and Edward Bennett Williams, not Laurence Rushbrook Williams."
+    },
+    {
+      "id": "gilbert-murray",
+      "pages": [
+        76,
+        358,
+        388
+      ],
+      "reason": "Murray Zeitlin is a cited Cuba researcher, not Gilbert Murray."
+    },
+    {
+      "id": "hwc-davis",
+      "pages": [
+        208,
+        209,
+        212,
+        213,
+        214,
+        215,
+        224,
+        226,
+        227,
+        228,
+        229,
+        230,
+        233,
+        234,
+        235,
+        237,
+        238,
+        239,
+        353,
+        382
+      ],
+      "reason": "The Hughes lawyer is Chester Davis, not Henry William Carless Davis."
+    },
+    {
+      "id": "john-simon",
+      "pages": [
+        77,
+        200,
+        362,
+        376,
+        386
+      ],
+      "reason": "Simon matches refer to Simon Ramo, Simon Bolivar or publisher Simon and Schuster, not John Simon."
+    },
+    {
+      "id": "wilson-harris",
+      "pages": [
+        69,
+        366,
+        383
+      ],
+      "reason": "R.Harris Smith and publishers/citations do not identify Wilson Harris."
+    },
+    {
+      "id": "ernest-woodward",
+      "pages": [
+        9,
+        299,
+        317,
+        367,
+        376
+      ],
+      "reason": "Woodward here is journalist Bob Woodward, not historian Ernest Llewellyn Woodward."
+    },
+    {
+      "id": "kenneth-bell",
+      "pages": [
+        108,
+        150,
+        182,
+        200,
+        217,
+        234,
+        290,
+        381,
+        384
+      ],
+      "reason": "Bell matches include Bell Herndon, Tom Bell, Bell Labs and ordinary-word usage, not Kenneth Bell."
+    },
+    {
+      "id": "charles-harris",
+      "pages": [
+        69,
+        366,
+        383
+      ],
+      "reason": "R.Harris Smith and publisher/citation contexts do not identify Charles R.S.Harris."
+    },
+    {
+      "id": "edward-carr",
+      "pages": [
+        120,
+        382
+      ],
+      "reason": "The Texas attorney general in the passage is Waggoner Carr, not Edward Hallett Carr."
+    },
+    {
+      "id": "neill-malcolm",
+      "pages": [
+        70
+      ],
+      "reason": "Malcolm Smith Jr. is an author named in Nixon’s reading anecdote, not Neill Malcolm."
+    },
+    {
+      "id": "isaiah-berlin",
+      "pages": [
+        54,
+        55,
+        71
+      ],
+      "reason": "Berlin is a city in the passages, not philosopher Isaiah Berlin."
+    },
+    {
+      "id": "frank-aydelotte",
+      "pages": [
+        381
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "jerome-greene",
+      "pages": [
+        383
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "gn-clark",
+      "pages": [
+        165,
+        179,
+        227,
+        256,
+        264,
+        281,
+        327,
+        382
+      ],
+      "reason": "Clark matches include Clark Clifford, Tom Clark and Michelle Clark, not G.N.Clark."
+    },
+    {
+      "id": "thomas-lamont",
+      "pages": [
+        385
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "rw-leonard",
+      "pages": [
+        327,
+        388
+      ],
+      "reason": "The named contemporary political figure is Leonard Woodcock, not Colonel R.W.Leonard."
+    },
+    {
+      "id": "mohandas-gandhi",
+      "pages": [
+        87,
+        168,
+        383
+      ],
+      "reason": "The source expressly names Indira Gandhi, not Mohandas Gandhi. The bare Gandhi alias is too broad and creates a false full-name/alias match."
+    },
+    {
+      "id": "neville-chamberlain",
+      "pages": [
+        44
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "john-foster",
+      "pages": [
+        366
+      ],
+      "reason": "The cited Foster/name context does not identify John Galway Foster."
+    },
+    {
+      "id": "henry-price",
+      "pages": [
+        42,
+        51,
+        87,
+        88,
+        203,
+        214,
+        216,
+        249,
+        279
+      ],
+      "reason": "Price is ordinary vocabulary in these passages, not Sir Henry Price."
+    },
+    {
+      "id": "austen-chamberlain",
+      "pages": [
+        44
+      ],
+      "reason": "The Munich discussion concerns Neville Chamberlain, not Austen Chamberlain."
+    },
+    {
+      "id": "william-h-jackson",
+      "pages": [
+        125,
+        185,
+        283,
+        369
+      ],
+      "reason": "Matches refer to Jackson institutions and other contexts, not William H.Jackson."
+    },
+    {
+      "id": "irving-brown",
+      "pages": [
+        193,
+        326,
+        359,
+        360,
+        381
+      ],
+      "reason": "Brown matches identify Harold Brown, Shelby Brown or other individuals, not Irving Brown."
+    },
+    {
+      "id": "john-foster-dulles",
+      "pages": [
+        22,
+        55,
+        57,
+        58,
+        65,
+        72,
+        78,
+        120,
+        121,
+        124,
+        305,
+        333,
+        383
+      ],
+      "reason": "Most Dulles passages identify Allen Dulles; the collective “Dulles brothers” reference supplies no distinct new John Foster role. No Allen-only affiliation is assigned to his brother."
+    },
+    {
+      "id": "harold-macmillan",
+      "pages": [
+        39,
+        353,
+        364
+      ],
+      "reason": "Macmillan appears as a publisher in bibliographic references, not Harold Macmillan."
+    },
+    {
+      "id": "arthur-dean",
+      "pages": [
+        13,
+        70,
+        200,
+        245,
+        246,
+        247,
+        248,
+        249,
+        324,
+        327,
+        328,
+        339,
+        364,
+        369,
+        388
+      ],
+      "reason": "Dean matches refer to John Dean or Dean Wooldridge; bibliographic Arthur Dean mention does not supply an affiliation for the canonical Arthur Dean."
+    },
+    {
+      "id": "edward-moss",
+      "pages": [
+        259,
+        386
+      ],
+      "reason": "Moss matches refer to a different named individual or bibliographic context, not Edward K.Moss."
+    },
+    {
+      "id": "ep-barry",
+      "pages": [
+        383
+      ],
+      "reason": "The Barry citation does not identify E.P.Barry or establish an institutional relation."
+    },
+    {
+      "id": "j-p-morgan",
+      "pages": [
+        39,
+        40,
+        82,
+        126,
+        168,
+        206,
+        227,
+        233,
+        234,
+        355,
+        385
+      ],
+      "reason": "Morgan passages generally identify the banking firm/family, Edward P.Morgan or Morgan Guarantee Trust; no unambiguous new personal role is supplied for John Pierpont Morgan."
+    },
+    {
+      "id": "william-rockefeller",
+      "pages": [
+        21,
+        39,
+        40,
+        46,
+        82,
+        191,
+        195,
+        206,
+        207,
+        212,
+        325,
+        326,
+        327,
+        358,
+        387
+      ],
+      "reason": "Rockefeller occurrences identify David or Nelson Rockefeller or the family/network generally, not William Rockefeller."
+    },
+    {
+      "id": "william-c-whitney",
+      "pages": [
+        40,
+        387
+      ],
+      "reason": "A Whitney family/network reference is not sufficient to identify William C.Whitney personally."
+    },
+    {
+      "id": "grover-cleveland",
+      "pages": [
+        51,
+        131
+      ],
+      "reason": "Cleveland is the city and its criminal network, not former president Grover Cleveland."
+    },
+    {
+      "id": "theodore-roosevelt",
+      "pages": [
+        18,
+        22,
+        45,
+        46,
+        47,
+        48,
+        49,
+        52,
+        53,
+        192,
+        193,
+        387
+      ],
+      "reason": "Roosevelt in wartime passages is Franklin Roosevelt or his son Elliott; the bare surname cannot attach those roles to Theodore Roosevelt."
+    },
+    {
+      "id": "henry-cabot-lodge",
+      "pages": [
+        86,
+        170,
+        245,
+        385
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "william-randolph-hearst",
+      "pages": [
+        365,
+        384
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "john-w-davis",
+      "pages": [
+        208,
+        209,
+        212,
+        213,
+        214,
+        215,
+        224,
+        226,
+        227,
+        228,
+        229,
+        230,
+        233,
+        234,
+        235,
+        237,
+        238,
+        239,
+        353,
+        382
+      ],
+      "reason": "The Hughes lawyer is Chester Davis, not John W.Davis."
+    },
+    {
+      "id": "frederick-e-smith",
+      "pages": [
+        50,
+        55,
+        69,
+        70,
+        111,
+        262,
+        263,
+        266,
+        290,
+        322,
+        323,
+        356,
+        357,
+        387
+      ],
+      "reason": "Smith matches identify other individuals rather than Frederick E.Smith."
+    },
+    {
+      "id": "owen-young",
+      "pages": [
+        20,
+        37,
+        196,
+        294,
+        326,
+        328,
+        388
+      ],
+      "reason": "Young is ordinary prose or identifies Andrew Young/David Young, not Owen D.Young."
+    },
+    {
+      "id": "montagu-norman",
+      "pages": [
+        1,
+        5,
+        50,
+        387
+      ],
+      "reason": "Norman Mailer and Norman Rothman are named here, not Montagu Norman."
+    },
+    {
+      "id": "benjamin-strong",
+      "pages": [
+        25,
+        53,
+        80,
+        82,
+        92,
+        112,
+        114,
+        163,
+        181,
+        217,
+        221,
+        299,
+        320
+      ],
+      "reason": "Strong is an ordinary adjective throughout these matches, not Benjamin Strong."
+    },
+    {
+      "id": "andrew-mellon",
+      "pages": [
+        82
+      ],
+      "reason": "The text names a Mellon family/financial grouping without identifying Andrew Mellon or an individual role."
+    },
+    {
+      "id": "stanley-baldwin",
+      "pages": [
+        291,
+        292,
+        310,
+        381
+      ],
+      "reason": "The Watergate figure is Alfred Baldwin, not Stanley Baldwin."
+    },
+    {
+      "id": "john-l-lewis",
+      "pages": [
+        130,
+        143,
+        304,
+        385
+      ],
+      "reason": "Lewis occurrences identify Lewis McWillie, journalist Lewis Chester or other contexts, not union leader John L.Lewis."
+    },
+    {
+      "id": "joseph-stalin",
+      "pages": [
+        54,
+        124
+      ],
+      "reason": "The passages mention Stalin historically and factions identifying with him; they do not establish a new direct affiliation with the mapped participants."
+    },
+    {
+      "id": "george-marshall",
+      "pages": [
+        327,
+        387
+      ],
+      "reason": "The named adviser is Marshall Shulman, not George C.Marshall."
+    },
+    {
+      "id": "dean-acheson",
+      "pages": [
+        364
+      ],
+      "reason": "A bibliographic Acheson mention does not establish a new body-text affiliation."
+    },
+    {
+      "id": "lucius-clay",
+      "pages": [
+        89,
+        122,
+        320,
+        368,
+        387
+      ],
+      "reason": "Clay Shaw is the named person here, not General Lucius Clay."
+    },
+    {
+      "id": "nikita-khrushchev",
+      "pages": [
+        91,
+        305,
+        360,
+        384
+      ],
+      "reason": "The full-name match is a citation to Khrushchev’s memoir, and body references concern diplomatic/power context. No new specific affiliation with an existing counterpart is supplied."
+    },
+    {
+      "id": "jacobo-arbenz",
+      "pages": [
+        381
+      ],
+      "reason": "The lead is an index reference; the source-wide pass does not turn an index listing into a new affiliation."
+    },
+    {
+      "id": "round-table-journal",
+      "pages": [
+        30,
+        39,
+        40,
+        42,
+        43,
+        58,
+        82,
+        325
+      ],
+      "reason": "Round Table matches here denote the movement/network, not demonstrated employment or institutional affiliation with the journal as a distinct publication."
+    },
+    {
+      "id": "the-state",
+      "pages": [
+        34,
+        50,
+        53,
+        70,
+        72,
+        75,
+        85,
+        121,
+        123,
+        143,
+        170,
+        171,
+        217,
+        268,
+        269,
+        313,
+        336,
+        337,
+        338,
+        378
+      ],
+      "reason": "The State matches are ordinary political vocabulary or the State Department, not the South African journal The State."
+    },
+    {
+      "id": "times",
+      "pages": [
+        252,
+        270,
+        306
+      ],
+      "reason": "The Times matches are ordinary vocabulary or New York Times/Sunday Times references, not established relations involving the London newspaper The Times."
+    },
+    {
+      "id": "inquiry",
+      "pages": [
+        276
+      ],
+      "reason": "Inquiry is an ordinary investigation word in the crash passage, not the1917 policy organization The Inquiry."
+    },
+    {
+      "id": "agenda",
+      "pages": [
+        339
+      ],
+      "reason": "Agenda is an ordinary noun, not the journal Agenda."
+    },
+    {
+      "id": "nsa",
+      "pages": [
+        83,
+        85
+      ],
+      "reason": "The source calls NSAM55/57/273 “National Security Agency” memoranda, but these are presidential National Security Action Memoranda; this naming error does not establish NSA authorship or control."
+    },
+    {
+      "id": "afl",
+      "pages": [
+        143
+      ],
+      "reason": "Ruby’s recollection calls a Texas labor figure AFL before the author identifies Dusty Miller with the Teamsters Southern Conference. Do not encode that uncertain recollection as an AFL patronage relation."
+    },
+    {
+      "id": "united-nations",
+      "pages": [
+        199
+      ],
+      "reason": "The source-wide lead did not supply a new unambiguous institutional role or transaction beyond already represented source relationships. Index/name mentions and surname coincidence are insufficient to infer affiliation."
+    },
+    {
+      "id": "william-o-douglas",
+      "pages": [
+        240,
+        280
+      ],
+      "reason": "These leads name Douglas Caddy or other Douglas contexts, not Supreme Court Justice William O.Douglas."
+    },
+    {
+      "id": "co-miller",
+      "pages": [
+        143
+      ],
+      "reason": "The labor figure is Dusty Miller, not Bureau of Aviation Safety director C.O.Miller."
+    },
+    {
+      "id": "michael-blumenthal",
+      "pages": [
+        365
+      ],
+      "reason": "The cited editor is Sid Blumenthal, not Treasury secretary W.Michael Blumenthal."
+    },
+    {
+      "id": "maxwell-taylor",
+      "pages": [
+        298
+      ],
+      "reason": "Hobart Taylor is the attorney in the CIA/Bennett report; this is not General Maxwell Taylor."
+    },
+    {
+      "id": "larry-obrien",
+      "pages": [
+        328
+      ],
+      "reason": "The named person is Paul O’Brien, not Larry O’Brien."
+    },
+    {
+      "id": "benito-mussolini",
+      "pages": [
+        47
+      ],
+      "reason": "The source describes suppression of the Sicilian Mafia, not a direct institutional relation with the American Lansky Syndicate grouping. A descriptive source account is supplied without conflating those networks."
+    },
+    {
+      "id": "willard-straight",
+      "pages": [
+        53,
+        106,
+        108,
+        115,
+        151,
+        193,
+        240,
+        256,
+        336,
+        348
+      ],
+      "reason": "Every candidate uses straight as ordinary descriptive prose, including straight line, straight face, straight shooting and straight flight; none identifies Willard Straight."
+    },
+    {
+      "id": "michael-straight",
+      "pages": [
+        53,
+        106,
+        108,
+        115,
+        151,
+        193,
+        240,
+        256,
+        336,
+        348
+      ],
+      "reason": "Every candidate uses straight as ordinary descriptive prose; none identifies Michael Straight."
+    },
+    {
+      "id": "dorothy-payne-whitney",
+      "pages": [
+        40,
+        387
+      ],
+      "reason": "PDF p40 names Whitney Shepardson and the Whitney family generally; p387 indexes Shepardson. Neither identifies Dorothy Payne Whitney or specifies her personal contribution."
+    },
+    {
+      "id": "corliss-lamont",
+      "pages": [
+        40,
+        385
+      ],
+      "reason": "PDF p40 explicitly names Thomas W.Lamont and p385 indexes Thomas W.Lamont. These are not Corliss Lamont."
+    },
+    {
+      "id": "frederick-vanderbilt-field",
+      "pages": [
+        55,
+        86,
+        99,
+        119,
+        178,
+        217,
+        222,
+        231,
+        255,
+        259,
+        269,
+        295,
+        304,
+        307
+      ],
+      "reason": "Candidates use field as ordinary vocabulary, name Love Field/McCarran Field airfields, refer to the Fielding burglary or Senator Mansfield. None identifies Frederick Vanderbilt Field."
+    },
+    {
+      "id": "ctia",
+      "pages": [
+        13,
+        18,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        38,
+        48,
+        49,
+        57,
+        64,
+        67,
+        68,
+        69,
+        70,
+        72,
+        73,
+        74,
+        76,
+        77,
+        78,
+        79,
+        82,
+        83,
+        89,
+        95,
+        114,
+        117,
+        119,
+        120,
+        121,
+        122,
+        123,
+        131,
+        160,
+        164,
+        166,
+        167,
+        168,
+        169,
+        171,
+        172,
+        175,
+        176,
+        189,
+        219,
+        224,
+        232,
+        237,
+        238,
+        239,
+        240,
+        241,
+        250,
+        257,
+        262,
+        282,
+        284,
+        285,
+        286,
+        287,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        305,
+        306,
+        307,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        321,
+        324,
+        326,
+        328,
+        329,
+        336,
+        339,
+        340,
+        357,
+        361,
+        364,
+        377
+      ],
+      "reason": "The generated acronym CIA is wrong for Committee to Investigate Assassinations, whose actual source acronym is CTIA. All CIA-only leads are rejected as a group; they identify the intelligence agency, not this assassination-research committee. Existing CTIA evidence at pp320–323 remains unchanged."
+    },
+    {
+      "id": "federation-british-industries",
+      "pages": [
+        18,
+        32,
+        33,
+        37,
+        38,
+        50,
+        63,
+        82,
+        89,
+        90,
+        102,
+        104,
+        106,
+        111,
+        113,
+        114,
+        115,
+        120,
+        121,
+        123,
+        124,
+        128,
+        129,
+        131,
+        132,
+        134,
+        144,
+        150,
+        162,
+        166,
+        167,
+        169,
+        171,
+        172,
+        176,
+        183,
+        217,
+        220,
+        223,
+        224,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        260,
+        265,
+        266,
+        269,
+        276,
+        277,
+        279,
+        280,
+        281,
+        287,
+        292,
+        294,
+        296,
+        299,
+        301,
+        302,
+        303,
+        309,
+        313,
+        318,
+        319,
+        323,
+        336,
+        340,
+        351,
+        361,
+        364,
+        383
+      ],
+      "reason": "The abbreviation FBI here consistently denotes the Federal Bureau of Investigation in American policing and intelligence contexts, not the Federation of British Industries. The same letter sequence does not support a British industrial affiliation."
+    },
+    {
+      "id": "afl",
+      "pages": [
+        285
+      ],
+      "reason": "The passage explicitly names AFL-CIO, the later combined labor federation, in Ford’s accusation about opposition to Nixon. It does not supply a new separate American Federation of Labor appointment, transaction or membership relation."
+    },
+    {
+      "id": "cio",
+      "pages": [
+        285
+      ],
+      "reason": "The passage names AFL-CIO in1974, not the earlier Committee for Industrial Organization recorded under this canonical ID. Do not assign a merged federation’s contemporary political activity to an earlier committee solely from the generated acronym."
+    },
+    {
+      "id": "ibm",
+      "pages": [
+        236
+      ],
+      "reason": "IBM is a genuine company reference but serves as the market competitor/benchmark for Hughes Dynamics. The passage gives no transaction, appointment or control relation between IBM and an existing Hughes entity; it does not establish IBM employment of Hughes aides."
+    },
+    {
+      "id": "oas",
+      "pages": [
+        67
+      ],
+      "reason": "The OAS is an intended target of diplomatic influence in the invasion scenario reconstructed by the author. The passage does not establish that OAS sponsored, approved or participated in the operation, so no operational affiliation is inferred."
+    },
+    {
+      "id": "republican-party",
+      "pages": [
+        288
+      ],
+      "reason": "Vesco describes press allegations about a secret cash contribution to the Republican Party, but the text does not identify an existing mapped donor or establish a verified transaction. No donor-party link is invented from that unresolved reference."
+    },
+    {
+      "id": "democratic-party",
+      "pages": [
+        311
+      ],
+      "reason": "The passage explicitly develops a hypothetical Castro-to-McGovern funding story that Nixon could have promoted. It is not evidence that the Democratic Party received Castro money; no such financial edge is added."
+    },
+    {
+      "id": "democratic-party",
+      "pages": [
+        298
+      ],
+      "reason": "The text gives a nonspecific claim that Mullen had ties to the Democratic Party, without defining a role, transaction or patronage relation. The already specific Mullen-CREEP and Mullen-CIA relationships do not justify inventing a bipartisan control mechanism."
+    }
+  ],
+  "newOrganizations": [
+    {
+      "id": "chemical-bank",
+      "name": "Chemical Bank, New York",
+      "description": "Oglesby’s Chapter 1 note names Chemical Bank beside Morgan Guarantee Trust in a conditional comparison about ownership of General Dynamics, contrasting eastern finance with Sunbelt factories. The phrasing does not establish a precise shareholding or director.",
+      "purpose": "Oglesby’s Chapter 1 note names Chemical Bank beside Morgan Guarantee Trust in a conditional comparison about ownership of General Dynamics, contrasting eastern finance with Sunbelt factories. The phrasing does not establish a precise shareholding or director.",
+      "pages": [
+        355
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "first-national-bank-boston",
+      "name": "First National Bank of Boston",
+      "description": "Oglesby names this bank alongside Girard Trust in a conditional comparison about Lockheed ownership and the geographic location of its plants. The source contrasts financial interests with production geography without supplying holding percentages.",
+      "purpose": "Oglesby names this bank alongside Girard Trust in a conditional comparison about Lockheed ownership and the geographic location of its plants. The source contrasts financial interests with production geography without supplying holding percentages.",
+      "pages": [
+        355
+      ],
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "girard-trust",
+      "name": "Girard Trust, Philadelphia",
+      "description": "Oglesby names Girard Trust alongside First National Bank of Boston in a conditional ownership comparison involving Lockheed and Sunbelt plants. It is a named financial institution, not a synonym for Guaranty Trust.",
+      "purpose": "Oglesby names Girard Trust alongside First National Bank of Boston in a conditional ownership comparison involving Lockheed and Sunbelt plants. It is a named financial institution, not a synonym for Guaranty Trust.",
+      "pages": [
+        355
+      ],
+      "founderIds": [],
+      "members": []
+    }
+  ],
+  "summary": "Screened all764 canonical people and organization identities against source-wide name, alias and ambiguous-surname leads across the390-page PDF, including identities without any Yankee account. Reviewed candidate affiliation sentences independently of existing citations and reread selected source passages. Added explicit roles and transactions missed by the previous profile-citation audit; rejected namesakes, publisher/location matches, ordinary-word aliases and co-occurrence without a stated relation. This is a complete candidate-screening pass with targeted body-text verification, not a claim that every page was manually reread or every possible OCR spelling recovered. A follow-up38-identity delta screening added Lippmann’s Round Table association and Carnegie United Kingdom Trust funding while rejecting the Straight, Whitney, Lamont and Field namesake/ordinary-word leads. A final short-form pass examined18 acronym/base-name hypotheses, rejected CTIA→CIA and British-industries→FBI expansions, and added specific Liddy-FBI, Gehlen-NATO, HAC-TWA, FBI-FAA and Johnson-JCS relations.",
+  "coverage": {
+    "pagesReviewed": [
+      20,
+      31,
+      32,
+      33,
+      34,
+      36,
+      37,
+      39,
+      40,
+      44,
+      47,
+      48,
+      50,
+      51,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      64,
+      67,
+      68,
+      69,
+      70,
+      73,
+      74,
+      78,
+      79,
+      80,
+      82,
+      86,
+      87,
+      89,
+      93,
+      96,
+      99,
+      106,
+      108,
+      115,
+      117,
+      118,
+      119,
+      120,
+      122,
+      125,
+      126,
+      127,
+      136,
+      140,
+      143,
+      151,
+      160,
+      161,
+      165,
+      168,
+      170,
+      171,
+      174,
+      175,
+      178,
+      179,
+      190,
+      192,
+      193,
+      194,
+      195,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      217,
+      218,
+      219,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      230,
+      231,
+      233,
+      234,
+      235,
+      236,
+      238,
+      239,
+      240,
+      241,
+      242,
+      245,
+      246,
+      248,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      261,
+      265,
+      267,
+      269,
+      271,
+      274,
+      276,
+      277,
+      285,
+      287,
+      288,
+      291,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      304,
+      305,
+      306,
+      307,
+      309,
+      310,
+      311,
+      312,
+      315,
+      316,
+      318,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      336,
+      348,
+      353,
+      355,
+      358,
+      360,
+      364,
+      365,
+      372,
+      379,
+      385,
+      387
+    ],
+    "excerptPagesReviewed": [
+      20,
+      31,
+      36,
+      37,
+      40,
+      44,
+      48,
+      50,
+      51,
+      53,
+      55,
+      58,
+      64,
+      69,
+      70,
+      73,
+      74,
+      78,
+      79,
+      80,
+      86,
+      87,
+      89,
+      96,
+      99,
+      106,
+      108,
+      115,
+      117,
+      119,
+      120,
+      122,
+      125,
+      126,
+      127,
+      136,
+      140,
+      143,
+      151,
+      160,
+      161,
+      165,
+      168,
+      171,
+      174,
+      175,
+      178,
+      190,
+      192,
+      193,
+      194,
+      195,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      209,
+      211,
+      213,
+      215,
+      217,
+      218,
+      219,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      230,
+      231,
+      233,
+      234,
+      235,
+      238,
+      239,
+      240,
+      242,
+      246,
+      248,
+      254,
+      255,
+      256,
+      258,
+      259,
+      267,
+      269,
+      276,
+      291,
+      295,
+      297,
+      298,
+      300,
+      301,
+      304,
+      305,
+      307,
+      309,
+      311,
+      312,
+      316,
+      318,
+      322,
+      323,
+      324,
+      325,
+      326,
+      328,
+      329,
+      330,
+      336,
+      348,
+      355,
+      358,
+      360,
+      364,
+      372,
+      379,
+      385,
+      387
+    ],
+    "limits": "All390 pages received automated name/alias and ambiguous-surname screening. All764 identity inventories and their candidate-page lists were screened.The initial pass reviewed explicit-affiliation sentences on106 pages, followed by candidate-context review for the38-identity delta; selected passages were read in fuller context. Notes and index mentions were separated from evidentiary body passages. Common surname leads remain ambiguous until a first name, role or institution identifies the individual. OCR, line breaks, incomplete corporate aliases and synonymous institution names can leave undetected passages; this pass does not certify exhaustive extraction of every affiliation in the book. The NSA/NSAM naming error and the Harold George middle-initial discrepancy are flagged rather than silently normalized. Context-page review includes broader body passages around the candidate, not an assertion that every sentence on each listed page was reread. The final short-form pass source-resolved18 identities and406 generated page leads; grouped false acronyms were rejected without treating their pages as manually reread.",
+    "contextPagesReviewed": [
+      20,
+      31,
+      32,
+      33,
+      34,
+      39,
+      40,
+      44,
+      47,
+      54,
+      55,
+      56,
+      57,
+      64,
+      67,
+      68,
+      69,
+      74,
+      82,
+      87,
+      93,
+      108,
+      118,
+      122,
+      170,
+      179,
+      193,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      218,
+      219,
+      221,
+      223,
+      225,
+      234,
+      235,
+      236,
+      241,
+      242,
+      245,
+      246,
+      254,
+      255,
+      257,
+      258,
+      261,
+      265,
+      271,
+      274,
+      277,
+      285,
+      287,
+      288,
+      296,
+      297,
+      298,
+      299,
+      300,
+      306,
+      307,
+      310,
+      311,
+      312,
+      315,
+      316,
+      318,
+      327,
+      328,
+      329,
+      330,
+      331,
+      353,
+      355,
+      360,
+      365,
+      379
+    ],
+    "deltaScreenedIds": [
+      "robert-kindersley",
+      "goschen-second",
+      "lord-mcgowan",
+      "willard-straight",
+      "dorothy-payne-whitney",
+      "michael-straight",
+      "walter-lippmann",
+      "corliss-lamont",
+      "frederick-vanderbilt-field",
+      "owen-lattimore",
+      "philip-jessup",
+      "henry-cabot-lodge-jr",
+      "league-nations-union",
+      "baring-brothers",
+      "barclays-bank",
+      "hambros-bank",
+      "westminster-bank",
+      "standard-bank-south-africa",
+      "imperial-ottoman-bank",
+      "british-north-borneo-company",
+      "rio-tinto",
+      "un-war-crimes-commission",
+      "national-committee-free-europe",
+      "m-fund",
+      "exxon-standard-new-jersey",
+      "mobil-standard-new-york",
+      "standard-oil-california",
+      "gulf-oil",
+      "texaco",
+      "royal-dutch-shell",
+      "harvard-university",
+      "institute-advanced-study",
+      "carnegie-uk-trust",
+      "london-joint-stock-bank",
+      "new-york-post",
+      "chemical-bank",
+      "first-national-bank-boston",
+      "girard-trust"
+    ],
+    "shortFormScreening": {
+      "reviewedIds": [
+        "fbi",
+        "cia",
+        "afl",
+        "joint-chiefs",
+        "sds",
+        "hughes-aircraft",
+        "twa",
+        "ntsb",
+        "faa",
+        "ctia",
+        "dnc",
+        "republican-party",
+        "democratic-party",
+        "federation-british-industries",
+        "cio",
+        "nato",
+        "ibm",
+        "oas"
+      ],
+      "pageLeadsScreened": 406,
+      "groupRejectedIds": [
+        "ctia",
+        "federation-british-industries"
+      ],
+      "actualAcronyms": {
+        "FBI": "fbi",
+        "CIA": "cia",
+        "JCS": "joint-chiefs",
+        "SDS": "sds",
+        "HAC": "hughes-aircraft",
+        "TWA": "twa",
+        "NTSB": "ntsb",
+        "FAA": "faa",
+        "DNC": "dnc",
+        "NATO": "nato",
+        "OAS": "oas"
+      },
+      "limits": "Generated acronym hypotheses were source-resolved first. The wrong CTIA→CIA and British-industries→FBI expansions were rejected as whole classes, without pretending to reread every CIA or FBI page. Valid recurring acronym leads were checked against existing source context and explicit-role passages. Newly reread body passages are recorded separately from all mechanically screened page leads."
+    },
+    "shortFormContextPagesReviewed": [
+      57,
+      67,
+      93,
+      203,
+      204,
+      236,
+      254,
+      255,
+      261,
+      265,
+      271,
+      274,
+      277,
+      285,
+      287,
+      288,
+      298,
+      307,
+      311,
+      353,
+      170
+    ]
+  },
+  "newPeople": [
+    {
+      "id": "henry-cabot-lodge-jr",
+      "name": "Henry Cabot Lodge Jr.",
+      "role": "Diplomat and 1960 vice-presidential candidate",
+      "description": "Oglesby identifies the Massachusetts Henry Cabot Lodge as Nixon’s 1960 running mate and discusses Lodge in the Vietnam-policy chronology. This is the grandson of the earlier senator in Quigley’s 1898 intervention account; the two identities are kept separate.",
+      "pages": [
+        86,
+        170
+      ]
+    }
+  ]
+}

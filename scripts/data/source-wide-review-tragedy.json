@@ -1,0 +1,3529 @@
+{
+  "sourceId": "tragedy",
+  "reviewedIds": [
+    "nixon",
+    "mitchell",
+    "hughes",
+    "maheu",
+    "hoover",
+    "jfk",
+    "quigley",
+    "rhodes",
+    "milner",
+    "stead",
+    "esher",
+    "salisbury",
+    "balfour",
+    "goschen",
+    "arnold-toynbee",
+    "arnold-j-toynbee",
+    "george-parkin",
+    "gell",
+    "brassey",
+    "albert-grey",
+    "edward-grey",
+    "rosebery",
+    "rothschild",
+    "beit",
+    "bailey",
+    "jameson",
+    "smuts",
+    "selborne",
+    "duncan",
+    "brand",
+    "kerr",
+    "curtis",
+    "dawson",
+    "amery",
+    "grigg",
+    "fisher",
+    "halifax",
+    "waldorf-astor",
+    "nancy-astor",
+    "john-jacob-astor",
+    "hichens",
+    "feetham",
+    "dougal-malcolm",
+    "dove",
+    "basil-long",
+    "basil-williams",
+    "meston",
+    "marris",
+    "coupland",
+    "zimmern",
+    "hankey",
+    "florashaw",
+    "lugard",
+    "george-buckle",
+    "northcliffe",
+    "monypenny",
+    "chilrol",
+    "fiddes",
+    "walrond",
+    "buchan",
+    "holland",
+    "arthur-glazebrook",
+    "george-glazebrook",
+    "massey",
+    "corbett",
+    "beer",
+    "anson",
+    "michael-glazebrook",
+    "raleigh",
+    "barnett",
+    "hugh-wyndham",
+    "edward-cook",
+    "harry-johnston",
+    "hawksley",
+    "garrett",
+    "robert-cecil",
+    "asquith",
+    "lloyd-george",
+    "joseph-chamberlain",
+    "curzon",
+    "violet-milner",
+    "edward-cecil",
+    "maguire",
+    "michell",
+    "egerton",
+    "jowett",
+    "ruskin",
+    "james-allen",
+    "downie-stewart",
+    "henry-birchenough",
+    "arthur-smith",
+    "alfred-lyttelton",
+    "malcolm-hailey",
+    "rushbrook-williams",
+    "hv-hodson",
+    "harlow",
+    "fabian-ware",
+    "gilbert-murray",
+    "headlam-morley",
+    "chelmsford",
+    "arthur-salter",
+    "steel-maitland",
+    "ormsby-gore",
+    "edith-lyttelton",
+    "hwc-davis",
+    "john-simon",
+    "samuel-hoare",
+    "wilson-harris",
+    "francis-clarke",
+    "wgs-adams",
+    "wk-hancock",
+    "ernest-woodward",
+    "harold-butler",
+    "kenneth-bell",
+    "donald-somervell",
+    "maurice-gwyer",
+    "charles-harris",
+    "edward-peacock",
+    "cyril-radcliffe",
+    "john-wheeler-bennett",
+    "robert-stopford",
+    "barrington-ward",
+    "kenneth-wheare",
+    "edward-carr",
+    "malcolm-macdonald",
+    "godfrey-elton",
+    "neill-malcolm",
+    "willingdon",
+    "isaiah-berlin",
+    "roger-makins",
+    "arthur-willert",
+    "ivison-macadam",
+    "joseph-flavelle",
+    "frank-aydelotte",
+    "jerome-greene",
+    "clarence-streit",
+    "james-rose-innes",
+    "thomas-bavin",
+    "fw-eggleston",
+    "dudley-braham",
+    "arthur-atkinson",
+    "helmuth-moltke",
+    "adam-trott",
+    "gathorne-hardy",
+    "sarvepalli-radhakrishnan",
+    "edwin-montagu",
+    "adam-marris",
+    "gn-clark",
+    "douglas-jay",
+    "tasker-bliss",
+    "harold-temperley",
+    "thomas-lamont",
+    "rw-leonard",
+    "daniel-stevenson",
+    "robert-borden",
+    "allen-dulles",
+    "john-hope-simpson",
+    "anthony-eden",
+    "william-duke",
+    "malcolm-seton",
+    "mohandas-gandhi",
+    "winston-churchill",
+    "adolf-hitler",
+    "neville-chamberlain",
+    "john-foster",
+    "oliver-lyttelton",
+    "selborne-third",
+    "clement-attlee",
+    "nw-rowell",
+    "inazo-nitobe",
+    "dzt-yui",
+    "john-sparrow",
+    "lionel-abrahams",
+    "henry-price",
+    "cecil-hurst",
+    "austen-chamberlain",
+    "peter-dale-scott",
+    "mike-lofgren",
+    "dana-priest",
+    "william-arkin",
+    "tom-hayden",
+    "franklin-roosevelt",
+    "nelson-aldrich",
+    "paul-warburg",
+    "hoyt-vandenberg",
+    "william-h-jackson",
+    "frank-wisner",
+    "george-kennan",
+    "james-forrestal",
+    "irving-brown",
+    "jay-lovestone",
+    "pierre-ferri-pisani",
+    "yoshio-kodama",
+    "prince-bernhard",
+    "walter-bedell-smith",
+    "august-dasaad",
+    "alamsjah",
+    "sukarno",
+    "suharto",
+    "bob-hasan",
+    "ibnu-sutowo",
+    "john-foster-dulles",
+    "karl-wolff",
+    "dwight-eisenhower",
+    "harold-macmillan",
+    "arthur-dean",
+    "mohammad-mossadeq",
+    "harry-truman",
+    "averell-harriman",
+    "william-eddy",
+    "mike-mcconnell",
+    "edward-snowden",
+    "edward-lansdale",
+    "miles-copeland",
+    "gamal-nasser",
+    "adnan-khashoggi",
+    "larry-kolb",
+    "kamal-adham",
+    "edward-moss",
+    "bebe-rebozo",
+    "paul-helliwell",
+    "ep-barry",
+    "turki-bin-faisal",
+    "alexandre-de-marenches",
+    "henry-kissinger",
+    "richard-helms",
+    "theodore-shackley",
+    "james-angleton",
+    "william-colby",
+    "george-hw-bush",
+    "jimmy-carter",
+    "anwar-sadat",
+    "yitzhak-rabin",
+    "manucher-ghorbanifar",
+    "al-schwimmer",
+    "david-kimche",
+    "yaacov-nimrodi",
+    "ariel-sharon",
+    "jaafar-nimeiri",
+    "robert-mcfarlane",
+    "bruce-rappaport",
+    "alfred-hartmann",
+    "bandar-bin-sultan",
+    "richard-kerr",
+    "oglesby",
+    "lyndon-johnson",
+    "robert-kennedy",
+    "john-connally",
+    "howard-hunt",
+    "hr-haldeman",
+    "patrick-gray",
+    "fidel-castro",
+    "john-roselli",
+    "meyer-lansky",
+    "lucky-luciano",
+    "fulgencio-batista",
+    "richard-danner",
+    "george-smathers",
+    "reinhard-gehlen",
+    "andrei-vlassov",
+    "william-donovan",
+    "oswald",
+    "marina-oswald",
+    "jack-ruby",
+    "earl-warren",
+    "gerald-ford",
+    "arlen-specter",
+    "lee-rankin",
+    "harold-weisberg",
+    "george-otoole",
+    "george-de-mohrenschildt",
+    "clay-shaw",
+    "david-ferrie",
+    "frank-sturgis",
+    "jim-garrison",
+    "rose-cherami",
+    "francis-fruge",
+    "julia-ann-mercer",
+    "lewis-mcwillie",
+    "joe-tonahill",
+    "bell-herndon",
+    "dorothy-kilgallen",
+    "robert-mcnamara",
+    "maxwell-taylor",
+    "ngo-dinh-diem",
+    "duong-van-minh",
+    "clark-clifford",
+    "cyrus-vance",
+    "george-ball",
+    "martin-luther-king",
+    "james-earl-ray",
+    "percy-foreman",
+    "coretta-scott-king",
+    "sirhan-sirhan",
+    "chester-davis",
+    "noah-dietrich",
+    "john-sonnett",
+    "william-o-douglas",
+    "charles-metzner",
+    "herbert-brownell",
+    "hank-greenspun",
+    "jack-hooper",
+    "paul-laxalt",
+    "larry-obrien",
+    "john-meier",
+    "bill-gay",
+    "howard-eckersley",
+    "levar-myler",
+    "james-golden",
+    "edward-morgan",
+    "robert-bennett",
+    "ralph-winte",
+    "gordon-liddy",
+    "james-mccord",
+    "dorothy-hunt",
+    "gerald-alch",
+    "william-bittman",
+    "sherman-skolnick",
+    "alex-bottos",
+    "john-reed",
+    "william-ruckelshaus",
+    "egil-krogh",
+    "alexander-butterfield",
+    "dwight-chapin",
+    "richard-spears",
+    "co-miller",
+    "ronald-dorfman",
+    "wendell-whitehouse",
+    "paul-gaynor",
+    "jack-caulfield",
+    "bernard-fensterwald",
+    "lou-russell",
+    "david-rockefeller",
+    "zbigniew-brzezinski",
+    "walter-mondale",
+    "harold-brown",
+    "michael-blumenthal",
+    "andrew-young",
+    "bernard-barker",
+    "john-sirica",
+    "william-paterson",
+    "george-peabody",
+    "j-p-morgan",
+    "william-rockefeller",
+    "william-c-whitney",
+    "grover-cleveland",
+    "mark-hanna",
+    "william-mckinley",
+    "william-jennings-bryan",
+    "theodore-roosevelt",
+    "henry-cabot-lodge",
+    "woodrow-wilson",
+    "william-howard-taft",
+    "william-randolph-hearst",
+    "john-w-davis",
+    "dwight-morrow",
+    "benjamin-disraeli",
+    "evelyn-baring",
+    "henry-kitchener",
+    "paul-kruger",
+    "louis-botha",
+    "j-b-m-hertzog",
+    "allan-octavian-hume",
+    "lord-dufferin",
+    "gopal-krishna-gokhale",
+    "bal-gangadhar-tilak",
+    "reginald-dyer",
+    "eamon-de-valera",
+    "arthur-griffith",
+    "michael-collins",
+    "otto-von-bismarck",
+    "wilhelm-ii",
+    "ernest-cassel",
+    "edward-vii",
+    "richard-haldane",
+    "charles-masterman",
+    "gilbert-parker",
+    "frederick-e-smith",
+    "robert-hart",
+    "edgar-vincent",
+    "matthew-perry",
+    "sun-yat-sen",
+    "georges-clemenceau",
+    "vittorio-orlando",
+    "john-maynard-keynes",
+    "charles-dawes",
+    "owen-young",
+    "montagu-norman",
+    "benjamin-strong",
+    "hjalmar-schacht",
+    "charles-rist",
+    "herbert-hoover",
+    "andrew-mellon",
+    "ramsay-macdonald",
+    "philip-snowden",
+    "stanley-baldwin",
+    "aristide-briand",
+    "gustav-stresemann",
+    "mustafa-kemal",
+    "reginald-mckenna",
+    "henry-davison",
+    "alfred-mond",
+    "john-l-lewis",
+    "frank-kellogg",
+    "joseph-stalin",
+    "benito-mussolini",
+    "chiang-kai-shek",
+    "mao-zedong",
+    "zhou-enlai",
+    "vyacheslav-molotov",
+    "joachim-von-ribbentrop",
+    "pierre-laval",
+    "engelbert-dollfuss",
+    "kurt-schuschnigg",
+    "franz-von-papen",
+    "francisco-franco",
+    "douglas-jerrold",
+    "hugh-pollard",
+    "leon-blum",
+    "edvard-benes",
+    "edouard-daladier",
+    "philippe-petain",
+    "george-marshall",
+    "ernest-bevin",
+    "james-byrnes",
+    "henry-stimson",
+    "robert-oppenheimer",
+    "leo-szilard",
+    "bernard-baruch",
+    "david-lilienthal",
+    "dean-acheson",
+    "josip-broz-tito",
+    "klement-gottwald",
+    "andrei-zhdanov",
+    "lucius-clay",
+    "paul-nitze",
+    "curtis-lemay",
+    "ira-eaker",
+    "harold-george",
+    "hirohito",
+    "hideki-tojo",
+    "chester-nimitz",
+    "alcide-de-gasperi",
+    "konrad-adenauer",
+    "lewis-strauss",
+    "edward-teller",
+    "stanislaw-ulam",
+    "douglas-macarthur",
+    "nikita-khrushchev",
+    "georgi-malenkov",
+    "lavrenti-beria",
+    "nikolai-bulganin",
+    "georgi-zhukov",
+    "imre-nagy",
+    "janos-kadar",
+    "william-l-borden",
+    "thomas-watson-sr",
+    "nicholas-murray-butler",
+    "frank-tiarks",
+    "h-norman-schwarzkopf",
+    "loy-henderson",
+    "mohammad-reza-shah",
+    "david-ben-gurion",
+    "muhammad-naguib",
+    "king-farouk",
+    "king-hussein",
+    "john-glubb",
+    "dag-hammarskjold",
+    "jacobo-arbenz",
+    "carlos-castillo-armas",
+    "anastas-mikoyan",
+    "charles-de-gaulle",
+    "kwame-nkrumah",
+    "sekou-toure",
+    "george-padmore",
+    "felix-houphouet-boigny",
+    "david-ormsby-gore",
+    "robert-kindersley",
+    "goschen-second",
+    "lord-mcgowan",
+    "willard-straight",
+    "dorothy-payne-whitney",
+    "michael-straight",
+    "walter-lippmann",
+    "corliss-lamont",
+    "frederick-vanderbilt-field",
+    "owen-lattimore",
+    "philip-jessup",
+    "henry-cabot-lodge-jr",
+    "fbi",
+    "cia",
+    "hughes-empire",
+    "milner-group",
+    "society-elect",
+    "association-helpers",
+    "cecil-bloc",
+    "kindergarten",
+    "round-table",
+    "round-table-journal",
+    "rhodes-trust",
+    "beit-trust",
+    "all-souls",
+    "balliol",
+    "new-college",
+    "oxford-university",
+    "toynbee-hall",
+    "bsac",
+    "closer-union",
+    "intercolonial-council",
+    "central-sa-railways",
+    "the-state",
+    "times",
+    "cape-times",
+    "johannesburg-star",
+    "pall-mall-gazette",
+    "review-reviews",
+    "imperial-federation-league",
+    "lazard",
+    "lloyds-bank",
+    "cliveden-circle",
+    "war-cabinet",
+    "imperial-war-cabinet",
+    "committee-defence",
+    "colonial-office",
+    "league-of-nations",
+    "mandates-commission",
+    "peel-commission",
+    "irish-boundary-commission",
+    "psychical-research",
+    "foreign-office",
+    "inquiry",
+    "jp-morgan",
+    "british-treasury",
+    "lse",
+    "labour-party",
+    "indian-national-congress",
+    "french-government",
+    "riia",
+    "ipr",
+    "ipr-pacific-council",
+    "canadian-iia",
+    "australian-iia",
+    "new-zealand-iia",
+    "south-african-iia",
+    "indian-iia",
+    "cfr",
+    "iiic",
+    "icic",
+    "international-studies-conferences",
+    "rockefeller-foundation",
+    "frps",
+    "foreign-office-research",
+    "indian-round-table-conferences",
+    "india-office",
+    "british-embassy-washington",
+    "british-food-mission",
+    "british-shipping-mission",
+    "unrra",
+    "ministry-of-information",
+    "ministry-of-production",
+    "ministry-of-economic-warfare",
+    "agenda",
+    "nsa",
+    "sullivan-cromwell",
+    "federal-reserve",
+    "acue",
+    "opc",
+    "afl",
+    "eca",
+    "sea-supply",
+    "cat-air-america",
+    "paru",
+    "lockheed",
+    "bilderberg",
+    "rockwell-standard",
+    "diponegoro-division",
+    "stanvac",
+    "permina",
+    "seven-sisters",
+    "anglo-iranian",
+    "aramco",
+    "mi6",
+    "booz-allen",
+    "booz-company",
+    "carlyle",
+    "egyptian-mukhabarat",
+    "bcci",
+    "safari-resort",
+    "safari-alliance",
+    "sdece",
+    "castle-bank",
+    "paradise-bridge",
+    "first-international-bancshares",
+    "intermaritime",
+    "banque-commerce-placements",
+    "bank-england",
+    "riggs-bank",
+    "jj-cappucci",
+    "oss",
+    "yankee-faction",
+    "cowboy-faction",
+    "warren-commission",
+    "dallas-police",
+    "cuban-revolutionary-council",
+    "fair-play-cuba",
+    "carousel-club",
+    "texas-book-depository",
+    "lansky-syndicate",
+    "gehlen-organization",
+    "oni",
+    "joint-chiefs",
+    "defense-department",
+    "state-department",
+    "chase-manhattan",
+    "john-birch-society",
+    "aib",
+    "sds",
+    "las-vegas-sun",
+    "cbs",
+    "teamsters",
+    "hughes-tool",
+    "hughes-aircraft",
+    "twa",
+    "irving-trust",
+    "dillon-read",
+    "desert-inn",
+    "intertel",
+    "resorts-international",
+    "summa",
+    "mullen",
+    "creep",
+    "white-house-plumbers",
+    "ntsb",
+    "faa",
+    "dot",
+    "united-airlines",
+    "aviation-safety-bureau",
+    "security-international",
+    "ctia",
+    "trilateral",
+    "dnc",
+    "guaranty-trust",
+    "rothschild-banking-houses",
+    "us-steel",
+    "att",
+    "new-republic",
+    "republican-party",
+    "democratic-party",
+    "de-beers",
+    "consolidated-gold-fields",
+    "suez-canal-company",
+    "british-east-africa-company",
+    "south-african-union",
+    "british-cabinet-secretariat",
+    "servants-india-society",
+    "muslim-league",
+    "sinn-fein",
+    "irish-free-state",
+    "war-propaganda-bureau",
+    "british-press-bureau",
+    "chinese-maritime-customs",
+    "ottoman-financial-administration",
+    "genro",
+    "mitsui",
+    "mitsubishi",
+    "japanese-diet",
+    "bis",
+    "federal-reserve-new-york",
+    "bank-france",
+    "reichsbank",
+    "bankers-trust",
+    "kuhn-loeb",
+    "credit-anstalt",
+    "conservative-party",
+    "liberal-party",
+    "trades-union-congress",
+    "imperial-chemical-industries",
+    "federation-british-industries",
+    "national-industrial-council",
+    "international-labour-office",
+    "permanent-court-international-justice",
+    "little-entente",
+    "conference-ambassadors",
+    "reparations-commission",
+    "exchange-equalization-account",
+    "reconstruction-finance-corporation",
+    "cio",
+    "united-mine-workers",
+    "midland-bank",
+    "kuomintang",
+    "chinese-communist-party",
+    "soviet-government",
+    "german-nazi-government",
+    "italian-fascist-government",
+    "japanese-imperial-government",
+    "vichy-government",
+    "nonintervention-committee",
+    "united-nations",
+    "international-monetary-fund",
+    "world-bank",
+    "atomic-energy-commission",
+    "un-atomic-energy-commission",
+    "cominform",
+    "nato",
+    "national-security-council",
+    "strategic-air-command",
+    "federation-atomic-scientists",
+    "yugoslav-partisans",
+    "german-socialist-unity-party",
+    "policy-planning-staff",
+    "aec-general-advisory-committee",
+    "us-air-force",
+    "los-alamos",
+    "livermore-laboratory",
+    "lincoln-laboratory",
+    "seato",
+    "cento",
+    "warsaw-pact",
+    "soviet-communist-party",
+    "columbia-university",
+    "ibm",
+    "schroeder-bank-new-york",
+    "schroeder-bank-london",
+    "imperial-iranian-gendarmerie",
+    "egypt-free-officers",
+    "arab-legion",
+    "un-emergency-force",
+    "united-arab-republic",
+    "united-fruit",
+    "oas",
+    "july-26-movement",
+    "convention-peoples-party",
+    "african-malagasy-union",
+    "union-african-states",
+    "eastern-establishment-quigley",
+    "cuban-exile-executive-committee",
+    "morgan-banking-nexus",
+    "general-dynamics",
+    "league-nations-union",
+    "baring-brothers",
+    "barclays-bank",
+    "hambros-bank",
+    "westminster-bank",
+    "standard-bank-south-africa",
+    "imperial-ottoman-bank",
+    "british-north-borneo-company",
+    "rio-tinto",
+    "un-war-crimes-commission",
+    "national-committee-free-europe",
+    "m-fund",
+    "exxon-standard-new-jersey",
+    "mobil-standard-new-york",
+    "standard-oil-california",
+    "gulf-oil",
+    "texaco",
+    "royal-dutch-shell",
+    "harvard-university",
+    "institute-advanced-study",
+    "carnegie-uk-trust",
+    "london-joint-stock-bank",
+    "new-york-post",
+    "chemical-bank",
+    "first-national-bank-boston",
+    "girard-trust"
+  ],
+  "relationships": [
+    {
+      "fromId": "association-helpers",
+      "toId": "round-table",
+      "label": "Outer-circle organizational continuation",
+      "pages": [
+        121
+      ],
+      "description": "Quigley describes the proposed Association of Helpers as the outer circle later organized by Milner into the Round Table organization. This is his account of continuation, not a documented incorporation merger.",
+      "evidence": "Quigley\u2019s historical-network interpretation"
+    },
+    {
+      "fromId": "gell",
+      "toId": "toynbee-hall",
+      "label": "Founding chairman",
+      "pages": [
+        121
+      ],
+      "description": "Quigley names Gell as chairman when Toynbee Hall was set up in 1884.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "michael-glazebrook",
+      "toId": "toynbee-hall",
+      "label": "Founding participant",
+      "pages": [
+        121
+      ],
+      "description": "Quigley explicitly includes Michael Glazebrook in the founding group; Arthur and George Glazebrook are different identities.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "albert-grey",
+      "toId": "toynbee-hall",
+      "label": "Founding participant",
+      "pages": [
+        121
+      ],
+      "description": "Quigley includes Grey among the settlement-house founding group.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "arthur-glazebrook",
+      "toId": "round-table",
+      "label": "Canadian nucleus in Quigley\u2019s account",
+      "pages": [
+        120,
+        122
+      ],
+      "description": "Quigley names Arthur Glazebrook among Milner\u2019s undergraduate friends forming the Canadian nucleus; this does not refer to the younger George Glazebrook.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "review-reviews",
+      "toId": "stead",
+      "label": "Journal used in recruitment",
+      "pages": [
+        122
+      ],
+      "description": "Quigley says Stead recruited associates in Australia and New Zealand through his magazine The Review of Reviews in 1890\u20131893.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "basil-long",
+      "toId": "cape-times",
+      "label": "Editor of Rhodes\u2019s newspaper",
+      "pages": [
+        135
+      ],
+      "description": "Quigley identifies Long as Cape Times editor in 1922\u20131935 and describes it as Rhodes\u2019s newspaper.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "rhodes",
+      "toId": "cape-times",
+      "label": "Newspaper associated with Rhodes",
+      "pages": [
+        135
+      ],
+      "description": "Quigley calls the Cape Times Rhodes\u2019s paper; this does not date or specify the legal ownership structure.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "basil-long",
+      "toId": "times",
+      "label": "Colonial editor",
+      "pages": [
+        135
+      ],
+      "description": "Quigley dates Long\u2019s Times Colonial Editor role to 1913\u20131921.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "dawson",
+      "toId": "times",
+      "label": "Editor",
+      "pages": [
+        135,
+        490
+      ],
+      "description": "Quigley identifies Geoffrey Dawson as editor of The Times and describes his role in Commonwealth negotiations.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "grigg",
+      "toId": "kindergarten",
+      "label": "Kindergarten affiliation asserted by Quigley",
+      "pages": [
+        138
+      ],
+      "description": "Quigley calls Grigg a Kindergarten member in this passage. That source-specific statement is retained rather than used to overwrite other books\u2019 classifications.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "grigg",
+      "toId": "lloyd-george",
+      "label": "Prime-ministerial secretariat",
+      "pages": [
+        133
+      ],
+      "description": "Quigley names Grigg among the secretariat Milner provided to Lloyd George.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "wgs-adams",
+      "toId": "lloyd-george",
+      "label": "Prime-ministerial secretariat",
+      "pages": [
+        133
+      ],
+      "description": "Quigley names W. G. S. Adams among Lloyd George\u2019s secretariat drawn from the Round Table.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "wgs-adams",
+      "toId": "all-souls",
+      "label": "College fellowship",
+      "pages": [
+        133
+      ],
+      "description": "Quigley explicitly calls Adams a Fellow of All Souls.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "british-cabinet-secretariat",
+      "label": "Cabinet-secretariat appointment",
+      "pages": [
+        133
+      ],
+      "description": "Quigley identifies W. G. A. Ormsby-Gore, not his son David, among Milner\u2019s secretaries placed in the Cabinet secretariat.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "amery",
+      "toId": "british-cabinet-secretariat",
+      "label": "Cabinet-secretariat appointment",
+      "pages": [
+        133
+      ],
+      "description": "Quigley names Amery among Milner\u2019s secretaries in the new Cabinet secretariat.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "milner",
+      "toId": "war-cabinet",
+      "label": "Wartime Cabinet member",
+      "pages": [
+        133
+      ],
+      "description": "Quigley identifies Milner as one of four War Cabinet members. The passage gives 1915, which is treated as a source date issue rather than an exact office-start date.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "zimmern",
+      "toId": "round-table",
+      "label": "Recruit and Round Tabler",
+      "pages": [
+        132,
+        135
+      ],
+      "description": "Quigley names this person among recruits to the circle and describes him as a Round Tabler. This remains the author\u2019s network classification.",
+      "evidence": "Author-described affiliation"
+    },
+    {
+      "fromId": "coupland",
+      "toId": "round-table",
+      "label": "Recruit and Round Tabler",
+      "pages": [
+        132,
+        135
+      ],
+      "description": "Quigley names this person among recruits to the circle and describes him as a Round Tabler. This remains the author\u2019s network classification.",
+      "evidence": "Author-described affiliation"
+    },
+    {
+      "fromId": "marris",
+      "toId": "curtis",
+      "label": "Responsible-government policy collaboration",
+      "pages": [
+        149
+      ],
+      "description": "Quigley describes Marris persuading Curtis in 1909 that responsible self-government should be the goal for India.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "edwin-montagu",
+      "toId": "india-office",
+      "label": "Secretary of state for India",
+      "pages": [
+        149
+      ],
+      "description": "Quigley identifies Montagu as secretary of state for India when issuing the August 1917 declaration.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "round-table",
+      "toId": "india-office",
+      "label": "Study group with departmental officials",
+      "pages": [
+        149
+      ],
+      "description": "Quigley describes a Curtis-led Round Table study group augmented by three India Office officials; this records policy collaboration, not departmental ownership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "muslim-league",
+      "toId": "indian-national-congress",
+      "label": "Alliance dated 1917\u20131924",
+      "pages": [
+        149
+      ],
+      "description": "Quigley says the Muslim League allied with Congress four years after its 1913 self-government declaration and that the alliance lasted until 1924.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "meston",
+      "toId": "curtis",
+      "label": "Indian constitutional consultations",
+      "pages": [
+        150
+      ],
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "marris",
+      "toId": "curtis",
+      "label": "Indian constitutional consultations",
+      "pages": [
+        150
+      ],
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "malcolm-hailey",
+      "toId": "curtis",
+      "label": "Indian constitutional consultations",
+      "pages": [
+        150
+      ],
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "chilrol",
+      "toId": "curtis",
+      "label": "Indian constitutional consultations",
+      "pages": [
+        150
+      ],
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "chilrol",
+      "toId": "times",
+      "label": "Former foreign editor",
+      "pages": [
+        150
+      ],
+      "description": "Quigley identifies Sir Valentine Chirol as the retired Times foreign editor.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "mohandas-gandhi",
+      "toId": "curtis",
+      "label": "Conversation on discrimination",
+      "pages": [
+        151
+      ],
+      "description": "Quigley reports Curtis discussing European fear of Indian virtues with Gandhi in the Transvaal in 1903.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "mohandas-gandhi",
+      "toId": "ruskin",
+      "label": "Intellectual influence through reading",
+      "pages": [
+        151
+      ],
+      "description": "Quigley says reading Ruskin reinforced parts of Gandhi\u2019s tradition. This is intellectual influence, not a personal acquaintance.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "dougal-malcolm",
+      "toId": "round-table",
+      "label": "Dominion or Indian nucleus in Quigley\u2019s account",
+      "pages": [
+        122
+      ],
+      "description": "Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "meston",
+      "toId": "round-table",
+      "label": "Dominion or Indian nucleus in Quigley\u2019s account",
+      "pages": [
+        122
+      ],
+      "description": "Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "marris",
+      "toId": "round-table",
+      "label": "Dominion or Indian nucleus in Quigley\u2019s account",
+      "pages": [
+        122
+      ],
+      "description": "Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "malcolm-hailey",
+      "toId": "round-table",
+      "label": "Dominion or Indian nucleus in Quigley\u2019s account",
+      "pages": [
+        122
+      ],
+      "description": "Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "lazard",
+      "toId": "bank-england",
+      "label": "Representatives on Bank court",
+      "pages": [
+        61,
+        420
+      ],
+      "description": "Quigley describes Lazard associates or representatives on the Bank of England court. This is a personnel connection, not proof Lazard owned the central bank.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "milner",
+      "toId": "london-joint-stock-bank",
+      "label": "Bank director",
+      "pages": [
+        787
+      ],
+      "description": "Quigley says Milner became a director of this Midland predecessor after refusing a Morgan London partnership offer.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "london-joint-stock-bank",
+      "toId": "midland-bank",
+      "label": "Corporate predecessor",
+      "pages": [
+        787
+      ],
+      "description": "Quigley explicitly calls London Joint Stock Bank the corporate precursor of Midland.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "brand",
+      "toId": "lazard",
+      "label": "Managing director",
+      "pages": [
+        490,
+        787
+      ],
+      "description": "Quigley identifies Brand as Lazard\u2019s managing director and says Adam Marris succeeded him.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "adam-marris",
+      "toId": "lazard",
+      "label": "Managing director after Brand",
+      "pages": [
+        787
+      ],
+      "description": "Quigley identifies Adam D. Marris, son of William Marris, as Brand\u2019s successor as managing director.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "adam-marris",
+      "toId": "marris",
+      "label": "Father and son",
+      "pages": [
+        787
+      ],
+      "description": "Quigley explicitly describes Adam D. Marris as Sir William Marris\u2019s son.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "adam-marris",
+      "toId": "round-table-journal",
+      "label": "Editorial committee leadership",
+      "pages": [
+        787
+      ],
+      "description": "Quigley says the group\u2019s reduced activity continued through the journal\u2019s editorial committee under Adam Marris.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "brand",
+      "toId": "nancy-astor",
+      "label": "Brother-in-law",
+      "pages": [
+        490,
+        787
+      ],
+      "description": "Quigley calls Brand the brother-in-law of Lady Astor; the identity is Nancy, not the Astor family collectively.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "milner",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "amery",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "grigg",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "kerr",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "smuts",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "waldorf-astor",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "brand",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "curtis",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "dawson",
+      "toId": "cliveden-circle",
+      "label": "Included in Quigley\u2019s Cliveden classification",
+      "pages": [
+        490
+      ],
+      "description": "Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "evidence": "Author interpretation; informal grouping"
+    },
+    {
+      "fromId": "waldorf-astor",
+      "toId": "nancy-astor",
+      "label": "Lord and Lady Astor\u2019s household",
+      "pages": [
+        490
+      ],
+      "description": "Quigley identifies the country estate of Lord and Lady Astor as the setting behind the Cliveden label. This records the explicitly paired household rather than a claim all guests shared a policy.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "round-table",
+      "toId": "all-souls",
+      "label": "Institutional influence asserted by Quigley",
+      "pages": [
+        491
+      ],
+      "description": "Quigley says the Round Table circle dominated this institution. The edge records his interpretation of influence, not legal corporate ownership.",
+      "evidence": "Author interpretation"
+    },
+    {
+      "fromId": "round-table",
+      "toId": "carnegie-uk-trust",
+      "label": "Institutional influence asserted by Quigley",
+      "pages": [
+        491
+      ],
+      "description": "Quigley says the Round Table circle dominated this institution. The edge records his interpretation of influence, not legal corporate ownership.",
+      "evidence": "Author interpretation"
+    },
+    {
+      "fromId": "carnegie-uk-trust",
+      "toId": "round-table",
+      "label": "Financial support after 1925",
+      "pages": [
+        787
+      ],
+      "description": "Quigley names this trust among sources of substantial contributions to the Round Table activities after 1925. This remains his funding account.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "beer",
+      "toId": "round-table",
+      "label": "American circle named by Quigley",
+      "pages": [
+        786
+      ],
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "frank-aydelotte",
+      "toId": "round-table",
+      "label": "American circle named by Quigley",
+      "pages": [
+        786
+      ],
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "round-table",
+      "label": "American circle named by Quigley",
+      "pages": [
+        786
+      ],
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "round-table",
+      "label": "American circle named by Quigley",
+      "pages": [
+        786
+      ],
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "walter-lippmann",
+      "toId": "round-table",
+      "label": "American circle named by Quigley",
+      "pages": [
+        786
+      ],
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll.",
+      "evidence": "Author-described network affiliation"
+    },
+    {
+      "fromId": "rhodes-trust",
+      "toId": "round-table",
+      "label": "Original organizational funding",
+      "pages": [
+        786
+      ],
+      "description": "Quigley says money for organizing the 1908\u20131911 groups came originally from the Rhodes Trust.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "marris",
+      "toId": "round-table",
+      "label": "Organizer",
+      "pages": [
+        786
+      ],
+      "description": "Quigley names William Marris with Curtis and Kerr as organizers. This is distinct from his son Adam\u2019s later editorial role.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "beer",
+      "toId": "jp-morgan",
+      "label": "Morgan expert at Paris conference",
+      "pages": [
+        788
+      ],
+      "description": "Quigley includes Beer with Lamont among Morgan experts attending the Paris Peace Conference. The passage does not give Beer a bank partnership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "beer",
+      "toId": "cfr",
+      "label": "Early American association",
+      "pages": [
+        788
+      ],
+      "description": "Quigley names Beer among American Round Tablers associated with the CFR.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "owen-young",
+      "toId": "cfr",
+      "label": "Council member in 1928",
+      "pages": [
+        788
+      ],
+      "description": "Quigley includes Young on the 1928 council list.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "cfr",
+      "label": "Council member in 1928",
+      "pages": [
+        788
+      ],
+      "description": "Quigley includes Allen Dulles on the 1928 council list.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "john-w-davis",
+      "toId": "cfr",
+      "label": "President in 1928",
+      "pages": [
+        788
+      ],
+      "description": "Quigley names Davis as CFR president in 1928.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "round-table-journal",
+      "toId": "riia",
+      "label": "Editorial premises and telephone service",
+      "pages": [
+        788
+      ],
+      "description": "Quigley says the journal was edited from Ormond Yard at the back of Chatham House grounds until 1961 and used the Chatham House switchboard. This is shared premises and services, not legal identity.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "curtis",
+      "toId": "ipr",
+      "label": "Network organization attributed to Curtis",
+      "pages": [
+        790
+      ],
+      "description": "Quigley identifies Curtis as the mastermind extending the institutional network into Pacific affairs in 1925; the book distinguishes parallel American organizations from subordination.",
+      "evidence": "Author-described institutional role"
+    },
+    {
+      "fromId": "ipr",
+      "toId": "cfr",
+      "label": "Parallel American creations",
+      "pages": [
+        790
+      ],
+      "description": "Quigley calls the two American organizations parallel creations of Wall Street allies and explicitly says they were not subordinate. This is his network interpretation; neither is marked as a subsidiary of the other.",
+      "evidence": "Author interpretation; explicit non-subordination"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "ipr",
+      "label": "Reported financial contributions",
+      "pages": [
+        784
+      ],
+      "description": "Quigley reports $14,700 in Lamont contributions over fourteen years. This is a donor relationship, not proof of control of every policy.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "frederick-vanderbilt-field",
+      "toId": "ipr",
+      "label": "Reported financial contributions",
+      "pages": [
+        784
+      ],
+      "description": "Quigley reports roughly $60,000 from Field over eighteen years and separately discusses his political connections.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "corliss-lamont",
+      "toId": "ipr",
+      "label": "Reported financial contributions",
+      "pages": [
+        784
+      ],
+      "description": "Quigley reports $800 from Corliss Lamont after 1947, distinct from his father\u2019s larger contributions.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "owen-lattimore",
+      "toId": "ipr",
+      "label": "Governing-board academic",
+      "pages": [
+        784
+      ],
+      "description": "Quigley names this academic among the IPR governing-board participants. The paragraph says interrelations with Kremlin and State Department policy were disputed and final conclusions could not be drawn.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "philip-jessup",
+      "toId": "ipr",
+      "label": "Governing-board academic",
+      "pages": [
+        784
+      ],
+      "description": "Quigley names this academic among the IPR governing-board participants. The paragraph says interrelations with Kremlin and State Department policy were disputed and final conclusions could not be drawn.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "philip-jessup",
+      "toId": "columbia-university",
+      "label": "Columbia academic",
+      "pages": [
+        784
+      ],
+      "description": "Quigley identifies Jessup as a Columbia academic when listing IPR governing-board participants.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "corliss-lamont",
+      "toId": "columbia-university",
+      "label": "Professor of philosophy and collection donor",
+      "pages": [
+        783
+      ],
+      "description": "Quigley identifies Corliss as a philosophy professor and describes the 1946 gift of a Spinoza collection by Corliss and his mother.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "corliss-lamont",
+      "label": "Father and son",
+      "pages": [
+        782,
+        783
+      ],
+      "description": "Quigley explicitly distinguishes Thomas Lamont\u2019s banking roles from his son Corliss\u2019s political and academic activity.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "henry-davison",
+      "toId": "thomas-lamont",
+      "label": "Brought Lamont into Morgan firm",
+      "pages": [
+        782
+      ],
+      "description": "Quigley says Davison brought Lamont into Morgan, where Lamont became partner in 1910.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "henry-davison",
+      "toId": "willard-straight",
+      "label": "Brought Straight into Morgan firm",
+      "pages": [
+        782
+      ],
+      "description": "Quigley says Davison brought Straight into Morgan; Straight became partner in 1913.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "willard-straight",
+      "toId": "jp-morgan",
+      "label": "Partner",
+      "pages": [
+        775,
+        782
+      ],
+      "description": "Quigley identifies Straight as a Morgan partner and Far Eastern specialist.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "willard-straight",
+      "toId": "robert-hart",
+      "label": "Former assistant",
+      "pages": [
+        775
+      ],
+      "description": "Quigley identifies Straight as Hart\u2019s assistant in the Chinese customs administration.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "willard-straight",
+      "toId": "dorothy-payne-whitney",
+      "label": "Marriage",
+      "pages": [
+        775
+      ],
+      "description": "Quigley explicitly identifies Dorothy Payne Whitney as Straight\u2019s wife. The source\u2019s broader family genealogy is not inferred into additional edges.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "dorothy-payne-whitney",
+      "toId": "william-c-whitney",
+      "label": "Father and daughter",
+      "pages": [
+        775
+      ],
+      "description": "Quigley identifies Dorothy as William C. Whitney\u2019s daughter.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "michael-straight",
+      "toId": "dorothy-payne-whitney",
+      "label": "Mother and son",
+      "pages": [
+        776
+      ],
+      "description": "Quigley identifies Mike as Dorothy\u2019s younger son.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "michael-straight",
+      "toId": "willard-straight",
+      "label": "Father and son",
+      "pages": [
+        777,
+        778
+      ],
+      "description": "Quigley repeatedly identifies Willard as Mike\u2019s father while contrasting the publisher\u2019s role with inherited family finances.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "willard-straight",
+      "toId": "new-republic",
+      "label": "Cofounder",
+      "pages": [
+        776
+      ],
+      "description": "Quigley identifies Willard and Dorothy Straight as the magazine\u2019s founders in 1914, using her money.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "dorothy-payne-whitney",
+      "toId": "new-republic",
+      "label": "Cofounder",
+      "pages": [
+        776
+      ],
+      "description": "Quigley identifies Willard and Dorothy Straight as the magazine\u2019s founders in 1914, using her money.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "dorothy-payne-whitney",
+      "toId": "new-republic",
+      "label": "Owner and financial supporter",
+      "pages": [
+        776
+      ],
+      "description": "Quigley describes Dorothy\u2019s financial support through March 23, 1953 and her ownership arrangements; this is separate from her cofounding role.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "michael-straight",
+      "toId": "new-republic",
+      "label": "Correspondent, editor and publisher",
+      "pages": [
+        777
+      ],
+      "description": "Quigley dates Mike Straight\u2019s correspondent role to May 1941, editorship to June 1943 and publishing role to December 1946.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "michael-straight",
+      "toId": "state-department",
+      "label": "International economic adviser",
+      "pages": [
+        776
+      ],
+      "description": "Quigley describes Mike\u2019s 1938 appointment as Adviser on International Economic Affairs.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "michael-straight",
+      "toId": "labour-party",
+      "label": "Unsuccessful parliamentary candidate",
+      "pages": [
+        776
+      ],
+      "description": "Quigley says Mike unsuccessfully stood for Parliament on the Labour ticket for the Cambridge University constituency; this is a candidacy, not parliamentary service.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "walter-lippmann",
+      "toId": "new-republic",
+      "label": "Early editorial direction",
+      "pages": [
+        776
+      ],
+      "description": "Quigley describes Lippmann as guiding the magazine toward an Anglophile direction. That description is the author\u2019s interpretation of editorial activity.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "thomas-lamont",
+      "toId": "new-york-post",
+      "label": "Owner in 1918\u20131924",
+      "pages": [
+        782
+      ],
+      "description": "Quigley gives Lamont\u2019s ownership interval as 1918\u20131924.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "harvard-university",
+      "label": "Presidential and corporation secretary",
+      "pages": [
+        791,
+        792
+      ],
+      "description": "Quigley dates Greene\u2019s Harvard secretary work to 1901\u20131910 and describes his return to the Corporation secretaryship in 1934.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "harvard-university",
+      "label": "Endowment and policy influence asserted by Quigley",
+      "pages": [
+        774,
+        788
+      ],
+      "description": "Quigley describes Morgan influence at Harvard, exercised indirectly through Boston banking interests and academic endowments. This is not a university-ownership claim.",
+      "evidence": "Author interpretation of financial influence"
+    },
+    {
+      "fromId": "robert-oppenheimer",
+      "toId": "institute-advanced-study",
+      "label": "Director",
+      "pages": [
+        737
+      ],
+      "description": "Quigley explicitly identifies Oppenheimer as Institute for Advanced Study director in his account of 1947\u20131953.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "george-kennan",
+      "toId": "institute-advanced-study",
+      "label": "Research refuge",
+      "pages": [
+        789
+      ],
+      "description": "Quigley names George F. Kennan among scholars for whom the institute served as a refuge. The passage does not specify a formal employment title or start date.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "institute-advanced-study",
+      "toId": "all-souls",
+      "label": "Institutional model compared by Quigley",
+      "pages": [
+        789
+      ],
+      "description": "Quigley calls the Princeton institute a counterpart of All Souls, with plans inspired by Flexner\u2019s Oxford experience. This is an institutional-model comparison, not common ownership.",
+      "evidence": "Author interpretation of institutional model"
+    },
+    {
+      "fromId": "nixon",
+      "toId": "dwight-eisenhower",
+      "label": "Presidential running mate",
+      "pages": [
+        818
+      ],
+      "description": "Quigley names Richard Nixon as Eisenhower\u2019s running mate in the 1952 campaign.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "nixon",
+      "toId": "republican-party",
+      "label": "1952 vice-presidential candidacy",
+      "pages": [
+        818
+      ],
+      "description": "Quigley places Nixon on Eisenhower\u2019s 1952 Republican ticket.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "walter-bedell-smith",
+      "toId": "state-department",
+      "label": "Under secretary appointed by Dulles",
+      "pages": [
+        823
+      ],
+      "description": "Quigley says Dulles appointed General Walter Bedell Smith to the regular under-secretary post, alongside a separate administrative appointment for Donald Lourie.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "george-kennan",
+      "toId": "state-department",
+      "label": "Removed in department purge",
+      "pages": [
+        824
+      ],
+      "description": "Quigley says Kennan was eliminated amid attacks on departmental Russia specialists. This is the author\u2019s account of removal, not a claim Kennan was disloyal.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "hoover",
+      "toId": "averell-harriman",
+      "label": "Condon report correspondence",
+      "pages": [
+        770
+      ],
+      "description": "Quigley describes a May 1947 Hoover letter to Commerce Secretary Harriman that was later selectively reproduced in a HUAC report. The book says the report contained unevaluated allegations.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "cento",
+      "label": "Promoted Baghdad Pact",
+      "pages": [
+        822,
+        823
+      ],
+      "description": "Quigley links Dulles\u2019s massive-retaliation policy to regional pacts including Baghdad; this is policy advocacy, not membership of Dulles as an individual.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "john-foster-dulles",
+      "toId": "cfr",
+      "label": "Massive-retaliation policy address",
+      "pages": [
+        821
+      ],
+      "description": "Quigley dates Dulles\u2019s CFR address announcing the policy to January 12, 1954. Speaking at the Council does not itself establish membership.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "labour-party",
+      "toId": "bank-england",
+      "label": "Nationalized bank in 1946",
+      "pages": [
+        420
+      ],
+      "description": "Quigley identifies the Labour government\u2019s 1946 nationalization of the Bank of England; this is policy action, not party ownership of the bank.",
+      "evidence": "Quigley\u2019s source account; not independently verified"
+    },
+    {
+      "fromId": "halifax",
+      "toId": "foreign-office",
+      "label": "Foreign secretary, 1938\u20131940",
+      "pages": [
+        248
+      ],
+      "description": "Quigley explicitly identifies Halifax as foreign secretary in 1938\u20131940. This is an office tenure rather than membership in an informal political circle.",
+      "evidence": "Office or diplomatic relationship described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "aristide-briand",
+      "toId": "french-government",
+      "label": "French foreign minister",
+      "pages": [
+        248
+      ],
+      "description": "Quigley identifies Briand as France\u2019s foreign minister during the period of fulfillment and contrasts his goals with Stresemann\u2019s.",
+      "evidence": "Office or diplomatic relationship described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "aristide-briand",
+      "toId": "gustav-stresemann",
+      "label": "Diplomatic cooperation with conflicting objectives",
+      "pages": [
+        248
+      ],
+      "description": "Quigley describes cooperation between the two foreign ministers in 1924\u20131929, while arguing their aims over treaty revision were at cross-purposes.",
+      "evidence": "Office or diplomatic relationship described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "edouard-daladier",
+      "toId": "french-government",
+      "label": "French prime minister",
+      "pages": [
+        528
+      ],
+      "description": "Quigley identifies Daladier as prime minister during the Czechoslovak crisis; this is a government office, not a Vichy or Nazi affiliation.",
+      "evidence": "Office or diplomatic relationship described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "anthony-eden",
+      "toId": "foreign-office",
+      "label": "British foreign secretary at Potsdam",
+      "pages": [
+        689
+      ],
+      "description": "Quigley describes Bevin replacing Eden as British foreign secretary and Potsdam delegate in July 1945.",
+      "evidence": "Office or diplomatic relationship described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "winston-churchill",
+      "toId": "war-cabinet",
+      "label": "Prime minister directing wartime government",
+      "pages": [
+        574,
+        578
+      ],
+      "description": "Quigley describes Churchill\u2019s national government and the British War Cabinet\u2019s decision to preserve aircraft during the French collapse. This records executive leadership, not membership of everyone seeking aid.",
+      "evidence": "Office or diplomatic relationship described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "baring-brothers",
+      "toId": "bank-england",
+      "label": "Firm associates represented on court",
+      "pages": [
+        61,
+        420
+      ],
+      "description": "Quigley identifies Baring associates among Bank of England court members; the 1961 Lord Cromer is not silently merged with the older Evelyn Baring.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "league-nations-union",
+      "toId": "league-of-nations",
+      "label": "Collective-security advocacy and Peace Ballot",
+      "pages": [
+        416
+      ],
+      "description": "Quigley describes the Union\u2019s 1934\u20131935 Peace Ballot concerning continued League membership and sanctions against aggressors.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "rothschild-banking-houses",
+      "toId": "rio-tinto",
+      "label": "Rothschild enterprise in Quigley\u2019s account",
+      "pages": [
+        190
+      ],
+      "description": "Quigley calls Rio Tinto a Rothschild copper enterprise. The edge refers to the family\u2019s financial interests; no holding percentage or particular individual banker is identified.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "ernest-cassel",
+      "toId": "esher",
+      "label": "Employer",
+      "pages": [
+        190
+      ],
+      "description": "Quigley explicitly identifies Cassel as Esher\u2019s employer in his discussion of Anglo-French-Russian financial connections.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "ernest-cassel",
+      "toId": "edward-vii",
+      "label": "Close personal friendship",
+      "pages": [
+        190
+      ],
+      "description": "Quigley names Cassel among Edward VII\u2019s closest personal friends.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "royal-dutch-shell",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member in 1949",
+      "pages": [
+        879
+      ],
+      "description": "Quigley names Royal Dutch-Shell among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "exxon-standard-new-jersey",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member in 1949",
+      "pages": [
+        879
+      ],
+      "description": "Quigley names Esso among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "standard-oil-california",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member in 1949",
+      "pages": [
+        879
+      ],
+      "description": "Quigley names Calso among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "mobil-standard-new-york",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member in 1949",
+      "pages": [
+        879
+      ],
+      "description": "Quigley names Socony-Vacuum among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "gulf-oil",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member in 1949",
+      "pages": [
+        879
+      ],
+      "description": "Quigley names Gulf among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "texaco",
+      "toId": "seven-sisters",
+      "label": "Oil-cartel member in 1949",
+      "pages": [
+        879
+      ],
+      "description": "Quigley names Texaco among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "evidence": "Role or affiliation described by Quigley; not independently verified"
+    },
+    {
+      "fromId": "allen-dulles",
+      "toId": "oss",
+      "label": "OSS observation from Switzerland",
+      "pages": [
+        1064
+      ],
+      "description": "Quigley identifies Dulles as observing the European underground for the OSS from Switzerland, and criticizes what his reporting missed.",
+      "evidence": "Source-described institutional relationship; hierarchy interpretation attributed to Quigley"
+    },
+    {
+      "fromId": "united-nations",
+      "toId": "un-atomic-energy-commission",
+      "label": "Established atomic-energy commission",
+      "pages": [
+        744
+      ],
+      "description": "Quigley says the United Nations established its atomic-energy commission on the invitation of Truman, Attlee and Mackenzie King, with membership including the Security Council states.",
+      "evidence": "Source-described institutional relationship; hierarchy interpretation attributed to Quigley"
+    },
+    {
+      "fromId": "dwight-eisenhower",
+      "toId": "joint-chiefs",
+      "label": "Led 1949 Formosa deliberations",
+      "pages": [
+        803
+      ],
+      "description": "Quigley refers to the JCS under Eisenhower when describing its October 12, 1949 decision on Formosa. This precedes his presidency and does not assign that decision to a later presidential Cabinet.",
+      "evidence": "Source-described institutional relationship; hierarchy interpretation attributed to Quigley"
+    },
+    {
+      "fromId": "united-nations",
+      "toId": "international-monetary-fund",
+      "label": "Associated functional body in Quigley\u2019s hierarchy",
+      "pages": [
+        1011
+      ],
+      "description": "Quigley lists the IMF among UN-associated functional bodies in his discussion of an emerging multilevel institutional hierarchy. This is his analytical framework, not a claim the IMF is owned or directly administered by the UN.",
+      "evidence": "Source-described institutional relationship; hierarchy interpretation attributed to Quigley"
+    },
+    {
+      "fromId": "united-nations",
+      "toId": "world-bank",
+      "label": "Associated functional body in Quigley\u2019s hierarchy",
+      "pages": [
+        1011
+      ],
+      "description": "Quigley lists the World Bank among UN-associated functional bodies in his discussion of an emerging multilevel institutional hierarchy. The edge does not imply UN ownership or direct administrative subordination.",
+      "evidence": "Source-described institutional relationship; hierarchy interpretation attributed to Quigley"
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "george-kennan",
+      "description": "Quigley names George F. Kennan among scholars for whom the institute served as a refuge. The passage does not specify a formal employment title or start date. Quigley says Kennan was eliminated amid attacks on departmental Russia specialists. This is the author\u2019s account of removal, not a claim Kennan was disloyal.",
+      "pages": [
+        789,
+        824
+      ],
+      "role": "Diplomat"
+    },
+    {
+      "id": "chilrol",
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership. Quigley identifies Sir Valentine Chirol as the retired Times foreign editor.",
+      "pages": [
+        150
+      ],
+      "role": "Foreign editor \u00b7 journalist"
+    },
+    {
+      "id": "coupland",
+      "description": "Quigley names this person among recruits to the circle and describes him as a Round Tabler. This remains the author\u2019s network classification.",
+      "pages": [
+        132,
+        135
+      ],
+      "role": "Historian \u00b7 Beit professor"
+    },
+    {
+      "id": "cape-times",
+      "description": "Quigley identifies Long as Cape Times editor in 1922\u20131935 and describes it as Rhodes\u2019s newspaper. Quigley calls the Cape Times Rhodes\u2019s paper; this does not date or specify the legal ownership structure.",
+      "pages": [
+        135
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "nixon",
+      "description": "Quigley names Richard Nixon as Eisenhower\u2019s running mate in the 1952 campaign. Quigley places Nixon on Eisenhower\u2019s 1952 Republican ticket.",
+      "pages": [
+        818
+      ],
+      "role": "US president"
+    },
+    {
+      "id": "zimmern",
+      "description": "Quigley names this person among recruits to the circle and describes him as a Round Tabler. This remains the author\u2019s network classification.",
+      "pages": [
+        132,
+        135
+      ],
+      "role": "Scholar \u00b7 international-affairs advocate"
+    },
+    {
+      "id": "association-helpers",
+      "description": "Quigley describes the proposed Association of Helpers as the outer circle later organized by Milner into the Round Table organization. This is his account of continuation, not a documented incorporation merger.",
+      "pages": [
+        121
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "lazard",
+      "description": "Quigley describes Lazard associates or representatives on the Bank of England court. This is a personnel connection, not proof Lazard owned the central bank. Quigley identifies Brand as Lazard\u2019s managing director and says Adam Marris succeeded him. Quigley identifies Adam D. Marris, son of William Marris, as Brand\u2019s successor as managing director.",
+      "pages": [
+        61,
+        420,
+        490,
+        787
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "dougal-malcolm",
+      "description": "Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "pages": [
+        122
+      ],
+      "role": "Administrator \u00b7 company director"
+    },
+    {
+      "id": "review-reviews",
+      "description": "Quigley says Stead recruited associates in Australia and New Zealand through his magazine The Review of Reviews in 1890\u20131893.",
+      "pages": [
+        122
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "edwin-montagu",
+      "description": "Quigley identifies Montagu as secretary of state for India when issuing the August 1917 declaration.",
+      "pages": [
+        149
+      ],
+      "role": "Public figure / institutional associate"
+    },
+    {
+      "id": "all-souls",
+      "description": "Quigley explicitly calls Adams a Fellow of All Souls. Quigley says the Round Table circle dominated this institution. The edge records his interpretation of influence, not legal corporate ownership. Quigley calls the Princeton institute a counterpart of All Souls, with plans inspired by Flexner\u2019s Oxford experience. This is an institutional-model comparison, not common ownership.",
+      "pages": [
+        133,
+        491,
+        789
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "walter-bedell-smith",
+      "description": "Quigley says Dulles appointed General Walter Bedell Smith to the regular under-secretary post, alongside a separate administrative appointment for Donald Lourie.",
+      "pages": [
+        823
+      ],
+      "role": "CIA director"
+    },
+    {
+      "id": "marris",
+      "description": "Quigley describes Marris persuading Curtis in 1909 that responsible self-government should be the goal for India. Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership. Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "pages": [
+        122,
+        149,
+        150,
+        786,
+        787
+      ],
+      "role": "Indian civil servant"
+    },
+    {
+      "id": "nancy-astor",
+      "description": "Quigley calls Brand the brother-in-law of Lady Astor; the identity is Nancy, not the Astor family collectively. Quigley identifies the country estate of Lord and Lady Astor as the setting behind the Cliveden label. This records the explicitly paired household rather than a claim all guests shared a policy.",
+      "pages": [
+        490,
+        787
+      ],
+      "role": "Politician \u00b7 Lady Astor"
+    },
+    {
+      "id": "arthur-glazebrook",
+      "description": "Quigley names Arthur Glazebrook among Milner\u2019s undergraduate friends forming the Canadian nucleus; this does not refer to the younger George Glazebrook.",
+      "pages": [
+        120,
+        122
+      ],
+      "role": "Banker \u00b7 Canadian organizer"
+    },
+    {
+      "id": "wgs-adams",
+      "description": "Quigley names W. G. S. Adams among Lloyd George\u2019s secretariat drawn from the Round Table. Quigley explicitly calls Adams a Fellow of All Souls.",
+      "pages": [
+        133
+      ],
+      "role": "Tentative roster entry"
+    },
+    {
+      "id": "grigg",
+      "description": "Quigley calls Grigg a Kindergarten member in this passage. That source-specific statement is retained rather than used to overwrite other books\u2019 classifications. Quigley names Grigg among the secretariat Milner provided to Lloyd George. Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "pages": [
+        133,
+        138,
+        490
+      ],
+      "role": "Journalist \u00b7 Baron Altrincham"
+    },
+    {
+      "id": "meston",
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership. Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "pages": [
+        122,
+        150
+      ],
+      "role": "Indian civil servant \u00b7 Baron Meston"
+    },
+    {
+      "id": "india-office",
+      "description": "Quigley identifies Montagu as secretary of state for India when issuing the August 1917 declaration. Quigley describes a Curtis-led Round Table study group augmented by three India Office officials; this records policy collaboration, not departmental ownership.",
+      "pages": [
+        149
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "malcolm-hailey",
+      "description": "Quigley names this person among the local figures Curtis consulted when preparing Indian constitutional reform. This is a consultation relationship, not proof of common secret-society membership. Quigley names this person within the South African or Indian nucleus of the interlocking Round Table and international-institute networks. The source does not assign a formal office here.",
+      "pages": [
+        122,
+        150
+      ],
+      "role": "Public figure / institutional associate"
+    },
+    {
+      "id": "michael-glazebrook",
+      "description": "Quigley explicitly includes Michael Glazebrook in the founding group; Arthur and George Glazebrook are different identities.",
+      "pages": [
+        121
+      ],
+      "role": "Educator \u00b7 cleric"
+    },
+    {
+      "id": "frank-aydelotte",
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll.",
+      "pages": [
+        786
+      ],
+      "role": "Tentative roster entry"
+    },
+    {
+      "id": "beer",
+      "description": "Quigley names this person in the loosely organized American Round Table group existing by 1915. This is his network account, not a independently verified membership roll. Quigley includes Beer with Lamont among Morgan experts attending the Paris Peace Conference. The passage does not give Beer a bank partnership. Quigley names Beer among American Round Tablers associated with the CFR.",
+      "pages": [
+        786,
+        788
+      ],
+      "role": "Historian \u00b7 American Round Table associate"
+    },
+    {
+      "id": "averell-harriman",
+      "description": "Quigley describes a May 1947 Hoover letter to Commerce Secretary Harriman that was later selectively reproduced in a HUAC report. The book says the report contained unevaluated allegations.",
+      "pages": [
+        770
+      ],
+      "role": "US diplomat"
+    },
+    {
+      "id": "dawson",
+      "description": "Quigley identifies Geoffrey Dawson as editor of The Times and describes his role in Commonwealth negotiations. Quigley includes this person in the Round Table circle later called the Cliveden Set, a label he calls somewhat inaccurate. This is his analytical grouping, not a formal membership register.",
+      "pages": [
+        135,
+        490
+      ],
+      "role": "Journalist \u00b7 editor of The Times"
+    },
+    {
+      "id": "adam-marris",
+      "description": "Quigley identifies Adam D. Marris, son of William Marris, as Brand\u2019s successor as managing director. Quigley explicitly describes Adam D. Marris as Sir William Marris\u2019s son. Quigley says the group\u2019s reduced activity continued through the journal\u2019s editorial committee under Adam Marris.",
+      "pages": [
+        787
+      ],
+      "role": "Public figure / institutional associate"
+    },
+    {
+      "id": "new-republic",
+      "description": "Quigley names Willard and Dorothy Straight as the 1914 founders and Dorothy as its financial supporter. He later describes Mike Straight\u2019s editorial and publishing roles and Lippmann\u2019s early editorial direction. His argument about Wall Street influence remains distinct from these named roles.",
+      "pages": [
+        775,
+        776,
+        777,
+        778,
+        781
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "cliveden-circle",
+      "description": "Quigley uses Cliveden Set for a Round Table circle but calls the label somewhat inaccurate. He names Milner, Amery, Grigg, Kerr, Smuts, Astor, Brand, Curtis and Dawson, and distinguishes this circle from anti-Bolsheviks and wider appeasers. This is an informal analytical classification, not a membership register.",
+      "pages": [
+        490,
+        491,
+        492
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "muslim-league",
+      "description": "Quigley describes the League\u2019s 1913 self-government demand and its alliance with Congress from 1917 to 1924. This specific alliance is distinct from the later disagreements discussed elsewhere.",
+      "pages": [
+        148,
+        149
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "foreign-office",
+      "description": "Quigley discusses the British diplomatic department through changing officeholders and policies. References to Halifax, Eden and Bevin require passage-specific roles rather than assuming everyone at a conference belonged to the department.",
+      "pages": [
+        545,
+        548,
+        549,
+        550,
+        551,
+        633,
+        689
+      ],
+      "role": "Institution / network"
+    },
+    {
+      "id": "unrra",
+      "description": "Quigley describes UNRRA as a temporary international relief administration, established by wartime allied governments in 1943, with Herbert Lehman as director-general. Its shared United Nations name predates the formal UN organization founded in 1945; that name alone is not used to assert later UN subordination.",
+      "pages": [
+        649,
+        667,
+        741
+      ]
+    },
+    {
+      "id": "royal-dutch-shell",
+      "description": "Quigley names Royal Dutch-Shell among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "pages": [
+        879
+      ]
+    },
+    {
+      "id": "mobil-standard-new-york",
+      "description": "Quigley names Socony-Vacuum among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "pages": [
+        879
+      ]
+    },
+    {
+      "id": "gulf-oil",
+      "description": "Quigley names Gulf among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "pages": [
+        879
+      ]
+    },
+    {
+      "id": "standard-oil-california",
+      "description": "Quigley names Calso among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "pages": [
+        879
+      ]
+    },
+    {
+      "id": "texaco",
+      "description": "Quigley names Texaco among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "pages": [
+        879
+      ]
+    },
+    {
+      "id": "league-nations-union",
+      "description": "Quigley describes the Union\u2019s 1934\u20131935 Peace Ballot concerning continued League membership and sanctions against aggressors.",
+      "pages": [
+        416
+      ]
+    },
+    {
+      "id": "baring-brothers",
+      "description": "Quigley identifies Baring associates among Bank of England court members; the 1961 Lord Cromer is not silently merged with the older Evelyn Baring.",
+      "pages": [
+        61,
+        420
+      ]
+    },
+    {
+      "id": "exxon-standard-new-jersey",
+      "description": "Quigley names Esso among the seven companies in the cartel in 1949. His collective oil-market statistics are not converted into a particular company\u2019s shareholding.",
+      "pages": [
+        879
+      ]
+    },
+    {
+      "id": "willard-straight",
+      "description": "Quigley identifies Willard Straight as a Morgan partner from 1913, former assistant to Robert Hart, husband of Dorothy Payne Whitney and cofounder of The New Republic in 1914. His interpretation of the magazine\u2019s aims is distinct from these dated roles.",
+      "pages": [
+        775,
+        776,
+        777,
+        782
+      ]
+    },
+    {
+      "id": "oss",
+      "description": "Quigley names the OSS in his contrast between wartime research administration and intelligence work, and identifies Allen Dulles as observing the European underground from Switzerland. His criticism of Dulles\u2019s reporting is attributed to the author.",
+      "pages": [
+        705,
+        1064
+      ]
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "willard-straight",
+      "name": "Willard Straight",
+      "kind": "person",
+      "role": "Morgan partner and New Republic cofounder",
+      "description": "Quigley identifies Willard Straight as a Morgan partner from 1913, former assistant to Robert Hart, husband of Dorothy Payne Whitney and cofounder of The New Republic in 1914. His interpretation of the magazine\u2019s aims is distinct from these dated roles.",
+      "pages": [
+        775,
+        776,
+        777,
+        782
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            775,
+            776,
+            777,
+            782
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley identifies Willard Straight as a Morgan partner from 1913, former assistant to Robert Hart, husband of Dorothy Payne Whitney and cofounder of The New Republic in 1914. His interpretation of the magazine\u2019s aims is distinct from these dated roles.",
+          "role": "Morgan partner and New Republic cofounder"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "milestones": [
+        {
+          "id": "tragedy-morgan-partner",
+          "name": "Becomes Morgan partner",
+          "kind": "career",
+          "date": "1913-01-01",
+          "precision": "year",
+          "description": "Quigley says Straight became a Morgan partner in 1913 after being brought into the firm by Henry Davison.",
+          "details": [
+            "Quigley says Straight became a Morgan partner in 1913 after being brought into the firm by Henry Davison.",
+            "This marks a source-described career or funding change, not a lifespan endpoint. Year and month values use a plotting anchor without asserting a precise day."
+          ],
+          "citations": [
+            {
+              "sourceId": "tragedy",
+              "pages": [
+                782
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dorothy-payne-whitney",
+      "name": "Dorothy Payne Whitney",
+      "kind": "person",
+      "role": "New Republic cofounder and funder",
+      "description": "Quigley identifies Dorothy Straight, later Lady Elmhirst, as a cofounder and financial supporter of The New Republic and describes her ownership arrangements. She is distinct from her father William C. Whitney and her children.",
+      "pages": [
+        775,
+        776
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            775,
+            776
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley identifies Dorothy Straight, later Lady Elmhirst, as a cofounder and financial supporter of The New Republic and describes her ownership arrangements. She is distinct from her father William C. Whitney and her children.",
+          "role": "New Republic cofounder and funder"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "milestones": [
+        {
+          "id": "tragedy-new-republic-support-end",
+          "name": "Reported financial support ends",
+          "kind": "career",
+          "date": "1953-03-23",
+          "precision": "day",
+          "description": "Quigley says Dorothy\u2019s financial support continued until March 23, 1953.",
+          "details": [
+            "Quigley says Dorothy\u2019s financial support continued until March 23, 1953.",
+            "This marks a source-described career or funding change, not a lifespan endpoint. Year and month values use a plotting anchor without asserting a precise day."
+          ],
+          "citations": [
+            {
+              "sourceId": "tragedy",
+              "pages": [
+                776
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "michael-straight",
+      "name": "Michael Straight",
+      "kind": "person",
+      "role": "Publisher and State Department adviser",
+      "description": "Quigley describes Mike Straight\u2019s State Department appointment, New Republic editorial and publishing roles, and involvement in the Wallace campaign. The book rejects a simple claim that Straight was a Communist.",
+      "pages": [
+        776,
+        777,
+        778,
+        781
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            776,
+            777,
+            778,
+            781
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley describes Mike Straight\u2019s State Department appointment, New Republic editorial and publishing roles, and involvement in the Wallace campaign. The book rejects a simple claim that Straight was a Communist.",
+          "role": "Publisher and State Department adviser"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "milestones": [
+        {
+          "id": "tragedy-new-republic-editor",
+          "name": "Becomes New Republic editor",
+          "kind": "career",
+          "date": "1943-06-01",
+          "precision": "month",
+          "description": "Quigley dates Mike Straight\u2019s editorship to June 1943.",
+          "details": [
+            "Quigley dates Mike Straight\u2019s editorship to June 1943.",
+            "This marks a source-described career or funding change, not a lifespan endpoint. Year and month values use a plotting anchor without asserting a precise day."
+          ],
+          "citations": [
+            {
+              "sourceId": "tragedy",
+              "pages": [
+                777
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tragedy-new-republic-publisher",
+          "name": "Becomes New Republic publisher",
+          "kind": "career",
+          "date": "1946-12-01",
+          "precision": "month",
+          "description": "Quigley dates Mike Straight\u2019s publishing role to December 1946.",
+          "details": [
+            "Quigley dates Mike Straight\u2019s publishing role to December 1946.",
+            "This marks a source-described career or funding change, not a lifespan endpoint. Year and month values use a plotting anchor without asserting a precise day."
+          ],
+          "citations": [
+            {
+              "sourceId": "tragedy",
+              "pages": [
+                777
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "walter-lippmann",
+      "name": "Walter Lippmann",
+      "kind": "person",
+      "role": "Journalist and Round Table associate in Quigley\u2019s account",
+      "description": "Quigley identifies Lippmann with The New Republic\u2019s early editorial direction and the American Round Table circle. The political-network affiliation remains his interpretation.",
+      "pages": [
+        776,
+        786,
+        788
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            776,
+            786,
+            788
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley identifies Lippmann with The New Republic\u2019s early editorial direction and the American Round Table circle. The political-network affiliation remains his interpretation.",
+          "role": "Journalist and Round Table associate in Quigley\u2019s account"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley"
+    },
+    {
+      "id": "corliss-lamont",
+      "name": "Corliss Lamont",
+      "kind": "person",
+      "role": "Writer and foundation/political-network participant",
+      "description": "Quigley describes Thomas Lamont\u2019s son Corliss as a supporter of Soviet-oriented organizations and an IPR donor, and explicitly distinguishes those activities from his father\u2019s banking roles.",
+      "pages": [
+        782,
+        783,
+        784
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            782,
+            783,
+            784
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley describes Thomas Lamont\u2019s son Corliss as a supporter of Soviet-oriented organizations and an IPR donor, and explicitly distinguishes those activities from his father\u2019s banking roles.",
+          "role": "Writer and foundation/political-network participant"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley"
+    },
+    {
+      "id": "frederick-vanderbilt-field",
+      "name": "Frederick Vanderbilt Field",
+      "kind": "person",
+      "role": "IPR funder and editorial/political participant",
+      "description": "Quigley identifies Field as an IPR donor and a link to Communist circles in 1928\u20131947. These political characterizations are source-attributed; the contribution amount is reported separately.",
+      "pages": [
+        782,
+        784
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            782,
+            784
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley identifies Field as an IPR donor and a link to Communist circles in 1928\u20131947. These political characterizations are source-attributed; the contribution amount is reported separately.",
+          "role": "IPR funder and editorial/political participant"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley"
+    },
+    {
+      "id": "owen-lattimore",
+      "name": "Owen Lattimore",
+      "kind": "person",
+      "role": "Academic IPR governing-board participant",
+      "description": "Quigley lists Lattimore among academic IPR governing-board members, while saying final conclusions about alleged coordination with Soviet and State Department policies cannot be drawn.",
+      "pages": [
+        784
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            784
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley lists Lattimore among academic IPR governing-board members, while saying final conclusions about alleged coordination with Soviet and State Department policies cannot be drawn.",
+          "role": "Academic IPR governing-board participant"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley"
+    },
+    {
+      "id": "philip-jessup",
+      "name": "Philip C. Jessup",
+      "kind": "person",
+      "role": "Columbia academic and IPR governing-board participant",
+      "description": "Quigley names Jessup as a Columbia academic on the IPR governing board and places him within his interpretation of an Anglo-American institutional nexus.",
+      "pages": [
+        775,
+        784,
+        788
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            775,
+            784,
+            788
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley names Jessup as a Columbia academic on the IPR governing board and places him within his interpretation of an Anglo-American institutional nexus.",
+          "role": "Columbia academic and IPR governing-board participant"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley"
+    }
+  ],
+  "newOrganizations": [
+    {
+      "id": "harvard-university",
+      "name": "Harvard University",
+      "kind": "organization",
+      "role": "University",
+      "description": "Quigley discusses Harvard\u2019s endowment and financial affiliations, Jerome Greene\u2019s administrative posts, and IPR-linked academic participants. The book\u2019s broader claims about financial influence are distinguished from named appointments.",
+      "pages": [
+        774,
+        775,
+        784,
+        788,
+        791,
+        792
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            774,
+            775,
+            784,
+            788,
+            791,
+            792
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley discusses Harvard\u2019s endowment and financial affiliations, Jerome Greene\u2019s administrative posts, and IPR-linked academic participants. The book\u2019s broader claims about financial influence are distinguished from named appointments.",
+          "role": "University"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "founders": "Only explicit cited founding roles are recorded.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "institute-advanced-study",
+      "name": "Institute for Advanced Study, Princeton",
+      "kind": "organization",
+      "role": "Research institute",
+      "description": "Quigley calls the institute a counterpart to All Souls and names Oppenheimer as its director and Kennan among scholars finding refuge there. The Oxford institutional-model claim is his interpretation.",
+      "pages": [
+        737,
+        789
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            737,
+            789
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley calls the institute a counterpart to All Souls and names Oppenheimer as its director and Kennan among scholars finding refuge there. The Oxford institutional-model claim is his interpretation.",
+          "role": "Research institute"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "founders": "Only explicit cited founding roles are recorded.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "carnegie-uk-trust",
+      "name": "Carnegie United Kingdom Trust",
+      "kind": "organization",
+      "role": "Philanthropic trust",
+      "description": "Quigley names this specific British trust among institutions influenced by the Round Table circle and among sources of later financial support. It is not conflated with the Carnegie Endowment or unspecified American Carnegie foundations.",
+      "pages": [
+        491,
+        787
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            491,
+            787
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley names this specific British trust among institutions influenced by the Round Table circle and among sources of later financial support. It is not conflated with the Carnegie Endowment or unspecified American Carnegie foundations.",
+          "role": "Philanthropic trust"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "founders": "Only explicit cited founding roles are recorded.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "london-joint-stock-bank",
+      "name": "London Joint Stock Bank",
+      "kind": "organization",
+      "role": "Commercial bank and Midland predecessor",
+      "description": "Quigley identifies this bank as Midland\u2019s corporate precursor and names Milner as a director. This is a predecessor relationship, not a claim that Milner held every later Midland office.",
+      "pages": [
+        787
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            787
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley identifies this bank as Midland\u2019s corporate precursor and names Milner as a director. This is a predecessor relationship, not a claim that Milner held every later Midland office.",
+          "role": "Commercial bank and Midland predecessor"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "founders": "Only explicit cited founding roles are recorded.",
+      "founderIds": [],
+      "members": []
+    },
+    {
+      "id": "new-york-post",
+      "name": "New York Post",
+      "kind": "organization",
+      "role": "Newspaper",
+      "description": "Quigley identifies Thomas Lamont as owner in 1918\u20131924 in his discussion of Wall Street support for liberal publications.",
+      "pages": [
+        782
+      ],
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            782
+          ]
+        }
+      ],
+      "accounts": [
+        {
+          "sourceId": "tragedy",
+          "description": "Quigley identifies Thomas Lamont as owner in 1918\u20131924 in his discussion of Wall Street support for liberal publications.",
+          "role": "Newspaper"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-14",
+          "note": "Added during source-wide passage review, independently of existing profile citations."
+        }
+      ],
+      "aliases": [],
+      "evidence": "Account attributed to Quigley",
+      "founders": "Only explicit cited founding roles are recorded.",
+      "founderIds": [],
+      "members": []
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "id": "quigley",
+      "pages": [
+        1,
+        8,
+        9,
+        10,
+        11,
+        14
+      ],
+      "reason": "Title, bibliographic and third-party introductory mentions do not establish a Quigley self-account or affiliation."
+    },
+    {
+      "id": "yankee-faction",
+      "pages": [
+        705
+      ],
+      "reason": "Regional Yankees terminology is not Oglesby\u2019s named faction identity."
+    },
+    {
+      "id": "the-state",
+      "pages": [],
+      "reason": "Ordinary uses of the state are not the South African journal."
+    },
+    {
+      "id": "agenda",
+      "pages": [
+        1022,
+        1023
+      ],
+      "reason": "Ordinary political agenda terminology, not the Agenda journal."
+    },
+    {
+      "id": "isaiah-berlin",
+      "pages": [],
+      "reason": "Berlin city matches are not Isaiah Berlin."
+    },
+    {
+      "id": "holland",
+      "pages": [],
+      "reason": "Holland geographical matches do not identify Reginald Sothern Holland."
+    },
+    {
+      "id": "marina-oswald",
+      "pages": [
+        413,
+        415
+      ],
+      "reason": "Oswald Mosley is a different person; no Marina Oswald relationship established."
+    },
+    {
+      "id": "oswald",
+      "pages": [
+        413,
+        415
+      ],
+      "reason": "Oswald Mosley is a different person; no Lee Harvey Oswald relationship established."
+    },
+    {
+      "id": "loy-henderson",
+      "pages": [
+        522,
+        523,
+        525,
+        528,
+        530,
+        534,
+        541,
+        542,
+        550,
+        554
+      ],
+      "reason": "British ambassador Nevile Henderson is distinct from Loy Henderson."
+    },
+    {
+      "id": "john-jacob-astor",
+      "pages": [
+        76,
+        122,
+        132,
+        133,
+        490,
+        491,
+        522,
+        530,
+        787,
+        790,
+        1082
+      ],
+      "reason": "Generic Astor family or Lord/Lady Astor mentions cannot be assigned to John Jacob Astor without identity evidence."
+    },
+    {
+      "id": "general-dynamics",
+      "pages": [
+        1058
+      ],
+      "reason": "Generic career-aspiration example names no specific director, funder or counterpart."
+    },
+    {
+      "id": "nsa",
+      "pages": [
+        758
+      ],
+      "reason": "NSA is named in a reorganization discussion, but this passage supplies no identified director or direct bilateral affiliation. Do not create CIA subordination from shared context."
+    },
+    {
+      "id": "lloyds-bank",
+      "pages": [
+        61
+      ],
+      "reason": "Commercial-bank category example supplies no named counterparty."
+    },
+    {
+      "id": "british-treasury",
+      "pages": [
+        298
+      ],
+      "reason": "Credit refusal names New York and Paris collectively, not identified lending banks."
+    },
+    {
+      "id": "violet-milner",
+      "pages": [],
+      "reason": "References to Milner alone concern Alfred unless separately identified; no wife affiliation inferred."
+    },
+    {
+      "id": "john-foster",
+      "pages": [],
+      "reason": "John Foster Dulles is not John Galway Foster."
+    },
+    {
+      "id": "edwin-montagu",
+      "pages": [
+        67,
+        278,
+        279,
+        280,
+        414,
+        420,
+        422,
+        433
+      ],
+      "reason": "Montagu Norman is not Edwin Montagu."
+    },
+    {
+      "id": "king-farouk",
+      "pages": [],
+      "reason": "Egypt place references alone do not establish Farouk\u2019s affiliations; surname candidate generation cannot identify a ruler from geography."
+    },
+    {
+      "id": "evelyn-baring",
+      "pages": [
+        420
+      ],
+      "reason": "Lord Cromer in the 1961 governorship passage is a different generation; do not merge him with the older Evelyn Baring."
+    },
+    {
+      "id": "corliss-lamont",
+      "pages": [
+        58,
+        280,
+        281,
+        774,
+        786,
+        788,
+        791,
+        812
+      ],
+      "reason": "These unqualified Lamont mentions concern Thomas rather than proving Corliss\u2019s banking roles."
+    },
+    {
+      "id": "harvard-university",
+      "pages": [
+        827
+      ],
+      "reason": "Huntington\u2019s academic affiliation is explicit, but he is not an indexed individual in this pass; no relationship to other named public officials is inferred."
+    },
+    {
+      "id": "frederick-vanderbilt-field",
+      "pages": [
+        780,
+        785
+      ],
+      "reason": "These additional contexts qualify political activity but do not establish a named new counterparty affiliation beyond already indexed IPR funding; common-noun field matches are excluded."
+    },
+    {
+      "id": "owen-lattimore",
+      "pages": [
+        769,
+        773
+      ],
+      "reason": "Controversy and ideological characterizations do not establish espionage employment or Communist Party membership."
+    },
+    {
+      "id": "royal-dutch-shell",
+      "pages": [
+        114,
+        237
+      ],
+      "reason": "Project concessions and rival national policies do not establish direct bilateral affiliations to currently indexed individuals without further identifiable counterparties."
+    },
+    {
+      "id": "ctia",
+      "pages": [
+        726,
+        737,
+        758,
+        766,
+        868,
+        880,
+        938,
+        941,
+        942
+      ],
+      "reason": "Generated CIA acronym denotes the intelligence agency, not the Committee to Investigate Assassinations."
+    },
+    {
+      "id": "federation-british-industries",
+      "pages": [
+        763,
+        764,
+        766,
+        767,
+        769,
+        770,
+        771,
+        824
+      ],
+      "reason": "These FBI references concern the US investigative agency, not the British industrial federation."
+    },
+    {
+      "id": "aviation-safety-bureau",
+      "pages": [
+        744,
+        795,
+        801
+      ],
+      "reason": "BAS refers to the Bulletin of Atomic Scientists, not the aviation-safety body."
+    },
+    {
+      "id": "ibm",
+      "pages": [
+        738
+      ],
+      "reason": "IBM is the source\u2019s acronym for Intercontinental Ballistic Missile in this passage, not International Business Machines."
+    },
+    {
+      "id": "oas",
+      "pages": [
+        1077
+      ],
+      "reason": "French Secret Army Organization is distinct from the Organization of American States."
+    },
+    {
+      "id": "george-hw-bush",
+      "pages": [
+        704,
+        705,
+        744
+      ],
+      "reason": "Vannevar Bush, the wartime scientist, is distinct from George H. W. Bush."
+    },
+    {
+      "id": "international-labour-office",
+      "pages": [
+        1011
+      ],
+      "reason": "ILO in the UN functional-body discussion may denote the organization rather than its office; do not infer administrative subordination of the office from the acronym alone."
+    },
+    {
+      "id": "indian-national-congress",
+      "pages": [
+        700,
+        704
+      ],
+      "reason": "Inc. is a corporate suffix in Arthur D. Little, Inc.; it is not the Indian political party."
+    }
+  ],
+  "summary": "All existing identities screened against every PDF page with names, aliases and separately qualified surname variants; targeted body-text rereading adds source accounts and relationships absent from the profile-based audit. Editorial additions, generic terms, relative-name collisions and inferred ownership were excluded.",
+  "coverage": {
+    "pagesScreened": 1090,
+    "pagesReviewed": [
+      61,
+      114,
+      119,
+      120,
+      121,
+      122,
+      124,
+      127,
+      132,
+      133,
+      134,
+      135,
+      137,
+      138,
+      149,
+      150,
+      151,
+      158,
+      190,
+      237,
+      248,
+      279,
+      298,
+      416,
+      420,
+      422,
+      449,
+      450,
+      452,
+      490,
+      491,
+      492,
+      522,
+      524,
+      528,
+      574,
+      578,
+      633,
+      649,
+      667,
+      689,
+      700,
+      704,
+      705,
+      737,
+      738,
+      741,
+      744,
+      746,
+      750,
+      758,
+      762,
+      769,
+      770,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      795,
+      801,
+      803,
+      812,
+      816,
+      818,
+      819,
+      821,
+      822,
+      823,
+      824,
+      827,
+      832,
+      879,
+      989,
+      1011,
+      1058,
+      1064,
+      1077
+    ],
+    "limits": "Candidate screening covers all supplied pages and all current identity inventories. Body passages or contextual excerpts on the listed pages were reviewed manually, not every sentence of every page. Common surnames, OCR failures and every passing reference are not claimed to be exhaustively resolved; this is not a complete transcription of every relationship in the book. Later generated short-form/acronym leads expand the search inventory; their candidate inventories were screened, with selected contexts reread and acronym collisions recorded. Remaining individual passages are not counted as completed manual review.",
+    "deltaIdentitiesScreened": 38,
+    "shortFormCandidateIdentitiesScreened": 20
+  },
+  "additionalAliases": [
+    {
+      "id": "exxon-standard-new-jersey",
+      "aliases": [
+        "Esso"
+      ]
+    },
+    {
+      "id": "mobil-standard-new-york",
+      "aliases": [
+        "Socony-Vacuum"
+      ]
+    },
+    {
+      "id": "standard-oil-california",
+      "aliases": [
+        "Calso"
+      ]
+    },
+    {
+      "id": "cia",
+      "aliases": [
+        "CIA"
+      ]
+    },
+    {
+      "id": "allen-dulles",
+      "aliases": [
+        "Allen Dulles"
+      ]
+    },
+    {
+      "id": "ipr",
+      "aliases": [
+        "IPR"
+      ]
+    },
+    {
+      "id": "cfr",
+      "aliases": [
+        "CFR"
+      ]
+    },
+    {
+      "id": "riia",
+      "aliases": [
+        "RIIA",
+        "Chatham House"
+      ]
+    },
+    {
+      "id": "nsa",
+      "aliases": [
+        "NSA"
+      ]
+    },
+    {
+      "id": "national-security-council",
+      "aliases": [
+        "NSC"
+      ]
+    },
+    {
+      "id": "atomic-energy-commission",
+      "aliases": [
+        "AEC"
+      ]
+    },
+    {
+      "id": "bis",
+      "aliases": [
+        "BIS",
+        "B.I.S."
+      ]
+    },
+    {
+      "id": "fbi",
+      "aliases": [
+        "FBI"
+      ]
+    },
+    {
+      "id": "trades-union-congress",
+      "aliases": [
+        "TUC"
+      ]
+    }
+  ],
+  "organizationUpdates": [
+    {
+      "id": "new-republic",
+      "founderIds": [
+        "willard-straight",
+        "dorothy-payne-whitney"
+      ],
+      "founders": "Quigley identifies Willard and Dorothy Straight as cofounders in 1914; Dorothy supplied the financing.",
+      "members": [
+        "willard-straight",
+        "dorothy-payne-whitney",
+        "walter-lippmann",
+        "michael-straight"
+      ]
+    }
+  ],
+  "eventUpdates": [
+    {
+      "id": "tragedy-new-republic-founded",
+      "name": "Willard and Dorothy Straight found The New Republic",
+      "description": "Quigley names Willard and Dorothy Straight as the founders of The New Republic in 1914, financed with Dorothy\u2019s Whitney inheritance, and describes Walter Lippmann\u2019s early editorial direction.",
+      "people": [
+        "willard-straight",
+        "dorothy-payne-whitney",
+        "walter-lippmann"
+      ],
+      "pages": [
+        80,
+        775,
+        776
+      ],
+      "sourceSummary": {
+        "sourceId": "tragedy",
+        "summary": "Quigley names Willard and Dorothy Straight as the founders of The New Republic in 1914, financed with Dorothy\u2019s Whitney inheritance, and describes Walter Lippmann\u2019s early editorial direction.",
+        "details": [
+          "The later body passage supplies the identities missing from the early financing overview: Willard was a Morgan partner and former assistant to Robert Hart; Dorothy financed the magazine. Quigley separately describes Lippmann\u2019s role in giving the publication an Anglophile direction. These roles are not interchangeable.",
+          "Quigley interprets the magazine as a meeting point between reform publishing and financial influence. His argument about motives is attributed to him, and the founding does not prove all contributors shared a single policy or belonged to the same network. Later editorial control by their son Michael is a separate development."
+        ],
+        "context": "Connects the founders\u2019 individual timelines with publishing, Whitney-family financing and the Morgan network, while separating named roles from the author\u2019s political interpretation.",
+        "precisionNote": "The source supplies the foundation year, 1914. January 1 is only the timeline coordinate, not an asserted founding day."
+      }
+    }
+  ]
+}

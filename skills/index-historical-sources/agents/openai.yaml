@@ -1,0 +1,4 @@
+interface:
+  display_name: "Index Historical Sources"
+  short_description: "Build cited historical timelines and relationships"
+  default_prompt: "Use $index-historical-sources to index supplied materials, review identities across all source pages, and validate connections and coverage."

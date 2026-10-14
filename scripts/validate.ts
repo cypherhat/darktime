@@ -134,7 +134,8 @@ console.log(
 
 // Every accepted audit finding must survive subsequent imports and data edits.
 for (const sourceId of sources.keys()) {
-  const audit = JSON.parse(readFileSync(new URL(`./data/connection-audit-${sourceId}.json`, import.meta.url), "utf8")) as {
+  for (const prefix of ["connection-audit", "source-wide-review"]) {
+  const audit = JSON.parse(readFileSync(new URL(`./data/${prefix}-${sourceId}.json`, import.meta.url), "utf8")) as {
     reviewedIds: string[];
     relationships: {fromId:string;toId:string;label:string;pages:number[]}[];
   };
@@ -146,4 +147,5 @@ for (const sourceId of sources.keys()) {
     ), `Missing audited affiliation: ${sourceId} ${finding.fromId} → ${finding.toId}: ${finding.label}`);
   }
 }
-console.log("All accepted PDF connection-audit findings retained with descriptions and citations.");
+}
+console.log("All accepted PDF affiliation findings retained with descriptions and citations.");

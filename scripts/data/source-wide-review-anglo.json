@@ -1,0 +1,3294 @@
+{
+  "sourceId": "anglo",
+  "reviewedIds": [
+    "nixon",
+    "mitchell",
+    "hughes",
+    "maheu",
+    "hoover",
+    "jfk",
+    "quigley",
+    "rhodes",
+    "milner",
+    "stead",
+    "esher",
+    "salisbury",
+    "balfour",
+    "goschen",
+    "arnold-toynbee",
+    "arnold-j-toynbee",
+    "george-parkin",
+    "gell",
+    "brassey",
+    "albert-grey",
+    "edward-grey",
+    "rosebery",
+    "rothschild",
+    "beit",
+    "bailey",
+    "jameson",
+    "smuts",
+    "selborne",
+    "duncan",
+    "brand",
+    "kerr",
+    "curtis",
+    "dawson",
+    "amery",
+    "grigg",
+    "fisher",
+    "halifax",
+    "waldorf-astor",
+    "nancy-astor",
+    "john-jacob-astor",
+    "hichens",
+    "feetham",
+    "dougal-malcolm",
+    "dove",
+    "basil-long",
+    "basil-williams",
+    "meston",
+    "marris",
+    "coupland",
+    "zimmern",
+    "hankey",
+    "florashaw",
+    "lugard",
+    "george-buckle",
+    "northcliffe",
+    "monypenny",
+    "chilrol",
+    "fiddes",
+    "walrond",
+    "buchan",
+    "holland",
+    "arthur-glazebrook",
+    "george-glazebrook",
+    "massey",
+    "corbett",
+    "beer",
+    "anson",
+    "michael-glazebrook",
+    "raleigh",
+    "barnett",
+    "hugh-wyndham",
+    "edward-cook",
+    "harry-johnston",
+    "hawksley",
+    "garrett",
+    "robert-cecil",
+    "asquith",
+    "lloyd-george",
+    "joseph-chamberlain",
+    "curzon",
+    "violet-milner",
+    "edward-cecil",
+    "maguire",
+    "michell",
+    "egerton",
+    "jowett",
+    "ruskin",
+    "james-allen",
+    "downie-stewart",
+    "henry-birchenough",
+    "arthur-smith",
+    "alfred-lyttelton",
+    "malcolm-hailey",
+    "rushbrook-williams",
+    "hv-hodson",
+    "harlow",
+    "fabian-ware",
+    "gilbert-murray",
+    "headlam-morley",
+    "chelmsford",
+    "arthur-salter",
+    "steel-maitland",
+    "ormsby-gore",
+    "edith-lyttelton",
+    "hwc-davis",
+    "john-simon",
+    "samuel-hoare",
+    "wilson-harris",
+    "francis-clarke",
+    "wgs-adams",
+    "wk-hancock",
+    "ernest-woodward",
+    "harold-butler",
+    "kenneth-bell",
+    "donald-somervell",
+    "maurice-gwyer",
+    "charles-harris",
+    "edward-peacock",
+    "cyril-radcliffe",
+    "john-wheeler-bennett",
+    "robert-stopford",
+    "barrington-ward",
+    "kenneth-wheare",
+    "edward-carr",
+    "malcolm-macdonald",
+    "godfrey-elton",
+    "neill-malcolm",
+    "willingdon",
+    "isaiah-berlin",
+    "roger-makins",
+    "arthur-willert",
+    "ivison-macadam",
+    "joseph-flavelle",
+    "frank-aydelotte",
+    "jerome-greene",
+    "clarence-streit",
+    "james-rose-innes",
+    "thomas-bavin",
+    "fw-eggleston",
+    "dudley-braham",
+    "arthur-atkinson",
+    "helmuth-moltke",
+    "adam-trott",
+    "gathorne-hardy",
+    "sarvepalli-radhakrishnan",
+    "edwin-montagu",
+    "adam-marris",
+    "gn-clark",
+    "douglas-jay",
+    "tasker-bliss",
+    "harold-temperley",
+    "thomas-lamont",
+    "rw-leonard",
+    "daniel-stevenson",
+    "robert-borden",
+    "allen-dulles",
+    "john-hope-simpson",
+    "anthony-eden",
+    "william-duke",
+    "malcolm-seton",
+    "mohandas-gandhi",
+    "winston-churchill",
+    "adolf-hitler",
+    "neville-chamberlain",
+    "john-foster",
+    "oliver-lyttelton",
+    "selborne-third",
+    "clement-attlee",
+    "nw-rowell",
+    "inazo-nitobe",
+    "dzt-yui",
+    "john-sparrow",
+    "lionel-abrahams",
+    "henry-price",
+    "cecil-hurst",
+    "austen-chamberlain",
+    "peter-dale-scott",
+    "mike-lofgren",
+    "dana-priest",
+    "william-arkin",
+    "tom-hayden",
+    "franklin-roosevelt",
+    "nelson-aldrich",
+    "paul-warburg",
+    "hoyt-vandenberg",
+    "william-h-jackson",
+    "frank-wisner",
+    "george-kennan",
+    "james-forrestal",
+    "irving-brown",
+    "jay-lovestone",
+    "pierre-ferri-pisani",
+    "yoshio-kodama",
+    "prince-bernhard",
+    "walter-bedell-smith",
+    "august-dasaad",
+    "alamsjah",
+    "sukarno",
+    "suharto",
+    "bob-hasan",
+    "ibnu-sutowo",
+    "john-foster-dulles",
+    "karl-wolff",
+    "dwight-eisenhower",
+    "harold-macmillan",
+    "arthur-dean",
+    "mohammad-mossadeq",
+    "harry-truman",
+    "averell-harriman",
+    "william-eddy",
+    "mike-mcconnell",
+    "edward-snowden",
+    "edward-lansdale",
+    "miles-copeland",
+    "gamal-nasser",
+    "adnan-khashoggi",
+    "larry-kolb",
+    "kamal-adham",
+    "edward-moss",
+    "bebe-rebozo",
+    "paul-helliwell",
+    "ep-barry",
+    "turki-bin-faisal",
+    "alexandre-de-marenches",
+    "henry-kissinger",
+    "richard-helms",
+    "theodore-shackley",
+    "james-angleton",
+    "william-colby",
+    "george-hw-bush",
+    "jimmy-carter",
+    "anwar-sadat",
+    "yitzhak-rabin",
+    "manucher-ghorbanifar",
+    "al-schwimmer",
+    "david-kimche",
+    "yaacov-nimrodi",
+    "ariel-sharon",
+    "jaafar-nimeiri",
+    "robert-mcfarlane",
+    "bruce-rappaport",
+    "alfred-hartmann",
+    "bandar-bin-sultan",
+    "richard-kerr",
+    "oglesby",
+    "lyndon-johnson",
+    "robert-kennedy",
+    "john-connally",
+    "howard-hunt",
+    "hr-haldeman",
+    "patrick-gray",
+    "fidel-castro",
+    "john-roselli",
+    "meyer-lansky",
+    "lucky-luciano",
+    "fulgencio-batista",
+    "richard-danner",
+    "george-smathers",
+    "reinhard-gehlen",
+    "andrei-vlassov",
+    "william-donovan",
+    "oswald",
+    "marina-oswald",
+    "jack-ruby",
+    "earl-warren",
+    "gerald-ford",
+    "arlen-specter",
+    "lee-rankin",
+    "harold-weisberg",
+    "george-otoole",
+    "george-de-mohrenschildt",
+    "clay-shaw",
+    "david-ferrie",
+    "frank-sturgis",
+    "jim-garrison",
+    "rose-cherami",
+    "francis-fruge",
+    "julia-ann-mercer",
+    "lewis-mcwillie",
+    "joe-tonahill",
+    "bell-herndon",
+    "dorothy-kilgallen",
+    "robert-mcnamara",
+    "maxwell-taylor",
+    "ngo-dinh-diem",
+    "duong-van-minh",
+    "clark-clifford",
+    "cyrus-vance",
+    "george-ball",
+    "martin-luther-king",
+    "james-earl-ray",
+    "percy-foreman",
+    "coretta-scott-king",
+    "sirhan-sirhan",
+    "chester-davis",
+    "noah-dietrich",
+    "john-sonnett",
+    "william-o-douglas",
+    "charles-metzner",
+    "herbert-brownell",
+    "hank-greenspun",
+    "jack-hooper",
+    "paul-laxalt",
+    "larry-obrien",
+    "john-meier",
+    "bill-gay",
+    "howard-eckersley",
+    "levar-myler",
+    "james-golden",
+    "edward-morgan",
+    "robert-bennett",
+    "ralph-winte",
+    "gordon-liddy",
+    "james-mccord",
+    "dorothy-hunt",
+    "gerald-alch",
+    "william-bittman",
+    "sherman-skolnick",
+    "alex-bottos",
+    "john-reed",
+    "william-ruckelshaus",
+    "egil-krogh",
+    "alexander-butterfield",
+    "dwight-chapin",
+    "richard-spears",
+    "co-miller",
+    "ronald-dorfman",
+    "wendell-whitehouse",
+    "paul-gaynor",
+    "jack-caulfield",
+    "bernard-fensterwald",
+    "lou-russell",
+    "david-rockefeller",
+    "zbigniew-brzezinski",
+    "walter-mondale",
+    "harold-brown",
+    "michael-blumenthal",
+    "andrew-young",
+    "bernard-barker",
+    "john-sirica",
+    "william-paterson",
+    "george-peabody",
+    "j-p-morgan",
+    "william-rockefeller",
+    "william-c-whitney",
+    "grover-cleveland",
+    "mark-hanna",
+    "william-mckinley",
+    "william-jennings-bryan",
+    "theodore-roosevelt",
+    "henry-cabot-lodge",
+    "woodrow-wilson",
+    "william-howard-taft",
+    "william-randolph-hearst",
+    "john-w-davis",
+    "dwight-morrow",
+    "benjamin-disraeli",
+    "evelyn-baring",
+    "henry-kitchener",
+    "paul-kruger",
+    "louis-botha",
+    "j-b-m-hertzog",
+    "allan-octavian-hume",
+    "lord-dufferin",
+    "gopal-krishna-gokhale",
+    "bal-gangadhar-tilak",
+    "reginald-dyer",
+    "eamon-de-valera",
+    "arthur-griffith",
+    "michael-collins",
+    "otto-von-bismarck",
+    "wilhelm-ii",
+    "ernest-cassel",
+    "edward-vii",
+    "richard-haldane",
+    "charles-masterman",
+    "gilbert-parker",
+    "frederick-e-smith",
+    "robert-hart",
+    "edgar-vincent",
+    "matthew-perry",
+    "sun-yat-sen",
+    "georges-clemenceau",
+    "vittorio-orlando",
+    "john-maynard-keynes",
+    "charles-dawes",
+    "owen-young",
+    "montagu-norman",
+    "benjamin-strong",
+    "hjalmar-schacht",
+    "charles-rist",
+    "herbert-hoover",
+    "andrew-mellon",
+    "ramsay-macdonald",
+    "philip-snowden",
+    "stanley-baldwin",
+    "aristide-briand",
+    "gustav-stresemann",
+    "mustafa-kemal",
+    "reginald-mckenna",
+    "henry-davison",
+    "alfred-mond",
+    "john-l-lewis",
+    "frank-kellogg",
+    "joseph-stalin",
+    "benito-mussolini",
+    "chiang-kai-shek",
+    "mao-zedong",
+    "zhou-enlai",
+    "vyacheslav-molotov",
+    "joachim-von-ribbentrop",
+    "pierre-laval",
+    "engelbert-dollfuss",
+    "kurt-schuschnigg",
+    "franz-von-papen",
+    "francisco-franco",
+    "douglas-jerrold",
+    "hugh-pollard",
+    "leon-blum",
+    "edvard-benes",
+    "edouard-daladier",
+    "philippe-petain",
+    "george-marshall",
+    "ernest-bevin",
+    "james-byrnes",
+    "henry-stimson",
+    "robert-oppenheimer",
+    "leo-szilard",
+    "bernard-baruch",
+    "david-lilienthal",
+    "dean-acheson",
+    "josip-broz-tito",
+    "klement-gottwald",
+    "andrei-zhdanov",
+    "lucius-clay",
+    "paul-nitze",
+    "curtis-lemay",
+    "ira-eaker",
+    "harold-george",
+    "hirohito",
+    "hideki-tojo",
+    "chester-nimitz",
+    "alcide-de-gasperi",
+    "konrad-adenauer",
+    "lewis-strauss",
+    "edward-teller",
+    "stanislaw-ulam",
+    "douglas-macarthur",
+    "nikita-khrushchev",
+    "georgi-malenkov",
+    "lavrenti-beria",
+    "nikolai-bulganin",
+    "georgi-zhukov",
+    "imre-nagy",
+    "janos-kadar",
+    "william-l-borden",
+    "thomas-watson-sr",
+    "nicholas-murray-butler",
+    "frank-tiarks",
+    "h-norman-schwarzkopf",
+    "loy-henderson",
+    "mohammad-reza-shah",
+    "david-ben-gurion",
+    "muhammad-naguib",
+    "king-farouk",
+    "king-hussein",
+    "john-glubb",
+    "dag-hammarskjold",
+    "jacobo-arbenz",
+    "carlos-castillo-armas",
+    "anastas-mikoyan",
+    "charles-de-gaulle",
+    "kwame-nkrumah",
+    "sekou-toure",
+    "george-padmore",
+    "felix-houphouet-boigny",
+    "david-ormsby-gore",
+    "fbi",
+    "cia",
+    "hughes-empire",
+    "milner-group",
+    "society-elect",
+    "association-helpers",
+    "cecil-bloc",
+    "kindergarten",
+    "round-table",
+    "round-table-journal",
+    "rhodes-trust",
+    "beit-trust",
+    "all-souls",
+    "balliol",
+    "new-college",
+    "oxford-university",
+    "toynbee-hall",
+    "bsac",
+    "closer-union",
+    "intercolonial-council",
+    "central-sa-railways",
+    "the-state",
+    "times",
+    "cape-times",
+    "johannesburg-star",
+    "pall-mall-gazette",
+    "review-reviews",
+    "imperial-federation-league",
+    "lazard",
+    "lloyds-bank",
+    "cliveden-circle",
+    "war-cabinet",
+    "imperial-war-cabinet",
+    "committee-defence",
+    "colonial-office",
+    "league-of-nations",
+    "mandates-commission",
+    "peel-commission",
+    "irish-boundary-commission",
+    "psychical-research",
+    "foreign-office",
+    "inquiry",
+    "jp-morgan",
+    "british-treasury",
+    "lse",
+    "labour-party",
+    "indian-national-congress",
+    "french-government",
+    "riia",
+    "ipr",
+    "ipr-pacific-council",
+    "canadian-iia",
+    "australian-iia",
+    "new-zealand-iia",
+    "south-african-iia",
+    "indian-iia",
+    "cfr",
+    "iiic",
+    "icic",
+    "international-studies-conferences",
+    "rockefeller-foundation",
+    "frps",
+    "foreign-office-research",
+    "indian-round-table-conferences",
+    "india-office",
+    "british-embassy-washington",
+    "british-food-mission",
+    "british-shipping-mission",
+    "unrra",
+    "ministry-of-information",
+    "ministry-of-production",
+    "ministry-of-economic-warfare",
+    "agenda",
+    "nsa",
+    "sullivan-cromwell",
+    "federal-reserve",
+    "acue",
+    "opc",
+    "afl",
+    "eca",
+    "sea-supply",
+    "cat-air-america",
+    "paru",
+    "lockheed",
+    "bilderberg",
+    "rockwell-standard",
+    "diponegoro-division",
+    "stanvac",
+    "permina",
+    "seven-sisters",
+    "anglo-iranian",
+    "aramco",
+    "mi6",
+    "booz-allen",
+    "booz-company",
+    "carlyle",
+    "egyptian-mukhabarat",
+    "bcci",
+    "safari-resort",
+    "safari-alliance",
+    "sdece",
+    "castle-bank",
+    "paradise-bridge",
+    "first-international-bancshares",
+    "intermaritime",
+    "banque-commerce-placements",
+    "bank-england",
+    "riggs-bank",
+    "jj-cappucci",
+    "oss",
+    "yankee-faction",
+    "cowboy-faction",
+    "warren-commission",
+    "dallas-police",
+    "cuban-revolutionary-council",
+    "fair-play-cuba",
+    "carousel-club",
+    "texas-book-depository",
+    "lansky-syndicate",
+    "gehlen-organization",
+    "oni",
+    "joint-chiefs",
+    "defense-department",
+    "state-department",
+    "chase-manhattan",
+    "john-birch-society",
+    "aib",
+    "sds",
+    "las-vegas-sun",
+    "cbs",
+    "teamsters",
+    "hughes-tool",
+    "hughes-aircraft",
+    "twa",
+    "irving-trust",
+    "dillon-read",
+    "desert-inn",
+    "intertel",
+    "resorts-international",
+    "summa",
+    "mullen",
+    "creep",
+    "white-house-plumbers",
+    "ntsb",
+    "faa",
+    "dot",
+    "united-airlines",
+    "aviation-safety-bureau",
+    "security-international",
+    "ctia",
+    "trilateral",
+    "dnc",
+    "guaranty-trust",
+    "rothschild-banking-houses",
+    "us-steel",
+    "att",
+    "new-republic",
+    "republican-party",
+    "democratic-party",
+    "de-beers",
+    "consolidated-gold-fields",
+    "suez-canal-company",
+    "british-east-africa-company",
+    "south-african-union",
+    "british-cabinet-secretariat",
+    "servants-india-society",
+    "muslim-league",
+    "sinn-fein",
+    "irish-free-state",
+    "war-propaganda-bureau",
+    "british-press-bureau",
+    "chinese-maritime-customs",
+    "ottoman-financial-administration",
+    "genro",
+    "mitsui",
+    "mitsubishi",
+    "japanese-diet",
+    "bis",
+    "federal-reserve-new-york",
+    "bank-france",
+    "reichsbank",
+    "bankers-trust",
+    "kuhn-loeb",
+    "credit-anstalt",
+    "conservative-party",
+    "liberal-party",
+    "trades-union-congress",
+    "imperial-chemical-industries",
+    "federation-british-industries",
+    "national-industrial-council",
+    "international-labour-office",
+    "permanent-court-international-justice",
+    "little-entente",
+    "conference-ambassadors",
+    "reparations-commission",
+    "exchange-equalization-account",
+    "reconstruction-finance-corporation",
+    "cio",
+    "united-mine-workers",
+    "midland-bank",
+    "kuomintang",
+    "chinese-communist-party",
+    "soviet-government",
+    "german-nazi-government",
+    "italian-fascist-government",
+    "japanese-imperial-government",
+    "vichy-government",
+    "nonintervention-committee",
+    "united-nations",
+    "international-monetary-fund",
+    "world-bank",
+    "atomic-energy-commission",
+    "un-atomic-energy-commission",
+    "cominform",
+    "nato",
+    "national-security-council",
+    "strategic-air-command",
+    "federation-atomic-scientists",
+    "yugoslav-partisans",
+    "german-socialist-unity-party",
+    "policy-planning-staff",
+    "aec-general-advisory-committee",
+    "us-air-force",
+    "los-alamos",
+    "livermore-laboratory",
+    "lincoln-laboratory",
+    "seato",
+    "cento",
+    "warsaw-pact",
+    "soviet-communist-party",
+    "columbia-university",
+    "ibm",
+    "schroeder-bank-new-york",
+    "schroeder-bank-london",
+    "imperial-iranian-gendarmerie",
+    "egypt-free-officers",
+    "arab-legion",
+    "un-emergency-force",
+    "united-arab-republic",
+    "united-fruit",
+    "oas",
+    "july-26-movement",
+    "convention-peoples-party",
+    "african-malagasy-union",
+    "union-african-states",
+    "eastern-establishment-quigley",
+    "cuban-exile-executive-committee",
+    "morgan-banking-nexus",
+    "general-dynamics",
+    "robert-kindersley",
+    "goschen-second",
+    "lord-mcgowan",
+    "willard-straight",
+    "dorothy-payne-whitney",
+    "michael-straight",
+    "walter-lippmann",
+    "corliss-lamont",
+    "frederick-vanderbilt-field",
+    "owen-lattimore",
+    "philip-jessup",
+    "henry-cabot-lodge-jr",
+    "league-nations-union",
+    "baring-brothers",
+    "barclays-bank",
+    "hambros-bank",
+    "westminster-bank",
+    "standard-bank-south-africa",
+    "imperial-ottoman-bank",
+    "british-north-borneo-company",
+    "rio-tinto",
+    "un-war-crimes-commission",
+    "national-committee-free-europe",
+    "m-fund",
+    "exxon-standard-new-jersey",
+    "mobil-standard-new-york",
+    "standard-oil-california",
+    "gulf-oil",
+    "texaco",
+    "royal-dutch-shell",
+    "harvard-university",
+    "institute-advanced-study",
+    "carnegie-uk-trust",
+    "london-joint-stock-bank",
+    "new-york-post",
+    "chemical-bank",
+    "first-national-bank-boston",
+    "girard-trust"
+  ],
+  "relationships": [
+    {
+      "fromId": "dawson",
+      "toId": "consolidated-gold-fields",
+      "label": "Corporate director",
+      "pages": [
+        64
+      ],
+      "description": "During his interval away from editing The Times, Dawson became a director of Consolidated Gold Fields, described by Quigley as a Rhodes concern.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "selborne",
+      "toId": "lloyds-bank",
+      "label": "Bank director",
+      "pages": [
+        227
+      ],
+      "description": "Quigley explicitly identifies Lord Selborne as a Lloyd\u2019s Bank director in discussing financial influence around the 1931 government crisis. The passage names Lord Wolmer separately elsewhere, so it is not assigned to the third Earl.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "midland-bank",
+      "label": "Bank director",
+      "pages": [
+        164
+      ],
+      "description": "Quigley identifies W. G. A. Ormsby-Gore, Lord Harlech, as a director of Midland Bank. The actor is the fourth Baron, not his son David.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "dougal-malcolm",
+      "toId": "british-treasury",
+      "label": "Treasury official",
+      "pages": [
+        57
+      ],
+      "description": "After serving as secretary to Grey in Canada in 1910\u20131911, Dougal Malcolm was an official of the British Treasury for a year.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "dougal-malcolm",
+      "toId": "colonial-office",
+      "label": "Colonial Office staff",
+      "pages": [
+        57
+      ],
+      "description": "Dougal Malcolm joined the Colonial Office in 1900 and served under Chamberlain and Alfred Lyttelton before his South African appointment.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "dawson",
+      "toId": "colonial-office",
+      "label": "Colonial Office staff",
+      "pages": [
+        64
+      ],
+      "description": "Dawson, then Geoffrey Robinson, worked in the Colonial Office under Chamberlain in 1898\u20131901.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "harlow",
+      "toId": "riia",
+      "label": "Imperial Committee member",
+      "pages": [
+        127
+      ],
+      "description": "Quigley explicitly identifies Harlow as a member of the Institute\u2019s Imperial Committee.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "harlow",
+      "toId": "ministry-of-information",
+      "label": "Empire Information Service head",
+      "pages": [
+        127
+      ],
+      "description": "During the Second World War Harlow headed the Empire Information Service in the Ministry of Information.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "george-glazebrook",
+      "toId": "balliol",
+      "label": "Balliol graduate",
+      "pages": [
+        122
+      ],
+      "description": "The narrative explicitly identifies George Parkin de T. Glazebrook as a Balliol graduate in 1924, distinct from his father Arthur and uncle Michael.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "chilrol",
+      "toId": "foreign-office",
+      "label": "Foreign Office clerk",
+      "pages": [
+        114
+      ],
+      "description": "Valentine Chirol served as a clerk in the Foreign Office in 1872\u20131876 before entering foreign correspondence.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-willert",
+      "toId": "times",
+      "label": "Newspaper staff and Washington office chief",
+      "pages": [
+        257
+      ],
+      "description": "Willert worked on The Times staff in 1906\u20131921, chiefly as head of its Washington office.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-willert",
+      "toId": "foreign-office",
+      "label": "News Department head",
+      "pages": [
+        257
+      ],
+      "description": "Willert headed the Foreign Office News Department in 1921\u20131935.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-willert",
+      "toId": "ministry-of-information",
+      "label": "Wartime information official",
+      "pages": [
+        257
+      ],
+      "description": "Quigley identifies Willert as an important figure in the Ministry of Information in 1939\u20131945, without specifying a narrower title.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "frank-aydelotte",
+      "toId": "rhodes-trust",
+      "label": "American secretary to Rhodes Trustees",
+      "pages": [
+        280
+      ],
+      "description": "Aydelotte served as American secretary to the Rhodes Trustees beginning in 1918.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "frank-aydelotte",
+      "toId": "cfr",
+      "label": "Council member",
+      "pages": [
+        280
+      ],
+      "description": "Quigley expressly identifies Aydelotte as a Council on Foreign Relations member for many years.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "frank-aydelotte",
+      "toId": "oxford-university",
+      "label": "Rhodes Scholar and honorary graduate",
+      "pages": [
+        280
+      ],
+      "description": "Aydelotte attended Brasenose as a Rhodes Scholar in 1905\u20131907 and received an Oxford honorary Doctor of Civil Law degree in 1937.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "clarence-streit",
+      "toId": "oxford-university",
+      "label": "Rhodes Scholar in 1920",
+      "pages": [
+        280
+      ],
+      "description": "Quigley explicitly identifies Streit as a Rhodes Scholar at Oxford in 1920, independently of his bracketed political-network roster entry.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "foreign-office",
+      "label": "Assistant legal adviser and legal adviser",
+      "pages": [
+        248
+      ],
+      "description": "Hurst was assistant legal adviser in 1902\u20131918 and legal adviser in 1918\u20131929. Quigley explicitly calls him a close associate but not a member of the Milner Group.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "permanent-court-international-justice",
+      "label": "Judge in 1929\u20131946",
+      "pages": [
+        248
+      ],
+      "description": "Quigley identifies Hurst as a judge at the Permanent Court of International Justice in 1929\u20131946.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "curtis",
+      "label": "Worked jointly on Irish agreement",
+      "pages": [
+        248
+      ],
+      "description": "Quigley says Hurst and Curtis were working together on the Irish agreement in 1921.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ernest-cassel",
+      "toId": "esher",
+      "label": "Financial collaboration",
+      "pages": [
+        89
+      ],
+      "description": "Esher had retired from remunerated collaboration with Cassel before Milner\u2019s period as confidential adviser to financiers. The suggestion that Esher obtained Milner\u2019s entry is tentative and is not converted into a Cassel\u2013Milner employment edge.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "richard-haldane",
+      "toId": "buchan",
+      "label": "Personal friendship",
+      "pages": [
+        61
+      ],
+      "description": "Buchan is described as a close friend of Haldane; Buchan emphasized Haldane\u2019s loyalty to Milner.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "richard-haldane",
+      "toId": "milner",
+      "label": "Political loyalty and collaboration",
+      "pages": [
+        61
+      ],
+      "description": "Quigley quotes Buchan that Haldane stood by Milner and was regarded by him as exceptionally able in public life.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "richard-haldane",
+      "toId": "liberal-party",
+      "label": "Liberal imperialist leader",
+      "pages": [
+        33
+      ],
+      "description": "Quigley names Haldane with Rosebery, Asquith and Edward Grey among Liberal Party leaders who advocated imperialism.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "rosebery",
+      "toId": "liberal-party",
+      "label": "Party leader",
+      "pages": [
+        33,
+        97
+      ],
+      "description": "Quigley describes Rosebery as one of the Liberal Party\u2019s leaders after Gladstone and discusses Morley\u2019s support for his succession in 1894.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "asquith",
+      "toId": "liberal-party",
+      "label": "Party leader",
+      "pages": [
+        33,
+        144
+      ],
+      "description": "Quigley identifies Asquith among the Liberal imperialist leaders directing policy before the wartime coalitions.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-grey",
+      "toId": "liberal-party",
+      "label": "Liberal imperialist leader",
+      "pages": [
+        33,
+        144
+      ],
+      "description": "Grey is named with Asquith and Haldane among the Liberal imperialist leaders.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ramsay-macdonald",
+      "toId": "labour-party",
+      "label": "Labour premier before 1931 split",
+      "pages": [
+        227
+      ],
+      "description": "Quigley describes MacDonald leading the minority Labour government in 1929\u20131931 before secretly negotiating the National Government.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ramsay-macdonald",
+      "toId": "stanley-baldwin",
+      "label": "Negotiated National Government",
+      "pages": [
+        227
+      ],
+      "description": "Quigley describes negotiations between MacDonald, Baldwin and the King leading to a Conservative-supported new government in 1931.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ramsay-macdonald",
+      "toId": "esher",
+      "label": "Received Esher\u2019s admonition over Hankey",
+      "pages": [
+        158
+      ],
+      "description": "Esher sent MacDonald a letter dated 21 July 1929 defending Hankey after the prime minister tried to exclude him from a secret Cabinet meeting.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ramsay-macdonald",
+      "toId": "godfrey-elton",
+      "label": "Close associate and official biographer",
+      "pages": [
+        228
+      ],
+      "description": "Elton supported the 1931 government change and, through his close association with the MacDonald family, became the author of an official life of Ramsay MacDonald.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "godfrey-elton",
+      "toId": "rhodes-trust",
+      "label": "Secretary to Rhodes Trustees",
+      "pages": [
+        228
+      ],
+      "description": "Elton succeeded Lothian as secretary to the Rhodes Trustees in 1939.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "godfrey-elton",
+      "toId": "labour-party",
+      "label": "Labour candidate; expelled after 1931 split",
+      "pages": [
+        228
+      ],
+      "description": "Elton stood unsuccessfully as a Labour candidate in 1924 and 1929 and was expelled after backing the 1931 government change.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "godfrey-elton",
+      "toId": "malcolm-macdonald",
+      "label": "Oxford contact",
+      "pages": [
+        228
+      ],
+      "description": "Elton came into contact with Malcolm MacDonald while the latter was at Queen\u2019s in 1920\u20131925; the source distinguishes this connection from the father\u2019s political alliance.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "godfrey-elton",
+      "toId": "oxford-university",
+      "label": "Modern History lecturer",
+      "pages": [
+        228
+      ],
+      "description": "Quigley identifies Elton as a lecturer in Modern History at Oxford and a Queen\u2019s fellow.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "stanley-baldwin",
+      "toId": "rhodes-trust",
+      "label": "Rhodes Trustee",
+      "pages": [
+        90
+      ],
+      "description": "Baldwin is explicitly named among the Rhodes Trustees and in the stabilized 1930s board.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "stanley-baldwin",
+      "toId": "conservative-party",
+      "label": "Conservative leader",
+      "pages": [
+        216
+      ],
+      "description": "Quigley describes Baldwin speaking for the Conservatives during the controversy over the Indian Dominion-status declaration.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "stanley-baldwin",
+      "toId": "milner",
+      "label": "Tariff-election advice",
+      "pages": [
+        226
+      ],
+      "description": "Quigley says Milner advised Baldwin\u2019s tariff campaign and drafted the party manifesto with Steel-Maitland. This is attributed political advice, not a secret-society membership claim.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "smuts",
+      "toId": "paul-kruger",
+      "label": "State Attorney and adviser",
+      "pages": [
+        79
+      ],
+      "description": "Smuts became Transvaal State Attorney in 1898 and advised President Kruger during the Bloemfontein conference, according to the source.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "bailey",
+      "toId": "louis-botha",
+      "label": "Parliamentary supporter",
+      "pages": [
+        49
+      ],
+      "description": "Quigley describes Bailey as a loyal supporter of Botha and Smuts while serving in the Union Parliament in 1915\u20131924.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "bailey",
+      "toId": "south-african-union",
+      "label": "Union parliament member",
+      "pages": [
+        49
+      ],
+      "description": "Bailey served in the Union Parliament in the 1915\u20131924 period.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "hugh-wyndham",
+      "toId": "south-african-union",
+      "label": "Union parliament member",
+      "pages": [
+        57
+      ],
+      "description": "Hugh Wyndham was a Union Parliament member in 1910\u20131920.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "smuts",
+      "toId": "south-african-union",
+      "label": "Minister in founding government",
+      "pages": [
+        80
+      ],
+      "description": "Smuts held Mines, Defence and Interior portfolios in the newly formed Union government; he exchanged Mines and Interior for Finance in 1912.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "smuts",
+      "toId": "arthur-griffith",
+      "label": "Irish settlement discussions",
+      "pages": [
+        182
+      ],
+      "description": "Quigley describes Smuts arguing Dominion status with Griffith during his mediation of the Irish negotiations; he reports Griffith as receptive to the argument.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "smuts",
+      "toId": "eamon-de-valera",
+      "label": "Irish settlement discussions",
+      "pages": [
+        182
+      ],
+      "description": "Smuts met Irish leaders and advocated Dominion status; Quigley describes de Valera as suspicious of his argument.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-vii",
+      "toId": "esher",
+      "label": "Royal political adviser",
+      "pages": [
+        8,
+        45
+      ],
+      "description": "Quigley describes Esher as a highly influential adviser to Edward VII. This does not make the monarch a society member.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edgar-vincent",
+      "toId": "gustav-stresemann",
+      "label": "Diplomatic intermediary and consultation",
+      "pages": [
+        244,
+        245
+      ],
+      "description": "D\u2019Abernon acted as intermediary among Stresemann and Curzon, and Stresemann sought his retention as ambassador in 1924. The source expressly excludes D\u2019Abernon from Milner Group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edgar-vincent",
+      "toId": "curzon",
+      "label": "Diplomatic intermediary on Ruhr dispute",
+      "pages": [
+        245
+      ],
+      "description": "Quigley describes D\u2019Abernon as an intermediary and consulted adviser in the events leading to Curzon\u2019s August 1923 note to France.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edgar-vincent",
+      "toId": "hankey",
+      "label": "Correspondence advocating German-Soviet policy",
+      "pages": [
+        244
+      ],
+      "description": "Quigley cites D\u2019Abernon\u2019s letter to Hankey of 11 August 1920 proposing cooperation with German military leaders against the Soviet government.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "gustav-stresemann",
+      "toId": "smuts",
+      "label": "Cited Smuts\u2019s approach to crisis",
+      "pages": [
+        244
+      ],
+      "description": "At a German Cabinet meeting on 12 November 1923, Stresemann quoted Smuts as the author of the course he considered appropriate. The record does not infer formal advisers\u2019 employment.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "anglo-iranian",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "Anglo-Iranian Oil Company is expressly listed among corporations pledging annual grants to RIIA in 1929.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "anthony-eden",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Anthony Eden and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-simon",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names John Simon and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "austen-chamberlain",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Austen Chamberlain and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "balfour",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Arthur James Balfour and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-carr",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Edward Hallett Carr and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "curzon",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names George Nathaniel Curzon and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "amery",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Leopold Amery and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "halifax",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Edward Frederick Lindley Wood and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "gilbert-murray",
+      "toId": "league-of-nations",
+      "label": "Council delegate for Britain",
+      "pages": [
+        255
+      ],
+      "description": "The source\u2019s Council-delegate table names Gilbert Murray and the number of sessions represented during the first hundred Council sessions, 1920\u20131938. This is a delegation role, not secret-group membership.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "waldorf-astor",
+      "toId": "league-of-nations",
+      "label": "Assembly delegate",
+      "pages": [
+        255,
+        256,
+        257
+      ],
+      "description": "Quigley explicitly lists Waldorf Astor among Assembly delegates; Willert\u2019s broader delegation service is stated on page257.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "league-of-nations",
+      "label": "Assembly delegate",
+      "pages": [
+        255,
+        256,
+        257
+      ],
+      "description": "Quigley explicitly lists William G. A. Ormsby-Gore among Assembly delegates; Willert\u2019s broader delegation service is stated on page257.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "massey",
+      "toId": "league-of-nations",
+      "label": "Assembly delegate",
+      "pages": [
+        255,
+        256,
+        257
+      ],
+      "description": "Quigley explicitly lists Vincent Massey among Assembly delegates; Willert\u2019s broader delegation service is stated on page257.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "arthur-willert",
+      "toId": "league-of-nations",
+      "label": "Assembly delegate",
+      "pages": [
+        255,
+        256,
+        257
+      ],
+      "description": "Quigley explicitly lists Arthur Willert among Assembly delegates; Willert\u2019s broader delegation service is stated on page257.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "robert-cecil",
+      "toId": "league-nations-union",
+      "label": "President, 1923\u20131945",
+      "pages": [
+        256
+      ],
+      "description": "Quigley dates Cecil\u2019s presidency of the League of Nations Union to 1923\u20131945.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "gilbert-murray",
+      "toId": "league-nations-union",
+      "label": "Chairman and co-president",
+      "pages": [
+        256
+      ],
+      "description": "Murray was chairman in 1923\u20131938 and co-president in 1938\u20131945.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "wilson-harris",
+      "toId": "league-nations-union",
+      "label": "Parliamentary secretary and Headway editor",
+      "pages": [
+        256
+      ],
+      "description": "Quigley identifies Harris as the Union\u2019s parliamentary secretary and editor of its paper Headway.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edith-lyttelton",
+      "toId": "league-nations-union",
+      "label": "Active participant",
+      "pages": [
+        256
+      ],
+      "description": "Mrs Alfred Lyttelton is expressly listed among the Union\u2019s most active figures, without a narrower office specified.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edward-peacock",
+      "toId": "baring-brothers",
+      "label": "Managing director",
+      "pages": [
+        90
+      ],
+      "description": "Peacock became managing director of Baring Brothers in 1926 after earlier work there on overseas utility enterprises.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "lugard",
+      "toId": "barclays-bank",
+      "label": "Bank director",
+      "pages": [
+        227
+      ],
+      "description": "Lugard is expressly identified as a Barclays Bank director.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-jacob-astor",
+      "toId": "barclays-bank",
+      "label": "Bank director",
+      "pages": [
+        106
+      ],
+      "description": "Colonel John Jacob Astor is expressly identified as director of Barclays, distinct from his brother Waldorf.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "john-jacob-astor",
+      "toId": "hambros-bank",
+      "label": "Bank director",
+      "pages": [
+        106
+      ],
+      "description": "Colonel John Jacob Astor is expressly identified as director of Hambros, distinct from his brother Waldorf.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "goschen-second",
+      "toId": "westminster-bank",
+      "label": "Bank director",
+      "pages": [
+        148,
+        227
+      ],
+      "description": "The Westminster Bank director Lord Goschen belongs to the younger generation explicitly identified as the second Viscount elsewhere in the source.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "goschen-second",
+      "toId": "goschen",
+      "label": "Son of first Viscount",
+      "pages": [
+        148
+      ],
+      "description": "The text expressly identifies the second Viscount as the son of Milner\u2019s old friend Goschen.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "ormsby-gore",
+      "toId": "standard-bank-south-africa",
+      "label": "Bank director",
+      "pages": [
+        164
+      ],
+      "description": "Quigley identifies Ormsby-Gore as a director of Standard Bank of South Africa as well as Midland Bank.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "edgar-vincent",
+      "toId": "imperial-ottoman-bank",
+      "label": "Governor, 1889\u20131897",
+      "pages": [
+        244
+      ],
+      "description": "Quigley expressly dates Vincent\u2019s governorship to 1889\u20131897.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "neill-malcolm",
+      "toId": "british-north-borneo-company",
+      "label": "Company president",
+      "pages": [
+        58,
+        186
+      ],
+      "description": "Neill Malcolm is expressly identified as company president, while Dougal was vice-president.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "dougal-malcolm",
+      "toId": "british-north-borneo-company",
+      "label": "Company vice-president",
+      "pages": [
+        58,
+        186
+      ],
+      "description": "Dougal Malcolm is expressly identified as company vice-president, while Neill was president.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "milner",
+      "toId": "rio-tinto",
+      "label": "Company director",
+      "pages": [
+        304
+      ],
+      "description": "Quigley expressly names Milner as a director of Rio Tinto; no exact appointment period is given.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "cecil-hurst",
+      "toId": "un-war-crimes-commission",
+      "label": "Chairman, 1943\u20131944",
+      "pages": [
+        248
+      ],
+      "description": "Quigley dates Hurst\u2019s chairmanship to 1943\u20131944.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "robert-kindersley",
+      "toId": "lazard",
+      "label": "Board chairman",
+      "pages": [
+        240
+      ],
+      "description": "Kindersley was chairman of the board of Lazard Brothers and Company when named as a British Dawes Committee member.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "baring-brothers",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "The source lists this bank among institutions promising annual grants to RIIA in 1929; no grant amount or ownership relationship is specified.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "barclays-bank",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "The source lists this bank among institutions promising annual grants to RIIA in 1929; no grant amount or ownership relationship is specified.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "hambros-bank",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "The source lists this bank among institutions promising annual grants to RIIA in 1929; no grant amount or ownership relationship is specified.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "westminster-bank",
+      "toId": "riia",
+      "label": "Annual-grant pledger",
+      "pages": [
+        191
+      ],
+      "description": "The source lists this bank among institutions promising annual grants to RIIA in 1929; no grant amount or ownership relationship is specified.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "pierre-laval",
+      "toId": "samuel-hoare",
+      "label": "Secret Paris negotiation",
+      "pages": [
+        269
+      ],
+      "description": "Quigley reports that Hoare, Eden and Laval outlined the settlement at a secret Paris meeting on 10 September 1935.",
+      "evidence": "Reported diplomatic encounter"
+    },
+    {
+      "fromId": "pierre-laval",
+      "toId": "anthony-eden",
+      "label": "Secret Paris negotiation",
+      "pages": [
+        269
+      ],
+      "description": "Quigley reports that Eden joined Hoare and Laval at the secret Paris meeting of 10 September 1935.",
+      "evidence": "Reported diplomatic encounter"
+    },
+    {
+      "fromId": "kurt-schuschnigg",
+      "toId": "adolf-hitler",
+      "label": "February 1938 diplomatic interview",
+      "pages": [
+        274
+      ],
+      "description": "The source explicitly reports an interview between Hitler and Schuschnigg in February 1938.",
+      "evidence": "Reported diplomatic encounter"
+    },
+    {
+      "fromId": "edouard-daladier",
+      "toId": "neville-chamberlain",
+      "label": "Czechoslovak-policy negotiation",
+      "pages": [
+        274
+      ],
+      "description": "Daladier visited London in late April 1938 seeking support for Czechoslovakia; Quigley reports Chamberlain refusing support.",
+      "evidence": "Reported diplomatic encounter"
+    },
+    {
+      "fromId": "hichens",
+      "toId": "carnegie-uk-trust",
+      "label": "Executive Committee member, 1919\u20131940",
+      "pages": [
+        58
+      ],
+      "description": "Quigley identifies Hichens as a Carnegie United Kingdom Trust Executive Committee member for over twenty years, 1919\u20131940.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "carnegie-uk-trust",
+      "toId": "riia",
+      "label": "Grant for books in 1926",
+      "pages": [
+        191
+      ],
+      "description": "Quigley reports that Carnegie United Kingdom Trustees gave RIIA \u00a33,000 for books in 1926.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "jerome-greene",
+      "toId": "harvard-university",
+      "label": "Former university secretary",
+      "pages": [
+        193
+      ],
+      "description": "Quigley identifies Greene as Harvard University secretary for many years in the IPR organizational account.",
+      "evidence": "Reported role"
+    },
+    {
+      "fromId": "georges-clemenceau",
+      "toId": "lloyd-george",
+      "label": "Peace Conference disagreement over enforcement",
+      "pages": [
+        229,
+        230
+      ],
+      "description": "The source describes Lloyd George\u2019s proposed concessions and Clemenceau\u2019s response favoring firm treatment of Germany. This documents negotiation and disagreement, not a standing political affiliation.",
+      "evidence": "Reported diplomatic encounter"
+    },
+    {
+      "fromId": "fabian-ware",
+      "toId": "rio-tinto",
+      "label": "Special commissioner to company board",
+      "pages": [
+        65
+      ],
+      "description": "After editing The Morning Post in 1905\u20131911, Fabian Ware became special commissioner to the board of Rio Tinto, on which Milner was a director. This is a commissioner appointment, not a claim that Ware himself was a director.",
+      "evidence": "Reported corporate appointment"
+    },
+    {
+      "fromId": "isaiah-berlin",
+      "toId": "harvard-university",
+      "label": "Visiting lecturer on Russia in 1949",
+      "pages": [
+        301
+      ],
+      "description": "Quigley states that Berlin came to Harvard University in 1949 as a visiting lecturer on Russia.",
+      "evidence": "Reported academic appointment"
+    },
+    {
+      "fromId": "robert-kindersley",
+      "toId": "edgar-vincent",
+      "label": "Apparently involved in reparations mediation",
+      "pages": [
+        245
+      ],
+      "description": "Quigley says D\u2019Abernon acted as intermediary among Stresemann, Curzon and, apparently, Kindersley. The source\u2019s uncertainty about Kindersley\u2019s role is retained; no formal diplomatic employment is asserted.",
+      "evidence": "Tentative diplomatic participation"
+    },
+    {
+      "fromId": "robert-kindersley",
+      "toId": "brand",
+      "label": "Named associate at Lazard",
+      "pages": [
+        245
+      ],
+      "description": "Quigley explicitly calls Kindersley Brand\u2019s associate at Lazard Brothers. The record does not convert professional association into personal friendship.",
+      "evidence": "Reported professional association"
+    },
+    {
+      "fromId": "league-nations-union",
+      "toId": "league-of-nations",
+      "label": "Public advocacy for League",
+      "pages": [
+        256,
+        257
+      ],
+      "description": "The Union is described as an organization formed to build public opinion in favor of the League. This advocacy relationship is distinct from legal subordination or ownership.",
+      "evidence": "Reported advocacy purpose"
+    },
+    {
+      "fromId": "milner-group",
+      "toId": "league-nations-union",
+      "label": "Formation attributed by Quigley",
+      "pages": [
+        256
+      ],
+      "description": "Quigley attributes the formation of the League of Nations Union to the Milner Group, while separately describing its actual named officers. The relationship retains the author\u2019s network interpretation.",
+      "evidence": "Author\u2019s network interpretation"
+    },
+    {
+      "fromId": "beer",
+      "toId": "riia",
+      "label": "Originator of institute",
+      "pages": [
+        171
+      ],
+      "description": "Quigley explicitly identifies George Louis Beer as one of the originators of the London institute and describes his part in planning the Peace Conference history.",
+      "evidence": "Reported founding participation"
+    },
+    {
+      "fromId": "beer",
+      "toId": "cfr",
+      "label": "Originator described by Quigley",
+      "pages": [
+        171
+      ],
+      "description": "Quigley calls Beer one of the originators of the Institute\u2019s American branch, the Council on Foreign Relations; the record preserves the source\u2019s historical terminology.",
+      "evidence": "Reported founding participation"
+    },
+    {
+      "fromId": "beer",
+      "toId": "inquiry",
+      "label": "Chief expert on colonial questions",
+      "pages": [
+        171
+      ],
+      "description": "Beer served as chief colonial expert on Colonel House\u2019s Inquiry preparing plans for the peace settlements.",
+      "evidence": "Reported appointment"
+    },
+    {
+      "fromId": "beer",
+      "toId": "league-of-nations",
+      "label": "Named head of Mandate Department",
+      "pages": [
+        171
+      ],
+      "description": "Quigley states that Beer was named head of the new League\u2019s Mandate Department. This appointment is distinct from membership of the Permanent Mandates Commission.",
+      "evidence": "Reported appointment"
+    },
+    {
+      "fromId": "charles-harris",
+      "toId": "riia",
+      "label": "Authored study of German indebtedness",
+      "pages": [
+        105
+      ],
+      "description": "Harris wrote Germany\u2019s Foreign Indebtedness for RIIA in 1935. This supports a research/publication connection, not an inferred council membership.",
+      "evidence": "Reported research role"
+    },
+    {
+      "fromId": "lugard",
+      "toId": "riia",
+      "label": "Influential institute participant",
+      "pages": [
+        107
+      ],
+      "description": "Quigley explicitly describes Lugard as one of the more influential figures in RIIA. The cited passage does not specify an elected office.",
+      "evidence": "Author\u2019s institutional assessment"
+    },
+    {
+      "fromId": "rhodes",
+      "toId": "pall-mall-gazette",
+      "label": "Offered financing for Stead\u2019s editorial freedom",
+      "pages": [
+        41
+      ],
+      "description": "In Stead\u2019s quoted account, Rhodes pressed him to take \u00a320,000 to provide a freer hand on the Pall Mall Gazette, abbreviated P.M.G. The passage reports an offer, not proof that payment was accepted or that Rhodes owned the newspaper.",
+      "evidence": "Proposed funding in quoted account"
+    }
+  ],
+  "profileUpdates": [
+    {
+      "id": "woodrow-wilson",
+      "description": "Named among actors pressing for League Covenant wording that could imply a real collective-security instrument. A later mention is merely the subject of Wilson Harris\u2019s books; it supplies no Harris\u2013Wilson personal relationship.",
+      "pages": [
+        247
+      ]
+    },
+    {
+      "id": "richard-haldane",
+      "description": "Quigley identifies Haldane as a Liberal imperialist leader, close friend of Buchan and loyal political associate of Milner. These are source-specific political and personal connections, distinct from any inference that all Liberal leaders belonged to the inner circle.",
+      "pages": [
+        33,
+        61,
+        144
+      ]
+    },
+    {
+      "id": "ernest-cassel",
+      "description": "Quigley identifies Cassel as a financier with whom Esher had remunerated collaboration. He only suggests that Esher may have obtained Milner\u2019s entree to financial advising; that suggestion is not evidence of Milner\u2019s employment by Cassel.",
+      "pages": [
+        89
+      ]
+    },
+    {
+      "id": "edgar-vincent",
+      "description": "Quigley describes Edgar Vincent, Lord D\u2019Abernon, as an Egyptian financial adviser, Imperial Ottoman Bank governor, Conservative MP and British ambassador in Berlin. He explicitly states that D\u2019Abernon was not a Milner Group member, despite convergent policy and Cecil Bloc associations.",
+      "pages": [
+        244,
+        245
+      ]
+    },
+    {
+      "id": "ramsay-macdonald",
+      "description": "Quigley discusses MacDonald\u2019s Labour premiership, secret negotiations with Baldwin during the 1931 crisis and correspondence about Hankey\u2019s Cabinet access. Ramsay is distinct from his son Malcolm, whose Colonial Office and RIIA roles appear elsewhere in the book.",
+      "pages": [
+        158,
+        227,
+        228
+      ]
+    },
+    {
+      "id": "stanley-baldwin",
+      "description": "Quigley names Baldwin among the Rhodes Trustees and as a Conservative leader. He describes Milner\u2019s tariff-election advice and Baldwin\u2019s participation in the 1931 government negotiations without treating these as proof of secret-society initiation.",
+      "pages": [
+        90,
+        216,
+        226,
+        227
+      ]
+    },
+    {
+      "id": "gustav-stresemann",
+      "description": "German Chancellor involved in the Ruhr and reparations negotiations discussed by Quigley. The account documents his use of Smuts\u2019s ideas and diplomatic collaboration with D\u2019Abernon; it also cites his 1924 request that D\u2019Abernon remain ambassador.",
+      "pages": [
+        243,
+        244,
+        245
+      ]
+    },
+    {
+      "id": "paul-kruger",
+      "description": "President of the Transvaal discussed in the account of Smuts\u2019s appointment as State Attorney and advice at the Bloemfontein conference. The Kruger telegram mentions are diplomatic episode references, not evidence of company or group membership.",
+      "pages": [
+        79,
+        110,
+        114
+      ]
+    },
+    {
+      "id": "louis-botha",
+      "description": "South African leader whom Quigley describes alongside Smuts in discussions of the Union and peace delegation. Bailey is specifically identified as his parliamentary supporter; the title of Basil Williams\u2019s later book is not treated as a personal association.",
+      "pages": [
+        49,
+        155,
+        229
+      ]
+    },
+    {
+      "id": "eamon-de-valera",
+      "description": "Irish leader discussed in Smuts\u2019s Dominion-status mediation; Quigley describes him as suspicious of Smuts\u2019s argument. This is a negotiation connection, not an affiliation with the Milner Group.",
+      "pages": [
+        182
+      ]
+    },
+    {
+      "id": "arthur-griffith",
+      "description": "Irish leader discussed in Smuts\u2019s Dominion-status mediation; Quigley describes him as comparatively receptive to the distinction between state form and substantive independence.",
+      "pages": [
+        182
+      ]
+    },
+    {
+      "id": "edward-vii",
+      "description": "Quigley describes Edward VII\u2019s relationship with Esher as influential political advice. His discussion of other royal advisers does not make the monarch a member of a secret society.",
+      "pages": [
+        8,
+        28,
+        45
+      ]
+    },
+    {
+      "id": "montagu-norman",
+      "description": "The source groups Montagu Norman with Thomas Lamont when describing shared international bankers\u2019 policy assumptions. Other Norman matches are Kenneth Norman Bell, Norman Bentwich or Norman Angell; no employment or personal-association edge is inferred from this comparison.",
+      "pages": [
+        233
+      ]
+    },
+    {
+      "id": "ernest-bevin",
+      "description": "Named among the fifteen British delegates at the Sydney Commonwealth-relations conference discussed by Quigley. Shared attendance does not establish personal relationships with the other delegates.",
+      "pages": [
+        166
+      ]
+    },
+    {
+      "id": "harlow",
+      "description": "In addition to his Beit lectureship, Quigley identifies Harlow as acting Round Table editor in 1938, keeper of Rhodes House Library, member of RIIA\u2019s Imperial Committee and wartime head of the Ministry of Information\u2019s Empire Information Service. His inner-circle classification remains the author\u2019s political interpretation.",
+      "pages": [
+        127,
+        309
+      ]
+    },
+    {
+      "id": "arthur-willert",
+      "description": "Times correspondent and Washington bureau head before directing the Foreign Office News Department in 1921\u20131935. Quigley also describes League delegation service and leadership of the Ministry of Information\u2019s southern region during the war, while qualifying whether he was a Group member or merely a close associate.",
+      "pages": [
+        107,
+        257,
+        310
+      ]
+    },
+    {
+      "id": "frank-aydelotte",
+      "description": "Quigley describes Aydelotte\u2019s Rhodes Scholarship, American secretaryship to the Rhodes Trustees, Swarthmore presidency and Council on Foreign Relations membership. These actual named roles are distinct from the author\u2019s broader claim about his political-network importance.",
+      "pages": [
+        280,
+        310
+      ]
+    },
+    {
+      "id": "clarence-streit",
+      "description": "Rhodes Scholar at Oxford in 1920 and New York Times League correspondent in 1929\u20131938, identified as the public advocate of Union Now. His appendix entry remains bracketed as conjectural; the body\u2019s stronger membership language is acknowledged without removing that qualification.",
+      "pages": [
+        258,
+        280,
+        307,
+        310
+      ]
+    },
+    {
+      "id": "godfrey-elton",
+      "description": "Oxford lecturer and Queen\u2019s fellow who became a Labour candidate, supported MacDonald\u2019s 1931 government change and was expelled from Labour. Quigley identifies him as Rhodes Trustees\u2019 secretary from 1939 and official biographer of Ramsay MacDonald.",
+      "pages": [
+        228,
+        310
+      ]
+    },
+    {
+      "id": "cecil-hurst",
+      "description": "Quigley explicitly identifies Hurst as a close associate but not a member of the Milner Group. His legal roles included Foreign Office advising, League Covenant and Locarno drafting, a World Court judgeship and wartime War Crimes Commission chairmanship. The book\u2019s later tables also name him as a British Council and Assembly delegate to the League.",
+      "pages": [
+        248,
+        251,
+        262,
+        255,
+        256
+      ]
+    },
+    {
+      "id": "anglo-iranian",
+      "description": "The source expressly names Anglo-Iranian Oil Company among RIIA\u2019s 1929 annual-grant pledgers. The later index entry adds no separate evidence.",
+      "pages": [
+        191
+      ]
+    },
+    {
+      "id": "consolidated-gold-fields",
+      "description": "Identified as a Rhodes concern and a company whose board included Geoffrey Dawson during his interval away from Times editorship. The passage describes a directorship rather than quantified ownership or control by Dawson.",
+      "pages": [
+        64
+      ]
+    },
+    {
+      "id": "suez-canal-company",
+      "description": "Quigley explicitly identifies Hankey\u2019s government directorship in 1938\u20131939 and later directorship from 1945. The earlier passage names Ian Malcolm as a board representative, a person not interchangeable with Dougal or Neill Malcolm.",
+      "pages": [
+        58,
+        157
+      ]
+    },
+    {
+      "id": "south-african-union",
+      "description": "The source discusses the Union\u2019s establishment and parliamentary and ministerial roles of Smuts, Bailey and Hugh Wyndham. Its discussion of a book titled The Union of South Africa is not treated as evidence that every author was a government official.",
+      "pages": [
+        49,
+        57,
+        62,
+        78,
+        80,
+        84
+      ]
+    },
+    {
+      "id": "irish-free-state",
+      "description": "The source connects Dominion status to the December 1921 Articles of Agreement and March 1922 Irish Free State Act, then describes the Boundary Commission. Its political classification is distinct from the membership of any advocacy organization.",
+      "pages": [
+        182
+      ]
+    },
+    {
+      "id": "conservative-party",
+      "description": "Quigley discusses Conservative governments, Baldwin\u2019s leadership and members such as Ormsby-Gore. He distinguishes the party from the Cecil Bloc and Milner Group; overlap does not mean the organizations were identical.",
+      "pages": [
+        32,
+        164,
+        216,
+        226,
+        227
+      ]
+    },
+    {
+      "id": "liberal-party",
+      "description": "The source identifies Rosebery, Asquith, Edward Grey and Haldane as Liberal imperialist leaders, and discusses the 1886 Unionist split and later wartime coalitions. Individual leadership roles do not imply party-wide membership in Quigley\u2019s political network.",
+      "pages": [
+        22,
+        33,
+        97,
+        144
+      ]
+    },
+    {
+      "id": "permanent-court-international-justice",
+      "description": "The source identifies Cecil Hurst as a judge at the Hague court in 1929\u20131946. This specific appointment connects the court to an existing actor without relying on generic references to international courts.",
+      "pages": [
+        248
+      ]
+    },
+    {
+      "id": "united-nations",
+      "description": "The later United Nations appears through Makins\u2019s 1945 food-and-agriculture commission work. The similarly named wartime War Crimes Commission and UNESCO are distinct institutions and are not collapsed into a generic United Nations employer relationship.",
+      "pages": [
+        93,
+        248,
+        302
+      ]
+    },
+    {
+      "id": "pierre-laval",
+      "description": "French political leader identified in Quigley\u2019s account of the Hoare-Laval settlement and its secret Paris preparation with Hoare and Eden. These diplomatic contacts are distinct from secret-group membership.",
+      "pages": [
+        269,
+        270
+      ]
+    },
+    {
+      "id": "kurt-schuschnigg",
+      "description": "Austrian leader identified in the source\u2019s account of his February 1938 interview with Hitler. The passage reports Hitler\u2019s claim about British policy; it does not prove that Schuschnigg endorsed that policy.",
+      "pages": [
+        274
+      ]
+    },
+    {
+      "id": "edouard-daladier",
+      "description": "French premier who sought British support for Czechoslovakia in London in April 1938, according to Quigley. The source connects his visit to Chamberlain\u2019s refusal and subsequent diplomatic pressure.",
+      "pages": [
+        274
+      ]
+    },
+    {
+      "id": "carnegie-uk-trust",
+      "description": "The source identifies Hichens as an Executive Committee member in 1919\u20131940 and records a \u00a33,000 grant for books to RIIA in 1926. This UK trust is distinct from Carnegie Corporation of New York and from the Carnegie Endowment for International Peace.",
+      "pages": [
+        58,
+        191
+      ]
+    },
+    {
+      "id": "harvard-university",
+      "description": "Quigley identifies Jerome Greene as a former Harvard secretary in the account of the American Institute of Pacific Relations. The source does not make all Harvard members affiliates of the same political network. The Anglo account also identifies Isaiah Berlin\u2019s 1949 visiting lectureship on Russia.",
+      "pages": [
+        193,
+        301
+      ]
+    },
+    {
+      "id": "georges-clemenceau",
+      "description": "Quigley quotes Clemenceau answering British complaints over the peace settlement: France favored firm enforcement rather than immediate concessions. This negotiation context supplies an Anglo-specific account without asserting a membership or employment relation.",
+      "pages": [
+        230
+      ]
+    },
+    {
+      "id": "fabian-ware",
+      "description": "Quigley describes Ware as a Transvaal education official, Morning Post editor in 1905\u20131911 and then special commissioner to Rio Tinto\u2019s board. He later became permanent vice-chairman of the Imperial War Graves Commission. These reported offices are distinct from his tentative outer-circle political classification.",
+      "pages": [
+        65,
+        309
+      ]
+    },
+    {
+      "id": "douglas-jay",
+      "description": "The book uses both Douglas Jay and Douglas P. T. Jay for the All Souls fellow, later Attlee assistant and Labour MP. Page105 distinguishes his Times work in 1929\u20131933 from Economist work in 1933\u20131937, refining the compressed 1929\u20131937 wording elsewhere rather than adding a duplicate Times affiliation.",
+      "pages": [
+        105,
+        305
+      ]
+    },
+    {
+      "id": "beer",
+      "description": "Quigley identifies Beer as the Inquiry\u2019s chief colonial expert, an American colonial expert at the Peace Conference, named head of the League\u2019s Mandate Department in Quigley\u2019s account, and an originator of the London international-affairs institute and its American counterpart. These concrete roles supplement the Round Table membership discussion and remain separate from author-attributed political-network influence.",
+      "pages": [
+        171
+      ]
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "id": "jfk",
+      "pages": [
+        28,
+        106,
+        165,
+        328
+      ],
+      "reason": "Kennedy matches identify A. L. Kennedy, Aubrey L. Kennedy or W. P. M. Kennedy, not John F. Kennedy."
+    },
+    {
+      "id": "robert-kennedy",
+      "pages": [
+        28,
+        106,
+        165,
+        328
+      ],
+      "reason": "Kennedy matches identify A. L. Kennedy, Aubrey L. Kennedy or W. P. M. Kennedy, not Robert F. Kennedy."
+    },
+    {
+      "id": "peter-dale-scott",
+      "pages": [
+        34,
+        165,
+        337
+      ],
+      "reason": "Scott matches identify Walter Scott or Ernest Scott, not Peter Dale Scott."
+    },
+    {
+      "id": "harold-macmillan",
+      "pages": [
+        12
+      ],
+      "reason": "Macmillan on page12 is the publisher, not Harold Macmillan."
+    },
+    {
+      "id": "bandar-bin-sultan",
+      "pages": [
+        108
+      ],
+      "reason": "Sultan here is the ruler of Johore, not Bandar bin Sultan."
+    },
+    {
+      "id": "earl-warren",
+      "pages": [
+        101
+      ],
+      "reason": "Warren is Sir Herbert Warren, not Earl Warren."
+    },
+    {
+      "id": "william-o-douglas",
+      "pages": [
+        58,
+        105,
+        305,
+        328
+      ],
+      "reason": "Douglas is Douglas Malcolm or Douglas Jay, not William O. Douglas."
+    },
+    {
+      "id": "robert-bennett",
+      "pages": [
+        165,
+        186,
+        188,
+        208,
+        274,
+        282,
+        284,
+        285,
+        300,
+        301,
+        302,
+        303,
+        310,
+        315,
+        333,
+        341
+      ],
+      "reason": "Bennett matches refer to John Wheeler-Bennett or Thomas J. Bennett, not Robert Bennett."
+    },
+    {
+      "id": "co-miller",
+      "pages": [
+        251,
+        332
+      ],
+      "reason": "Miller is David Hunter Miller, not C. O. Miller."
+    },
+    {
+      "id": "lou-russell",
+      "pages": [
+        34,
+        130,
+        337
+      ],
+      "reason": "Russell is Lord John Russell, not Lou Russell."
+    },
+    {
+      "id": "john-l-lewis",
+      "pages": [
+        50,
+        51,
+        89,
+        90,
+        332
+      ],
+      "reason": "Lewis matches refer to Lewis Loyd Michell, not John L. Lewis."
+    },
+    {
+      "id": "hugh-pollard",
+      "pages": [
+        24,
+        190,
+        234,
+        335
+      ],
+      "reason": "Pollard is Professor A. F. Pollard, not intelligence operative Hugh Pollard."
+    },
+    {
+      "id": "loy-henderson",
+      "pages": [
+        148,
+        162,
+        186,
+        270,
+        274,
+        296,
+        326
+      ],
+      "reason": "Henderson matches refer to H. D. Henderson or Sir Nevile Henderson, not Loy Henderson."
+    },
+    {
+      "id": "william-l-borden",
+      "pages": [
+        165,
+        192,
+        315
+      ],
+      "reason": "Borden is Sir Robert L. Borden, not William Liscum Borden."
+    },
+    {
+      "id": "george-marshall",
+      "pages": [
+        342
+      ],
+      "reason": "The only lead is an index occurrence; no body identification or affiliation was established."
+    },
+    {
+      "id": "francisco-franco",
+      "pages": [
+        287
+      ],
+      "reason": "The Franco lead is the adjective Franco-British, not Francisco Franco."
+    },
+    {
+      "id": "king-farouk",
+      "pages": [],
+      "reason": "King is a title used for several British monarchs and in King-Hall; it does not identify Farouk."
+    },
+    {
+      "id": "david-ormsby-gore",
+      "pages": [
+        20,
+        100,
+        157,
+        162,
+        163,
+        164,
+        172,
+        176,
+        187,
+        200,
+        208,
+        218,
+        221,
+        225,
+        226,
+        228,
+        241,
+        255,
+        280,
+        309,
+        326,
+        334
+      ],
+      "reason": "These passages identify W. G. A. Ormsby-Gore, the fourth Baron Harlech, not his son David, fifth Baron."
+    },
+    {
+      "id": "charles-dawes",
+      "pages": [
+        63,
+        239,
+        240,
+        242,
+        243,
+        244,
+        246,
+        321
+      ],
+      "reason": "Dawes leads name the Dawes Plan or committee, not an individual office or personal relationship for Charles Dawes."
+    },
+    {
+      "id": "cia",
+      "pages": [
+        123
+      ],
+      "reason": "The CIA is only a comparison for Canadian Joint Services Intelligence on page123. Glazebrook is not described as a CIA employee."
+    },
+    {
+      "id": "soviet-government",
+      "pages": [
+        297
+      ],
+      "reason": "A quoted Allied policy statement concerning possible Soviet action is not a corporate, employment or membership relationship."
+    },
+    {
+      "id": "little-entente",
+      "pages": [
+        240,
+        262
+      ],
+      "reason": "References concern diplomatic guarantees and criticism of the alliance system, not a named personal appointment or organizational affiliation."
+    },
+    {
+      "id": "wilhelm-ii",
+      "pages": [
+        137,
+        153
+      ],
+      "reason": "The two identified mentions are historical comparisons about despotism and British strategic struggles; neither establishes an affiliation."
+    },
+    {
+      "id": "joseph-stalin",
+      "pages": [
+        292
+      ],
+      "reason": "Halifax is urged to meet Stalin; a proposed meeting does not establish that it occurred or that the men had an affiliation."
+    },
+    {
+      "id": "benjamin-disraeli",
+      "pages": [
+        65,
+        115,
+        315
+      ],
+      "reason": "Matches include the subject of a biography and an OCR-confused passage about Dudley Braham; neither creates a new personal affiliation."
+    },
+    {
+      "id": "henry-kitchener",
+      "pages": [
+        20
+      ],
+      "reason": "The identified mention concerns the interval between Kitchener\u2019s departure and McMahon\u2019s arrival in Egypt, not an explicit new affiliation among canonical organizations."
+    },
+    {
+      "id": "georges-clemenceau",
+      "pages": [
+        230,
+        319
+      ],
+      "reason": "The body reports a political response during treaty negotiations but provides no new institutional appointment or direct association needed for this pass."
+    },
+    {
+      "id": "benito-mussolini",
+      "pages": [
+        267,
+        270
+      ],
+      "reason": "Mentions concern strategic choices and proposed concessions to Italy, without a new explicit personal affiliation among the catalogued institutions."
+    },
+    {
+      "id": "joachim-von-ribbentrop",
+      "pages": [
+        270,
+        272,
+        274,
+        285,
+        295,
+        336
+      ],
+      "reason": "Passages identify diplomatic conduct and correspondence with officials absent from this identity set. No inferred connection is added solely because Halifax or Hitler appears nearby."
+    },
+    {
+      "id": "the-state",
+      "pages": [
+        14,
+        15,
+        59,
+        84,
+        133,
+        136,
+        195,
+        246
+      ],
+      "reason": "Most literal \u201cthe state\u201d hits are generic political language; only clearly named South African-journal passages support publication relationships."
+    },
+    {
+      "id": "agenda",
+      "pages": [
+        165,
+        166,
+        167,
+        312
+      ],
+      "reason": "Generic conference agendas are not the reconstruction journal Agenda."
+    },
+    {
+      "id": "inquiry",
+      "pages": [
+        128,
+        129
+      ],
+      "reason": "Generic \u201cthe inquiry\u201d is not the American peace-expert organization The Inquiry."
+    },
+    {
+      "id": "goschen",
+      "pages": [
+        22,
+        23,
+        27,
+        28,
+        30,
+        33,
+        34,
+        59,
+        60,
+        71,
+        73,
+        101,
+        130,
+        148,
+        180,
+        221,
+        227,
+        324,
+        326,
+        332
+      ],
+      "reason": "The 1931 Westminster Bank director is not Milner\u2019s benefactor, the first Viscount; the younger generation has a separate record."
+    },
+    {
+      "id": "edgar-vincent",
+      "pages": [
+        13,
+        100,
+        102,
+        121,
+        122,
+        127,
+        162,
+        163,
+        165,
+        166,
+        192,
+        244,
+        256,
+        303,
+        309,
+        310,
+        320,
+        326,
+        332,
+        340
+      ],
+      "reason": "Most Vincent-only leads identify Vincent Massey or Vincent Harlow; only the D\u2019Abernon biography identifies Edgar Vincent."
+    },
+    {
+      "id": "arnold-toynbee",
+      "pages": [
+        11,
+        13,
+        17,
+        32,
+        35,
+        41,
+        52,
+        59,
+        60,
+        81,
+        88,
+        94,
+        97,
+        99,
+        100,
+        101,
+        126,
+        127,
+        133,
+        134,
+        142,
+        165,
+        166,
+        185,
+        187,
+        188,
+        189,
+        190,
+        192,
+        195,
+        196,
+        197,
+        257,
+        270,
+        300,
+        305,
+        306,
+        309,
+        313,
+        329,
+        335,
+        339,
+        340
+      ],
+      "reason": "Unqualified Toynbee references must distinguish the deceased social thinker from historian Arnold J. Toynbee; lecture or publication subjects do not imply living appointment."
+    },
+    {
+      "id": "michael-glazebrook",
+      "pages": [
+        12,
+        18,
+        35,
+        52,
+        90,
+        101,
+        121,
+        122,
+        123,
+        128,
+        136,
+        140,
+        155,
+        165,
+        192,
+        261,
+        303,
+        310,
+        322,
+        323,
+        324
+      ],
+      "reason": "Canadian Glazebrook references identify Arthur or his son George, not Michael."
+    },
+    {
+      "id": "ramsay-macdonald",
+      "pages": [
+        158,
+        162,
+        163,
+        176,
+        178,
+        186,
+        227,
+        228,
+        299,
+        310,
+        331
+      ],
+      "reason": "Colonial Office and RIIA MacDonald references frequently identify Malcolm, not Ramsay."
+    },
+    {
+      "id": "montagu-norman",
+      "pages": [
+        71,
+        95,
+        166,
+        186,
+        233,
+        312,
+        314,
+        315,
+        333
+      ],
+      "reason": "Norman matches usually identify Kenneth Norman Bell, Norman Bentwich or Norman Angell; the banker is directly identified only in the monetary-policy comparison."
+    },
+    {
+      "id": "waldorf-astor",
+      "pages": [
+        9,
+        10,
+        11,
+        17,
+        49,
+        52,
+        57,
+        58,
+        60,
+        62,
+        63,
+        72,
+        92,
+        94,
+        101,
+        116,
+        146,
+        148,
+        178,
+        180,
+        186,
+        218,
+        226,
+        227,
+        255,
+        256,
+        257,
+        260,
+        281,
+        285,
+        289,
+        290,
+        292,
+        298,
+        299,
+        313
+      ],
+      "reason": "1892 Pall Mall Gazette ownership refers to the older Astor generation. The later Waldorf and brother John Jacob are separately identified; no extra ownership edge was inferred from the 1892 shorthand."
+    },
+    {
+      "id": "willard-straight",
+      "pages": [
+        217
+      ],
+      "reason": "The only body lead is the adverb \u201cstraight\u201d in a discussion of Indian policy, not Willard Straight."
+    },
+    {
+      "id": "michael-straight",
+      "pages": [
+        217
+      ],
+      "reason": "The only body lead is the adverb \u201cstraight\u201d in a discussion of Indian policy, not Michael Straight."
+    },
+    {
+      "id": "corliss-lamont",
+      "pages": [
+        185,
+        233,
+        329
+      ],
+      "reason": "Lamont matches identify Thomas W. Lamont, not his son Corliss."
+    },
+    {
+      "id": "frederick-vanderbilt-field",
+      "pages": [
+        5,
+        11,
+        13,
+        31,
+        59,
+        71,
+        73,
+        97,
+        103,
+        125,
+        127,
+        141,
+        144,
+        145,
+        167,
+        170,
+        174,
+        205,
+        226,
+        239,
+        259,
+        261,
+        274,
+        283,
+        285,
+        342
+      ],
+      "reason": "Field matches identify generic fields of activity, military ranks or Royal Field Artillery, not Frederick Vanderbilt Field."
+    },
+    {
+      "id": "baring-brothers",
+      "pages": [
+        314
+      ],
+      "reason": "The newly found page314 occurrence is an index entry; substantive bank ties are already cited to pages90,191,227."
+    },
+    {
+      "id": "hambros-bank",
+      "pages": [
+        325
+      ],
+      "reason": "The newly found page325 occurrence is an index entry; substantive bank ties are already cited to pages106,191,227."
+    },
+    {
+      "id": "westminster-bank",
+      "pages": [
+        341
+      ],
+      "reason": "The newly found page341 occurrence is an index entry; substantive bank ties are already cited to pages191,227."
+    },
+    {
+      "id": "goschen-second",
+      "pages": [
+        16,
+        18,
+        22,
+        23,
+        27,
+        28,
+        30,
+        33,
+        34,
+        59,
+        60,
+        71,
+        73,
+        101,
+        130,
+        180,
+        221,
+        324,
+        326,
+        332
+      ],
+      "reason": "Most additional Goschen leads identify the first Viscount in Milner\u2019s early career, Oxford chancellorship or nineteenth-century governments. Page30 explicitly says \u201cson of Milner\u2019s old friend\u201d; it confirms the younger identity but names a Board of Agriculture role for which this catalog has no separate institution. Other title-only references are not automatically mapped to either generation."
+    },
+    {
+      "id": "douglas-jay",
+      "pages": [
+        105
+      ],
+      "reason": "Initial-free form Douglas Jay resolves to the existing Douglas P. T. Jay. His newspaper affiliation already exists; page105 refines the dates rather than creating a second identity or duplicate pair."
+    },
+    {
+      "id": "pall-mall-gazette",
+      "pages": [
+        41
+      ],
+      "reason": "P.M.G. resolves to Pall Mall Gazette in Stead\u2019s quoted letter. The source reports proposed financing from Rhodes; an offer does not establish accepted payment or newspaper ownership."
+    },
+    {
+      "id": "unrra",
+      "pages": [
+        97
+      ],
+      "reason": "The UNRRA acronym resolves to the existing relief organization and repeats Salter\u2019s already catalogued Senior Deputy Director General role."
+    },
+    {
+      "id": "international-labour-office",
+      "pages": [
+        256
+      ],
+      "reason": "ILO resolves to International Labour Office; its staff member B. H. Sumner has no canonical person ID, and must not be confused with Kenneth Bell or other All Souls members. No new entity was introduced in this bounded final check."
+    },
+    {
+      "id": "riia",
+      "pages": [
+        3,
+        313,
+        319,
+        320,
+        321,
+        322,
+        324,
+        327,
+        330,
+        332,
+        337,
+        338,
+        341,
+        342
+      ],
+      "reason": "Contents and index occurrences are discovery/navigation evidence only. Body hits were reviewed for roles; institutional summaries, publication subjects and contextual statements do not automatically create additional relationships."
+    }
+  ],
+  "newOrganizations": [
+    {
+      "id": "league-nations-union",
+      "name": "League of Nations Union",
+      "description": "Public organization promoting support for the League of Nations. Quigley identifies Cecil, Murray, Edith Lyttelton and Wilson Harris among its active figures and distinguishes their named offices from his interpretation of Milner Group influence. Quigley discusses its Peace Ballot and disagreements over collective security with Lothian.",
+      "pages": [
+        256,
+        257,
+        271,
+        277,
+        292
+      ],
+      "founderIds": [],
+      "members": [
+        "robert-cecil",
+        "gilbert-murray",
+        "wilson-harris",
+        "edith-lyttelton"
+      ]
+    },
+    {
+      "id": "baring-brothers",
+      "name": "Baring Brothers",
+      "description": "Merchant-banking firm associated in the source with Edward Peacock, who specialized in overseas utilities and became its managing director. It is separately listed as an RIIA funding pledger.",
+      "pages": [
+        90,
+        191,
+        227
+      ],
+      "founderIds": [],
+      "members": [
+        "edward-peacock"
+      ]
+    },
+    {
+      "id": "barclays-bank",
+      "name": "Barclays Bank",
+      "description": "Bank named in the source\u2019s RIIA grant-pledger list. Quigley expressly identifies Lugard and John Jacob Astor as directors; directorships do not assert corporate ownership by the political group.",
+      "pages": [
+        106,
+        191,
+        227
+      ],
+      "founderIds": [],
+      "members": [
+        "lugard",
+        "john-jacob-astor"
+      ]
+    },
+    {
+      "id": "hambros-bank",
+      "name": "Hambros Bank",
+      "description": "Bank named in the source\u2019s RIIA grant-pledger list and among Colonel John Jacob Astor\u2019s directorships.",
+      "pages": [
+        106,
+        191,
+        227
+      ],
+      "founderIds": [],
+      "members": [
+        "john-jacob-astor"
+      ]
+    },
+    {
+      "id": "westminster-bank",
+      "name": "Westminster Bank",
+      "description": "Bank named in the source\u2019s RIIA grant-pledger list. Quigley identifies Lord Goschen as a director in the 1931 political-financial context; the younger Viscount is distinguished from Milner\u2019s deceased benefactor.",
+      "pages": [
+        148,
+        191,
+        227
+      ],
+      "founderIds": [],
+      "members": [
+        "goschen-second"
+      ]
+    },
+    {
+      "id": "standard-bank-south-africa",
+      "name": "Standard Bank of South Africa",
+      "description": "Bank identified among W. G. A. Ormsby-Gore\u2019s corporate directorships in the source. It is distinct from Midland Bank and does not imply the two banks were one institution.",
+      "pages": [
+        164
+      ],
+      "founderIds": [],
+      "members": [
+        "ormsby-gore"
+      ]
+    },
+    {
+      "id": "imperial-ottoman-bank",
+      "name": "Imperial Ottoman Bank",
+      "description": "Constantinople bank of which Quigley identifies Edgar Vincent, later Lord D\u2019Abernon, as governor in 1889\u20131897. His earlier Egyptian financial-adviser role and Ottoman debt-council office are distinct appointments.",
+      "pages": [
+        244
+      ],
+      "founderIds": [],
+      "members": [
+        "edgar-vincent"
+      ]
+    },
+    {
+      "id": "british-north-borneo-company",
+      "name": "British North Borneo Company",
+      "description": "Colonial company identified in the source with Neill Malcolm as president and Dougal Malcolm as vice-president. The brothers-in-law are distinct people; the company is not the British South Africa Company.",
+      "pages": [
+        58,
+        186
+      ],
+      "founderIds": [],
+      "members": [
+        "neill-malcolm",
+        "dougal-malcolm"
+      ]
+    },
+    {
+      "id": "rio-tinto",
+      "name": "Rio Tinto",
+      "description": "Mining company identified by Quigley among the Milner circle\u2019s nonferrous-metal interests, with Milner expressly named as a director. The cited statement does not establish dates or an ownership percentage. The source separately identifies Fabian Ware as special commissioner to its board after his Morning Post editorship.",
+      "pages": [
+        65,
+        304
+      ],
+      "founderIds": [],
+      "members": [
+        "milner"
+      ]
+    },
+    {
+      "id": "un-war-crimes-commission",
+      "name": "United Nations War Crimes Commission",
+      "description": "Commission chaired by Cecil Hurst in 1943\u20131944 according to the source. Its wartime name is not evidence that it was a department of the later United Nations organization founded in 1945.",
+      "pages": [
+        248
+      ],
+      "founderIds": [],
+      "members": [
+        "cecil-hurst"
+      ]
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "robert-kindersley",
+      "name": "Robert Molesworth Kindersley",
+      "role": "Banker and public official",
+      "description": "Quigley identifies Kindersley as chairman of Lazard Brothers and one of the two British members of the Dawes Committee. His position at Lazard places him in the financial context of Brand\u2019s partnership, but simple company overlap is not converted into a personal friendship.",
+      "pages": [
+        240
+      ]
+    },
+    {
+      "id": "goschen-second",
+      "name": "Lord Goschen, second Viscount",
+      "role": "Banker and public official",
+      "description": "The source explicitly distinguishes this Viscount as the son of Milner\u2019s old friend and identifies his Board of Agriculture role. The later Westminster Bank directorship refers to this generation, rather than the first Viscount who had died before the 1931 crisis.",
+      "pages": [
+        148,
+        227
+      ]
+    }
+  ],
+  "summary": "Source-wide literal and ambiguous-surname screening covered all 726 canonical identities, independent of their existing Anglo account citations. Manual review followed direct-role and alternate-name leads across uncited body passages, yielding institutional roles and cross-source people omitted by the earlier profile-based audit. Name hits are leads, not evidence: surname collisions, index entries, generic phrases, unrelated similarly named institutions and quoted proposals were rejected. Dates and political-network qualifications remain those of the source. A subsequent 38-identity delta screen extended coverage to 764 IDs and added Rio Tinto commissionership, Harvard visiting lectureship and qualified reparations-mediation roles without equating common surnames.",
+  "coverage": {
+    "pagesReviewed": [
+      5,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      37,
+      41,
+      44,
+      48,
+      49,
+      50,
+      51,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      79,
+      80,
+      82,
+      83,
+      84,
+      89,
+      90,
+      91,
+      92,
+      94,
+      95,
+      96,
+      97,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      120,
+      121,
+      122,
+      123,
+      127,
+      129,
+      130,
+      132,
+      134,
+      136,
+      137,
+      138,
+      141,
+      144,
+      145,
+      146,
+      147,
+      148,
+      153,
+      155,
+      156,
+      157,
+      158,
+      159,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      178,
+      180,
+      182,
+      183,
+      185,
+      186,
+      187,
+      188,
+      190,
+      191,
+      192,
+      193,
+      195,
+      198,
+      199,
+      200,
+      205,
+      207,
+      208,
+      210,
+      211,
+      213,
+      216,
+      217,
+      218,
+      221,
+      223,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      232,
+      233,
+      234,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      263,
+      264,
+      265,
+      267,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      277,
+      278,
+      280,
+      282,
+      283,
+      284,
+      285,
+      287,
+      291,
+      292,
+      295,
+      296,
+      297,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      309,
+      310
+    ],
+    "limits": "All-page automated candidate screening is distinct from manual body-text rereading. pagesReviewed lists substantive passages or contextual extracts actually inspected in this bounded pass. This is not a claim that every sentence of the 342-page PDF was reread or that every possible uncatalogued identity has been extracted. Bibliographic/index-only hits and common-name matches cannot establish affiliations; new claims require explicit source statements. A closure pass screened 38 newly introduced canonical IDs and inspected the 12 resulting lead sets; accepted new roles were checked against the full body page, with index and ambiguous-surname hits rejected. A final initial-free-name/acronym check reviewed five identity lead sets and 64 page leads; generated forms were not accepted as aliases without body context.",
+    "screenedIdentities": 764,
+    "candidateIdentities": 314,
+    "deltaScreenedIdentities": 38,
+    "deltaCandidateIdentities": 12,
+    "shortFormScreenedIdentities": 5,
+    "shortFormPageLeads": 64,
+    "approvedSourceForms": [
+      {
+        "entityId": "douglas-jay",
+        "form": "Douglas Jay",
+        "pages": [
+          105
+        ]
+      },
+      {
+        "entityId": "pall-mall-gazette",
+        "form": "P.M.G.",
+        "pages": [
+          41
+        ]
+      },
+      {
+        "entityId": "riia",
+        "form": "Royal Institute of International Affairs",
+        "pages": [
+          171
+        ]
+      },
+      {
+        "entityId": "unrra",
+        "form": "UNRRA",
+        "pages": [
+          97
+        ]
+      },
+      {
+        "entityId": "international-labour-office",
+        "form": "ILO",
+        "pages": [
+          256
+        ]
+      }
+    ]
+  },
+  "additionalAliases": [
+    {
+      "id": "douglas-jay",
+      "aliases": [
+        "Douglas Jay"
+      ]
+    },
+    {
+      "id": "pall-mall-gazette",
+      "aliases": [
+        "P.M.G."
+      ]
+    },
+    {
+      "id": "riia",
+      "aliases": [
+        "Royal Institute of International Affairs"
+      ]
+    },
+    {
+      "id": "unrra",
+      "aliases": [
+        "UNRRA"
+      ]
+    },
+    {
+      "id": "international-labour-office",
+      "aliases": [
+        "ILO"
+      ]
+    }
+  ]
+}
