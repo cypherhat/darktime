@@ -491,3 +491,13 @@ test("homepage defaults to Tragedy and Hope while explicit selections remain int
   await page.goto("/?collection=anglo");
   await expect(page.getByLabel("Select collection")).toHaveValue("anglo");
 });
+
+test("AT&T's source-described Morgan connection is visible and navigable", async ({page})=>{
+  await page.goto("/?collection=tragedy#att");
+  const dialog=page.getByRole("dialog",{name:"American Telephone and Telegraph"});
+  await expect(dialog).toContainText("Control attributed to Morgan interests");
+  await expect(dialog).toContainText("J. P. Morgan and Company");
+  await dialog.getByRole("button",{name:"Explore connections",exact:true}).click();
+  await expect(page.getByLabel("Connection focus")).toHaveValue("att");
+  await expect(page.locator(".workspace")).toContainText("Control attributed to Morgan interests");
+});

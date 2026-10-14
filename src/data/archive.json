@@ -31505,7 +31505,7 @@
       "name": "American Telephone and Telegraph",
       "kind": "organization",
       "role": "Institution / network",
-      "description": "Corporation used by Quigley to illustrate the concentration of economic assets and Morgan influence.",
+      "description": "Quigley describes AT&T as controlled by Morgan interests and uses its 1930 assets to illustrate the concentration of corporate wealth. This is his historical attribution, not a claim about current ownership.",
       "pages": [
         77
       ],
@@ -31520,7 +31520,7 @@
       "accounts": [
         {
           "sourceId": "tragedy",
-          "description": "Corporation used by Quigley to illustrate the concentration of economic assets and Morgan influence.",
+          "description": "Quigley describes AT&T as controlled by Morgan interests and uses its 1930 assets to illustrate the concentration of corporate wealth. This is his historical attribution, not a claim about current ownership.",
           "role": "Institution / network"
         }
       ],
@@ -31528,6 +31528,10 @@
         {
           "date": "2026-10-14",
           "note": "Initial PDF-page-cited account from Tragedy and Hope."
+        },
+        {
+          "date": "2026-10-14",
+          "note": "Added the explicit Morgan-control connection described on PDF page 77."
         }
       ],
       "aliases": [],
@@ -85020,6 +85024,25 @@
         }
       ],
       "evidence": "Association attributed to cited PDF"
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "att",
+      "label": "Control attributed to Morgan interests",
+      "pages": [
+        77
+      ],
+      "description": "Quigley describes AT&T as controlled by Morgan in his comparison of corporate assets in 1930. Morgan here identifies the financial interests and institutional network, not a claim that the elder J. P. Morgan was alive in 1930.",
+      "evidence": "Control relationship asserted by Quigley; not independently verified",
+      "id": "tragedy-rel-jp-morgan-att-control-attributed-to-morgan-interests",
+      "citations": [
+        {
+          "sourceId": "tragedy",
+          "pages": [
+            77
+          ]
+        }
+      ]
     }
   ],
   "eventLinks": [

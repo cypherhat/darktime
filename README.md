@@ -8,13 +8,13 @@ Live: https://cypherhat.github.io/darktime/
 
 Tragedy and Hope is the default collection. Explicit source selections and record deep links retain their selected collection.
 
-The archive contains **477 people, 247 organizations, 450 events, 920 relationships and 29 timeline threads**, plus 72 explicitly cited links between events. Shared identities are counted once; collection counts overlap.
+The archive contains **477 people, 247 organizations, 450 events, 921 relationships and 29 timeline threads**, plus 72 explicitly cited links between events. Shared identities are counted once; collection counts overlap.
 
 - **Carroll Quigley, The Anglo-American Establishment**: 170 people, 70 organizations, 90 events. Selected passages from all thirteen chapters and the tentative appendix roster. Quigley’s reported institutional roles are distinguished from inferred network membership and bracketed conjectures.
 - **Peter Dale Scott, The State, the Deep State, and the Wall Street Overworld**: 72 people, 40 organizations, 37 events. Article and notes reviewed; important denials, memoir qualifications and publication-date discrepancies are preserved.
 - **Carl Oglesby, The Yankee and Cowboy War**: 111 people, 49 organizations, 76 events. Selected records across the narrative, revised preface and appendix. His faction model, alternative accounts, official findings and denials retain their attribution. OCR uncertainty is noted.
 
-- **Carroll Quigley, Tragedy and Hope**: 196 people, 130 organizations, 247 events, 245 affiliations and 70 event connections across eight threads. A selective institutional and political digest of the supplied 1,090-page annotated PDF, emphasizing finance, empire, world wars and connections through the 1950s, with selected 1960s developments. Later introductory material and identified bracketed editorial additions are excluded from Quigley-attributed accounts. Dates, inconsistencies and coverage limits remain visible.
+- **Carroll Quigley, Tragedy and Hope**: 196 people, 130 organizations, 247 events, 246 affiliations and 70 event connections across eight threads. A selective institutional and political digest of the supplied 1,090-page annotated PDF, emphasizing finance, empire, world wars and connections through the 1950s, with selected 1960s developments. Later introductory material and identified bracketed editorial additions are excluded from Quigley-attributed accounts. Dates, inconsistencies and coverage limits remain visible.
 
 These are substantive attributed digests, not exhaustive indexes of every passing reference. The books’ interpretation of an event is not independent corroboration. Citations use **1-based PDF file pages**; printed-page references are included where discernible. The original PDFs in the single canonical `docs/` directory remain local research files and are not redistributed by the website. All event narratives are embedded static assets, with no outbound source links required.
 

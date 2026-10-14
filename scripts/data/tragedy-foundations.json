@@ -866,7 +866,7 @@
     {
       "id": "att",
       "name": "American Telephone and Telegraph",
-      "description": "Corporation used by Quigley to illustrate the concentration of economic assets and Morgan influence.",
+      "description": "Quigley describes AT&T as controlled by Morgan interests and uses its 1930 assets to illustrate the concentration of corporate wealth. This is his historical attribution, not a claim about current ownership.",
       "pages": [
         77
       ],
@@ -3511,6 +3511,16 @@
         180
       ],
       "evidence": "Institutional role or association described by Quigley; source interpretation remains attributed"
+    },
+    {
+      "fromId": "jp-morgan",
+      "toId": "att",
+      "label": "Control attributed to Morgan interests",
+      "pages": [
+        77
+      ],
+      "description": "Quigley describes AT&T as controlled by Morgan in his comparison of corporate assets in 1930. Morgan here identifies the financial interests and institutional network, not a claim that the elder J. P. Morgan was alive in 1930.",
+      "evidence": "Control relationship asserted by Quigley; not independently verified"
     }
   ],
   "eventLinks": [
